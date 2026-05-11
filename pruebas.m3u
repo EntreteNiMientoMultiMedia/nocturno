@@ -228,15 +228,8 @@ https://vmvpd.short.gy/StrongmanChampionsLeague
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🥊 DeportivaMente 🏆",E Sports Go 🎮 (720x576)
 https://vmvpd.short.gy/WT/ESportsGo
 
-#EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="🥊 DeportivaMente 🏆",Onegai Deportes 🇯🇵 (1280x720)
-https://vmvpd.short.gy/Onegai4Deportes
-
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🥊 DeportivaMente 🏆",Eventos 📡 (1280x720)
 https://vmvpd.short.gy/EC/Eventos
-
-#EXTINF:    Iskhodnyy=""                tvg-logo="" group-title="🥊 DeportivaMente 🏆",ESPN 🏟️
-#EXTINF:    Iskhodnyy=""                tvg-logo="" group-title="🥊 DeportivaMente 🏆",Fox Sports 🏆
-#EXTINF:    Iskhodnyy=""                tvg-logo="" group-title="🥊 DeportivaMente 🏆",DSports 🛰️
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -461,7 +454,7 @@ https://vmvpd.short.gy/T3B2/Bonita
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryKids" group-title="🍼 Infantil 🧸 0 a 6 años",Discovery Kids (1280x720)
+#EXTINF:    Iskhodnyy="⏲️💵EC💸🚩"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryKids" group-title="🍼 Infantil 🧸 0 a 6 años",Discovery Kids (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryKids
 
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/DisneyJr" group-title="🍼 Infantil 🧸 0 a 6 años",Disney Jr (1024x576)
@@ -535,19 +528,10 @@ https://vmvpd.short.gy/EnerGeekRetro
 #EXTINF:    Iskhodnyy="✔️EG✅"              tvg-logo="https://tvg-logo.short.gy/EnerGeekRetro" group-title="🎌 Anime 👀",EnerGeek Retro (1920x1080)
 https://vmvpd.short.gy/EnerGeek
 
-#EXTINF:    Iskhodnyy="LG"                  tvg-logo="https://tvg-logo.short.gy/Onegai1" group-title="🎌 Anime 👀",Onegai 1 (1280x720) Revision
-
-#EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai2" group-title="🎌 Anime 👀",Onegai 2 (1280x720)
-https://vmvpd.short.gy/Onegai2
-#EXTINF:    Iskhodnyy="LG"                  tvg-logo="https://tvg-logo.short.gy/Onegai3" group-title="🎌 Anime 👀",Onegai 3 (1280x720)
-https://vmvpd.short.gy/Onegai3
-#EXTINF:    Iskhodnyy="LG"                    tvg-logo="https://tvg-logo.short.gy/Onegai5" group-title="🎌 Anime 👀",Onegai 5 (1280x720)
-https://vmvpd.short.gy/Onegai5
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="🎌 Anime 👀",Anima Kids (1920x1080)
 https://vmvpd.short.gy/T3B2/AnimaKids
 
-#EXTINF:    Iskhodnyy="✔️FK✅"                  tvg-logo="https://tvg-logo.short.gy/Japanim" group-title="🎌 Anime 👀",Japanim (1280x720)
+#EXTINF:    Iskhodnyy="✔️FK✅"                  tvg-logo="https://tvg-logo.short.gy/Japanim" group-title="🎌 Anime 👀",Japanim (1920x1080)
 https://vmvpd.short.gy/Japanim
 
 #EXTINF:    Iskhodnyy="RT"                  tvg-logo="https://tvg-logo.short.gy/Wasabi" group-title="🎌 Anime 👀",Wasabi la chaîne (1920x1080)
@@ -606,6 +590,8 @@ https://vmvpd.short.gy/T3B2/TvEmpresa
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Qosmo" group-title="📈 Negocios y Emprendimiento 🚀",Empresa (1280x720)
 https://vmvpd.short.gy/EC/Qosmo
 
+#EXTINF:    Iskhodnyy="✔️Agro✅"                  tvg-logo="https://tvg-logo.short.gy/Agro" group-title="📈 Negocios y Emprendimiento 🚀",Agro ()
+https://vmvpd.short.gy/Agro
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Agro" group-title="📈 Negocios y Emprendimiento 🚀",Agro (1280x720)
 https://vmvpd.short.gy/T3B2/Agro
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Agro" group-title="📈 Negocios y Emprendimiento 🚀",Agro (1024X576)
