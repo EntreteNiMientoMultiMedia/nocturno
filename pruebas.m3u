@@ -187,6 +187,8 @@ https://vmvpd.short.gy/T3B2/L1Max
 #EXTINF:    Iskhodnyy="🔱WT📺"              tvg-logo="https://tvg-logo.short.gy/WT/L1" group-title="🥊 DeportivaMente 🏆",L1 ⚽ (1280x720)
 https://vmvpd.short.gy/WT/L1
 
+#EXTINF:    Iskhodnyy="✔️Ovacion✅"                  tvg-logo="https://tvg-logo.short.gy/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion ()
+https://vmvpd.short.gy/Ovacion
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion 🎙️ (1920x1080)
 https://vmvpd.short.gy/T3B2/Ovacion
 #EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion 🎙️ (1280x720)
@@ -214,7 +216,7 @@ https://vmvpd.short.gy/MonteRricoTv
 #EXTINF:    Iskhodnyy="✔️Turf✅"              tvg-logo="https://tvg-logo.short.gy/Turf" group-title="🥊 DeportivaMente 🏆",Turf 🏇 (1280x720)
 https://vmvpd.short.gy/Turf
 
-#EXTINF:    Iskhodnyy="MonteRicoTv"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1080x720)
+#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1080x720)
 https://vmvpd.short.gy/MonteRrricoTv
 https://vmvpd.short.gy/MonteRicoTv
 
@@ -227,6 +229,9 @@ https://vmvpd.short.gy/StrongmanChampionsLeague
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🥊 DeportivaMente 🏆",E Sports Go 🎮 (720x576)
 https://vmvpd.short.gy/WT/ESportsGo
+
+#EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="🥊 DeportivaMente 🏆",Onegai Deportes 🇯🇵 (1280x720)
+https://vmvpd.short.gy/Onegai4Deportes
 
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🥊 DeportivaMente 🏆",Eventos 📡 (1280x720)
 https://vmvpd.short.gy/EC/Eventos
@@ -423,7 +428,7 @@ https://vmvpd.short.gy/EC/FoodNetWork
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️KD✅"                  tvg-logo="https://tvg-logo.short.gy/KanalD" group-title="🥀 Drama y Novelas 🍷",Kanal D 🇹🇷 ()
+#EXTINF:    Iskhodnyy="✔️KD✅"                  tvg-logo="https://tvg-logo.short.gy/KanalD" group-title="🥀 Drama y Novelas 🍷",Kanal D 🇹🇷 (1920x1080)
 https://vmvpd.short.gy/KanalD
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/KanalD" group-title="🥀 Drama y Novelas 🍷",Kanal D 🇹🇷 (1280x720)
 https://vmvpd.short.gy/EC/KanalD
@@ -529,6 +534,15 @@ https://vmvpd.short.gy/AnimeVisionClasicos
 https://vmvpd.short.gy/EnerGeekRetro
 #EXTINF:    Iskhodnyy="✔️EG✅"              tvg-logo="https://tvg-logo.short.gy/EnerGeekRetro" group-title="🎌 Anime 👀",EnerGeek Retro (1920x1080)
 https://vmvpd.short.gy/EnerGeek
+
+#EXTINF:    Iskhodnyy="LG"                  tvg-logo="https://tvg-logo.short.gy/Onegai1" group-title="🎌 Anime 👀",Onegai 1 (1280x720)
+https://vmvpd.short.gy/Onegai1
+#EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai2" group-title="🎌 Anime 👀",Onegai 2 (1280x720)
+https://vmvpd.short.gy/Onegai2
+#EXTINF:    Iskhodnyy="LG"                  tvg-logo="https://tvg-logo.short.gy/Onegai3" group-title="🎌 Anime 👀",Onegai 3 (1280x720)
+https://vmvpd.short.gy/Onegai3
+#EXTINF:    Iskhodnyy="LG"                    tvg-logo="https://tvg-logo.short.gy/Onegai5" group-title="🎌 Anime 👀",Onegai 5 (1280x720)
+https://vmvpd.short.gy/Onegai5
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="🎌 Anime 👀",Anima Kids (1920x1080)
 https://vmvpd.short.gy/T3B2/AnimaKids
