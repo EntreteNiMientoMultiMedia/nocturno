@@ -202,9 +202,6 @@ https://vmvpd.short.gy/EC/Ovacion
 #EXTINF:    Iskhodnyy="❓TCSF❔"                tvg-logo="https://tvg-logo.short.gy/TyCSportsFan" group-title="🥊 DeportivaMente 🏆",TyC Sports Fan ⚽ (1920x1080)
 https://vmvpd.short.gy/TyCSportsFan
 
-#EXTINF:    Iskhodnyy="✔️CN✅"                  tvg-logo="https://tvg-logo.short.gy/CDNDeportes" group-title="🥊 DeportivaMente 🏆",CDN Deportes ⚾ ()
-https://vmvpd.short.gy/CDNDeportes
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1920x1080)
 https://vmvpd.short.gy/T3B2/FierroAFondo
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1280x720)
@@ -485,6 +482,9 @@ https://vmvpd.short.gy/EC/DisneyJr
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Cartoonito" group-title="🍼 Infantil 🧸 0 a 6 años",Cartoonito (1280x720)
 https://vmvpd.short.gy/EC/Cartoonito
 
+#EXTINF:    Iskhodnyy="✔️MK✅"                  tvg-logo="https://tvg-logo.short.gy/MoonBugKids" group-title="🍼 Infantil 🧸 0 a 6 años",Niños de la Luna ()
+https://vmvpd.short.gy/MoonBugKids
+
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PlimPlim" group-title="🍼 Infantil 🧸 0 a 6 años",Plim Plim (1280x720)
 https://vmvpd.short.gy/EC/PlimPlim
 
@@ -505,16 +505,19 @@ https://vmvpd.short.gy/EC/CartoonNetWork
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DisneyChannel" group-title="🎮 Juvenil ⚡ 7 a 14 años",Canal Disney (1280x720)
 https://vmvpd.short.gy/EC/DisneyChannel
 
-#EXTINF:    Iskhodnyy="EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ToonCast" group-title="🎮 Juvenil ⚡ 7 a 14 años",Toon Cast (1280x720)
-https://vmvpd.short.gy/EC/ToonCast
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/DreamWorks" group-title="🎮 Juvenil ⚡ 7 a 14 años",Dream Works (1280x720)
 https://vmvpd.short.gy/WT/DreamWorks
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DreamWorks" group-title="🎮 Juvenil ⚡ 7 a 14 años",Dream Works (1280x720)
 https://vmvpd.short.gy/EC/DreamWorks
 
+#EXTINF:    Iskhodnyy="EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ToonCast" group-title="🎮 Juvenil ⚡ 7 a 14 años",Toon Cast (1280x720)
+https://vmvpd.short.gy/EC/ToonCast
+
 #EXTINF:    Iskhodnyy="🌕Barbie🐶"                  tvg-logo="https://tvg-logo.short.gy/PT/Barbie" group-title="🎮 Juvenil ⚡ 7 a 14 años",Barbie y sus amigas
 https://vmvpd.short.gy/PT/Barbie
+
+#EXTINF:    Iskhodnyy="✔️TG✅"                  tvg-logo="https://tvg-logo.short.gy/ToonGoggles" group-title="🎮 Juvenil ⚡ 7 a 14 años",Gafas de dibujos animados ()
+https://vmvpd.short.gy/ToonGoggles
 
 #EXTINF:    Iskhodnyy="✔️D✅"                  tvg-logo="https://tvg-logo.short.gy/Dreiko" group-title="🎮 Juvenil ⚡ 7 a 14 años",Dreiko (1280x720)
 https://vmvpd.short.gy/Dreiko
@@ -539,6 +542,9 @@ https://vmvpd.short.gy/EC/AdultSwim
 https://vmvpd.short.gy/WT/BitMe
 #EXTINF:    Iskhodnyy="💵CF💸"                tvg-logo="https://tvg-logo.short.gy/EC/BitMe" group-title="🎌 Anime 👀",BitMe (1024x576)
 https://vmvpd.short.gy/EC/BitMe
+
+#EXTINF:    Iskhodnyy="✔️Loading✅"              tvg-logo="https://tvg-logo.short.gy/Loading" group-title="🎌 Anime 👀",Cargando ()
+https://vmvpd.short.gy/Loading
 
 #EXTINF:    Iskhodnyy="CF"              tvg-logo="https://tvg-logo.short.gy/AnimeVision" group-title="🎌 Anime 👀",Anime Vision (1920x1080)
 https://vmvpd.short.gy/AnimeVision
