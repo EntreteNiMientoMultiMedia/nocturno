@@ -155,7 +155,7 @@ https://vmvpd.short.gy/PT/Actualidad360
 #EXTINF:    Iskhodnyy="✔️CGTN✅"                  tvg-logo="https://tvg-logo.short.gy/CGTN" group-title="📰🌐 Noticias del Mundo 🚨",Red de Televisión Global de China (1920x1080) CGTN
 https://vmvpd.short.gy/CGTN
 
-#EXTINF:    Iskhodnyy="✔️ADN40✅"                  tvg-logo="https://tvg-logo.short.gy/ADN40" group-title="📰🌐 Noticias del Mundo 🚨",ADN 40 ()
+#EXTINF:    Iskhodnyy="❓ADN40❔"                  tvg-logo="https://tvg-logo.short.gy/ADN40" group-title="📰🌐 Noticias del Mundo 🚨",ADN 40 (1280x720)
 https://vmvpd.short.gy/ADN40
 
 #EXTINF:    Iskhodnyy="✔️TS✅"                  tvg-logo="https://tvg-logo.short.gy/TeleSur" group-title="📰🌐 Noticias del Mundo 🚨",Tele Sur (1920x1080)
@@ -601,13 +601,16 @@ https://vmvpd.short.gy/EC/DiscoveryWorld
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/GamarraChannel" group-title="📈 Negocios y Emprendimiento 🚀",Gamarra (1280x720)
-https://vmvpd.short.gy/WT/GamarraChannel
+#EXTINF:    Iskhodnyy="✔️Negocios✅"                  tvg-logo="https://tvg-logo.short.gy/Negocios" group-title="📈 Negocios y Emprendimiento 🚀",Negocios ()
+https://vmvpd.short.gy/Negocios
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvEmpresa" group-title="📈 Negocios y Emprendimiento 🚀",Empresa (1920x1080)
 https://vmvpd.short.gy/T3B2/TvEmpresa
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Qosmo" group-title="📈 Negocios y Emprendimiento 🚀",Empresa (1280x720)
 https://vmvpd.short.gy/EC/Qosmo
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/GamarraChannel" group-title="📈 Negocios y Emprendimiento 🚀",Gamarra (1280x720)
+https://vmvpd.short.gy/WT/GamarraChannel
 
 #EXTINF:    Iskhodnyy="✔️Agro✅"                  tvg-logo="https://tvg-logo.short.gy/Agro" group-title="📈 Negocios y Emprendimiento 🚀",Agro (1280x720)
 https://vmvpd.short.gy/Agro
