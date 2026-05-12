@@ -202,6 +202,9 @@ https://vmvpd.short.gy/EC/Ovacion
 #EXTINF:    Iskhodnyy="❓TCSF❔"                tvg-logo="https://tvg-logo.short.gy/TyCSportsFan" group-title="🥊 DeportivaMente 🏆",TyC Sports Fan ⚽ (1920x1080)
 https://vmvpd.short.gy/TyCSportsFan
 
+#EXTINF:    Iskhodnyy="✔️CN✅"                  tvg-logo="https://tvg-logo.short.gy/CDNDeportes" group-title="🥊 DeportivaMente 🏆",CDN Deportes ⚾ ()
+https://vmvpd.short.gy/CDNDeportes
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1920x1080)
 https://vmvpd.short.gy/T3B2/FierroAFondo
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1280x720)
@@ -226,12 +229,21 @@ https://vmvpd.short.gy/MonteRicoTv
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🥊 DeportivaMente 🏆",Titán 🥊 (1280x720)
 https://vmvpd.short.gy/WT/Titan
 
+#EXTINF:    Iskhodnyy="✔️CC✅"                tvg-logo="https://tvg-logo.short.gy/CanelaCombate" group-title="🥊 DeportivaMente 🏆",Canela Combate 🥊 ()
+https://vmvpd.short.gy/CanelaCombate
+
+#EXTINF:    Iskhodnyy="✔️CombaTv✅"                tvg-logo="https://tvg-logo.short.gy/CombaTv" group-title="🥊 DeportivaMente 🏆",CombaTv 🥊 ()
+https://vmvpd.short.gy/CombaTv
+
 #EXTINF:    Iskhodnyy="✔️SCL✅"              tvg-logo="https://tvg-logo.short.gy/StrongmanChampionsLeague" group-title="🥊 DeportivaMente 🏆",Liga de Campeones de Hombres Fuertes 💪🏼 (1280x720)
 https://vmvpd.short.gy/LigaCampeonesHombresFuertes
 https://vmvpd.short.gy/StrongmanChampionsLeague
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🥊 DeportivaMente 🏆",E Sports Go 🎮 (720x576)
 https://vmvpd.short.gy/WT/ESportsGo
+
+#EXTINF:    Iskhodnyy="✔️BG✅"              tvg-logo="https://tvg-logo.short.gy/BoxGamers" group-title="🥊 DeportivaMente 🏆",Box Gamers 🕹️ ()
+https://vmvpd.short.gy/BoxGamers
 
 #EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="🥊 DeportivaMente 🏆",Onegai Deportes 🇯🇵 (1280x720)
 https://vmvpd.short.gy/Onegai4Deportes
@@ -604,7 +616,7 @@ https://vmvpd.short.gy/EC/DiscoveryWorld
 #EXTINF:    Iskhodnyy="✔️Negocios✅"                  tvg-logo="https://tvg-logo.short.gy/Negocios" group-title="📈 Negocios y Emprendimiento 🚀",Negocios (1280x720) 🇪🇸
 https://vmvpd.short.gy/Negocios
 
-#EXTINF:    Iskhodnyy="✔️CE✅"                  tvg-logo="https://tvg-logo.short.gy/CanalE" group-title="📈 Negocios y Emprendimiento 🚀",Canal E () 🇦🇷
+#EXTINF:    Iskhodnyy="✔️CE✅"                  tvg-logo="https://tvg-logo.short.gy/CanalE" group-title="📈 Negocios y Emprendimiento 🚀",Canal E (1920x1080) 🇦🇷
 https://vmvpd.short.gy/CanalE
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvEmpresa" group-title="📈 Negocios y Emprendimiento 🚀",Empresa (1920x1080)
