@@ -601,8 +601,11 @@ https://vmvpd.short.gy/EC/DiscoveryWorld
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️Negocios✅"                  tvg-logo="https://tvg-logo.short.gy/Negocios" group-title="📈 Negocios y Emprendimiento 🚀",Negocios ()
+#EXTINF:    Iskhodnyy="✔️Negocios✅"                  tvg-logo="https://tvg-logo.short.gy/Negocios" group-title="📈 Negocios y Emprendimiento 🚀",Negocios (1280x720) 🇪🇸
 https://vmvpd.short.gy/Negocios
+
+#EXTINF:    Iskhodnyy="✔️CE✅"                  tvg-logo="https://tvg-logo.short.gy/CanalE" group-title="📈 Negocios y Emprendimiento 🚀",Canal E () 🇦🇷
+https://vmvpd.short.gy/CanalE
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvEmpresa" group-title="📈 Negocios y Emprendimiento 🚀",Empresa (1920x1080)
 https://vmvpd.short.gy/T3B2/TvEmpresa
