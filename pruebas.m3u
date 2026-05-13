@@ -572,8 +572,6 @@ https://vmvpd.short.gy/Wasabi
 
 #EXTINF:    Iskhodnyy="✔️RMT✅"                  tvg-logo="https://tvg-logo.short.gy/RetroMusicTelevision" group-title="🎧 Melody 🌍🔊",Retro 🇨🇿 (1280x720)
 https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w142063841_b3256000.m3u8
-#EXTINF:    Iskhodnyy="✔️RMT✅"                  tvg-logo="https://tvg-logo.short.gy/RetroMusicTelevision" group-title="🎧 Melody 🌍🔊",Retro 🇨🇿 (854x480)
-https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w368112284_b1628000.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Rock✅"                  tvg-logo="https://tvg-logo.short.gy/RockFM" group-title="🎧 Melody 🌍🔊",Rock FM 🇷🇴 (1280x720)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
@@ -587,8 +585,6 @@ https://vmvpd.short.gy/TokyoIdolChannel
 
 #EXTINF:    Iskhodnyy="✔️Poder✅"                  tvg-logo="https://tvg-logo.short.gy/Poder" group-title="🎧 Melody 🌍🔊",Poder 🇹🇷 (1280x720)
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2496000_sltur.m3u8
-#EXTINF:    Iskhodnyy="✔️Poder✅"                  tvg-logo="https://tvg-logo.short.gy/Poder" group-title="🎧 Melody 🌍🔊",Poder 🇹🇷 (854x480)
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2096000_sltur.m3u8
 
 #EXTINF:    Iskhodnyy="✔️TRTM✅"                  tvg-logo="https://tvg-logo.short.gy/TRTMuzik" group-title="🎧 Melody 🌍🔊",TRT Muzik 🇹🇷 (1920x1080)
 https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
@@ -633,11 +629,6 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:    Iskhodnyy="✔️Muzangala✅"                  tvg-logo="https://tvg-logo.short.gy/Muzangala" group-title="🎧 Melody 🌍🔊",Muzangala 🇦🇴 (1920x1080)
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1324557890.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w461187701.m3u8
-
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🎧 Melody 🌍🔊", ()
-
-#EXTINF:    Iskhodnyy="✔️RuTv✅"                  tvg-logo="https://tvg-logo.short.gy/RuTv" group-title="🎧 Melody 🌍🔊",RuTv 🇷🇺 ()
-https://vsd249.okcdn.ru/hls/229927553538.m3u8/sig/lfBvxnXpOgE/expires/1778717264245/srcIp/38.25.32.91/urls/185.226.52.91/clientType/0/srcAg/CHROME/mid/230273326594/229927553538_high/index.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
