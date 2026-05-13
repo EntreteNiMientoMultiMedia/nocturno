@@ -607,7 +607,7 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 
 #EXTINF:    Iskhodnyy="✔️4F✅"                  tvg-logo="https://tvg-logo.short.gy/4Fun" group-title="🎧 Melody 🌍🔊",Para Divertirse 🇦🇹 (512x288)
-https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️OCKO✅"                  tvg-logo="https://tvg-logo.short.gy/OCKO" group-title="🎧 Melody 🌍🔊",OCKO 🇨🇿 (720x400)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
