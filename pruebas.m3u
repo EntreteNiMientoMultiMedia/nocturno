@@ -681,11 +681,24 @@ https://vmvpd.short.gy/EC/DiscoveryWorld
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️Negocios✅"                  tvg-logo="https://tvg-logo.short.gy/Negocios" group-title="📈 Negocios y Emprendimiento 🚀",Negocios (1280x720) 🇪🇸
+#EXTINF:    Iskhodnyy="✔️Negocios✅"                  tvg-logo="https://tvg-logo.short.gy/Negocios" group-title="📈 Negocios y Emprendimiento 🚀",Negocios 🇪🇸 (1280x720)
 https://vmvpd.short.gy/Negocios
 
-#EXTINF:    Iskhodnyy="✔️CE✅"                  tvg-logo="https://tvg-logo.short.gy/CanalE" group-title="📈 Negocios y Emprendimiento 🚀",Canal E (1920x1080) 🇦🇷
+#EXTINF:    Iskhodnyy="✔️CE✅"                  tvg-logo="https://tvg-logo.short.gy/CanalE" group-title="📈 Negocios y Emprendimiento 🚀",Canal E 🇦🇷 (1920x1080)
 https://vmvpd.short.gy/CanalE
+
+#EXTINF:    Iskhodnyy="✔️Tevex✅"                  tvg-logo="https://tvg-logo.short.gy/Tevex" group-title="📈 Negocios y Emprendimiento 🚀",Tevex 🇨🇱 ()
+https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.ts.m3u8
+https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:    Iskhodnyy="✔️CP✅"                  tvg-logo="https://tvg-logo.short.gy/CanalPro" group-title="📈 Negocios y Emprendimiento 🚀",Canal Pro 🇵🇾 ()
+https://vmvpd.short.gy/CanalPro
+
+#EXTINF:    Iskhodnyy="✔️Cosmos✅"                  tvg-logo="https://tvg-logo.short.gy/CosmosTv" group-title="📈 Negocios y Emprendimiento 🚀",Cosmos 🇵🇾 ()
+https://vmvpd.short.gy/CosmosTv
+
+#EXTINF:    Iskhodnyy="✔️UMsSAI✅"                  tvg-logo="https://tvg-logo.short.gy/UMSATvU" group-title="📈 Negocios y Emprendimiento 🚀",Universidad Mayor de San Andres Internacional 🇧🇴 ()
+https://vmvpd.short.gy/UMSATvU
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvEmpresa" group-title="📈 Negocios y Emprendimiento 🚀",Empresa (1920x1080)
 https://vmvpd.short.gy/T3B2/TvEmpresa
