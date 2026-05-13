@@ -706,9 +706,7 @@ https://vmvpd.short.gy/Negocios
 https://vmvpd.short.gy/CanalE
 
 #EXTINF:    Iskhodnyy="✔️Tevex✅"                  tvg-logo="https://tvg-logo.short.gy/Tevex" group-title="📈 Negocios y Emprendimiento 🚀",Tevex 🇨🇱 (1920x1080)
-https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.ts.m3u8
-#EXTINF:    Iskhodnyy="✔️Tevex✅"                  tvg-logo="https://tvg-logo.short.gy/Tevex" group-title="📈 Negocios y Emprendimiento 🚀",Tevex 🇨🇱 (1280x720)
-https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.ts.m3u8
+https://vmvpd.short.gy/Tevex
 
 #EXTINF:    Iskhodnyy="✔️CP✅"                  tvg-logo="https://tvg-logo.short.gy/CanalPro" group-title="📈 Negocios y Emprendimiento 🚀",Canal Pro 🇵🇾 (1280x720)
 https://vmvpd.short.gy/CanalPro
