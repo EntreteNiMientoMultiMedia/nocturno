@@ -630,18 +630,33 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1324557890.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w461187701.m3u8
 
-#EXTINF:    Iskhodnyy="❓CCTv15❔"                  tvg-logo="https://tvg-logo.short.gy/CCTv15" group-title="🎧 Melodiya 🌍🔊",CCTv 15 🇨🇳 ()
-http://74.91.26.218:82/live/cctv15hd.m3u8
-
-#EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",La mejor musica por cable 🇵🇪 ()
-https://ca2.oxira.net.pe/bestcablemusic/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=9574830965e530fbbc38d44c91eff168e59f6a88-68fd5eab5547223d6c5ea8a132b4c18d-1778734023-1778723223
-
 #EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",El Canal del Folklore 🇵🇪 ()
 https://ca2.oxira.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=3c601fe89652f648d6cd649f59e6ae7bac97001f-bfd0add234823fac101ccb2fdbd68f7e-1778734182-1778723382
 
+#EXTINF:    Iskhodnyy="❓CCTv15❔"                  tvg-logo="https://tvg-logo.short.gy/CCTv15" group-title="🎧 Melodiya 🌍🔊",CCTv 15 🇨🇳 ()
+http://74.91.26.218:82/live/cctv15hd.m3u8
+
 #EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Para Gozar 🇵🇪 ()
-https://ca2.oxira.net.pe/mascumbiatvonline/index.m3u8?token=8741f92c44454f285e8af77acd62f76237fc9647-39e87198d8ea0ef401a394cac65fb5d3-1778734522-1778723722&remote=38.25.32.91
 https://ca2.oxira.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=8741f92c44454f285e8af77acd62f76237fc9647-39e87198d8ea0ef401a394cac65fb5d3-1778734522-1778723722
+
+
+#EXTINF:    Iskhodnyy="✔️TP✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
+https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w1454610654_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzc4NzI5NDMxJndvd3phdG9rZW5lbmR0aW1lPTE3Nzg3MzA0MzEmd293emF0b2tlbmhhc2g9bnVSaXBiNjEwcUtsRUoxWXUwNXUtTjB0RzhIYVlPSHBhazBSUktJOVpKMD0=.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
+
+
+#EXTINF:    Iskhodnyy="✔️Karibeña✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 ()
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1/index.fmp4.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/1764185405796/a7bab5c17f72_480_270.png" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 ()
+https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 ()
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 ()
+
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -1113,19 +1128,6 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/vod/v426/40/vod-media.m3u8?_cdn_attr
 https://cdn4.eco.cdn.moderntv.eu/econocable/vod/v429/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv429_vod_y3&_cdn_session=3894031235&_cdn_token=f40da380e9a9ce4b8b0d87cc8076afefd8f4e472
 #EXTINF:  TeleKanal="Películas"     Iskhodnyy="EC"  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/jpg?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fstatic%2Fbackdrops%2F654%2F3081654_1280.jpg&width=1280" group-title="Películas",Sugar en aprietos
 https://cdn5.eco.cdn.moderntv.eu/econocable/vod/v447/40/vod-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dv447_vod_v4&_cdn_session=3894033675&_cdn_token=5223acc21161566a8c766c5263665697a6832ec6
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://www.radiolakaribenahuancayo.com/wp-content/uploads/2025/06/karibenalogo.png" group-title="CaraCol Universal 🇵🇪 ",Karibeña ✅✔️ 1280x720p
-https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1/index.fmp4.m3u8
-
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/1764185405796/a7bab5c17f72_480_270.png" group-title="CaraCol Universal 🇵🇪 ",Karibeña 🇻🇳 1280x720p
-https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
-
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FKARIBENA.png&width=50&height=50" group-title="CaraCol Universal 🇵🇪 ",Karibeña 💸 1280x720p
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=3418862501&_cdn_token=6d515675616f6a58c3d4ca6cb7b3b914950f6ee1
-#EXTINF: tvg-logo="http://imageserver.srv.econocable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.econocable.i.mtvreg.com%2Fcache%2Flogos512%2FKARIBENA.png&width=50&height=50" group-title="CaraCol Universal 🇵🇪 ",Karibeña 💸 1024x576p
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=3418860589&_cdn_token=e1d587c43cf0735c46707fb303b167c9fca53917
 
 #EXTINF================================================================================================================================================================================================================================================================
 
