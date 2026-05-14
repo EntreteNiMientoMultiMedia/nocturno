@@ -671,8 +671,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/6a052dd8b5a80_1
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/6a022f9684751_13365477_2605110735_6.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊", 🇷🇺 () 
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️RVT✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Revol VerTv 🇵🇪 ()
+https://live-evg7.tv360.bitel.com.pe/bitel/lacajitamusical/chunks.m3u8
+https://eu1.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
