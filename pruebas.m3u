@@ -640,12 +640,15 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOPLATINO/40-hls/live-media.m
 
 #EXTINF:    Iskhodnyy="✔️Karibeña✅"                  tvg-logo="https://tvg-logo.short.gy/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
 https://luna-1-video.mediaserver.digital/karibenatv_685a-pe-a5676-584412/tracks-v1a1/mono.m3u8
-https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Karibena_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DKaribena_WIN_stream_ky&_cdn_session=5219560972&_cdn_token=113f9b4fca0f4f4021143ce82a888efc4466ad38
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
+https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=3949809139&_cdn_token=f09027bba24e636d5ddb6f4c9ec5d601deb2ee24
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/MusicTv" group-title="🎧 Melodiya 🌍🔊",MusicTv 🇵🇪 (1920x1080)
+https://live-evg10.tv360.bitel.com.pe/bitel/musictv/chunks.m3u8?uid=12051151
 
 #EXTINF=====================================================================================================================================================================================================
 
