@@ -630,20 +630,19 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1324557890.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w461187701.m3u8
 
-#EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="https://tvg-logo.short.gy/Hatun" group-title="🎧 Melodiya 🌍🔊",El Canal del Folklore 🇵🇪 ()
+#EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="https://tvg-logo.short.gy/Hatun" group-title="🎧 Melodiya 🌍🔊",El Canal del Folklore 🇵🇪 (1280x720)
 https://ca2.oxira.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=3c601fe89652f648d6cd649f59e6ae7bac97001f-bfd0add234823fac101ccb2fdbd68f7e-1778734182-1778723382
 
-#EXTINF:    Iskhodnyy="❓CCTv15❔"                  tvg-logo="https://tvg-logo.short.gy/CCTv15" group-title="🎧 Melodiya 🌍🔊",CCTv 15 🇨🇳 ()
-http://74.91.26.218:82/live/cctv15hd.m3u8
-
 #EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="https://tvg-logo.short.gy/+Cumbia" group-title="🎧 Melodiya 🌍🔊",Para Gozar 🇵🇪 ()
-https://ca2.oxira.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=8741f92c44454f285e8af77acd62f76237fc9647-39e87198d8ea0ef401a394cac65fb5d3-1778734522-1778723722
+https://ca2.oxira.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8
+https://ca2.oxira.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8?remote=38.25.32.91
+https://ca2.oxira.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=018f168f014a8cac177b6d3a623a3901c290458b-8aa3d1452249dfda4579a92fdcfc6ad8-1778746514-1778735714
 
 #EXTINF:    Iskhodnyy="✔️TP✅"                  tvg-logo="https://tvg-logo.short.gy/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
-https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w192689360_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzc4NzMzNzM3Jndvd3phdG9rZW5lbmR0aW1lPTE3Nzg3MzQ3Mzcmd293emF0b2tlbmhhc2g9TUJVZktaeEV5ekFtWXkzRWROZ2E2RFBoNmZjTEhDbzdnQkN4R1hydTUzVT0=.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
+https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w916662207_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzc4NzM2MTM2Jndvd3phdG9rZW5lbmR0aW1lPTE3Nzg3MzcxMzYmd293emF0b2tlbmhhc2g9MFlsY1Nadk0ycUl5a2dKMVRvTm92SVBGNXcwMGVielZ0MlJZT0EzVW1xOD0=.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 (720x404)
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 (720x404)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 (1280x720)
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/TopLatino_win/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTopLatino_win_stream_0s&_cdn_session=5219554348&_cdn_token=e54cdf475df28f6c869477c325faab503bb18ea9
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOPLATINO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOPLATINO_stream_qf&_cdn_session=3949806563&_cdn_token=688c1775555572d0297b8fbdc8e2065aaeffab5f
