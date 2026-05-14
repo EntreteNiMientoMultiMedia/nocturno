@@ -630,33 +630,32 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1324557890.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w461187701.m3u8
 
-#EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",El Canal del Folklore 🇵🇪 ()
+#EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="https://tvg-logo.short.gy/Hatun" group-title="🎧 Melodiya 🌍🔊",El Canal del Folklore 🇵🇪 ()
 https://ca2.oxira.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=3c601fe89652f648d6cd649f59e6ae7bac97001f-bfd0add234823fac101ccb2fdbd68f7e-1778734182-1778723382
 
 #EXTINF:    Iskhodnyy="❓CCTv15❔"                  tvg-logo="https://tvg-logo.short.gy/CCTv15" group-title="🎧 Melodiya 🌍🔊",CCTv 15 🇨🇳 ()
 http://74.91.26.218:82/live/cctv15hd.m3u8
 
-#EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Para Gozar 🇵🇪 ()
+#EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="https://tvg-logo.short.gy/+Cumbia" group-title="🎧 Melodiya 🌍🔊",Para Gozar 🇵🇪 ()
 https://ca2.oxira.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=8741f92c44454f285e8af77acd62f76237fc9647-39e87198d8ea0ef401a394cac65fb5d3-1778734522-1778723722
 
+#EXTINF:    Iskhodnyy="✔️TP✅"                  tvg-logo="https://tvg-logo.short.gy/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
+https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w192689360_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzc4NzMzNzM3Jndvd3phdG9rZW5lbmR0aW1lPTE3Nzg3MzQ3Mzcmd293emF0b2tlbmhhc2g9TUJVZktaeEV5ekFtWXkzRWROZ2E2RFBoNmZjTEhDbzdnQkN4R1hydTUzVT0=.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
+https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
+https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/TopLatino_win/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTopLatino_win_stream_0s&_cdn_session=5219554348&_cdn_token=e54cdf475df28f6c869477c325faab503bb18ea9
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOPLATINO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOPLATINO_stream_qf&_cdn_session=3949806563&_cdn_token=688c1775555572d0297b8fbdc8e2065aaeffab5f
 
-#EXTINF:    Iskhodnyy="✔️TP✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
-https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w1454610654_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzc4NzI5NDMxJndvd3phdG9rZW5lbmR0aW1lPTE3Nzg3MzA0MzEmd293emF0b2tlbmhhc2g9bnVSaXBiNjEwcUtsRUoxWXUwNXUtTjB0RzhIYVlPSHBhazBSUktJOVpKMD0=.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 ()
-
-
-#EXTINF:    Iskhodnyy="✔️Karibeña✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 ()
-https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1/index.fmp4.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/1764185405796/a7bab5c17f72_480_270.png" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 ()
+#EXTINF:    Iskhodnyy="✔️Karibeña✅"                  tvg-logo="https://tvg-logo.short.gy/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 ()
+https://luna-1-video.mediaserver.digital/karibenatv_685a-pe-a5676-584412/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 ()
 https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 ()
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 ()
-
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 ()
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Karibena_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DKaribena_WIN_stream_ky&_cdn_session=5219560972&_cdn_token=113f9b4fca0f4f4021143ce82a888efc4466ad38
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 ()
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=3949809139&_cdn_token=f09027bba24e636d5ddb6f4c9ec5d601deb2ee24
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -1381,8 +1380,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8?uid=1205115
 
 #EXTINF================================================================================================================================================================================================================================================================
 
-#EXTINF: tvg-logo="" group-title="Películas & Series 🎥📽️🎞️",BonitaTv 🇻🇳 
-
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/00/1763744760812/c614e981aa8c_480_270.png" group-title="Películas & Series 🎥📽️🎞️",Creo Latino 🇻🇳 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8?uid=12051151
 
@@ -1390,11 +1387,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8?uid=1205115
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/06/1763767508311/091c15dae43e_480_270.png" group-title="Películas & Series 🎥📽️🎞️",FMH Películas 🇻🇳 854x480p
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/chunks.m3u8
-
-#EXTINF================================================================================================================================================================================================================================================================
-
-#EXTINF: tvg-logo="https://img.onesignal.com/permanent/d06b9ca0-29c7-4577-b943-0ccc2296219a/Tu7HBEpfSTWvBwK79mUr_c6590db6-61f1-4548-9de5-ad662e8cd4f0.png" group-title="Competencia",Canal Claro 🇲🇽 1280x720p
-https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
 #EXTINF================================================================================================================================================================================================================================================================
 
