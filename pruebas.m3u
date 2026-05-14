@@ -647,8 +647,10 @@ https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=3949809139&_cdn_token=f09027bba24e636d5ddb6f4c9ec5d601deb2ee24
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/MusicTv" group-title="🎧 Melodiya 🌍🔊",MusicTv 🇵🇪 (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/MusicTv" group-title="🎧 Melodiya 🌍🔊",Music Tv 🇺🇸 (1920x1080)
+https://live-evg10.tv360.bitel.com.pe/bitel/musictv/chunks.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/musictv/chunks.m3u8?uid=12051151
+
 
 #EXTINF=====================================================================================================================================================================================================
 
