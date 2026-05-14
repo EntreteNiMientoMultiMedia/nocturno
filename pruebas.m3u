@@ -633,13 +633,15 @@ https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w46118770
 #EXTINF:    Iskhodnyy="❓CCTv15❔"                  tvg-logo="https://tvg-logo.short.gy/CCTv15" group-title="🎧 Melodiya 🌍🔊",CCTv 15 🇨🇳 ()
 http://74.91.26.218:82/live/cctv15hd.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Gugak✅"                  tvg-logo="https://tvg-logo.short.gy/Gugak" group-title="🎧 Melodiya 🌍🔊",Gugak 🇰🇷 ()
-https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",La mejor musica por cable 🇵🇪 ()
+https://ca2.oxira.net.pe/bestcablemusic/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=9574830965e530fbbc38d44c91eff168e59f6a88-68fd5eab5547223d6c5ea8a132b4c18d-1778734023-1778723223
 
-#EXTINF:    Iskhodnyy="✔️CCTv15✅"                  tvg-logo="https://tvg-logo.short.gy/CCTv15" group-title="🎧 Melodiya 🌍🔊",CCTv 15 🇨🇳 ()
-https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv15_1/index.m3u8
-https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv15_1/index.m3u8?BR=td&region=shanghai
-https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv15_1/index.m3u8?PE=td&region=shanghai
+#EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",El Canal del Folklore 🇵🇪 ()
+https://ca2.oxira.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=3c601fe89652f648d6cd649f59e6ae7bac97001f-bfd0add234823fac101ccb2fdbd68f7e-1778734182-1778723382
+
+#EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Para Gozar 🇵🇪 ()
+https://ca2.oxira.net.pe/mascumbiatvonline/index.m3u8?token=8741f92c44454f285e8af77acd62f76237fc9647-39e87198d8ea0ef401a394cac65fb5d3-1778734522-1778723722&remote=38.25.32.91
+https://ca2.oxira.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=8741f92c44454f285e8af77acd62f76237fc9647-39e87198d8ea0ef401a394cac65fb5d3-1778734522-1778723722
 
 #EXTINF=====================================================================================================================================================================================================
 
