@@ -650,15 +650,27 @@ https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/TopLatino_win/40-hls/live-m
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOPLATINO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOPLATINO_stream_qf&_cdn_session=3949806563&_cdn_token=688c1775555572d0297b8fbdc8e2065aaeffab5f
 
-#EXTINF:    Iskhodnyy="✔️AMC✅"                  tvg-logo="https://tvg-logo.short.gy/AMusic" group-title="🎧 Melodiya 🌍🔊",AMuscic 🇳🇬 (1280x720)
+#EXTINF:    Iskhodnyy="✔️AMC✅"                  tvg-logo="https://tvg-logo.short.gy/AMusic" group-title="🎧 Melodiya 🌍🔊",AMuscic 🇳🇬 ()
 http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/2b11dc79-be39-4092-9cd4-c6a3c0e5169f/2.m3u8
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1a1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/2b11dc79-be39-4092-9cd4-c6a3c0e5169f/2.m3u8
-https://highvolume112.streampartner.nl/wfm_live/wfm_live/chunklist_w857078211.m3u8
 
-#EXTINF:    Iskhodnyy="✔️AMC✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",GoTvMusic (1280x720)
-https://highvolume112.streampartner.nl/wfm_live/wfm_live/chunklist_w1928357849.m3u8
-https://highvolume112.streampartner.nl/wfm_live/wfm_live/chunklist_w712213453.m3u8
+#EXTINF:    Iskhodnyy="✔️SolidGbedu✅"                  tvg-logo="" group-title="🎧 Melodiya 🌍🔊",Ritmo Sólido 🇳🇬 ()
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/2b11dc79-be39-4092-9cd4-c6a3c0e5169f/2.m3u8
+
+#EXTINF:    Iskhodnyy="✔️МУЗ✅"                  tvg-logo="https://tvg-logo.short.gy/МУЗ" group-title="🎧 Melodiya 🌍🔊",TeleVision Musical 🇷🇺 () МУЗ-ТВ
+https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️N1F✅"                  tvg-logo="https://tvg-logo.short.gy/Numero1Fm" group-title="🎧 Melodiya 🌍🔊",Numero 1 Fm 🇹🇷 ()
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Deluxe✅"                  tvg-logo="https://tvg-logo.short.gy/Deluxe" group-title="🎧 Melodiya 🌍🔊",De Lujo 🇩🇪 ()
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/6a052dd8b5a80_13018905_2605140205_1.m3u8
+
+#EXTINF:    Iskhodnyy="✔️DR✅"                  tvg-logo="https://tvg-logo.short.gy/DeluxeRap" group-title="🎧 Melodiya 🌍🔊",De Lujo Rap 🇩🇪 ()
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/6a022f9684751_13365477_2605110735_6.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
