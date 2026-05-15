@@ -590,8 +590,6 @@ https://luna-1-video.mediaserver.digital/karibenatv_685a-pe-a5676-584412/tracks-
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Karibena_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DKaribena_WIN_stream_ky&_cdn_session=5219560972&_cdn_token=113f9b4fca0f4f4021143ce82a888efc4466ad38
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
 https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=3949809139&_cdn_token=f09027bba24e636d5ddb6f4c9ec5d601deb2ee24
 
 #EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="https://tvg-logo.short.gy/Hatun" group-title="🎧 Melodiya 🌍🔊",El Canal del Folklore 🇵🇪 (1280x720)
 https://ca2.oxira.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=3c601fe89652f648d6cd649f59e6ae7bac97001f-bfd0add234823fac101ccb2fdbd68f7e-1778734182-1778723382
@@ -607,7 +605,6 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.
 
 #EXTINF:    Iskhodnyy="✔️Deluxe✅"                  tvg-logo="https://tvg-logo.short.gy/Deluxe" group-title="🎧 Melodiya 🌍🔊",De Lujo 🇩🇪 (1280x720)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/6a052dd8b5a80_13018905_2605140205_1.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Poder✅"                  tvg-logo="https://tvg-logo.short.gy/Poder" group-title="🎧 Melodiya 🌍🔊",Poder 🇹🇷 (1280x720)
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2496000_sltur.m3u8
@@ -652,24 +649,22 @@ https://hls.autopo.st/hls/britasiatv/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️DR✅"                  tvg-logo="https://tvg-logo.short.gy/DeluxeRap" group-title="🎧 Melodiya 🌍🔊",De Lujo Rap 🇩🇪 (1920x1080)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/6a022f9684751_13365477_2605110735_6.m3u8
 
-#EXTINF:    Iskhodnyy="✔️OM✅"                  tvg-logo="https://tvg-logo.short.gy/OxygenMusic" group-title="🎧 Melodiya 🌍🔊",Musica de Oxigeno 🇷🇺 (1280x720) 💨
+#EXTINF:    Iskhodnyy="✔️OM✅"                  tvg-logo="https://tvg-logo.short.gy/OxygenMusic" group-title="🎧 Melodiya 🌍🔊",Musica de Oxigeno 🇷🇺 (1280x720)
 https://oxygenmusic.hu:2443/hls/oxygenmusic_2200.m3u8
 
 #EXTINF:    Iskhodnyy="✔️МУЗ✅"                  tvg-logo="https://tvg-logo.short.gy/МУЗ" group-title="🎧 Melodiya 🌍🔊",TeleVision Musical 🇷🇺 (1024x576) МУЗ-ТВ
 https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8
 
-#EXTINF:    Iskhodnyy="✔️TIC✅"              tvg-logo="https://tvg-logo.short.gy/TokyoIdolChannel" group-title="🎧 Melodiya 🌍🔊",Idolos de Tokio 🇯🇵 (960x540) 🎤
+#EXTINF:    Iskhodnyy="✔️TIC✅"              tvg-logo="https://tvg-logo.short.gy/TokyoIdolChannel" group-title="🎧 Melodiya 🌍🔊",Idolos de Tokio 🇯🇵 (960x540)
 https://vmvpd.short.gy/TokyoIdolChannel
 
-#EXTINF:    Iskhodnyy="✔️BB✅"                  tvg-logo="https://tvg-logo.short.gy/BalleBalle" group-title="🎧 Melodiya 🌍🔊",Balle Balle 🇮🇳 (1280x720) 🥁
+#EXTINF:    Iskhodnyy="✔️BB✅"                  tvg-logo="https://tvg-logo.short.gy/BalleBalle" group-title="🎧 Melodiya 🌍🔊",Balle Balle 🇮🇳 (1280x720)
 https://mcncdndigital.com/balleballetv/index.m3u8
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Muzangala✅"                  tvg-logo="https://tvg-logo.short.gy/Muzangala" group-title="🎧 Melodiya 🌍🔊",Muzangala 🇦🇴 (1920x1080) 🦓
+#EXTINF:    Iskhodnyy="✔️Muzangala✅"                  tvg-logo="https://tvg-logo.short.gy/Muzangala" group-title="🎧 Melodiya 🌍🔊",Muzangala 🇦🇴 (1920x1080)
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1324557890.m3u8
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w461187701.m3u8
 
 #EXTINF:    Iskhodnyy="✔️AMC✅"                  tvg-logo="https://tvg-logo.short.gy/AMusic" group-title="🎧 Melodiya 🌍🔊",AMuscic 🇳🇬 (720x576)
 http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
