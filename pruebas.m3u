@@ -193,6 +193,7 @@ https://vmvpd.short.gy/T3B2/L1Max
 
 #EXTINF:    Iskhodnyy="✔️Bicolor+✅"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Bicolor+" group-title="🥊 DeportivaMente 🏆",Bicolor+ ⚽ ()
 https://vmvpd.short.gy/T3B2/Bicolor+
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorSRT/chunks.m3u8?uid=12051151
 
 #EXTINF:    Iskhodnyy="🔱WT📺"              tvg-logo="https://tvg-logo.short.gy/WT/L1" group-title="🥊 DeportivaMente 🏆",L1 ⚽ (1280x720)
 https://vmvpd.short.gy/WT/L1
@@ -208,6 +209,7 @@ https://vmvpd.short.gy/EC/Ovacion
 
 #EXTINF:    Iskhodnyy="✔️RealMadrid✅"                  tvg-logo="https://tvg-logo.short.gy/RealMadrid" group-title="🥊 DeportivaMente 🏆",Real Madrid ⚽ ()
 https://vmvpd.short.gy/RealMadridTv
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:    Iskhodnyy="❓TCSF❔"                tvg-logo="https://tvg-logo.short.gy/TyCSportsFan" group-title="🥊 DeportivaMente 🏆",TyC Sports Fan ⚽ (1920x1080)
 https://vmvpd.short.gy/TyCSportsFan
@@ -217,6 +219,7 @@ https://vmvpd.short.gy/EC/Eventos
 
 #EXTINF:    Iskhodnyy="✔️FutsalMaferTv✅"                  tvg-logo="https://tvg-logo.short.gy/FutsalMafer" group-title="🥊 DeportivaMente 🏆",Futsal Mafer ⚽ ()
 https://vmvpd.short.gy/FutsalMaferTv
+https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1920x1080)
 https://vmvpd.short.gy/T3B2/FierroAFondo
