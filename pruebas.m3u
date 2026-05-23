@@ -191,6 +191,9 @@ https://vmvpd.short.gy/WT/L1Max
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://tvg-logo.short.gy/T3B2/L1Max" group-title="🥊 DeportivaMente 🏆",L1 Max ⚽ (1280x720)
 https://vmvpd.short.gy/T3B2/L1Max
 
+#EXTINF:    Iskhodnyy="✔️Bicolor+✅"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Bicolor+" group-title="🥊 DeportivaMente 🏆",Bicolor+ ⚽ ()
+https://vmvpd.short.gy/T3B2/Bicolor+
+
 #EXTINF:    Iskhodnyy="🔱WT📺"              tvg-logo="https://tvg-logo.short.gy/WT/L1" group-title="🥊 DeportivaMente 🏆",L1 ⚽ (1280x720)
 https://vmvpd.short.gy/WT/L1
 
@@ -203,8 +206,17 @@ https://vmvpd.short.gy/WT/Ovacion
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion 🎙️ (1280x720)
 https://vmvpd.short.gy/EC/Ovacion
 
+#EXTINF:    Iskhodnyy="✔️RealMadrid✅"                  tvg-logo="https://tvg-logo.short.gy/RealMadrid" group-title="🥊 DeportivaMente 🏆",Real Madrid ⚽ ()
+https://vmvpd.short.gy/RealMadridTv
+
 #EXTINF:    Iskhodnyy="❓TCSF❔"                tvg-logo="https://tvg-logo.short.gy/TyCSportsFan" group-title="🥊 DeportivaMente 🏆",TyC Sports Fan ⚽ (1920x1080)
 https://vmvpd.short.gy/TyCSportsFan
+
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🥊 DeportivaMente 🏆",Super 📡 (1280x720)
+https://vmvpd.short.gy/EC/Eventos
+
+#EXTINF:    Iskhodnyy="✔️FutsalMaferTv✅"                  tvg-logo="https://tvg-logo.short.gy/FutsalMafer" group-title="🥊 DeportivaMente 🏆",Futsal Mafer ⚽ ()
+https://vmvpd.short.gy/FutsalMaferTv
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1920x1080)
 https://vmvpd.short.gy/T3B2/FierroAFondo
@@ -250,9 +262,6 @@ https://vmvpd.short.gy/BoxGamers
 
 #EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="🥊 DeportivaMente 🏆",Onegai Deportes 🇯🇵 (1280x720)
 https://vmvpd.short.gy/Onegai4Deportes
-
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🥊 DeportivaMente 🏆",Eventos 📡 (1280x720)
-https://vmvpd.short.gy/EC/Eventos
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -729,6 +738,9 @@ https://vmvpd.short.gy/EC/Qosmo
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/GamarraChannel" group-title="📈 Negocios y Emprendimiento 🚀",Gamarra (1280x720)
 https://vmvpd.short.gy/WT/GamarraChannel
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RumboMinero" group-title="📈 Negocios y Emprendimiento 🚀",Rumbo Minero ()
+https://vmvpd.short.gy/T3B2/RumboMinero
+
 #EXTINF:    Iskhodnyy="✔️Agro✅"                  tvg-logo="https://tvg-logo.short.gy/Agro" group-title="📈 Negocios y Emprendimiento 🚀",Agro (1280x720)
 https://vmvpd.short.gy/Agro
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Agro" group-title="📈 Negocios y Emprendimiento 🚀",Agro (1280x720)
@@ -1107,6 +1119,10 @@ https://EntreteNiMientoMultiMedia.github.io/iptv/pruebas.m3u  (Visible)
 https://iptv-org.github.io/iptv/index.m3u
 https://iptv-org.github.io/iptv/countries/pe.m3u
 https://iptv-org.github.io/iptv/languages/spa.m3u
+
+https://github.com/iptv-org/iptv/edit/main/index.m3u
+https://github.com/iptv-org/iptv/edit/main/pe.m3u
+https://github.com/iptv-org/iptv/edit/main/spa.m3u
 
 https://github.com/iptv-org/iptv/blob/main/index.m3u
 https://github.com/iptv-org/iptv/index.m3u
