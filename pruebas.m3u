@@ -577,6 +577,22 @@ https://vmvpd.short.gy/Onegai5
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/AnimaKids" group-title="🎌 Anime 👀",Anima Kids (1920x1080)
 https://vmvpd.short.gy/T3B2/AnimaKids
 
+#EXTINF:    Iskhodnyy="✔️AS✅"                  tvg-logo="" group-title="🎌 Anime 👀",Anime Station ()
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+https://vmvpd.short.gy/AnimeEstacion
+
+#EXTINF:    Iskhodnyy="✔️TAM✅"                  tvg-logo="" group-title="🎌 Anime 👀",Tele Anime Mania ()
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+https://vmvpd.short.gy/TeleAnimeMania
+
+#EXTINF:    Iskhodnyy="✔️LC✅"                  tvg-logo="" group-title="🎌 Anime 👀",Canal Laika ()
+https://stream.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
+https://vmvpd.short.gy/CanalLaika
+
+#EXTINF:    Iskhodnyy="✔️PR✅"                  tvg-logo="" group-title="🎌 Anime 👀",PrimiRed ()
+https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
+https://vmvpd.short.gy/PrimiRed
+
 #EXTINF:    Iskhodnyy="✔️FK✅"                  tvg-logo="https://tvg-logo.short.gy/Japanim" group-title="🎌 Anime 👀",Japanim 🇫🇷 (1920x1080)
 https://vmvpd.short.gy/Japanim
 
@@ -943,11 +959,49 @@ https://vmvpd.short.gy/T3B2/CreoFe
 
 #EXTINF=====================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="✔️ECd8✅"                  tvg-logo="" group-title="24/7",El Chavo del 8 ()
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️DB✅"                  tvg-logo="" group-title="24/7",Dragon Ball ()
+https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️LS✅"                  tvg-logo="" group-title="24/7",Los Simpson ()
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️DBS✅"                  tvg-logo="" group-title="24/7",Dragon Ball Super ()
+https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/playlist.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️T&J✅"                  tvg-logo="" group-title="24/7",Tom y Jerry ()
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️LPR✅"                  tvg-logo="" group-title="24/7",La Pantera Rosa ()
+https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️MB✅"                  tvg-logo="" group-title="24/7",Mr. Bean ()
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️EHA✅"                  tvg-logo="" group-title="24/7",El Hombre Araña ()
+https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️XM✅"                  tvg-logo="" group-title="24/7",X-Men ()
+https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️LP✅"                  tvg-logo="" group-title="24/7",Los Pitufos ()
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
+
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/PlayBoy" group-title="😈 +18 🔒 Solo Adultos 🔞",🐰 PlayBoy 🥂 (1280x720)
 https://vmvpd.short.gy/EC/PlayBoy
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Venus" group-title="😈 +18 🔒 Solo Adultos 🔞",👠 Venus 👄🍒 (1024x576)
 https://vmvpd.short.gy/EC/Venus
+
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="😈 Solo Adultos 🔒 +18 🔞",All Anal
 https://vmvpd.short.gy/EC/Venus
@@ -1149,6 +1203,7 @@ https://es.scribd.com/document/957197795/05012019-lista-de-reproduccion-iptv-72a
 
 https://www.reddit.com/r/ArgentinaIPTV/comments/1tqjb90/humilde_listas_gracias_jmiguel85_y_luchitogali/
 https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
+https://raw.githubusercontent.com/luisms123/tdt/master/listalms.m3u
 
 #EXTINF=====================================================================================================================================================================================================
 
