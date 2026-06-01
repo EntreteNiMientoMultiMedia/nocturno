@@ -249,24 +249,24 @@ https://vmvpd.short.gy/CombaTv
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🥊 Combate & Acción 🥋",Titán (1280x720)
 https://vmvpd.short.gy/WT/Titan
 
-#EXTINF:    Iskhodnyy="✔️LP✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Lucha Plus ()
+#EXTINF:    Iskhodnyy="✔️LP✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Lucha Plus (1920x1080)
 https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️RB✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Red Bull ()
+#EXTINF:    Iskhodnyy="✔️RB✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Red Bull (1920x1080)
 https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️CSE✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Canal Surf ()
+#EXTINF:    Iskhodnyy="✔️CSE✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Canal Surf (1920x1080)
 
-#EXTINF:    Iskhodnyy="✔️UFC✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",UFC () Inglés
+#EXTINF:    Iskhodnyy="✔️UFC✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",UFC (1920x1080) Inglés
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️GKB✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Glory Kickboxing () Inglés
+#EXTINF:    Iskhodnyy="✔️GKB✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Glory Kickboxing (1280x720) Inglés
 https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️PFLMMA✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",MMA Professional Fighters League () Inglés
+#EXTINF:    Iskhodnyy="✔️PFLMMA✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Professional Fighters League MMA (1280x720) Inglés
 https://32528224.wurl.com/TEctZXNfUEZMTU1BX0hMUw/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️HKOMMA✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Hard Knocks MMA () Inglés
+#EXTINF:    Iskhodnyy="✔️HKOMMA✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Hard Knocks MMA (1280x720) Inglés
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037&ads.xumo_providerName=hard-knocks-fighting-champ-eng-rakutentv
 
 #EXTINF:    Iskhodnyy="✔️SCL✅"              tvg-logo="https://tvg-logo.short.gy/StrongmanChampionsLeague" group-title="🥊 Combate & Acción 🥋",Liga de Campeones de Hombres Fuertes 💪🏼 (1280x720) Inglés
@@ -293,7 +293,7 @@ https://vmvpd.short.gy/MonteRricoTv
 #EXTINF:    Iskhodnyy="✔️Turf✅"              tvg-logo="https://tvg-logo.short.gy/Turf" group-title="🏎️ Fierros y Turf 🏇",Turf (1280x720)
 https://vmvpd.short.gy/Turf
 
-#EXTINF:    Iskhodnyy="✔️TT✅"              tvg-logo="" group-title="🏎️ Fierros y Turf 🏇",TeleTrak ()
+#EXTINF:    Iskhodnyy="✔️TT✅"              tvg-logo="" group-title="🏎️ Fierros y Turf 🏇",TeleTrak (1280x720)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏎️ Fierros y Turf 🏇",MonteRrico (1080x720)
@@ -301,7 +301,7 @@ https://vmvpd.short.gy/MonteRrricoTv
 #EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏎️ Fierros y Turf 🏇",MonteRrico (1080x720)
 https://vmvpd.short.gy/MonteRicoTv
 
-#EXTINF:    Iskhodnyy="✔️GMdP✅"              tvg-logo="" group-title="🏎️ Fierros y Turf 🏇",Gira Mundial de Póker ()
+#EXTINF:    Iskhodnyy="✔️GMdP✅"              tvg-logo="" group-title="🏎️ Fierros y Turf 🏇",Gira Mundial de Poker (1920x1080)
 https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
