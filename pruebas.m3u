@@ -186,31 +186,51 @@ https://vmvpd.short.gy/T3B2/GiroVisual
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="🥊 DeportivaMente 🏆",L1 Max ⚽ (1280x720)
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="⚽ Fútbol 🇵🇪🌎",L1 Max (1280x720)
 https://vmvpd.short.gy/WT/L1Max
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://tvg-logo.short.gy/T3B2/L1Max" group-title="🥊 DeportivaMente 🏆",L1 Max ⚽ (1280x720)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://tvg-logo.short.gy/T3B2/L1Max" group-title="⚽ Fútbol 🇵🇪🌎",L1 Max (1280x720)
 https://vmvpd.short.gy/T3B2/L1Max
 
-#EXTINF:    Iskhodnyy="✔️Bicolor+✅"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Bicolor+" group-title="🥊 DeportivaMente 🏆",Bicolor+ ⚽ (1920x1080)
-https://vmvpd.short.gy/T3B2/Bicolor+
-
-#EXTINF:    Iskhodnyy="🔱WT📺"              tvg-logo="https://tvg-logo.short.gy/WT/L1" group-title="🥊 DeportivaMente 🏆",L1 ⚽ (1280x720)
+#EXTINF:    Iskhodnyy="🔱WT📺"              tvg-logo="https://tvg-logo.short.gy/WT/L1" group-title="⚽ Fútbol 🇵🇪🌎",L1 (1280x720)
 https://vmvpd.short.gy/WT/L1
 
-#EXTINF:    Iskhodnyy="✔️Ovacion✅"                  tvg-logo="https://tvg-logo.short.gy/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion 🎙️ (1920x1080)
+#EXTINF:    Iskhodnyy="✔️Bicolor+✅"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Bicolor+" group-title="⚽ Fútbol 🇵🇪🌎",Bicolor+ (1920x1080)
+https://vmvpd.short.gy/T3B2/Bicolor+
+
+#EXTINF:    Iskhodnyy="✔️Ovacion✅"                  tvg-logo="https://tvg-logo.short.gy/Ovacion" group-title="⚽ Fútbol 🇵🇪🌎",Ovacion (1920x1080)
 https://vmvpd.short.gy/Ovacion
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion 🎙️ (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/Ovacion" group-title="⚽ Fútbol 🇵🇪🌎",Ovacion (1920x1080)
 https://vmvpd.short.gy/T3B2/Ovacion
-#EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion 🎙️ (1280x720)
+#EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://tvg-logo.short.gy/WT/Ovacion" group-title="⚽ Fútbol 🇵🇪🌎",Ovacion (1280x720)
 https://vmvpd.short.gy/WT/Ovacion
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Ovacion" group-title="🥊 DeportivaMente 🏆",Ovacion 🎙️ (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Ovacion" group-title="⚽ Fútbol 🇵🇪🌎",Ovacion (1280x720)
 https://vmvpd.short.gy/EC/Ovacion
+
+#EXTINF:    Iskhodnyy="✔️TCS✅"                tvg-logo="" group-title="⚽ Fútbol 🇵🇪🌎",TyC Sports ()
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️TCSF✅"                tvg-logo="https://tvg-logo.short.gy/TyCSportsFan" group-title="⚽ Fútbol 🇵🇪🌎",TyC Sports Fan (1920x1080)
+https://vmvpd.short.gy/TyCSportsFan
+
+#EXTINF:    Iskhodnyy="✔️EPA✅"                  tvg-logo="" group-title="⚽ Fútbol 🇵🇪🌎",ESPN Premium Argentina ()
+https://1nyaler.streamhostingcdn.top/stream/104/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️TD✅"                  tvg-logo="" group-title="⚽ Fútbol 🇵🇪🌎",TNT Sports ()
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️WD✅"                  tvg-logo="" group-title="⚽ Fútbol 🇵🇪🌎",Win Sports ()
+https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
+
+#EXTINF:    Iskhodnyy="❓DSU❔"                  tvg-logo="" group-title="⚽ Fútbol 🇵🇪🌎",DSports Uruguay ()
+http://147.135.114.221:8001/play/a00m/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ECdF✅"                  tvg-logo="" group-title="⚽ Fútbol 🇵🇪🌎",El Canal del Futbol ()
+https://1nyaler.streamhostingcdn.top/stream/53/index.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️RealMadrid✅"                  tvg-logo="https://tvg-logo.short.gy/RealMadrid" group-title="🥊 DeportivaMente 🏆",Real Madrid ⚽ (720x408)
 https://vmvpd.short.gy/RealMadridTv
-
-#EXTINF:    Iskhodnyy="❓TCSF❔"                tvg-logo="https://tvg-logo.short.gy/TyCSportsFan" group-title="🥊 DeportivaMente 🏆",TyC Sports Fan ⚽ (1920x1080)
-https://vmvpd.short.gy/TyCSportsFan
 
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🥊 DeportivaMente 🏆",Super 📡 (1280x720)
 https://vmvpd.short.gy/EC/Eventos
