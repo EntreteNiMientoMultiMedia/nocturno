@@ -162,7 +162,7 @@ https://vmvpd.short.gy/PT/Actualidad360
 #EXTINF:    Iskhodnyy="✔️CGTN✅"                  tvg-logo="https://tvg-logo.short.gy/CGTN" group-title="📰🌐 Noticias del Mundo 🚨",Red de Televisión Global de China (1920x1080) CGTN
 https://vmvpd.short.gy/CGTN
 
-#EXTINF:    Iskhodnyy="❓ADN40❔"                  tvg-logo="https://tvg-logo.short.gy/ADN40" group-title="📰🌐 Noticias del Mundo 🚨",ADN 40 (1280x720)
+#EXTINF:    Iskhodnyy="✔️ADN40✅"                  tvg-logo="https://tvg-logo.short.gy/ADN40" group-title="📰🌐 Noticias del Mundo 🚨",ADN 40 (1280x720)
 https://vmvpd.short.gy/ADN40
 
 #EXTINF:    Iskhodnyy="✔️TS✅"                  tvg-logo="https://tvg-logo.short.gy/TeleSur" group-title="📰🌐 Noticias del Mundo 🚨",Tele Sur (1920x1080)
@@ -201,25 +201,26 @@ https://vmvpd.short.gy/CombaTv
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🥊 Combate & Accion 🥋",Titán (1280x720)
 https://vmvpd.short.gy/WT/Titan
 
-#EXTINF:    Iskhodnyy="✔️LP✅"                tvg-logo="" group-title="🥊 Combate & Accion 🥋",Lucha Plus (1920x1080)
-https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️LP✅"                tvg-logo="https://tvg-logo.short.gy/LuchaPlus" group-title="🥊 Combate & Accion 🥋",Lucha Plus (1920x1080)
+https://vmvpd.short.gy/LuchaPlus
 
-#EXTINF:    Iskhodnyy="✔️RB✅"                tvg-logo="" group-title="🥊 Combate & Accion 🥋",Red Bull (1920x1080)
-https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️RB✅"                tvg-logo="https://tvg-logo.short.gy/ToroRojo" group-title="🥊 Combate & Accion 🥋",Red Bull (1920x1080)
+https://vmvpd.short.gy/ToroRojo
 
-#EXTINF:    Iskhodnyy="✔️CSE✅"                tvg-logo="" group-title="🥊 Combate & Accion 🥋",Canal Surf (1920x1080)
+#EXTINF:    Iskhodnyy="✔️CSE✅"                tvg-logo="https://tvg-logo.short.gy/CanalSurf" group-title="🥊 Combate & Accion 🥋",Canal Surf (1920x1080)
+https://vmvpd.short.gy/CanalSurf
 
-#EXTINF:    Iskhodnyy="✔️UFC✅"                tvg-logo="" group-title="🥊 Combate & Accion 🥋",UFC (1920x1080) Inglés
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️UFC✅"                tvg-logo="https://tvg-logo.short.gy/UFC" group-title="🥊 Combate & Accion 🥋",UFC (1920x1080) Inglés
+https://vmvpd.short.gy/UFC
 
-#EXTINF:    Iskhodnyy="✔️GKB✅"                tvg-logo="" group-title="🥊 Combate & Accion 🥋",Glory Kickboxing (1280x720) Inglés
-https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️GKB✅"                tvg-logo="https://tvg-logo.short.gy/KickBoxingDeLaGloria" group-title="🥊 Combate & Accion 🥋",KickBoxing de la Gloria (1280x720) Inglés
+https://vmvpd.short.gy/KickBoxingDeLaGloria
 
-#EXTINF:    Iskhodnyy="✔️PFLMMA✅"                tvg-logo="" group-title="🥊 Combate & Accion 🥋",Professional Fighters League MMA (1280x720) Inglés
-https://32528224.wurl.com/TEctZXNfUEZMTU1BX0hMUw/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️PFLMMA✅"                tvg-logo="https://tvg-logo.short.gy/LigaDeLuchadoresProfesionalesMMA" group-title="🥊 Combate & Accion 🥋",Liga de Luchadores Profesionales MMA (1280x720) Inglés
+https://vmvpd.short.gy/LigaDeLuchadoresProfesionalesMMA
 
-#EXTINF:    Iskhodnyy="✔️HKOMMA✅"                tvg-logo="" group-title="🥊 Combate & Accion 🥋",Hard Knocks MMA (1280x720) Inglés
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037&ads.xumo_providerName=hard-knocks-fighting-champ-eng-rakutentv
+#EXTINF:    Iskhodnyy="✔️HKOMMA✅"                tvg-logo="https://tvg-logo.short.gy/GolpesDurosMMA" group-title="🥊 Combate & Accion 🥋",Golpes duros MMA (1280x720) Inglés
+https://vmvpd.short.gy/GolpesDurosMMA
 
 #EXTINF:    Iskhodnyy="✔️SCL✅"              tvg-logo="https://tvg-logo.short.gy/StrongmanChampionsLeague" group-title="🥊 Combate & Accion 🥋",Liga de Campeones de Hombres Fuertes 💪🏼 (1280x720) Inglés
 https://vmvpd.short.gy/LigaCampeonesHombresFuertes
@@ -248,11 +249,11 @@ https://vmvpd.short.gy/EC/Ovacion
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="🇵🇪 Futbol ⚽🌎",Super 📡 (1280x720)
 https://vmvpd.short.gy/EC/Eventos
 
-#EXTINF:    Iskhodnyy="✔️TCS✅"                tvg-logo="" group-title="🇵🇪 Futbol ⚽🌎",TyC Sports (1280x720)
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+#EXTINF:    Iskhodnyy="✔️TCD✅"                tvg-logo="https://tvg-logo.short.gy/TyCSportsFan" group-title="🇵🇪 Futbol ⚽🌎",TyC Sports (1280x720)
+https://vmvpd.short.gy/TyCDeportes
 
-#EXTINF:    Iskhodnyy="✔️EPA✅"                  tvg-logo="" group-title="🇵🇪 Futbol ⚽🌎",ESPN Premium Argentina (1280x720)
-https://1nyaler.streamhostingcdn.top/stream/104/index.m3u8
+#EXTINF:    Iskhodnyy="✔️EPA✅"                  tvg-logo="https://tvg-logo.short.gy/ESPNPremiumArgentina" group-title="🇵🇪 Futbol ⚽🌎",ESPN Premium Argentina (1280x720)
+https://vmvpd.short.gy/ESPNPremiumArgentina
 
 #EXTINF:    Iskhodnyy="✔️ECdF✅"                  tvg-logo="" group-title="🇵🇪 Futbol ⚽🌎",El Canal del Futbol (1920x1080)
 https://1nyaler.streamhostingcdn.top/stream/53/index.m3u8
