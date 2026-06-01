@@ -187,6 +187,9 @@ https://vmvpd.short.gy/EC/Libertad
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/GiroVisual" group-title="📰🌐 Noticias del Mundo 🚨",Giro Visual (1920x1080)
 https://vmvpd.short.gy/T3B2/GiroVisual
 
+#EXTINF:    Iskhodnyy="✔️CVN✅"                  tvg-logo="https://tvg-logo.short.gy/ChileVision" group-title="📰🌐 Noticias del Mundo 🚨",Chile Vision Noticias (1920x1080)
+https://vmvpd.short.gy/ChileVisionNoticias
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️CC✅"                tvg-logo="https://tvg-logo.short.gy/CanelaCombate" group-title="🥊 Combate & Accion 🥋",Canela Combate (1920x1080)
@@ -468,22 +471,17 @@ https://vmvpd.short.gy/WT/LasEstrellas
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LasEstrellas" group-title="💃🏻 Variedad Hispana 🌎",Las Estrellas 🇲🇽 (1024x576)
 https://vmvpd.short.gy/EC/LasEstrellas
 
-#EXTINF:    Iskhodnyy="✔️TF✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",TeleFe 🇦🇷 (1920x1080)
-http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/40624.m3u8
+#EXTINF:    Iskhodnyy="✔️TF✅"                  tvg-logo="https://tvg-logo.short.gy/TeleFe" group-title="💃🏻 Variedad Hispana 🌎",TeleFe 🇦🇷 (1920x1080)
+https://vmvpd.short.gy/TeleFe
 
-#EXTINF:    Iskhodnyy="✔️L1✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",La 1 🇪🇸 (1280x720)
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:    Iskhodnyy="✔️L1✅"                  tvg-logo="https://tvg-logo.short.gy/La1" group-title="💃🏻 Variedad Hispana 🌎",La 1 🇪🇸 (1280x720)
+https://vmvpd.short.gy/La1
 
-#EXTINF:    Iskhodnyy="✔️UCL✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Union Continental LatinoAmerica 🇺🇾 (1280x720)
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:    Iskhodnyy="✔️UCL✅"                  tvg-logo="https://tvg-logo.short.gy/UnCanalLatinoAmericano" group-title="💃🏻 Variedad Hispana 🌎",Union Continental LatinoAmerica 🇺🇾 (1280x720)
+https://vmvpd.short.gy/UnCanalLatinoAmericano
 
-#EXTINF:    Iskhodnyy="✔️CV✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Chile Vision 🇨🇱 (1920x1080)
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️CVN✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Chile Vision Noticias 🇨🇱 (1920x1080)
-https://jireh-4-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/chvn/livestream0/chunks.m3u8?ndvc=0&dpssid=h7cl1994401944765737af8ff81d3b0315c909e8bbea5b&sid=ba5t1l1xb210773083586a1db2bc42489
+#EXTINF:    Iskhodnyy="✔️CV✅"                  tvg-logo="https://tvg-logo.short.gy/ChileVision" group-title="💃🏻 Variedad Hispana 🌎",Chile Vision 🇨🇱 (1920x1080)
+https://vmvpd.short.gy/ChileVision
 
 #EXTINF=====================================================================================================================================================================================================
 
