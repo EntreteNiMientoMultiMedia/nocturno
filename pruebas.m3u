@@ -468,22 +468,21 @@ https://vmvpd.short.gy/WT/LasEstrellas
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LasEstrellas" group-title="💃🏻 Variedad Hispana 🌎",Las Estrellas 🇲🇽 (1024x576)
 https://vmvpd.short.gy/EC/LasEstrellas
 
-#EXTINF:    Iskhodnyy="✔️TF✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",TeleFe 🇦🇷 ()
+#EXTINF:    Iskhodnyy="✔️TF✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",TeleFe 🇦🇷 (1920x1080)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/40624.m3u8
 
-#EXTINF:    Iskhodnyy="✔️L1✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",La 1 🇪🇸 ()
+#EXTINF:    Iskhodnyy="✔️L1✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",La 1 🇪🇸 (1280x720)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:    Iskhodnyy="✔️UCL✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Union Continental LatinoAmerica 🇺🇾 ()
-https://streamingmcbo.ddns.net:8081/ucltelevision/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="✔️UCL✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Union Continental LatinoAmerica 🇺🇾 (1280x720)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-#EXTINF:    Iskhodnyy="✔️CV✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Chile Vision 🇨🇱 ()
+#EXTINF:    Iskhodnyy="✔️CV✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Chile Vision 🇨🇱 (1920x1080)
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️CVN✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Chile Vision Noticias 🇨🇱 ()
+#EXTINF:    Iskhodnyy="✔️CVN✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Chile Vision Noticias 🇨🇱 (1920x1080)
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/chvn/livestream0/chunks.m3u8?ndvc=0&dpssid=h7cl1994401944765737af8ff81d3b0315c909e8bbea5b&sid=ba5t1l1xb210773083586a1db2bc42489
 
 #EXTINF=====================================================================================================================================================================================================
@@ -520,13 +519,12 @@ https://vmvpd.short.gy/WT/ESportsGo
 #EXTINF:    Iskhodnyy="✔️BG✅"              tvg-logo="https://tvg-logo.short.gy/BoxGamers" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",Box Gamers (1024x576)
 https://vmvpd.short.gy/BoxGamers
 
-#EXTINF:    Iskhodnyy="✔️DE✅"              tvg-logo="" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",DAZN España ()
+#EXTINF:    Iskhodnyy="✔️DE✅"              tvg-logo="" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",DAZN España (640x360)
 https://1nyaler.streamhostingcdn.top/stream/92/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️TmDA✅"              tvg-logo="" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",TeleMundo Ahora ()
-https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
+#EXTINF:    Iskhodnyy="✔️TmDA✅"              tvg-logo="" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",TeleMundo Ahora (1920x1080)
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_
-https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/3.m3u8
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
