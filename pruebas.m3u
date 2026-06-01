@@ -282,66 +282,41 @@ https://vmvpd.short.gy/StrongmanChampionsLeague
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️MD✅"                  tvg-logo="" group-title="🥊 DeportivaMente 🏆",Movistar Deportes ()
-https://1nyaler.streamhostingcdn.top/stream/131/index.m3u8
-
-
-#EXTINF:    Iskhodnyy="🔱WT📺"              tvg-logo="https://tvg-logo.short.gy/WT/L1" group-title="🥊 DeportivaMente 🏆",L1 (1280x720)
-https://vmvpd.short.gy/WT/L1
-
-#EXTINF:    Iskhodnyy="✔️TCSF✅"                tvg-logo="https://tvg-logo.short.gy/TyCSportsFan" group-title="🥊 DeportivaMente 🏆",TyC Sports Fan (1920x1080)
-https://vmvpd.short.gy/TyCSportsFan
-
-#EXTINF:    Iskhodnyy="✔️TD✅"                  tvg-logo="" group-title="🥊 DeportivaMente 🏆",TNT Sports ()
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
-
-#EXTINF:    Iskhodnyy="✔️WD✅"                  tvg-logo="" group-title="🥊 DeportivaMente 🏆",Win Sports ()
-https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
-
-#EXTINF:    Iskhodnyy="❓DSU❔"                  tvg-logo="" group-title="🥊 DeportivaMente 🏆",DSports Uruguay ()
-http://147.135.114.221:8001/play/a00m/index.m3u8
-
-#EXTINF:    Iskhodnyy="✔️FutsalMaferTv✅"                  tvg-logo="https://tvg-logo.short.gy/FutsalMafer" group-title="🥊 DeportivaMente 🏆",Futsal Mafer ⚽ (1920x1080)
-https://vmvpd.short.gy/FutsalMaferTv
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🏎️ Fierros y Turf 🏇",Fierro a Fondo (1920x1080)
 https://vmvpd.short.gy/T3B2/FierroAFondo
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🥊 DeportivaMente 🏆",Fierro a Fondo 🏎️ (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🏎️ Fierros y Turf 🏇",Fierro a Fondo (1280x720)
 https://vmvpd.short.gy/EC/FierroAFondo
 
-#EXTINF:    Iskhodnyy="✔️Garage✅"              tvg-logo="https://tvg-logo.short.gy/Garage" group-title="🥊 DeportivaMente 🏆",Garage 🏎️ (720x404)
+#EXTINF:    Iskhodnyy="✔️Garage✅"              tvg-logo="https://tvg-logo.short.gy/Garage" group-title="🏎️ Fierros y Turf 🏇",Garage (720x404)
 https://vmvpd.short.gy/Garage
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryTurbo" group-title="🥊 DeportivaMente 🏆",Discovery Turbo 🏎️ (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryTurbo" group-title="🏎️ Fierros y Turf 🏇",Discovery Turbo (1280x720)
 https://vmvpd.short.gy/EC/DiscoveryTurbo
 
-#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"              tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1920x1080)
+#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"              tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏎️ Fierros y Turf 🏇",MonteRrico (1920x1080)
 https://vmvpd.short.gy/MonteRricoTv
 
-#EXTINF:    Iskhodnyy="✔️Turf✅"              tvg-logo="https://tvg-logo.short.gy/Turf" group-title="🥊 DeportivaMente 🏆",Turf 🏇 (1280x720)
+#EXTINF:    Iskhodnyy="✔️Turf✅"              tvg-logo="https://tvg-logo.short.gy/Turf" group-title="🏎️ Fierros y Turf 🏇",Turf (1280x720)
 https://vmvpd.short.gy/Turf
 
-#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1080x720)
+#EXTINF:    Iskhodnyy="✔️TT✅"              tvg-logo="" group-title="🏎️ Fierros y Turf 🏇",TeleTrak ()
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏎️ Fierros y Turf 🏇",MonteRrico (1080x720)
 https://vmvpd.short.gy/MonteRrricoTv
-#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1080x720)
+#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏎️ Fierros y Turf 🏇",MonteRrico (1080x720)
 https://vmvpd.short.gy/MonteRicoTv
 
+#EXTINF:    Iskhodnyy="✔️GMdP✅"              tvg-logo="" group-title="🏎️ Fierros y Turf 🏇",Gira Mundial de Póker ()
+https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
 
+#EXTINF=====================================================================================================================================================================================================
 
-
-
-
-
-
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🥊 DeportivaMente 🏆",E Sports Go 🎮 (720x576)
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🎮 eSports 🕹️",E Sports Go (720x576)
 https://vmvpd.short.gy/WT/ESportsGo
 
-#EXTINF:    Iskhodnyy="✔️BG✅"              tvg-logo="https://tvg-logo.short.gy/BoxGamers" group-title="🥊 DeportivaMente 🏆",Box Gamers 🕹️ (1024x576)
+#EXTINF:    Iskhodnyy="✔️BG✅"              tvg-logo="https://tvg-logo.short.gy/BoxGamers" group-title="🎮 eSports 🕹️",Box Gamers (1024x576)
 https://vmvpd.short.gy/BoxGamers
-
-#EXTINF:    Iskhodnyy="LG"                tvg-logo="https://tvg-logo.short.gy/Onegai4Deportes" group-title="🥊 DeportivaMente 🏆",Onegai Deportes 🇯🇵 (1280x720)
-https://vmvpd.short.gy/Onegai4Deportes
 
 #EXTINF=====================================================================================================================================================================================================
 
