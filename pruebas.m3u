@@ -246,7 +246,39 @@ http://92.176.119.180:2095/play/a16t/index.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="✔️CC✅"                tvg-logo="https://tvg-logo.short.gy/CanelaCombate" group-title="🥊 Combate & Acción 🥋",Canela Combate (1920x1080)
+https://vmvpd.short.gy/CanelaCombate
 
+#EXTINF:    Iskhodnyy="✔️CombaTv✅"                tvg-logo="https://tvg-logo.short.gy/CombaTv" group-title="🥊 Combate & Acción 🥋",CombaTv (1920x1080)
+https://vmvpd.short.gy/CombaTv
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🥊 Combate & Acción 🥋",Titán (1280x720)
+https://vmvpd.short.gy/WT/Titan
+
+#EXTINF:    Iskhodnyy="✔️LP✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Lucha Plus ()
+https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️RB✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Red Bull ()
+https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️CSE✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Canal Surf ()
+
+#EXTINF:    Iskhodnyy="✔️UFC✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",UFC () Inglés
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️GKB✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Glory Kickboxing () Inglés
+https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️PFLMMA✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",MMA Professional Fighters League () Inglés
+https://32528224.wurl.com/TEctZXNfUEZMTU1BX0hMUw/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️HKOMMA✅"                tvg-logo="" group-title="🥊 Combate & Acción 🥋",Hard Knocks MMA () Inglés
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037&ads.xumo_providerName=hard-knocks-fighting-champ-eng-rakutentv
+
+#EXTINF:    Iskhodnyy="✔️SCL✅"              tvg-logo="https://tvg-logo.short.gy/StrongmanChampionsLeague" group-title="🥊 DeportivaMente 🏆",Liga de Campeones de Hombres Fuertes 💪🏼 (1280x720) Inglés
+https://vmvpd.short.gy/LigaCampeonesHombresFuertes
+#EXTINF:    Iskhodnyy="✔️SCL✅"              tvg-logo="https://tvg-logo.short.gy/StrongmanChampionsLeague" group-title="🥊 DeportivaMente 🏆",Liga de Campeones de Hombres Fuertes 💪🏼 (1280x720) Inglés
+https://vmvpd.short.gy/StrongmanChampionsLeague
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -294,19 +326,13 @@ https://vmvpd.short.gy/MonteRrricoTv
 #EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🥊 DeportivaMente 🏆",MonteRrico 🏇 (1080x720)
 https://vmvpd.short.gy/MonteRicoTv
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Titan" group-title="🥊 DeportivaMente 🏆",Titán 🥊 (1280x720)
-https://vmvpd.short.gy/WT/Titan
 
-#EXTINF:    Iskhodnyy="✔️CC✅"                tvg-logo="https://tvg-logo.short.gy/CanelaCombate" group-title="🥊 DeportivaMente 🏆",Canela Combate 🥊 (1920x1080)
-https://vmvpd.short.gy/CanelaCombate
 
-#EXTINF:    Iskhodnyy="✔️CombaTv✅"                tvg-logo="https://tvg-logo.short.gy/CombaTv" group-title="🥊 DeportivaMente 🏆",CombaTv 🥊 (1920x1080)
-https://vmvpd.short.gy/CombaTv
 
-#EXTINF:    Iskhodnyy="✔️SCL✅"              tvg-logo="https://tvg-logo.short.gy/StrongmanChampionsLeague" group-title="🥊 DeportivaMente 🏆",Liga de Campeones de Hombres Fuertes 💪🏼 (1280x720)
-https://vmvpd.short.gy/LigaCampeonesHombresFuertes
-#EXTINF:    Iskhodnyy="✔️SCL✅"              tvg-logo="https://tvg-logo.short.gy/StrongmanChampionsLeague" group-title="🥊 DeportivaMente 🏆",Liga de Campeones de Hombres Fuertes 💪🏼 (1280x720)
-https://vmvpd.short.gy/StrongmanChampionsLeague
+
+
+
+
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🥊 DeportivaMente 🏆",E Sports Go 🎮 (720x576)
 https://vmvpd.short.gy/WT/ESportsGo
