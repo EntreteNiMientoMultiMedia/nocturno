@@ -468,6 +468,24 @@ https://vmvpd.short.gy/WT/LasEstrellas
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LasEstrellas" group-title="💃🏻 Variedad Hispana 🌎",Las Estrellas 🇲🇽 (1024x576)
 https://vmvpd.short.gy/EC/LasEstrellas
 
+#EXTINF:    Iskhodnyy="✔️TF✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",TeleFe 🇦🇷 ()
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/40624.m3u8
+
+#EXTINF:    Iskhodnyy="✔️L1✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",La 1 🇪🇸 ()
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:    Iskhodnyy="✔️UCL✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Union Continental LatinoAmerica 🇺🇾 ()
+https://streamingmcbo.ddns.net:8081/ucltelevision/tracks-v1a1/mono.m3u8
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:    Iskhodnyy="✔️CV✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Chile Vision 🇨🇱 ()
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️CVN✅"                  tvg-logo="" group-title="💃🏻 Variedad Hispana 🌎",Chile Vision Noticias 🇨🇱 ()
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/chvn/livestream0/chunks.m3u8?ndvc=0&dpssid=h7cl1994401944765737af8ff81d3b0315c909e8bbea5b&sid=ba5t1l1xb210773083586a1db2bc42489
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/EC/A&E" group-title="🛋️ Estilo de Vida y Entretenimiento 🍿",Arte & Entretenimiento (1280x720)
