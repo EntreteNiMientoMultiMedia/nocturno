@@ -255,31 +255,31 @@ https://vmvpd.short.gy/TyCDeportes
 #EXTINF:    Iskhodnyy="✔️EPA✅"                  tvg-logo="https://tvg-logo.short.gy/ESPNPremiumArgentina" group-title="🇵🇪 Futbol ⚽🌎",ESPN Premium Argentina (1280x720)
 https://vmvpd.short.gy/ESPNPremiumArgentina
 
-#EXTINF:    Iskhodnyy="✔️ECdF✅"                  tvg-logo="" group-title="🇵🇪 Futbol ⚽🌎",El Canal del Futbol (1920x1080)
-https://1nyaler.streamhostingcdn.top/stream/53/index.m3u8
+#EXTINF:    Iskhodnyy="✔️ECdF✅"                  tvg-logo="https://tvg-logo.short.gy/ElCanalDelFutbol" group-title="🇵🇪 Futbol ⚽🌎",El Canal del Futbol (1920x1080)
+https://vmvpd.short.gy/ElCanalDelFutbol
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️FD✅"                  tvg-logo="" group-title="⚽ Futbol 🌎",Fox Deportes (1280x720)
-https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d3e41cf0aa/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️FD✅"                  tvg-logo="https://tvg-logo.short.gy/FoxDeportes" group-title="⚽ Futbol 🌎",Fox Deportes (1280x720)
+https://vmvpd.short.gy/FoxDeportes
 
-#EXTINF:    Iskhodnyy="✔️ESPN3✅"                  tvg-logo="" group-title="⚽ Futbol 🌎",ESPN 3 (544x480)
-https://1nyaler.streamhostingcdn.top/stream/102/index.m3u8
+#EXTINF:    Iskhodnyy="✔️ESPN3✅"                  tvg-logo="https://tvg-logo.short.gy/EC/ESPN3" group-title="⚽ Futbol 🌎",ESPN 3 (544x480)
+https://vmvpd.short.gy/ESPN3
 
-#EXTINF:    Iskhodnyy="✔️M+LdC✅"                  tvg-logo="" group-title="⚽ Futbol 🌎",M+ Liga de Campeones (1920x1080)
-https://1nyaler.streamhostingcdn.top/stream/133/index.m3u8
+#EXTINF:    Iskhodnyy="✔️M+LdC✅"                  tvg-logo="https://tvg-logo.short.gy/M+LigaDeCampeones" group-title="⚽ Futbol 🌎",M+ Liga de Campeones (1920x1080)
+https://vmvpd.short.gy/M+LigaDeCampeones
 
-#EXTINF:    Iskhodnyy="✔️DLL✅"                  tvg-logo="" group-title="⚽ Futbol 🌎",DAZN La Liga (1920x1080)
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:    Iskhodnyy="✔️DLL✅"                  tvg-logo="https://tvg-logo.short.gy/DAZNLaLiga" group-title="⚽ Futbol 🌎",DAZN La Liga (1920x1080)
+https://vmvpd.short.gy/DAZNLaLiga
 
-#EXTINF:    Iskhodnyy="✔️TUDN✅"                  tvg-logo="" group-title="⚽ Futbol 🌎",Televisa Univision Deportes Network (1920x1080)
-https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:    Iskhodnyy="✔️TUDN✅"                  tvg-logo="https://tvg-logo.short.gy/TelevisaUnivisionDeportesNetwork" group-title="⚽ Futbol 🌎",Televisa Univision Deportes Network (1920x1080)
+https://vmvpd.short.gy/TelevisaUnivisionDeportesNetwork
 
-#EXTINF:    Iskhodnyy="✔️ADN✅"                  tvg-logo="" group-title="⚽ Futbol 🌎",Azteca Deportes Network (1280x720)
-https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️ADN✅"                  tvg-logo="https://tvg-logo.short.gy/AztecaDeportesNetwork" group-title="⚽ Futbol 🌎",Azteca Deportes Network (1280x720)
+https://vmvpd.short.gy/AztecaDeportesNetwork
 
-#EXTINF:    Iskhodnyy="✔️BSÑ✅"                  tvg-logo="" group-title="⚽ Futbol 🌎",BeIN Sports Ñ (1024x576)
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/9416579a-7851-4e11-9930-3916076984c2/0.m3u8
+#EXTINF:    Iskhodnyy="✔️BSÑ✅"                  tvg-logo="https://tvg-logo.short.gy/BeINDeportes" group-title="⚽ Futbol 🌎",BeIN Deportes Ñ (1024x576)
+https://vmvpd.short.gy/BeINDeportes
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -300,8 +300,8 @@ https://vmvpd.short.gy/MonteRricoTv
 #EXTINF:    Iskhodnyy="✔️Turf✅"              tvg-logo="https://tvg-logo.short.gy/Turf" group-title="🏎️ Ruedas & Cesped 🏇",Turf (1280x720)
 https://vmvpd.short.gy/Turf
 
-#EXTINF:    Iskhodnyy="✔️TT✅"              tvg-logo="" group-title="🏎️ Ruedas & Cesped 🏇",TeleTrak (1280x720)
-https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️TT✅"              tvg-logo="https://tvg-logo.short.gy/TeleTrak" group-title="🏎️ Ruedas & Cesped 🏇",TeleTrak (1280x720)
+https://vmvpd.short.gy/TeleTrak
 
 #EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏎️ Ruedas & Cesped 🏇",MonteRrico (1080x720)
 https://vmvpd.short.gy/MonteRrricoTv
