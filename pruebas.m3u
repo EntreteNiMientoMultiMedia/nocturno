@@ -683,8 +683,6 @@ https://vmvpd.short.gy/EC/TopLatino
 https://vmvpd.short.gy/Karibena
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
 https://vmvpd.short.gy/WT/Karibena
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
-https://vmvpd.short.gy/T3B2/Karibena
 
 #EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="https://tvg-logo.short.gy/Hatun" group-title="🎧 Melodiya 🌍🔊",El Canal del Folklore 🇵🇪 (1280x720)
 https://vmvpd.short.gy/Hatun
@@ -705,16 +703,15 @@ https://vmvpd.short.gy/Deluxe
 https://vmvpd.short.gy/Poder
 
 #EXTINF:    Iskhodnyy="✔️N1F✅"                  tvg-logo="https://tvg-logo.short.gy/Numero1Fm" group-title="🎧 Melodiya 🌍🔊",Numero 1 Fm 🇹🇷 (1280x720)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+https://vmvpd.short.gy/Numero1
 #EXTINF:    Iskhodnyy="✔️N1F✅"                  tvg-logo="https://tvg-logo.short.gy/Numero1Fm" group-title="🎧 Melodiya 🌍🔊",Numero 1 Fm 🇹🇷 (1280x720)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+https://vmvpd.short.gy/NumeroUno
 
 #EXTINF:    Iskhodnyy="✔️TRTM✅"                  tvg-logo="https://tvg-logo.short.gy/TRTMuzik" group-title="🎧 Melodiya 🌍🔊",TRT Muzik 🇹🇷 (1920x1080)
 https://vmvpd.short.gy/TRTMuzik
 
 #EXTINF:    Iskhodnyy="✔️538✅"                  tvg-logo="https://tvg-logo.short.gy/538" group-title="🎧 Melodiya 🌍🔊",538 🇳🇱 (1280x720)
 https://vmvpd.short.gy/538
-
 
 #EXTINF:    Iskhodnyy="✔️Kiss✅"                  tvg-logo="https://tvg-logo.short.gy/Beso" group-title="🎧 Melodiya 🌍🔊",Beso 🇷🇴 (1920x1080)
 https://vmvpd.short.gy/Beso
@@ -1236,6 +1233,9 @@ https://vmvpd.short.gy/T3B2/ATV+
 https://vmvpd.short.gy/EC/RedComunicacionRegional
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RedComunicacionRegional" group-title="Caen demasiado rápido",RCR (1280x720) Red de Comunicación Regional (Revision)
 https://vmvpd.short.gy/T3B2/RedComunicacionRegional
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Karibeña" group-title="Caen demasiado rápido",Karibeña 🇵🇪 (1280x720)
+https://vmvpd.short.gy/T3B2/Karibena
 
 #EXTINF=====================================================================================================================================================================================================
 
