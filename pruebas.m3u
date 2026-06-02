@@ -674,101 +674,101 @@ https://vmvpd.short.gy/Wasabi
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️RVT✅"                  tvg-logo="https://tvg-logo.short.gy/RevolVerTv" group-title="🎧 Melodiya 🌍🔊",Revol VerTv 🇵🇪🇺🇸 (720x480)
-https://eu1.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 (1280x720)
-https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/TopLatino_win/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTopLatino_win_stream_0s&_cdn_session=5219554348&_cdn_token=e54cdf475df28f6c869477c325faab503bb18ea9
+https://vmvpd.short.gy/WT/TopLatino
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 (1280x720)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOPLATINO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOPLATINO_stream_qf&_cdn_session=3949806563&_cdn_token=688c1775555572d0297b8fbdc8e2065aaeffab5f
+https://vmvpd.short.gy/EC/TopLatino
 
 #EXTINF:    Iskhodnyy="✔️Karibeña✅"                  tvg-logo="https://tvg-logo.short.gy/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
-https://luna-1-video.mediaserver.digital/karibenatv_685a-pe-a5676-584412/tracks-v1a1/mono.m3u8
+https://vmvpd.short.gy/Karibena
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
-https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Karibena_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DKaribena_WIN_stream_ky&_cdn_session=5219560972&_cdn_token=113f9b4fca0f4f4021143ce82a888efc4466ad38
+https://vmvpd.short.gy/WT/Karibena
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
-https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
+https://vmvpd.short.gy/T3B2/Karibena
 
 #EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="https://tvg-logo.short.gy/Hatun" group-title="🎧 Melodiya 🌍🔊",El Canal del Folklore 🇵🇪 (1280x720)
-https://ca2.oxira.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8?remote=38.25.32.91&token=3c601fe89652f648d6cd649f59e6ae7bac97001f-bfd0add234823fac101ccb2fdbd68f7e-1778734182-1778723382
+https://vmvpd.short.gy/Hatun
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/MusicTv" group-title="🎧 Melodiya 🌍🔊",Music Tv 🇺🇸🇵🇪 (1920x1080)
-https://live-evg10.tv360.bitel.com.pe/bitel/musictv/chunks.m3u8
+https://vmvpd.short.gy/T3B2/MusicTv
 
 #EXTINF:    Iskhodnyy="✔️RMT✅"                  tvg-logo="https://tvg-logo.short.gy/RetroMusicTelevision" group-title="🎧 Melodiya 🌍🔊",Retro 🇨🇿 (1280x720)
-https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w142063841_b3256000.m3u8
+https://vmvpd.short.gy/RetroMusicTelevision
 
 #EXTINF:    Iskhodnyy="✔️Rock✅"                  tvg-logo="https://tvg-logo.short.gy/RockFM" group-title="🎧 Melodiya 🌍🔊",Rock FM 🇷🇴 (1280x720)
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+https://vmvpd.short.gy/RockFM
 
 #EXTINF:    Iskhodnyy="✔️Deluxe✅"                  tvg-logo="https://tvg-logo.short.gy/Deluxe" group-title="🎧 Melodiya 🌍🔊",De Lujo 🇩🇪 (1280x720)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+https://vmvpd.short.gy/Deluxe
 
 #EXTINF:    Iskhodnyy="✔️Poder✅"                  tvg-logo="https://tvg-logo.short.gy/Poder" group-title="🎧 Melodiya 🌍🔊",Poder 🇹🇷 (1280x720)
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2496000_sltur.m3u8
+https://vmvpd.short.gy/Poder
 
 #EXTINF:    Iskhodnyy="✔️N1F✅"                  tvg-logo="https://tvg-logo.short.gy/Numero1Fm" group-title="🎧 Melodiya 🌍🔊",Numero 1 Fm 🇹🇷 (1280x720)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️N1F✅"                  tvg-logo="https://tvg-logo.short.gy/Numero1Fm" group-title="🎧 Melodiya 🌍🔊",Numero 1 Fm 🇹🇷 (1280x720)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
 
 #EXTINF:    Iskhodnyy="✔️TRTM✅"                  tvg-logo="https://tvg-logo.short.gy/TRTMuzik" group-title="🎧 Melodiya 🌍🔊",TRT Muzik 🇹🇷 (1920x1080)
-https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
+https://vmvpd.short.gy/TRTMuzik
 
 #EXTINF:    Iskhodnyy="✔️538✅"                  tvg-logo="https://tvg-logo.short.gy/538" group-title="🎧 Melodiya 🌍🔊",538 🇳🇱 (1280x720)
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+https://vmvpd.short.gy/538
 
 
 #EXTINF:    Iskhodnyy="✔️Kiss✅"                  tvg-logo="https://tvg-logo.short.gy/Beso" group-title="🎧 Melodiya 🌍🔊",Beso 🇷🇴 (1920x1080)
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+https://vmvpd.short.gy/Beso
+#EXTINF:    Iskhodnyy="✔️Kiss✅"                  tvg-logo="https://tvg-logo.short.gy/Beso" group-title="🎧 Melodiya 🌍🔊",Beso 🇷🇴 (1920x1080)
+https://vmvpd.short.gy/Kiss
 
 #EXTINF:    Iskhodnyy="✔️V2B✅"                  tvg-logo="https://tvg-logo.short.gy/Vibe2Beat" group-title="🎧 Melodiya 🌍🔊",Vibracion para el ritmo 🇧🇬 (1280x720)
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+https://vmvpd.short.gy/Vibe2Beat
 
 #EXTINF:    Iskhodnyy="✔️4F✅"                  tvg-logo="https://tvg-logo.short.gy/4Fun" group-title="🎧 Melodiya 🌍🔊",Para Divertirse 🇵🇱 (1024x576)
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+https://vmvpd.short.gy/4Fun
 
 #EXTINF:    Iskhodnyy="✔️KH✅"                  tvg-logo="https://tvg-logo.short.gy/KroneHit" group-title="🎧 Melodiya 🌍🔊",Krone HIT 🇦🇹 (960x540)
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+https://vmvpd.short.gy/KroneHit
 
 #EXTINF:    Iskhodnyy="✔️OS✅"                  tvg-logo="https://tvg-logo.short.gy/OckoStar" group-title="🎧 Melodiya 🌍🔊",Ocko Estrella 🇨🇿 (720x400)
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
+https://vmvpd.short.gy/OckoStar
 
 #EXTINF:    Iskhodnyy="✔️OE✅"                  tvg-logo="https://tvg-logo.short.gy/OckoExpres" group-title="🎧 Melodiya 🌍🔊",Ocko Expres 🇨🇿 (960x540)
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+https://vmvpd.short.gy/OckoExpres
 #EXTINF:    Iskhodnyy="✔️OE✅"                  tvg-logo="https://tvg-logo.short.gy/OckoExpres" group-title="🎧 Melodiya 🌍🔊",Ocko Expres 🇨🇿 (720x400)
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunklist_b2628000.m3u8
+https://vmvpd.short.gy/ExpresOcko
 
 #EXTINF:    Iskhodnyy="✔️RCFG✅"                  tvg-logo="https://tvg-logo.short.gy/SienteteBien" group-title="🎧 Melodiya 🌍🔊",Sientete Bien 🇧🇪 (854x480) Radio Contacto
-https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master20260512-HLS_1200.m3u8
+https://vmvpd.short.gy/SienteteBien
 
 #EXTINF:    Iskhodnyy="✔️RVT✅"                  tvg-logo="https://tvg-logo.short.gy/BritAsia" group-title="🎧 Melodiya 🌍🔊",BritAsia 🇬🇧 (1920x1080)
-https://hls.autopo.st/hls/britasiatv/index.m3u8
+https://vmvpd.short.gy/BritAsia
 
 #EXTINF:    Iskhodnyy="✔️DR✅"                  tvg-logo="https://tvg-logo.short.gy/DeluxeRap" group-title="🎧 Melodiya 🌍🔊",De Lujo Rap 🇩🇪 (1920x1080)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+https://vmvpd.short.gy/DeluxeRap
 
 #EXTINF:    Iskhodnyy="✔️OM✅"                  tvg-logo="https://tvg-logo.short.gy/OxygenMusic" group-title="🎧 Melodiya 🌍🔊",Musica de Oxigeno 🇷🇺 (1280x720)
-https://oxygenmusic.hu:2443/hls/oxygenmusic_2200.m3u8
+https://vmvpd.short.gy/OxygenMusic
 
 #EXTINF:    Iskhodnyy="✔️МУЗ✅"                  tvg-logo="https://tvg-logo.short.gy/МУЗ" group-title="🎧 Melodiya 🌍🔊",TeleVision Musical 🇷🇺 (1024x576) МУЗ-ТВ
-https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://vmvpd.short.gy/МУЗ
 
 #EXTINF:    Iskhodnyy="✔️TIC✅"              tvg-logo="https://tvg-logo.short.gy/TokyoIdolChannel" group-title="🎧 Melodiya 🌍🔊",Idolos de Tokio 🇯🇵 (960x540)
 https://vmvpd.short.gy/TokyoIdolChannel
 
 #EXTINF:    Iskhodnyy="✔️BB✅"                  tvg-logo="https://tvg-logo.short.gy/BalleBalle" group-title="🎧 Melodiya 🌍🔊",Balle Balle 🇮🇳 (1280x720)
-https://mcncdndigital.com/balleballetv/index.m3u8
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+https://vmvpd.short.gy/BalleBalle
+#EXTINF:    Iskhodnyy="✔️BB✅"                  tvg-logo="https://tvg-logo.short.gy/BalleBalle" group-title="🎧 Melodiya 🌍🔊",Balle Balle 🇮🇳 (1280x720)
+https://vmvpd.short.gy/BaileBaile
 
 #EXTINF:    Iskhodnyy="✔️Muzangala✅"                  tvg-logo="https://tvg-logo.short.gy/Muzangala" group-title="🎧 Melodiya 🌍🔊",Muzangala 🇦🇴 (1920x1080)
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1324557890.m3u8
+https://vmvpd.short.gy/Muzangala
 
 #EXTINF:    Iskhodnyy="✔️AMC✅"                  tvg-logo="https://tvg-logo.short.gy/AMusic" group-title="🎧 Melodiya 🌍🔊",AMuscic 🇳🇬 (720x576)
-http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
+https://vmvpd.short.gy/AMusic
 
 #EXTINF:    Iskhodnyy="✔️SolidGbedu✅"                  tvg-logo="https://tvg-logo.short.gy/SolidGbedu" group-title="🎧 Melodiya 🌍🔊",Ritmo Solido 🇳🇬 (1920x1080)
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/2b11dc79-be39-4092-9cd4-c6a3c0e5169f/2.m3u8
+https://vmvpd.short.gy/SolidGbedu
 
 #EXTINF=====================================================================================================================================================================================================
 
