@@ -947,15 +947,21 @@ https://vmvpd.short.gy/EC/ViaTeleVision
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ViaTeleVision" group-title="🌳 De la Selva su Encanto 🦜",Via (Tarapoto)
 https://vmvpd.short.gy/T3B2/ViaTeleVision
 
+#EXTINF:    Iskhodnyy="✔️Uranio✅"                  tvg-logo="https://tvg-logo.short.gy/Uranio" group-title="🌳 De la Selva su Encanto 🦜",Uranio (Yurimaguas)
+ps://vmvpd.short.gy/Uranio
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Uranio" group-title="🌳 De la Selva su Encanto 🦜",Uranio (Yurimaguas)
 https://vmvpd.short.gy/T3B2/Uranio
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Ucayali" group-title="🌳 De la Selva su Encanto 🦜",Ucayali (Ucayali)
 https://vmvpd.short.gy/T3B2/Ucayali
 
+#EXTINF:    Iskhodnyy="✔️Tropical✅"                  tvg-logo="https://tvg-logo.short.gy/Tropical" group-title="🌳 De la Selva su Encanto 🦜",Tropical (Tarapoto)
+https://vmvpd.short.gy/Tropical
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Tropical" group-title="🌳 De la Selva su Encanto 🦜",Tropical (Tarapoto)
 https://vmvpd.short.gy/T3B2/Tropical
 
+#EXTINF:    Iskhodnyy="✔️TaraPoto✅"                  tvg-logo="https://tvg-logo.short.gy/Tarapoto" group-title="🌳 De la Selva su Encanto 🦜",Tarapoto (Tarapoto)
+https://vmvpd.short.gy/Tarapoto
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Tarapoto" group-title="🌳 De la Selva su Encanto 🦜",Tarapoto (Tarapoto)
 https://vmvpd.short.gy/T3B2/TaraPoto
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TaraPoto" group-title="🌳 De la Selva su Encanto 🦜",Tarapoto (Tarapoto)
@@ -964,12 +970,18 @@ https://vmvpd.short.gy/EC/TaraPoto
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Selvatica" group-title="🌳 De la Selva su Encanto 🦜",Selvatica (Pucallpa)
 https://vmvpd.short.gy/T3B2/Selvatica
 
+#EXTINF:    Iskhodnyy="✔️Selva✅"                  tvg-logo="https://tvg-logo.short.gy/Selva" group-title="🌳 De la Selva su Encanto 🦜",Selva (Loreto)
+https://vmvpd.short.gy/Selva
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Selva" group-title="🌳 De la Selva su Encanto 🦜",Selva (Loreto)
 https://vmvpd.short.gy/T3B2/Selva
 
+#EXTINF:    Iskhodnyy="✔️RTotal✅"                  tvg-logo="https://tvg-logo.short.gy/RTotal" group-title="🌳 De la Selva su Encanto 🦜",R Total (Yurimaguas)
+https://vmvpd.short.gy/RTotal
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RTotal" group-title="🌳 De la Selva su Encanto 🦜",R Total (Yurimaguas)
 https://vmvpd.short.gy/T3B2/RTotal
 
+#EXTINF:    Iskhodnyy="✔️RLibertad✅"                  tvg-logo="https://tvg-logo.short.gy/RLibertad" group-title="🌳 De la Selva su Encanto 🦜",R Libertad (San Lorenzo)
+https://vmvpd.short.gy/RLibertad
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RLibertad" group-title="🌳 De la Selva su Encanto 🦜",R Libertad (San Lorenzo)
 https://vmvpd.short.gy/T3B2/RLibertad
 
@@ -979,6 +991,8 @@ https://vmvpd.short.gy/T3B2/Pucallpa
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Nex" group-title="🌳 De la Selva su Encanto 🦜",Nex (Pucallpa)
 https://vmvpd.short.gy/T3B2/Nex
 
+#EXTINF:    Iskhodnyy="✔️Master✅"                  tvg-logo="https://tvg-logo.short.gy/Master" group-title="🌳 De la Selva su Encanto 🦜",Master (Tarapoto)
+https://vmvpd.short.gy/Master
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Master" group-title="🌳 De la Selva su Encanto 🦜",Master (Tarapoto)
 https://vmvpd.short.gy/T3B2/Master
 
@@ -990,18 +1004,26 @@ https://vmvpd.short.gy/ConsueloEstrella
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ConsueloEstrella" group-title="🌳 De la Selva su Encanto 🦜",Consuelo Estrella (Valle del Sisa)
 https://vmvpd.short.gy/T3B2/ConsueloEstrella
 
+#EXTINF:    Iskhodnyy="✔️CNC✅"                  tvg-logo="https://tvg-logo.short.gy/CNC" group-title="🌳 De la Selva su Encanto 🦜",CNC (Iquitos)
+https://vmvpd.short.gy/CNC
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CNC" group-title="🌳 De la Selva su Encanto 🦜",CNC (Iquitos)
 https://vmvpd.short.gy/T3B2/CNC
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/MaxCanal" group-title="🌳 De la Selva su Encanto 🦜",Canal Max (Iquitos)
 https://vmvpd.short.gy/T3B2/MaxCanal
 
+#EXTINF:    Iskhodnyy="✔️Arpegio✅"                  tvg-logo="https://tvg-logo.short.gy/Arpegio" group-title="🌳 De la Selva su Encanto 🦜",Arpegio (Iquitos)
+https://vmvpd.short.gy/Arpegio
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Arpegio" group-title="🌳 De la Selva su Encanto 🦜",Arpegio (Iquitos)
 https://vmvpd.short.gy/T3B2/Arpegio
 
+#EXTINF:    Iskhodnyy="✔️Amazonica✅"                  tvg-logo="https://tvg-logo.short.gy/Amazonica" group-title="🌳 De la Selva su Encanto 🦜",Amazonica (Iquitos)
+https://vmvpd.short.gy/Amazonica
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Amazonica" group-title="🌳 De la Selva su Encanto 🦜",Amazonica (Iquitos)
 https://vmvpd.short.gy/T3B2/Amazonica
 
+#EXTINF:    Iskhodnyy="✔️Alpha✅"                  tvg-logo="https://tvg-logo.short.gy/Alpha" group-title="🌳 De la Selva su Encanto 🦜",Alpha (Pucallpa)
+https://vmvpd.short.gy/Alpha
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Alpha" group-title="🌳 De la Selva su Encanto 🦜",Alpha (Pucallpa)
 https://vmvpd.short.gy/T3B2/Alpha
 
