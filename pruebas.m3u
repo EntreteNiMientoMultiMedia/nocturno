@@ -903,6 +903,10 @@ https://vmvpd.short.gy/T3B2/36Huacho
 
 #EXTINF=====================================================================================================================================================================================================
 
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/AndinaR" group-title="🏔️ Corazon de los Andes 🦙",Andina R (Ayacucho)
+https://vmvpd.short.gy/T3B2/AndinaR
+
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Antena1" group-title="🏔️ Corazon de los Andes 🦙",Canal Antena 1 (Puno)
 https://vmvpd.short.gy/EC/Antena1
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Antena1" group-title="🏔️ Corazon de los Andes 🦙",Canal Antena 1 (Puno)
@@ -919,6 +923,9 @@ https://vmvpd.short.gy/T3B2/Canal25
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CNCCajamarca" group-title="🏔️ Corazon de los Andes 🦙",CNC Cajamarca (Cajamarca)
 https://vmvpd.short.gy/T3B2/CNCCajamarca
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CTC" group-title="🏔️ Corazon de los Andes 🦙",CTC (Cusco)
+https://vmvpd.short.gy/T3B2/CTC
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/HoyPeru" group-title="🏔️ Corazon de los Andes 🦙",Hoy Peru (Jaen)
 https://vmvpd.short.gy/T3B2/HoyPeru
@@ -1484,7 +1491,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/radiocorporacionpasco/chunks.m3u8?uid
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763741837182/b363f65ccb06_480_270.png" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",CorporaciónTv 🇻🇳 Pasco 1920x1080p
 https://live-evg18.tv360.bitel.com.pe/bitel/cumbretv/chunks.m3u8
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763757048961/41a1ddc4b066_480_270.png" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",CTCv 🇻🇳 Cuzco 1920x1080p
+#EXTINF: tvg-logo="" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",CTCv 🇻🇳 Cuzco 1920x1080p
 https://live-evg7.tv360.bitel.com.pe/bitel/ctc/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743172965/80e269c5da52_480_270.png" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",ExtremoTv 🇻🇳 Puno 1920x1080p
