@@ -914,6 +914,9 @@ https://vmvpd.short.gy/EC/Antena1
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Antena1" group-title="🏔️ Corazon de los Andes 🦙",Canal Antena 1 (Puno)
 https://vmvpd.short.gy/WT/Antena1
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Atlantis" group-title="🏔️ Corazon de los Andes 🦙",Atlantis (Ayacucho)
+https://vmvpd.short.gy/T3B2/Atlantis
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Aura" group-title="🏔️ Corazon de los Andes 🦙",Aura (Cajamarca)
 https://vmvpd.short.gy/T3B2/Aura
 
@@ -942,6 +945,9 @@ https://vmvpd.short.gy/T3B2/Media
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Solar" group-title="🏔️ Corazon de los Andes 🦙",Solar (Abancay)
 https://vmvpd.short.gy/T3B2/Solar
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/StudioPasco" group-title="🏔️ Corazon de los Andes 🦙",Studio Pasco (Pasco)
+https://vmvpd.short.gy/T3B2/StudioPasco
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TeleSystem" group-title="🏔️ Corazon de los Andes 🦙",Tele Sistema (Cajamarca)
 https://vmvpd.short.gy/T3B2/TeleSystem
@@ -1538,7 +1544,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/rumba/chunks.m3u8?uid=12051151
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/176375611366/7ebc6261d5d5_480_270.png" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Solar TeleVisión 🇻🇳 Apurimac 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/chunks.m3u8
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743029139/dcccf1157c37_480_270.png" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Studio PascoTv 🇻🇳 Pasco 1920x1080p
+#EXTINF: tvg-logo="" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Studio PascoTv 🇻🇳 Pasco 1920x1080p
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743006469/47515e9586b9_480_270.png" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",TeleCentro 🇻🇳 Huancavelica 1920x1080p
