@@ -866,13 +866,19 @@ https://vmvpd.short.gy/T3B2/Creo+
 
 #EXTINF=====================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/VozDigitalPeru" group-title="🌊 Para Variar... de la Costa 🏖️",Voz Digital Peru (Callao)
+https://vmvpd.short.gy/T3B2/VozDigitalPeru
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ViruParty" group-title="🌊 Para Variar... de la Costa 🏖️",Viru Party (Viru)
 https://vmvpd.short.gy/T3B2/ViruParty
 
-#EXTINF:    Iskhodnyy="✔️Region✅"                  tvg-logo="https://tvg-logo.short.gy/Region" group-title="🌊 Para Variar... de la Costa 🏖️",Region (Callao)
+#EXTINF:    Iskhodnyy="✔️Region✅"                  tvg-logo="https://tvg-logo.short.gy/Region" group-title="🌊 Para Variar... de la Costa 🏖️",Region (Callao) RTv
 https://vmvpd.short.gy/Region
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Region" group-title="🌊 Para Variar... de la Costa 🏖️",Region (Callao)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Region" group-title="🌊 Para Variar... de la Costa 🏖️",Region (Callao) RTv
 https://vmvpd.short.gy/T3B2/Region
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Piura" group-title="🌊 Para Variar... de la Costa 🏖️",Piura (Piura)
+https://vmvpd.short.gy/T3B2/Piura
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvNorte" group-title="🌊 Para Variar... de la Costa 🏖️",Norte (Chiclayo)
 https://vmvpd.short.gy/T3B2/TvNorte
@@ -926,11 +932,11 @@ https://vmvpd.short.gy/T3B2/Cajamarca
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Canal25" group-title="🏔️ Corazon de los Andes 🦙",Canal 25 (Ayacucho)
 https://vmvpd.short.gy/T3B2/Canal25
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CNH" group-title="🏔️ Corazon de los Andes 🦙",CNH (Huanuco)
-https://vmvpd.short.gy/T3B2/CNH
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CNCCajamarca" group-title="🏔️ Corazon de los Andes 🦙",CNC Cajamarca (Cajamarca)
 https://vmvpd.short.gy/T3B2/CNCCajamarca
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CNH" group-title="🏔️ Corazon de los Andes 🦙",CNH (Huanuco)
+https://vmvpd.short.gy/T3B2/CNH
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CTC" group-title="🏔️ Corazon de los Andes 🦙",CTC (Cusco)
 https://vmvpd.short.gy/T3B2/CTC
@@ -1443,10 +1449,10 @@ https://live-evg5.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?uid=12051151
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756370285/975ca986dc17_480_270.png" group-title="Para variar 🗿🌊 de la Costa",OndaTv 🇻🇳 Ica 1280x720p
 https://live-evg5.tv360.bitel.com.pe/bitel/onda/chunks.m3u8?uid=12051151
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763755177155/f8bbb2c1dfd6_480_270.png" group-title="Para variar 🗿🌊 de la Costa",PiuraTv 🇻🇳 Piura 1280x720p
+#EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",PiuraTv 🇻🇳 Piura 1280x720p
 https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/chunks.m3u8?uid=12051151
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/176375678731/b6ba71d76f07_480_270.png" group-title="Para variar 🗿🌊 de la Costa",R Tv 🇻🇳 Callao 1920x1080p
+#EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",R Tv 🇻🇳 Callao 1920x1080p
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756147616/c429cdb0ff05_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Radio Uno 🇻🇳 Tacna 1280x720p
