@@ -895,6 +895,12 @@ https://vmvpd.short.gy/T3B2/NZK
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TvNorte" group-title="🌊 Para Variar... de la Costa 🏖️",Norte (Chiclayo)
 https://vmvpd.short.gy/T3B2/TvNorte
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Klip" group-title="🌊 Para Variar... de la Costa 🏖️",Klip (Arequipa)
+https://vmvpd.short.gy/T3B2/Klip
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Kaliente49" group-title="🌊 Para Variar... de la Costa 🏖️",Kaliente (Lambayeque) Canal 49
+https://vmvpd.short.gy/T3B2/Kaliente49
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/HuaralEnLinea" group-title="🌊 Para Variar... de la Costa 🏖️",Huaral En Linea (Huaral)
 https://vmvpd.short.gy/T3B2/HuaralEnLinea
 
@@ -1008,6 +1014,9 @@ https://vmvpd.short.gy/EC/ViaTeleVision
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ViaTeleVision" group-title="🌳 De la Selva su Encanto 🦜",Via (Tarapoto)
 https://vmvpd.short.gy/T3B2/ViaTeleVision
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Ucayalina" group-title="🌳 De la Selva su Encanto 🦜",Ucayalina (Ucayali) UTv
+https://vmvpd.short.gy/T3B2/Ucayalina
+
 #EXTINF:    Iskhodnyy="✔️Uranio✅"                  tvg-logo="https://tvg-logo.short.gy/Uranio" group-title="🌳 De la Selva su Encanto 🦜",Uranio (Yurimaguas)
 ps://vmvpd.short.gy/Uranio
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Uranio" group-title="🌳 De la Selva su Encanto 🦜",Uranio (Yurimaguas)
@@ -1027,6 +1036,11 @@ https://vmvpd.short.gy/Tarapoto
 https://vmvpd.short.gy/T3B2/TaraPoto
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TaraPoto" group-title="🌳 De la Selva su Encanto 🦜",Tarapoto (Tarapoto)
 https://vmvpd.short.gy/EC/TaraPoto
+
+#EXTINF:    Iskhodnyy="✔️SC✅"                  tvg-logo="https://tvg-logo.short.gy/SuperCanal" group-title="🌳 De la Selva su Encanto 🦜",Super Canal (Loreto)
+https://vmvpd.short.gy/SuperCanal
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/SuperCanal" group-title="🌳 De la Selva su Encanto 🦜",Super Canal (Loreto)
+https://vmvpd.short.gy/T3B2/SuperCanal
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Selvatica" group-title="🌳 De la Selva su Encanto 🦜",Selvatica (Pucallpa)
 https://vmvpd.short.gy/T3B2/Selvatica
@@ -1059,6 +1073,11 @@ https://vmvpd.short.gy/T3B2/Master
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Mar" group-title="🌳 De la Selva su Encanto 🦜",Mar (Puerto Maldonado)
 https://vmvpd.short.gy/T3B2/Mar
+
+#EXTINF:    Iskhodnyy="✔️FA✅"                  tvg-logo="https://tvg-logo.short.gy/FrecuenciaAmazonica" group-title="🌳 De la Selva su Encanto 🦜",Frecuencia Amazónica (Yurimaguas)
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/FrecuenciaAmazonica" group-title="🌳 De la Selva su Encanto 🦜",Frecuencia Amazónica (Yurimaguas)
+https://vmvpd.short.gy/T3B2/FrecuenciaAmazonica
 
 #EXTINF:    Iskhodnyy="✔️CosmoVision✅"                  tvg-logo="https://tvg-logo.short.gy/CosmoVision" group-title="🌳 De la Selva su Encanto 🦜",CosmoVision (Yurimaguas)
 https://vmvpd.short.gy/CosmoVision
@@ -1633,7 +1652,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/chunks.m3u8
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/23/02/1747941878952/97be9250ac29_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",SelvaTv 🇻🇳 Loreto 854x480p
 https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/chunks.m3u8?uid=12051151
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828051386/f0e8de001c29_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Super Canal 🇻🇳 Loreto 1280x720p
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Super Canal 🇻🇳 Loreto 1280x720p
 https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/chunks.m3u8?uid=12051151
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/18/05/1739829893540/29a765aae2f5_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tarapoto TeleVisión 🇻🇳 Tarapoto 1920x1080p
@@ -1651,7 +1670,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/chunks.m3u8
 #EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",UcayaliTv 🇻🇳 Ucayali 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/chunks.m3u8
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/04/22/1738683497398/73d3f51cc2e7_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",U Tv 🇻🇳 Ucayali 1920x1080p
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",U Tv 🇻🇳 Ucayali 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
 
 #EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Uranio 🇻🇳 Tingo Maria 1920x1080p
