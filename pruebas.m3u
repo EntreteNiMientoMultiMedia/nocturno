@@ -913,6 +913,9 @@ https://vmvpd.short.gy/T3B2/Eco
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Dunas" group-title="🌊 Para Variar... de la Costa 🏖️",Dunas (Ica)
 https://vmvpd.short.gy/T3B2/Dunas
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Dac" group-title="🌊 Para Variar... de la Costa 🏖️",Dac (Cañete)
+https://vmvpd.short.gy/T3B2/Dac
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Cositel" group-title="🌊 Para Variar... de la Costa 🏖️",CosiTel (Ica)
 https://vmvpd.short.gy/T3B2/Cositel
 
@@ -1082,6 +1085,9 @@ https://vmvpd.short.gy/KBO
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/FrecuenciaAmazonica" group-title="🌳 De la Selva su Encanto 🦜",Frecuencia Amazónica (Yurimaguas)
 https://vmvpd.short.gy/T3B2/FrecuenciaAmazonica
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Dub" group-title="🌳 De la Selva su Encanto 🦜",Dub (San Martin)
+https://vmvpd.short.gy/T3B2/Dub
 
 #EXTINF:    Iskhodnyy="✔️CosmoVision✅"                  tvg-logo="https://tvg-logo.short.gy/CosmoVision" group-title="🌳 De la Selva su Encanto 🦜",CosmoVision (Yurimaguas)
 https://vmvpd.short.gy/CosmoVision
@@ -1630,7 +1636,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/chunks.m3u8
 #EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",CNC 🇻🇳 Iquitos 1280x720p
 https://live-evg18.tv360.bitel.com.pe/bitel/cnctvSRT/chunks.m3u8
 
-#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/12/22/1747064982280/ee9bc6171aa6_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",DubTv 🇻🇳 San Martin 1920x1080p
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",DubTv 🇻🇳 San Martin 1920x1080p
 https://live-evg18.tv360.bitel.com.pe/bitel/dubtv/chunks.m3u8
 
 #EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Master 🇻🇳 Tarapoto 1280x720p
