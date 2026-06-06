@@ -865,12 +865,12 @@ https://vmvpd.short.gy/WT/Conecta2
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Conecta2" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Conecta2 (1280x720)
 https://vmvpd.short.gy/EC/Conecta2
 
-#EXTINF:    Iskhodnyy="✔️CTv✅"                  tvg-logo="https://tvg-logo.short.gy/CTv" group-title="🇵🇪 Regional DesCentralizado 🌄📡",CTv (1280x720)
-https://vmvpd.short.gy/CTv
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CTv" group-title="🇵🇪 Regional DesCentralizado 🌄📡",CTv (1920x1080)
-https://vmvpd.short.gy/T3B2/CTv
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CTv" group-title="🇵🇪 Regional DesCentralizado 🌄📡",CTv (1280x720)
-https://vmvpd.short.gy/EC/CTv
+#EXTINF:    Iskhodnyy="✔️CTv✅"                  tvg-logo="https://tvg-logo.short.gy/Central" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Central (1280x720) CTv
+https://vmvpd.short.gy/Central
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Central" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Central (1920x1080) CTv
+https://vmvpd.short.gy/T3B2/Central
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/Central" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Central (1280x720) CTv
+https://vmvpd.short.gy/EC/Central
 
 #EXTINF:    Iskhodnyy="✔️BH✅"                  tvg-logo="https://tvg-logo.short.gy/BlueHouse" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Blue House (1920x1080)
 https://vmvpd.short.gy/BlueHouse
