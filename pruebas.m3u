@@ -775,6 +775,9 @@ https://vmvpd.short.gy/T3B2/VisionSur
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/EC/VisionSur" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Vision Sur (Arequipa) 1280x720
 https://vmvpd.short.gy/WT/VisionSur
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Compañia de TeleVision Cusqueña (Cusco)
+https://vmvpd.short.gy/T3B2/CTC
+
 #EXTINF:    Iskhodnyy="✔️Cosmos✅"                  tvg-logo="https://tvg-logo.short.gy/Cosmos" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Cosmos (Trujillo) 854x480
 https://vmvpd.short.gy/Cosmos
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Cosmos" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Cosmos (Trujillo) 1280x720
@@ -786,6 +789,26 @@ https://vmvpd.short.gy/SolTv
 https://vmvpd.short.gy/T3B2/SolTv
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/SolTv" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Sol (Trujillo) 720x576
 https://vmvpd.short.gy/WT/SolTv
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RadioUno" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Radio Uno (Tacna)
+https://vmvpd.short.gy/T3B2/RadioUno
+
+#EXTINF:    Iskhodnyy="✔️TurboMix✅"                  tvg-logo="https://tvg-logo.short.gy/TurboMix" group-title="🇵🇪 Regional DesCentralizado 🌄📡",TurboMix (Cajamarca)
+https://vmvpd.short.gy/TurboMix
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TurboMix" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Turbo Mix (Cajamarca)
+https://vmvpd.short.gy/T3B2/TurboMix
+
+#EXTINF:    Iskhodnyy="✔️Via✅"                  tvg-logo="https://tvg-logo.short.gy/ViaTeleVision" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Via (Tarapoto)
+https://vmvpd.short.gy/ViaTeleVision
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ViaTeleVision" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Via (Tarapoto)
+https://vmvpd.short.gy/EC/ViaTeleVision
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ViaTeleVision" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Via (Tarapoto)
+https://vmvpd.short.gy/T3B2/ViaTeleVision
+
+#EXTINF:    Iskhodnyy="✔️Ucayalina✅"                  tvg-logo="https://tvg-logo.short.gy/Ucayalina" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Ucayalina (Pucallpa) UTv
+https://vmvpd.short.gy/Ucayalina
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Ucayalina" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Ucayalina (Pucallpa) UTv
+https://vmvpd.short.gy/T3B2/Ucayalina
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Viva" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Viva (1280x720)
 https://vmvpd.short.gy/WT/Viva
@@ -871,9 +894,6 @@ https://vmvpd.short.gy/Region
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Region" group-title="🌊 Para Variar... de la Costa 🏖️",Region (Callao) RTv
 https://vmvpd.short.gy/T3B2/Region
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/RadioUno" group-title="🌊 Para Variar... de la Costa 🏖️",Radio Uno (Tacna)
-https://vmvpd.short.gy/T3B2/RadioUno
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Piura" group-title="🌊 Para Variar... de la Costa 🏖️",Piura (Piura)
 https://vmvpd.short.gy/T3B2/Piura
 
@@ -953,14 +973,11 @@ https://vmvpd.short.gy/T3B2/Cajamarca
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Canal25" group-title="🏔️ Corazon de los Andes 🦙",Canal 25 (Ayacucho)
 https://vmvpd.short.gy/T3B2/Canal25
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CNCCajamarca" group-title="🏔️ Corazon de los Andes 🦙",CNC Cajamarca (Cajamarca)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CNCCajamarca" group-title="🏔️ Corazon de los Andes 🦙",Canal Noticias Cajamarca (Cajamarca) CNC
 https://vmvpd.short.gy/T3B2/CNCCajamarca
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CNH" group-title="🏔️ Corazon de los Andes 🦙",CNH (Huanuco)
 https://vmvpd.short.gy/T3B2/CNH
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/CTC" group-title="🏔️ Corazon de los Andes 🦙",CTC (Cusco)
-https://vmvpd.short.gy/T3B2/CTC
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/HoyPeru" group-title="🏔️ Corazon de los Andes 🦙",Hoy Peru (Jaen)
 https://vmvpd.short.gy/T3B2/HoyPeru
@@ -1003,11 +1020,6 @@ https://vmvpd.short.gy/T3B2/TeleSystem
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TeleSur" group-title="🏔️ Corazon de los Andes 🦙",Tele Sur (Cusco)
 https://vmvpd.short.gy/T3B2/TeleSur
 
-#EXTINF:    Iskhodnyy="✔️TurboMix✅"                  tvg-logo="https://tvg-logo.short.gy/TurboMix" group-title="🏔️ Corazon de los Andes 🦙",TurboMix (Cajamarca)
-https://vmvpd.short.gy/TurboMix
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/TurboMix" group-title="🏔️ Corazon de los Andes 🦙",Turbo Mix (Cajamarca)
-https://vmvpd.short.gy/T3B2/TurboMix
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Yungay" group-title="🏔️ Corazon de los Andes 🦙",Yungay (Yungay)
 https://vmvpd.short.gy/T3B2/Yungay
 
@@ -1016,23 +1028,13 @@ https://vmvpd.short.gy/T3B2/Yungay
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Yurimaguas" group-title="🌳 De la Selva su Encanto 🦜",Yurimaguas (Yurimaguas)
 https://vmvpd.short.gy/T3B2/Yurimaguas
 
-#EXTINF:    Iskhodnyy="✔️Via✅"                  tvg-logo="https://tvg-logo.short.gy/ViaTeleVision" group-title="🌳 De la Selva su Encanto 🦜",Via (Tarapoto)
-https://vmvpd.short.gy/ViaTeleVision
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/ViaTeleVision" group-title="🌳 De la Selva su Encanto 🦜",Via (Tarapoto)
-https://vmvpd.short.gy/EC/ViaTeleVision
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/ViaTeleVision" group-title="🌳 De la Selva su Encanto 🦜",Via (Tarapoto)
-https://vmvpd.short.gy/T3B2/ViaTeleVision
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Ucayalina" group-title="🌳 De la Selva su Encanto 🦜",Ucayalina (Ucayali) UTv
-https://vmvpd.short.gy/T3B2/Ucayalina
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Ucayali" group-title="🌳 De la Selva su Encanto 🦜",Ucayali (Ucayali)
+https://vmvpd.short.gy/T3B2/Ucayali
 
 #EXTINF:    Iskhodnyy="✔️Uranio✅"                  tvg-logo="https://tvg-logo.short.gy/Uranio" group-title="🌳 De la Selva su Encanto 🦜",Uranio (Yurimaguas)
 ps://vmvpd.short.gy/Uranio
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Uranio" group-title="🌳 De la Selva su Encanto 🦜",Uranio (Yurimaguas)
 https://vmvpd.short.gy/T3B2/Uranio
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Ucayali" group-title="🌳 De la Selva su Encanto 🦜",Ucayali (Ucayali)
-https://vmvpd.short.gy/T3B2/Ucayali
 
 #EXTINF:    Iskhodnyy="✔️Tropical✅"                  tvg-logo="https://tvg-logo.short.gy/Tropical" group-title="🌳 De la Selva su Encanto 🦜",Tropical (Tarapoto)
 https://vmvpd.short.gy/Tropical
