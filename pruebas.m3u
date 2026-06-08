@@ -126,14 +126,14 @@ https://vmvpd.short.gy/ВТ/Монитор
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️МовистарСпорт✅"              tvg-logo="" group-title="⚽ Futbol 🇵🇪",Movistar Deportes ()
+#EXTINF:    Iskhodnyy="✔️МовистарСпорт✅"              tvg-logo="https://tvg-logo.short.gy/МовистарСпорт" group-title="⚽ Futbol 🇵🇪",Movistar Deportes ()
 https://vmvpd.short.gy/МовистарСпорт
 
-#EXTINF:    Iskhodnyy="✔️Л1Макс✅"              tvg-logo="https://tvg-logo.short.gy/L1Max" group-title="⚽ Futbol 🇵🇪",L1 Max ()
+#EXTINF:    Iskhodnyy="✔️Л1Макс✅"              tvg-logo="https://tvg-logo.short.gy/Л1Макс" group-title="⚽ Futbol 🇵🇪",L1 Max ()
 https://vmvpd.short.gy/Л1Макс
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="⚽ Futbol 🇵🇪",L1 Max (1280x720)
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/Л1Макс" group-title="⚽ Futbol 🇵🇪",L1 Max (1280x720)
 https://vmvpd.short.gy/ВТ/Л1Макс
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://tvg-logo.short.gy/T3B2/L1Max" group-title="⚽ Futbol 🇵🇪",L1 Max ()
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://tvg-logo.short.gy/Т3Б2/Л1Макс" group-title="⚽ Futbol 🇵🇪",L1 Max ()
 https://vmvpd.short.gy/Т3Б2/Л1Макс
 
 #EXTINF:    Iskhodnyy="🎯БиЦвет+⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Bicolor+" group-title="⚽ Futbol 🇵🇪",Bicolor+ (1920x1080)
