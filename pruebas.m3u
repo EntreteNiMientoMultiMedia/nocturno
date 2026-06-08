@@ -126,6 +126,9 @@ https://vmvpd.short.gy/ВТ/Монитор
 
 #EXTINF=====================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="✔️МовистарСпорт✅"              tvg-logo="" group-title="⚽ Futbol 🇵🇪",Movistar Deportes ()
+https://vmvpd.short.gy/МовистарСпорт
+
 #EXTINF:    Iskhodnyy="✔️Л1Макс✅"              tvg-logo="https://tvg-logo.short.gy/L1Max" group-title="⚽ Futbol 🇵🇪",L1 Max ()
 https://vmvpd.short.gy/Л1Макс
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/L1Max" group-title="⚽ Futbol 🇵🇪",L1 Max (1280x720)
