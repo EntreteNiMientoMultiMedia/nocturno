@@ -136,7 +136,7 @@ https://vmvpd.short.gy/ВТ/Л1Макс
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://tvg-logo.short.gy/T3B2/L1Max" group-title="⚽ Futbol 🇵🇪",L1 Max ()
 https://vmvpd.short.gy/Т3Б2/Л1Макс
 
-#EXTINF:    Iskhodnyy="🎯Bicolor+⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Bicolor+" group-title="⚽ Futbol 🇵🇪",Bicolor+ (1920x1080)
+#EXTINF:    Iskhodnyy="🎯БиЦвет+⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/Bicolor+" group-title="⚽ Futbol 🇵🇪",Bicolor+ (1920x1080)
 https://vmvpd.short.gy/Т3Б2/БиЦвет+
 
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Eventos" group-title="⚽ Futbol 🇵🇪",Super (1280x720)
@@ -150,6 +150,39 @@ https://vmvpd.short.gy/Т3Б2/Овация
 https://vmvpd.short.gy/ВТ/Овация
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/Ovacion" group-title="⚽ Futbol 🇵🇪",Ovacion (1280x720)
 https://vmvpd.short.gy/ЭС/Овация
+
+#EXTINF:    Iskhodnyy="✔️РСПСК✅"                  tvg-logo="" group-title="⚽ Futbol 🇵🇪",ESPN 🇨🇴
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьКолумбия
+
+#EXTINF:    Iskhodnyy="✔️РСПСВО✅"                  tvg-logo="" group-title="⚽ Futbol 🇵🇪",ESPN HD
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьВысокийОпределение
+
+#EXTINF:    Iskhodnyy="✔️РСПС2✅"                  tvg-logo="" group-title="⚽ Futbol 🇵🇪",ESPN 2
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьДва
+
+#EXTINF:    Iskhodnyy="✔️РСПС3✅"                  tvg-logo="" group-title="⚽ Futbol 🇵🇪",ESPN 3
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьТри
+
+#EXTINF:    Iskhodnyy="✔️РСПС3М✅"                  tvg-logo="" group-title="⚽ Futbol 🇵🇪",ESPN 3 🇲🇽
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьТриМексико
+
+#EXTINF:    Iskhodnyy="✔️РСПС4✅"                  tvg-logo="" group-title="⚽ Futbol 🇵🇪",ESPN 4
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьЧетыре
+
+#EXTINF:    Iskhodnyy="✔️РСПС5✅"                  tvg-logo="" group-title="⚽ Futbol 🇵🇪",ESPN 5
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьПять
+
+#EXTINF:    Iskhodnyy="✔️РСПС6✅"                  tvg-logo="" group-title="⚽ Futbol 🇵🇪",ESPN 6
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьШесть
+
+#EXTINF:    Iskhodnyy="✔️РСПС7✅"                  tvg-logo="" group-title="⚽ Futbol 🇵🇪",ESPN 7
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьприложение
+
+#EXTINF:    Iskhodnyy="✔️РСПС7✅"                  tvg-logo="" group-title="⚽ Futbol 🇵🇪",ESPN 7
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСеть+
+
+#EXTINF:    Iskhodnyy="✔️РСПСПА✅"                  tvg-logo="" group-title="⚽ Futbol 🇵🇪",ESPN Premium 🇦🇷
+https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьПремиумАргентина
 
 #EXTINF=====================================================================================================================================================================================================
 
