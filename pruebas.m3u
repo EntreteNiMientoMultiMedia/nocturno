@@ -302,14 +302,17 @@ https://vmvpd.short.gy/МногоВытащил
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️GMdP✅"              tvg-logo="https://tvg-logo.short.gy/GiraMundialDePoker" group-title="🕹️ Apuestas & eSports 🃏",Gira Mundial de Poker (1920x1080)
-https://vmvpd.short.gy/GiraMundialDePoker
+#EXTINF:    Iskhodnyy="✔️МПТ✅"              tvg-logo="https://tvg-logo.short.gy/МирПокерТур" group-title="🕹️ Apuestas & eSports 🃏",Gira Mundial de Poker (1920x1080)
+https://vmvpd.short.gy/МирПокерТур
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/WT/ESportsGo" group-title="🕹️ Apuestas & eSports 🃏",E Sports Go (720x576)
-https://vmvpd.short.gy/WT/ESportsGo
+#EXTINF:    Iskhodnyy="✔️ЭСМ✅"              tvg-logo="https://tvg-logo.short.gy/ЭлектроникаСпортМакс" group-title="🕹️ Apuestas & eSports 🃏",E Sports Max () 
+https://vmvpd.short.gy/ЭлектроникаСпортМакс
 
-#EXTINF:    Iskhodnyy="✔️BG✅"              tvg-logo="https://tvg-logo.short.gy/BoxGamers" group-title="🕹️ Apuestas & eSports 🃏",Box Gamers (1024x576)
-https://vmvpd.short.gy/BoxGamers
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/ЭлектроникаСпортИдти" group-title="🕹️ Apuestas & eSports 🃏",E Sports Go (720x576)
+https://vmvpd.short.gy/ВТ/ЭлектроникаСпортИдти
+
+#EXTINF:    Iskhodnyy="✔️КГ✅"              tvg-logo="https://tvg-logo.short.gy/КоробкаГеймеры" group-title="🕹️ Apuestas & eSports 🃏",Jugadores de Cajas (1024x576) Box Gamers
+https://vmvpd.short.gy/КоробкаГеймеры
 
 #EXTINF=====================================================================================================================================================================================================
 
