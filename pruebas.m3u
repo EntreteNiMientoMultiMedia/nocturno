@@ -238,7 +238,7 @@ https://vmvpd.short.gy/боевойТелевидение
 #EXTINF:    Iskhodnyy="✔️Кб✅"                tvg-logo="https://tvg-logo.short.gy/Корицабоевой" group-title="🥊 Combate & Accion 🥋",Canela Combate (1920x1080)
 https://vmvpd.short.gy/Корицабоевой
 
-#EXTINF:    Iskhodnyy="✔️ВбТб✅"                tvg-logo="https://tvg-logo.short.gy/ВыделятьсябоевойТурнирбоевой" group-title="🥊 Combate & Accion 🥋",Torneo de Lucha Destacado () SFT Combat
+#EXTINF:    Iskhodnyy="✔️ВбТб✅"                tvg-logo="https://tvg-logo.short.gy/ВыделятьсябоевойТурнирбоевой" group-title="🥊 Combate & Accion 🥋",Torneo de Lucha Destacado (1280x720) SFT Combat
 https://vmvpd.short.gy/ВыделятьсябоевойТурнирбоевой
 
 #EXTINF:    Iskhodnyy="✔️ОбЧ✅"                tvg-logo="https://tvg-logo.short.gy/ОкончательныйбоевойЧемпионат" group-title="🥊 Combate & Accion 🥋",Campeonato de Lucha Definitivo (1920x1080) UFC
@@ -266,30 +266,39 @@ https://vmvpd.short.gy/СильныйМужчинаЧемпионыЛига
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/T3B2/FierroAFondo" group-title="🏇 Fierros & Turf 🏎️",Fierro a Fondo (1920x1080)
-https://vmvpd.short.gy/T3B2/FierroAFondo
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/EC/FierroAFondo" group-title="🏇 Fierros & Turf 🏎️",Fierro a Fondo (1280x720)
-https://vmvpd.short.gy/EC/FierroAFondo
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ОткрытиеТурбо" group-title="🏇 Fierros & Turf 🏎️",Discovery Turbo (1280x720)
+https://vmvpd.short.gy/ЭС/ОткрытиеТурбо
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryTurbo" group-title="🏇 Fierros & Turf 🏎️",Discovery Turbo (1280x720)
-https://vmvpd.short.gy/EC/DiscoveryTurbo
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/ЭС/ЖелезоАФон" group-title="🏇 Fierros & Turf 🏎️",Fierro a Fondo (1280x720)
+https://vmvpd.short.gy/ЭС/ЖелезоАФон
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/Т3Б2/ЖелезоАФон" group-title="🏇 Fierros & Turf 🏎️",Fierro a Fondo (1920x1080)
+https://vmvpd.short.gy/Т3Б2/ЖелезоАФон
 
-#EXTINF:    Iskhodnyy="✔️Garage✅"              tvg-logo="https://tvg-logo.short.gy/Garage" group-title="🏇 Fierros & Turf 🏎️",Garage (720x404)
-https://vmvpd.short.gy/Garage
+#EXTINF:    Iskhodnyy="✔️Гараж✅"              tvg-logo="https://tvg-logo.short.gy/Гараж" group-title="🏇 Fierros & Turf 🏎️",Garage (720x404)
+https://vmvpd.short.gy/Гараж
 
-#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏇 Fierros & Turf 🏎️",MonteRrico (1080x720)
-https://vmvpd.short.gy/MonteRrricoTv
-#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"                tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏇 Fierros & Turf 🏎️",MonteRrico (1080x720)
-https://vmvpd.short.gy/MonteRicoTv
+#EXTINF:    Iskhodnyy="✔️МЗ✅"              tvg-logo="https://tvg-logo.short.gy/МоторЗрение" group-title="🏇 Fierros & Turf 🏎️",MotorVision ()
+https://vmvpd.short.gy/МоторЗрение
 
-#EXTINF:    Iskhodnyy="✔️Turf✅"              tvg-logo="https://tvg-logo.short.gy/Turf" group-title="🏇 Fierros & Turf 🏎️",Turf (1280x720)
-https://vmvpd.short.gy/Turf
+#EXTINF:    Iskhodnyy="✔️ВН✅"              tvg-logo="https://tvg-logo.short.gy/ВластьНация" group-title="🏇 Fierros & Turf 🏎️",Nacion Poder ()
+https://vmvpd.short.gy/ВластьНация
 
-#EXTINF:    Iskhodnyy="✔️TT✅"              tvg-logo="https://tvg-logo.short.gy/TeleTrak" group-title="🏇 Fierros & Turf 🏎️",TeleTrak (1280x720)
-https://vmvpd.short.gy/TeleTrak
+#EXTINF:    Iskhodnyy="✔️Топливо✅"              tvg-logo="https://tvg-logo.short.gy/Топливо" group-title="🏇 Fierros & Turf 🏎️",Fuel ()
+https://vmvpd.short.gy/Топливо
 
-#EXTINF:    Iskhodnyy="✔️MonteRicoTv✅"              tvg-logo="https://tvg-logo.short.gy/MonteRricoTv" group-title="🏇 Fierros & Turf 🏎️",MonteRrico (1920x1080)
-https://vmvpd.short.gy/MonteRricoTv
+#EXTINF:    Iskhodnyy="✔️ЛГМ✅"              tvg-logo="https://tvg-logo.short.gy/ЛошадьГонкиМакс" group-title="🏇 Fierros & Turf 🏎️",Maximo de Carreras de Caballos () HR Max
+https://vmvpd.short.gy/ЛошадьГонкиМакс
+
+#EXTINF:    Iskhodnyy="✔️Монтеррико✅"              tvg-logo="https://tvg-logo.short.gy/Монтеррико" group-title="🏇 Fierros & Turf 🏎️",MonteRrico (1920x1080)
+https://vmvpd.short.gy/Монтеррико
+#EXTINF:    Iskhodnyy="✔️ГБ✅"                tvg-logo="https://tvg-logo.short.gy/Монтеррико" group-title="🏇 Fierros & Turf 🏎️",MonteRrico (1080x720)
+https://vmvpd.short.gy/ГораБогатый
+
+#EXTINF:    Iskhodnyy="✔️Газон✅"              tvg-logo="https://tvg-logo.short.gy/Газон" group-title="🏇 Fierros & Turf 🏎️",Turf (1280x720)
+https://vmvpd.short.gy/Газон
+
+#EXTINF:    Iskhodnyy="✔️МВ✅"              tvg-logo="https://tvg-logo.short.gy/МногоВытащил" group-title="🏇 Fierros & Turf 🏎️",TeleTrak (1280x720)
+https://vmvpd.short.gy/МногоВытащил
 
 #EXTINF=====================================================================================================================================================================================================
 
