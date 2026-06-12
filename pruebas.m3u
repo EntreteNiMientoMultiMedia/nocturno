@@ -655,33 +655,36 @@ https://vmvpd.short.gy/ВТ/УниверситетСвятойМартиндеП
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/УниверситетСвятойМартиндеПоррес" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",San Martín de Porres Universidad (1280x720)
 https://vmvpd.short.gy/ЭС/УниверситетСвятойМартиндеПоррес
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/NationalGeographic" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Nacional Geografico (1280x720)
-https://vmvpd.short.gy/EC/NationalGeographic
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ОткрытиеКанал" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Canal Descubridor ()
+https://vmvpd.short.gy/ЭС/ОткрытиеКанал
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Canal Historia (1280x720)
-https://vmvpd.short.gy/WT/CanalHistoria
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Canal Historia (1280x720)
-https://vmvpd.short.gy/EC/CanalHistoria
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/ИсторияКанал" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Canal Historia (1280x720)
+https://vmvpd.short.gy/ВТ/ИсторияКанал
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ИсторияКанал" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Canal Historia (1280x720)
+https://vmvpd.short.gy/ЭС/ИсторияКанал
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/AnimalPlanet" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Planeta Animal (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/НациональныйГеографический" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Nacional Geografico (1280x720)
+https://vmvpd.short.gy/ЭС/НациональныйГеографический
 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ЖивотноеПланета" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Planeta Animal (1280x720)
+https://vmvpd.short.gy/ЭС/ЖивотноеПланета
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/LoveNature" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Ama la Naturaleza (1280x720)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/ИсторияКаналДва" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Canal Historia 2 (1280x720)
+https://vmvpd.short.gy/ВТ/ИсторияКаналДва
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ИсторияКаналДва" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Canal Historia 2 (1280x720)
+https://vmvpd.short.gy/ЭС/ИсторияКаналДва
 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ЛюбовьПрирода" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Ama la Naturaleza (1280x720)
+https://vmvpd.short.gy/ЭС/ЛюбовьПрирода
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryScience" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Discovery Ciencia (1280x720)
-https://vmvpd.short.gy/EC/DiscoveryScience
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ОткрытиеНаука" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Discovery Ciencia (1280x720)
+https://vmvpd.short.gy/ЭС/ОткрытиеНаука
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryTheater" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Discovery Teatro (1280x720)
-https://vmvpd.short.gy/EC/DiscoveryTheater
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ОткрытиеТеатр" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Discovery Teatro (1280x720)
+https://vmvpd.short.gy/ЭС/ОткрытиеТеатр
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/DiscoveryWorld" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Discovery Mundo (1280x720)
-https://vmvpd.short.gy/EC/DiscoveryWorld
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/CanalHistoria2" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Canal Historia 2 (1280x720)
-https://vmvpd.short.gy/WT/CanalHistoria2
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/CanalHistoria2" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Canal Historia 2 (1280x720)
-https://vmvpd.short.gy/EC/CanalHistoria2
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ОткрытиеМир" group-title="🧠Ciencia🔭 & 🌎Cultura🔬",Discovery Mundo (1280x720)
+https://vmvpd.short.gy/ЭС/ОткрытиеМир
 
 #EXTINF=====================================================================================================================================================================================================
 
