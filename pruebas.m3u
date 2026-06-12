@@ -723,75 +723,69 @@ https://vmvpd.short.gy/КосмосПарагвай
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 (1280x720)
-https://vmvpd.short.gy/WT/TopLatino
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/EC/TopLatino" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 (1280x720)
-https://vmvpd.short.gy/EC/TopLatino
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/ВершинаЛатиноамериканец" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 (1280x720)
+https://vmvpd.short.gy/ВТ/ВершинаЛатиноамериканец
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ВершинаЛатиноамериканец" group-title="🎧 Melodiya 🌍🔊",Top Latino 🇵🇪 (1280x720)
+https://vmvpd.short.gy/ЭС/ВершинаЛатиноамериканец
 
-#EXTINF:    Iskhodnyy="✔️Karibeña✅"                  tvg-logo="https://tvg-logo.short.gy/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
-https://vmvpd.short.gy/Karibena
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/WT/Karibeña" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
-https://vmvpd.short.gy/WT/Karibena
+#EXTINF:    Iskhodnyy="✔️Кб✅"                  tvg-logo="https://tvg-logo.short.gy/Карибскийбассейн" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
+https://vmvpd.short.gy/Карибскийбассейн
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/Карибскийбассейн" group-title="🎧 Melodiya 🌍🔊",Karibeña 🇵🇪 (1280x720)
+https://vmvpd.short.gy/ВТ/Карибскийбассейн
 
-#EXTINF:    Iskhodnyy="✔️BCM✅"                  tvg-logo="https://tvg-logo.short.gy/Hatun" group-title="🎧 Melodiya 🌍🔊",El Canal del Folklore 🇵🇪 (1280x720)
-https://vmvpd.short.gy/Hatun
+#EXTINF:    Iskhodnyy="✔️Хатун✅"                  tvg-logo="https://tvg-logo.short.gy/Хатун" group-title="🎧 Melodiya 🌍🔊",El Canal del Folklore 🇵🇪 (1280x720)
+https://vmvpd.short.gy/Хатун
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/PeruAniSima" group-title="🎧 Melodiya 🌍🔊",PeruAniSima 🇵🇪 (1920x1080)
-https://vmvpd.short.gy/T3B2/PeruAniSima
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/Перуанясяма" group-title="🎧 Melodiya 🌍🔊",PeruAniSima 🇵🇪 (1920x1080)
+https://vmvpd.short.gy/Т3Б2/Перуанясяма
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/MusicTv" group-title="🎧 Melodiya 🌍🔊",Music Tv 🇺🇸🇵🇪 (1920x1080)
-https://vmvpd.short.gy/T3B2/MusicTv
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/Музыка" group-title="🎧 Melodiya 🌍🔊",Musica 🇺🇸🇵🇪 (1920x1080)
+https://vmvpd.short.gy/Т3Б2/Музыка
 
-#EXTINF:    Iskhodnyy="✔️RMT✅"                  tvg-logo="https://tvg-logo.short.gy/RetroMusicTelevision" group-title="🎧 Melodiya 🌍🔊",Retro 🇨🇿 (1280x720)
-https://vmvpd.short.gy/RetroMusicTelevision
+#EXTINF:    Iskhodnyy="✔️Ретро✅"                  tvg-logo="https://tvg-logo.short.gy/Ретро" group-title="🎧 Melodiya 🌍🔊",Retro 🇨🇿 (1280x720)
+https://vmvpd.short.gy/Ретро
 
-#EXTINF:    Iskhodnyy="✔️Rock✅"                  tvg-logo="https://tvg-logo.short.gy/RockFM" group-title="🎧 Melodiya 🌍🔊",Rock FM 🇷🇴 (1280x720)
-https://vmvpd.short.gy/RockFM
+#EXTINF:    Iskhodnyy="✔️КЧМ✅"                  tvg-logo="https://tvg-logo.short.gy/КаменьЧастотаМодулированный" group-title="🎧 Melodiya 🌍🔊",Rock FM 🇷🇴 (1280x720)
+https://vmvpd.short.gy/КаменьЧастотаМодулированный
 
-#EXTINF:    Iskhodnyy="✔️Deluxe✅"                  tvg-logo="https://tvg-logo.short.gy/Deluxe" group-title="🎧 Melodiya 🌍🔊",De Lujo 🇩🇪 (1280x720)
-https://vmvpd.short.gy/Deluxe
+#EXTINF:    Iskhodnyy="✔️Делюкс✅"                  tvg-logo="https://tvg-logo.short.gy/Делюкс" group-title="🎧 Melodiya 🌍🔊",De Lujo 🇩🇪 (1280x720)
+https://vmvpd.short.gy/Делюкс
 
-#EXTINF:    Iskhodnyy="✔️Poder✅"                  tvg-logo="https://tvg-logo.short.gy/Poder" group-title="🎧 Melodiya 🌍🔊",Poder 🇹🇷 (1280x720)
-https://vmvpd.short.gy/Poder
+#EXTINF:    Iskhodnyy="✔️Может✅"                  tvg-logo="https://tvg-logo.short.gy/Может" group-title="🎧 Melodiya 🌍🔊",Poder 🇹🇷 (1280x720)
+https://vmvpd.short.gy/Может
 
-#EXTINF:    Iskhodnyy="✔️N1F✅"                  tvg-logo="https://tvg-logo.short.gy/Numero1Fm" group-title="🎧 Melodiya 🌍🔊",Numero 1 Fm 🇹🇷 (1280x720)
-https://vmvpd.short.gy/Numero1
-#EXTINF:    Iskhodnyy="✔️N1F✅"                  tvg-logo="https://tvg-logo.short.gy/Numero1Fm" group-title="🎧 Melodiya 🌍🔊",Numero 1 Fm 🇹🇷 (1280x720)
-https://vmvpd.short.gy/NumeroUno
+#EXTINF:    Iskhodnyy="✔️ЧОЧМ✅"                  tvg-logo="https://tvg-logo.short.gy/ЧислоОдинЧастотаМодулированный" group-title="🎧 Melodiya 🌍🔊",Numero 1 Fm 🇹🇷 (1280x720)
+https://vmvpd.short.gy/ЧислоОдинЧастотаМодулированный
 
-#EXTINF:    Iskhodnyy="✔️TRTM✅"                  tvg-logo="https://tvg-logo.short.gy/TRTMuzik" group-title="🎧 Melodiya 🌍🔊",TRT Muzik 🇹🇷 (1920x1080)
-https://vmvpd.short.gy/TRTMuzik
+#EXTINF:    Iskhodnyy="✔️ТРТМ✅"                  tvg-logo="https://tvg-logo.short.gy/ТурцияРадиоТелевидениеМузыка" group-title="🎧 Melodiya 🌍🔊",TRT Muzik 🇹🇷 (1920x1080)
+https://vmvpd.short.gy/ТурцияРадиоТелевидениеМузыка
 
-#EXTINF:    Iskhodnyy="✔️538✅"                  tvg-logo="https://tvg-logo.short.gy/538" group-title="🎧 Melodiya 🌍🔊",538 🇳🇱 (1280x720)
-https://vmvpd.short.gy/538
+#EXTINF:    Iskhodnyy="✔️538✅"                  tvg-logo="https://tvg-logo.short.gy/Пятьсоттридцатьвосемь" group-title="🎧 Melodiya 🌍🔊",538 🇳🇱 (1280x720)
+https://vmvpd.short.gy/Пятьсоттридцатьвосемь
 
-#EXTINF:    Iskhodnyy="✔️Kiss✅"                  tvg-logo="https://tvg-logo.short.gy/Beso" group-title="🎧 Melodiya 🌍🔊",Beso 🇷🇴 (1920x1080)
-https://vmvpd.short.gy/Beso
-#EXTINF:    Iskhodnyy="✔️Kiss✅"                  tvg-logo="https://tvg-logo.short.gy/Beso" group-title="🎧 Melodiya 🌍🔊",Beso 🇷🇴 (1920x1080)
-https://vmvpd.short.gy/Kiss
+#EXTINF:    Iskhodnyy="✔️Kiss✅"                  tvg-logo="https://tvg-logo.short.gy/Целовать" group-title="🎧 Melodiya 🌍🔊",Beso 🇷🇴 (1920x1080)
+https://vmvpd.short.gy/Целовать
 
-#EXTINF:    Iskhodnyy="✔️V2B✅"                  tvg-logo="https://tvg-logo.short.gy/Vibe2Beat" group-title="🎧 Melodiya 🌍🔊",Vibracion para el ritmo 🇧🇬 (1280x720)
-https://vmvpd.short.gy/Vibe2Beat
+#EXTINF:    Iskhodnyy="✔️АДБ✅"                  tvg-logo="https://tvg-logo.short.gy/АтмосфераДваБить" group-title="🎧 Melodiya 🌍🔊",Vibracion para el ritmo 🇧🇬 (1280x720)
+https://vmvpd.short.gy/АтмосфераДваБить
 
-#EXTINF:    Iskhodnyy="✔️4F✅"                  tvg-logo="https://tvg-logo.short.gy/4Fun" group-title="🎧 Melodiya 🌍🔊",Para Divertirse 🇵🇱 (1024x576)
-https://vmvpd.short.gy/4Fun
+#EXTINF:    Iskhodnyy="✔️ЧВ✅"                  tvg-logo="https://tvg-logo.short.gy/ЧетыреВеселье" group-title="🎧 Melodiya 🌍🔊",Para Divertirse 🇵🇱 (1024x576)
+https://vmvpd.short.gy/ЧетыреВеселье
 
-#EXTINF:    Iskhodnyy="✔️KH✅"                  tvg-logo="https://tvg-logo.short.gy/KroneHit" group-title="🎧 Melodiya 🌍🔊",Krone HIT 🇦🇹 (960x540)
-https://vmvpd.short.gy/KroneHit
+#EXTINF:    Iskhodnyy="✔️КУ✅"                  tvg-logo="https://tvg-logo.short.gy/КоронаУДАРЯТЬ" group-title="🎧 Melodiya 🌍🔊",Krone HIT 🇦🇹 (960x540)
+https://vmvpd.short.gy/КоронаУДАРЯТЬ
 
-#EXTINF:    Iskhodnyy="✔️OS✅"                  tvg-logo="https://tvg-logo.short.gy/OckoStar" group-title="🎧 Melodiya 🌍🔊",Ocko Estrella 🇨🇿 (720x400)
-https://vmvpd.short.gy/OckoStar
+#EXTINF:    Iskhodnyy="✔️ПЗ✅"                  tvg-logo="https://tvg-logo.short.gy/ПапочкаЗвезда" group-title="🎧 Melodiya 🌍🔊",Ocko Estrella 🇨🇿 (720x400)
+https://vmvpd.short.gy/ПапочкаЗвезда
 
-#EXTINF:    Iskhodnyy="✔️OE✅"                  tvg-logo="https://tvg-logo.short.gy/OckoExpres" group-title="🎧 Melodiya 🌍🔊",Ocko Expres 🇨🇿 (960x540)
-https://vmvpd.short.gy/OckoExpres
-#EXTINF:    Iskhodnyy="✔️OE✅"                  tvg-logo="https://tvg-logo.short.gy/OckoExpres" group-title="🎧 Melodiya 🌍🔊",Ocko Expres 🇨🇿 (720x400)
-https://vmvpd.short.gy/ExpresOcko
+#EXTINF:    Iskhodnyy="✔️OE✅"                  tvg-logo="https://tvg-logo.short.gy/ПапочкаВыражать" group-title="🎧 Melodiya 🌍🔊",Ocko Expres 🇨🇿 (960x540)
+https://vmvpd.short.gy/ПапочкаВыражать
 
-#EXTINF:    Iskhodnyy="✔️RCFG✅"                  tvg-logo="https://tvg-logo.short.gy/SienteteBien" group-title="🎧 Melodiya 🌍🔊",Sientete Bien 🇧🇪 (854x480) Radio Contacto
-https://vmvpd.short.gy/SienteteBien
+#EXTINF:    Iskhodnyy="✔️ЧХРК✅"                  tvg-logo="https://tvg-logo.short.gy/ЧувствоватьХорошийРадиоКонтакт" group-title="🎧 Melodiya 🌍🔊",Sientete Bien 🇧🇪 (854x480) Radio Contacto
+https://vmvpd.short.gy/ЧувствоватьХорошийРадиоКонтакт
 
-#EXTINF:    Iskhodnyy="✔️RVT✅"                  tvg-logo="https://tvg-logo.short.gy/BritAsia" group-title="🎧 Melodiya 🌍🔊",BritAsia 🇬🇧 (1920x1080)
-https://vmvpd.short.gy/BritAsia
+#EXTINF:    Iskhodnyy="✔️RVT✅"                  tvg-logo="https://tvg-logo.short.gy/БритАзия" group-title="🎧 Melodiya 🌍🔊",BritAsia 🇬🇧 (1920x1080)
+https://vmvpd.short.gy/БритАзия
 
 #EXTINF:    Iskhodnyy="✔️DR✅"                  tvg-logo="https://tvg-logo.short.gy/DeluxeRap" group-title="🎧 Melodiya 🌍🔊",De Lujo Rap 🇩🇪 (1920x1080)
 https://vmvpd.short.gy/DeluxeRap
