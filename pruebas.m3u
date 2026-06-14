@@ -892,7 +892,7 @@ https://vmvpd.short.gy/ЕмуЦентр
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/ЕмуЦентр" group-title="🇵🇪 Regional DesCentralizado 🌄📡",UniCentro (1920x1080) HuancaYork
 https://vmvpd.short.gy/Т3Б2/ЕмуЦентр
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/ТВО" group-title="🇵🇪 Regional DesCentralizado 🌄📡",TvO+ () HuancaYork
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/ТВО" group-title="🇵🇪 Regional DesCentralizado 🌄📡",TvO+ (1088x614) HuancaYork
 https://vmvpd.short.gy/Т3Б2/ТВО
 
 #EXTINF=====================================================================================================================================================================================================
@@ -979,22 +979,24 @@ https://vmvpd.short.gy/Т3Б2/Колласуйо
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/Анды" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Andes (1920x1080) Huaraz
 https://vmvpd.short.gy/Т3Б2/Анды
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/КаналНовостиУануко" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Canal de Noticias Huanuco () Huanuco
-https://vmvpd.short.gy/Т3Б2/КаналНовостиУануко
+#EXTINF:    Iskhodnyy="✔️Настоящий✅"                  tvg-logo="https://tvg-logo.short.gy/Настоящий" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Real () Huanuco
+https://vmvpd.short.gy/Настоящий
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/Настоящий" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Real () Huanuco
+https://vmvpd.short.gy/Т3Б2/Настоящий
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/СурЖить" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Sur En Vivo (1920x1080) Cusco
 https://vmvpd.short.gy/Т3Б2/СурЖить
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/КаналМакс" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Canal Max () Iquitos
+https://vmvpd.short.gy/Т3Б2/КаналМакс
 
 #EXTINF:    Iskhodnyy="✔️СК✅"                  tvg-logo="https://tvg-logo.short.gy/СуперКанал" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Super Canal (1280x720) Yurimaguas
 https://vmvpd.short.gy/СуперКанал
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/СуперКанал" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Super Canal (1280x720) Yurimaguas
 https://vmvpd.short.gy/Т3Б2/СуперКанал
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/Пукальпа" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Pucallpa () Pucallpa
-https://vmvpd.short.gy/Т3Б2/Пукальпа
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/Дюны" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Dunas () Ica
-https://vmvpd.short.gy/Т3Б2/Дюны
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Ucayali () Ucayali
+https://vmvpd.short.gy/Т3Б2/укаяли
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/Юримагуас" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Yurimaguas (1280x720) Yurimaguas
 https://vmvpd.short.gy/Т3Б2/Юримагуас
