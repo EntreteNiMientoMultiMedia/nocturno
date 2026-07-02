@@ -11,33 +11,35 @@ https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/3d4e7f3
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Latina_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLatina_WIN_stream_vo&_cdn_session=6205766838&_cdn_token=ba422644dcd6c22abc58c9c31de831fe27c2a26d
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLATINA.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Latina (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=4064772203&_cdn_token=3ff64b1cbe7434d98e77fa078cf6b32e620b9e60
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="" group-title="📡🇵🇪 Primørdial 📺",Latina (1280x720)
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/Андский" group-title="📡🇵🇪 Primørdial 📺",Andina (1920x1080) ATV
-https://vmvpd.short.gy/ВТ/Андский
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/ЭС/Андский" group-title="📡🇵🇪 Primørdial 📺",Andina (1280x720) ATV
-https://vmvpd.short.gy/ЭС/Андский
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/Панамериканский" group-title="📡🇵🇪 Primørdial 📺",Panamericana (1920x1080)
-https://vmvpd.short.gy/ВТ/Панамериканский
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/ЭС/Панамериканский" group-title="📡🇵🇪 Primørdial 📺",Panamericana (1280x720)
-https://vmvpd.short.gy/ЭС/Панамериканский
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FATV_WIN.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Andina (1920x1080) ATV
+https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/ATV_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_WIN_stream_o4&_cdn_session=6205802374&_cdn_token=678f923fcd6e9cdc7e2400d036a85c1f372009ff
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FATVHD.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Andina (1280x720) ATV
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=4064775435&_cdn_token=8d96b45f2b05d04164e4c8b1839611ea6016e44a
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/wɪʎaχ" group-title="📡🇵🇪 Primørdial 📺",Willax (1920x1080)
-https://vmvpd.short.gy/ВТ/wɪʎaχ
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/ЭС/wɪʎaχ" group-title="📡🇵🇪 Primørdial 📺",Willax (1280x720)
-https://vmvpd.short.gy/ЭС/wɪʎaχ
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/Т3Б2/wɪʎaχ" group-title="📡🇵🇪 Primørdial 📺",Willax (1280x720)
-https://vmvpd.short.gy/Т3Б2/wɪʎaχ
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FPanamerica_WIN.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Panamericana (1920x1080)
+https://cdnmain7.win.cdn.moderntv.eu:7909/win/stream/Panamerica_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DPanamerica_WIN_stream_op&_cdn_session=6205814662&_cdn_token=cac7409d29f8402b3be1056ebc2c8efa0d0f1d42
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPANAMERICANATV.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Panamericana (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=4064776955&_cdn_token=dfbe4b1a85f057764ac8825bcba36c0bb2a6ca4a
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/РПП" group-title="📡🇵🇪 Primørdial 📺",Radio Programas del Peru (1280x720) RPP
-https://vmvpd.short.gy/ВТ/РПП
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/ЭС/РПП" group-title="📡🇵🇪 Primørdial 📺",Radio Programas del Peru (1280x720) RPP
-https://vmvpd.short.gy/ЭС/РПП
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FWillax_WIN.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Willax (1920x1080)
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Willax_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DWillax_WIN_stream_uf&_cdn_session=6205840870&_cdn_token=ca6cbfbcb9735d830d0a5f99f23f839d47d07a93
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FWILLAX.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Willax (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=4064779515&_cdn_token=cc8c825cbf6e4984b777bb8214baa5d29e2dcc98
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="" group-title="📡🇵🇪 Primørdial 📺",Willax (1280x720)
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/Перу" group-title="📡🇵🇪 Primørdial 📺",Tv Peru (1920x1080)
-https://vmvpd.short.gy/ВТ/Перу
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/ЭС/Перу" group-title="📡🇵🇪 Primørdial 📺",Tv Peru (1280x720)
-https://vmvpd.short.gy/ЭС/Перу
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FRPP.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Radio Programas del Peru (1280x720) RPP
+https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/RPP/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DRPP_stream_3l&_cdn_session=6205852486&_cdn_token=bedaa23fec746d9cdfbea784e65be71b426fe607
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FRPP.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Radio Programas del Peru (1280x720) RPP
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DRPP_stream_1q&_cdn_session=4064781587&_cdn_token=ebc2a9f3e7b928d9ecf8d9d96b2a5acc99fe50b8
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTVPERU_WIN.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Tv Peru (1920x1080)
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/TVPERU_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTVPERU_WIN_stream_va&_cdn_session=6205858326&_cdn_token=bd78cdae741c53d2e9ab61adc2286894fa72f1a6
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTVPERU.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Tv Peru (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=4064782555&_cdn_token=18247568d358857d8548627b9fe268a8ecc670d4
 
 #EXTINF=====================================================================================================================================================================================================
 
