@@ -89,25 +89,25 @@ https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/PBO2/10-hls/live-media.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCANALCONGRESO.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Congreso (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=4065174851&_cdn_token=e7f3ea2808fd177c2ab8cea715dd52b293a418b2
 
-#EXTINF:    Iskhodnyy="✔️Национальный✅"                  tvg-logo="https://tvg-logo.short.gy/Национальный" group-title="🇵🇪🗞️ Noticias 🚨",Nacional (1280x720)
-https://vmvpd.short.gy/Национальный
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/Национальный" group-title="🇵🇪🗞️ Noticias 🚨",Nacional (1920x1080)
-https://vmvpd.short.gy/Т3Б2/Национальный
+#EXTINF:    Iskhodnyy="✔️Национальный✅"                  tvg-logo="https://yt3.googleusercontent.com/79JX6QwOREZ2Es-sIKJrRTt_XJr3SL-UStTyqkR2LROaUfdkoYeRem9S9Uxhj_AbnC5uHPvCOA=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Nacional (1280x720)
+https://play.agenciastreaming.com:8081/nacionaltv/index.fmp4.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644527718/6d3118de737a_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Nacional (1920x1080)
+https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Новости✅"                  tvg-logo="https://tvg-logo.short.gy/Новости" group-title="🇵🇪🗞️ Noticias 🚨",La Noticia (512x288)
-https://vmvpd.short.gy/Новости
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/Новости" group-title="🇵🇪🗞️ Noticias 🚨",La Noticia (1280x720)
-https://vmvpd.short.gy/ЭС/Новости
+#EXTINF:    Iskhodnyy="✔️Новости✅"                  tvg-logo="https://lanoticia.com.pe/wp-content/uploads/2025/10/la-noticia-peru.jpg" group-title="🇵🇪🗞️ Noticias 🚨",La Noticia (512x288)
+https://play.agenciastreaming.com:8081/lanoticiatv/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLANOTICIATV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",La Noticia (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LANOTICIATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLANOTICIATV_stream_p1&_cdn_session=4065185035&_cdn_token=9d1c65c515d507dfb585c99a9fd21a36a37c0cab
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/Справедливость" group-title="🇵🇪🗞️ Noticias 🚨",Justicia (1280x720)
-https://vmvpd.short.gy/ЭС/Справедливость
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/Справедливость" group-title="🇵🇪🗞️ Noticias 🚨",Justicia (720x576)
-https://vmvpd.short.gy/ВТ/Справедливость
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FJUSTICIATV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Justicia (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/JUSTICIATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DJUSTICIATV_stream_rx&_cdn_session=4065186515&_cdn_token=0e0d123921285cee1f6bfd6195c5e7fb2955b8ec
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FJusticiaTV_WIN.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Justicia (720x576)
+https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/justiciatv/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Djusticiatv_stream_1d&_cdn_session=6209020006&_cdn_token=06c8f27af868d2213059d0101e56c2726951ee20
 
-#EXTINF:    Iskhodnyy="✔️Монитор✅"                  tvg-logo="https://tvg-logo.short.gy/Монитор" group-title="🇵🇪🗞️ Noticias 🚨",Monitor (1280x720)
-https://vmvpd.short.gy/Монитор
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/Монитор" group-title="🇵🇪🗞️ Noticias 🚨",Monitor (1280x720)
-https://vmvpd.short.gy/ВТ/Монитор
+#EXTINF:    Iskhodnyy="✔️Монитор✅"                  tvg-logo="https://monitor-pe.com/logo_monitor.png" group-title="🇵🇪🗞️ Noticias 🚨",Monitor (1280x720)
+https://cloud5.streaminglivehd.com:3575/hybrid/play.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FMonitor.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Monitor (1280x720)
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Monitor/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DMonitor_stream_7r&_cdn_session=6209044822&_cdn_token=e694c8fef6cfb871f175d305f9fdbb4f46a871ef
 
 #EXTINF=====================================================================================================================================================================================================
 
