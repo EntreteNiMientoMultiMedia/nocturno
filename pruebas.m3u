@@ -1,18 +1,16 @@
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/Америка" group-title="📡🇵🇪 Primørdial 📺",America (1920x1080)
-https://vmvpd.short.gy/ВТ/Америка
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/ЭС/Америка" group-title="📡🇵🇪 Primørdial 📺",America (1280x720)
-https://vmvpd.short.gy/ЭС/Америка
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=100" group-title="📡🇵🇪 Primørdial 📺",America (1920x1080)
+https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Americatv_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAmericatv_WIN_stream_a6&_cdn_session=6205714486&_cdn_token=e11c687d3b182d2c4dcd8e6e7ae99c0217c6c75f
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAMERICATV.png&width=100" group-title="📡🇵🇪 Primørdial 📺",America (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=4064767323&_cdn_token=a512084c60332791b43eee2ddba4465b9e0ab2f3
 
-#EXTINF:    Iskhodnyy="✔️Латина✅"                tvg-logo="https://tvg-logo.short.gy/Латина" group-title="📡🇵🇪 Primørdial 📺",Latina (1920x1080)
-https://vmvpd.short.gy/Латина
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/Латина" group-title="📡🇵🇪 Primørdial 📺",Latina (1920x1080)
-https://vmvpd.short.gy/ВТ/Латина
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/ЭС/Латина" group-title="📡🇵🇪 Primørdial 📺",Latina (1280x720)
-https://vmvpd.short.gy/ЭС/Латина
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/Т3Б2/Латина" group-title="📡🇵🇪 Primørdial 📺",Latina (1280x720)
-https://vmvpd.short.gy/Т3Б2/Латина
+#EXTINF:    Iskhodnyy="✔️Латина✅"                tvg-logo="https://yt3.googleusercontent.com/JySp5g8rAykCp7Ytm6K2rMbTKXbli4iAU3Br8BOgEhfgl6gjHfkJ5CPMQiG4ULavMLttZSzoYw=s160-c-k-c0x00ffffff-no-rj" group-title="📡🇵🇪 Primørdial 📺",Latina (1920x1080)
+https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/3d4e7f3e-34ae-483b-aaf4-8465d0a19720:DLS/variant/dca78385fa6e9d55f2ddb5fe349781a5/bandwidth/1070031.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLatina_WIN.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Latina (1920x1080)
+https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Latina_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLatina_WIN_stream_vo&_cdn_session=6205766838&_cdn_token=ba422644dcd6c22abc58c9c31de831fe27c2a26d
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLATINA.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Latina (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=4064772203&_cdn_token=3ff64b1cbe7434d98e77fa078cf6b32e620b9e60
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/Андский" group-title="📡🇵🇪 Primørdial 📺",Andina (1920x1080) ATV
 https://vmvpd.short.gy/ВТ/Андский
