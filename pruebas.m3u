@@ -157,6 +157,9 @@ http://181.224.255.210:8001/play/a0eq/index.m3u8
 #EXTINF:    Iskhodnyy="❓РСПС7❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/espn-71.jpg" group-title="⚽ Futbol 🇵🇪",ESPN 7 (1280x720)
 http://181.224.255.210:8001/play/a0m5/index.m3u8
 
+#EXTINF:    Iskhodnyy="❓РСПСП❔"                  tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/69d43e41647215b0a66f37c6_espnpremium.jpg" group-title="⚽ Futbol 🇵🇪",ESPN Premium (1280x720)
+http://181.224.255.210:8001/play/a0pt/index.m3u8
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️ПТС✅"                  tvg-logo="https://tvg-logo.short.gy/ПрямойТелевидениеСпорт" group-title="🌍 Futbol Mundial ⚽",DSports (1920x1080)
