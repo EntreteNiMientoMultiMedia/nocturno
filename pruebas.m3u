@@ -127,14 +127,14 @@ http://8.243.126.131:8000/play/a0oe/index.m3u8
 #EXTINF:    Iskhodnyy="🎯БиЦвет+⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/БиЦвет+" group-title="⚽ Futbol 🇵🇪",Bicolor+ (1920x1080)
 https://vmvpd.short.gy/Т3Б2/БиЦвет+
 
-#EXTINF:    Iskhodnyy="✔️Овация✅"                  tvg-logo="https://tvg-logo.short.gy/Овация" group-title="⚽ Futbol 🇵🇪",Ovacion (1920x1080)
-https://vmvpd.short.gy/Овация
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://tvg-logo.short.gy/Т3Б2/Овация" group-title="⚽ Futbol 🇵🇪",Ovacion (1920x1080)
-https://vmvpd.short.gy/Т3Б2/Овация
-#EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/Овация" group-title="⚽ Futbol 🇵🇪",Ovacion (1280x720)
-https://vmvpd.short.gy/ВТ/Овация
-#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://tvg-logo.short.gy/ЭС/Овация" group-title="⚽ Futbol 🇵🇪",Ovacion (1280x720)
-https://vmvpd.short.gy/ЭС/Овация
+#EXTINF:    Iskhodnyy="✔️Овация✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m44HDHMq4IKWUbl7K13wFEWMSJQjFscQW-WhqzFFe6x-o=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol 🇵🇪",Ovacion (1920x1080)
+https://5949aa132c8fb.streamlock.net:1963/iptvovacion2/liveovacion2tv/chunklist_w1871703642.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643343898/664be611a4f0_480_270.png" group-title="⚽ Futbol 🇵🇪",Ovacion (1920x1080)
+https://live-bd3.tv360.bitel.com.pe/bitel/ovaciontv_ori/chunks.m3u8
+#EXTINF:    Iskhodnyy="🔱EC📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FOVACION.png&width=100" group-title="⚽ Futbol 🇵🇪",Ovacion (1280x720)
+https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/OVACION/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DOVACION_stream_kr&_cdn_session=6210396790&_cdn_token=94f1a38ac37d2dfa9e52faab69de631a1ebc1a63
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FOVACION.png&width=100" group-title="⚽ Futbol 🇵🇪",Ovacion (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/OVACION/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DOVACION_stream_zr&_cdn_session=4065377827&_cdn_token=3adc4a03c4c8aa633e8e0f99a97eeae2ff02615c
 
 #EXTINF:    Iskhodnyy="✔️РСПСК✅"                  tvg-logo="https://tvg-logo.short.gy/РазвлечениеСпортПрограммированиеСетьКолумбия" group-title="⚽ Futbol 🇵🇪",ESPN 🇨🇴 (1920x1080)
 https://vmvpd.short.gy/РазвлечениеСпортПрограммированиеСетьКолумбия
