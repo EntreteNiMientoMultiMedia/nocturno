@@ -156,31 +156,23 @@ http://181.224.255.210:8001/play/a0pt/index.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️ПТС✅"                  tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",DSports (1920x1080)
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FSUPERTV.png&width=100" group-title="⚽ Futbol 🇵🇪",Super (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/SUPERTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSUPERTV_stream_04&_cdn_session=4065337915&_cdn_token=8d5d0df84d06e57c2436fed33b8692a5d4857438
+
+#EXTINF:    Iskhodnyy="❓ПТС❔"                  tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",DSports (1920x1080)
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ПС✅"              tvg-logo="https://tvg-logo.short.gy/ПрозрачныйСпорт" group-title="🌍 Futbol Mundial ⚽",Claro Deportes (1920x1080)
-https://vmvpd.short.gy/ПрозрачныйСпорт
+#EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="🌍 Futbol Mundial ⚽",Claro Deportes (1920x1080)
+http://190.61.101.11:7050/play/a04v/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ТМСС✅"              tvg-logo="https://tvg-logo.short.gy/ТелеМирСпортСейчас" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
-https://vmvpd.short.gy/ТелеМирСпортСейчас
-#EXTINF:    Iskhodnyy="✔️ТСС✅"              tvg-logo="https://tvg-logo.short.gy/ТелеМирСпортСейчас" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
-https://vmvpd.short.gy/ТелемундоСпортСейчас
+#EXTINF:    Iskhodnyy="❓ТМСС❔"              tvg-logo="https://yt3.googleusercontent.com/-gn5ix3UvKEfHdnYJbH0a6KGsQGexUrOyNAZmsVS2etGzTKwozx2ljyMkU2jXzusZ2mLa8qHUA=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
 
-#EXTINF:    Iskhodnyy="✔️M+ЛИЧ✅"                  tvg-logo="https://tvg-logo.short.gy/Мовистар+ЛигаИзЧемпионы" group-title="🌍 Futbol Mundial ⚽",Movistar+ Liga de Campeones (1920x1080)
-https://vmvpd.short.gy/Мовистар+ЛигаИзЧемпионы
+#EXTINF:    Iskhodnyy="❓ТУСС❔"                  tvg-logo="https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw=w240-h480-rw" group-title="🌍 Futbol Mundial ⚽",Televisa Univision Deportes Network (1920x1080) TUDN
+http://190.61.101.11:7050/play/a04m/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ОООЛ✅"                  tvg-logo="https://tvg-logo.short.gy/ОнОбластьОнЛига" group-title="🌍 Futbol Mundial ⚽",DAZN La Liga (1920x1080)
-https://vmvpd.short.gy/ОнОбластьОнЛига
-
-#EXTINF:    Iskhodnyy="✔️Т&Н✅"                tvg-logo="https://tvg-logo.short.gy/Турниры&Навыки" group-title="🌍 Futbol Mundial ⚽",Torneos y Competencias Deportes (1280x720) TyC Deportes
-https://vmvpd.short.gy/Турниры&Навыки
-
-#EXTINF:    Iskhodnyy="✔️ТУСС✅"                  tvg-logo="https://tvg-logo.short.gy/ТелевисаУнивейнСпортСеть" group-title="🌍 Futbol Mundial ⚽",Televisa Univision Deportes Network (1920x1080) TUDN
-https://vmvpd.short.gy/ТелевисаУнивейнСпортСеть
-
-#EXTINF:    Iskhodnyy="✔️ТСТСПА✅"                tvg-logo="https://tvg-logo.short.gy/ТернерСетьТелевидениеСпортПремиумАргентина" group-title="🌍 Futbol Mundial ⚽",Turner Deportes Premium 🇦🇷 (1280x720)
-https://vmvpd.short.gy/ТернерСетьТелевидениеСпортПремиумАргентина
+#EXTINF:    Iskhodnyy="❓ТСТСПА❔"                tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Turner Deportes Premium 🇦🇷 (1280x720)
+http://8.243.126.131:8000/play/a0o7/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️аССТ✅"                  tvg-logo="https://tvg-logo.short.gy/ацтекскийСпортСетьТри" group-title="🌍 Futbol Mundial ⚽",Azteca Deportes Network 3 (1280x720)
 https://vmvpd.short.gy/ацтекскийСпортСетьТри
