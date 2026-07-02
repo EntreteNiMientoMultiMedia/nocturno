@@ -121,12 +121,6 @@ https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/40-hls/live-medi
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/176738742342/83d49ffca6d7_480_270.jpg" group-title="⚽ Futbol 🇵🇪",L1 Max (1920x1080)
 https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=6210075878&_cdn_token=127384a249456179c827cc32f652c73875a00f27
 
-#EXTINF:    Iskhodnyy="❓МовистарСпорт❔"              tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol 🇵🇪",Movistar Deportes (720x480)
-http://205.235.6.29:8000/play/a0zd/index.m3u8
-
-#EXTINF:    Iskhodnyy="🎯БиЦвет+⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/БиЦвет+" group-title="⚽ Futbol 🇵🇪",Bicolor+ (1920x1080)
-https://vmvpd.short.gy/Т3Б2/БиЦвет+
-
 #EXTINF:    Iskhodnyy="✔️Овация✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m44HDHMq4IKWUbl7K13wFEWMSJQjFscQW-WhqzFFe6x-o=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol 🇵🇪",Ovacion (1920x1080)
 https://5949aa132c8fb.streamlock.net:1963/iptvovacion2/liveovacion2tv/chunklist_w1871703642.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643343898/664be611a4f0_480_270.png" group-title="⚽ Futbol 🇵🇪",Ovacion (1920x1080)
@@ -162,8 +156,8 @@ http://181.224.255.210:8001/play/a0pt/index.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️ПТС✅"                  tvg-logo="https://tvg-logo.short.gy/ПрямойТелевидениеСпорт" group-title="🌍 Futbol Mundial ⚽",DSports (1920x1080)
-https://vmvpd.short.gy/ПрямойТелевидениеСпорт
+#EXTINF:    Iskhodnyy="✔️ПТС✅"                  tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",DSports (1920x1080)
+http://8.243.126.131:8000/play/a05a/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ПС✅"              tvg-logo="https://tvg-logo.short.gy/ПрозрачныйСпорт" group-title="🌍 Futbol Mundial ⚽",Claro Deportes (1920x1080)
 https://vmvpd.short.gy/ПрозрачныйСпорт
