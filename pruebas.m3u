@@ -86,8 +86,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FPBO.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Oficina de RadioDifusion del Peru (720x576) PBO
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/PBO2/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DPBO2_stream_ch&_cdn_session=6208910678&_cdn_token=0e71d44a30ef856a73642aa6c2f9de39c0635980
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/Конгресс" group-title="🇵🇪🗞️ Noticias 🚨",Congreso (1280x720)
-https://vmvpd.short.gy/ЭС/Конгресс
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCANALCONGRESO.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Congreso (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=4065174851&_cdn_token=e7f3ea2808fd177c2ab8cea715dd52b293a418b2
 
 #EXTINF:    Iskhodnyy="✔️Национальный✅"                  tvg-logo="https://tvg-logo.short.gy/Национальный" group-title="🇵🇪🗞️ Noticias 🚨",Nacional (1280x720)
 https://vmvpd.short.gy/Национальный
