@@ -122,7 +122,7 @@ https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/40-hls/live-medi
 https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=6210075878&_cdn_token=127384a249456179c827cc32f652c73875a00f27
 
 #EXTINF:    Iskhodnyy="❓МовистарСпорт❔"              tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol 🇵🇪",Movistar Deportes (720x480)
-http://8.243.126.131:8000/play/a052/index.m3u8
+http://205.235.6.29:8000/play/a0zd/index.m3u8
 
 #EXTINF:    Iskhodnyy="🎯БиЦвет+⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/БиЦвет+" group-title="⚽ Futbol 🇵🇪",Bicolor+ (1920x1080)
 https://vmvpd.short.gy/Т3Б2/БиЦвет+
