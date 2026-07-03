@@ -147,7 +147,6 @@ http://181.224.255.210:8001/play/a0pt/index.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
-
 #EXTINF:    Iskhodnyy="❓РСПС3❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/51.2.png" group-title="🌍 Futbol Mundial ⚽",ESPN 3 (1280x720)
 http://190.217.66.92:8000/play/a0q7/index.m3u8
 
@@ -186,8 +185,8 @@ https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/Титан" group-title="🥊 Combate & Accion 🥋",Titán (1280x720)
-https://vmvpd.short.gy/ВТ/Титан
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTITAN.png&width=100" group-title="🥊 Combate & Accion 🥋",Titán (1280x720)
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Titan_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dtitan_stream_y7&_cdn_session=6216307078&_cdn_token=1cfdea119eb5f203183c25e1d73b68b503efb870
 
 #EXTINF:    Iskhodnyy="✔️Кб✅"                tvg-logo="https://tvg-logo.short.gy/Корицабоевой" group-title="🥊 Combate & Accion 🥋",Canela Combate (1920x1080)
 https://vmvpd.short.gy/Корицабоевой
