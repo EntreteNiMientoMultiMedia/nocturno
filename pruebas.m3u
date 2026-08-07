@@ -100,6 +100,11 @@ https://cloud5.streaminglivehd.com:3575/hybrid/play.m3u8
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FMonitor.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Monitor (1280x720)
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Monitor/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DMonitor_stream_7r&_cdn_session=6209044822&_cdn_token=e694c8fef6cfb871f175d305f9fdbb4f46a871ef
 
+#EXTINF:    Iskhodnyy="✔️Национальный✅"                  tvg-logo="https://yt3.googleusercontent.com/79JX6QwOREZ2Es-sIKJrRTt_XJr3SL-UStTyqkR2LROaUfdkoYeRem9S9Uxhj_AbnC5uHPvCOA=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Nacional ()
+https://play.agenciastreaming.com:8081/nacionaltv/tracks-v1a1/index.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644527718/6d3118de737a_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Nacional () 
+https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/chunks.m3u8
+
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FSUPERTV.png&width=100" group-title="⚽ Futbol 🇵🇪",Super (1280x720)
