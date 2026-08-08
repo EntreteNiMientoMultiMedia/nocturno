@@ -218,18 +218,18 @@ https://d23obwy8cjdxix.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:    Iskhodnyy="✔️ВН✅"              tvg-logo="https://yt3.googleusercontent.com/u-umgadHHN7RCOULgcL4ZFFlBvDTCXoWxHDmFeRuJKEbn1TuHzREaEXyjO9ec8FEMQVNLlRKvg=s160-c-k-c0x00ffffff-no-rj" group-title="🏇 Fierros & Turf 🏎️",Nacion Poder (1920x1080)
 https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-canelatvinternational/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Топливо✅"              tvg-logo="https://fuel.tv/images/ftv_150x140.png" group-title="🏇 Fierros & Turf 🏎️",Combustible (1920x1080)
+#EXTINF:    Iskhodnyy="✔️Топливо✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nbMIz-nhF_zD0fzQykgmCWuqaMKCo9xVLNXARiOvIsJos=s160-c-k-c0x00ffffff-no-rj" group-title="🏇 Fierros & Turf 🏎️",Combustible (1920x1080)
 https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
-#EXTINF:    Iskhodnyy="✔️Топливо✅"              tvg-logo="https://fuel.tv/images/find-us/fuel_tv_plus_150.png" group-title="🏇 Fierros & Turf 🏎️",Combustible (1920x1080)
+#EXTINF:    Iskhodnyy="✔️Топливо✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nbMIz-nhF_zD0fzQykgmCWuqaMKCo9xVLNXARiOvIsJos=s160-c-k-c0x00ffffff-no-rj" group-title="🏇 Fierros & Turf 🏎️",Combustible (1920x1080)
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ЛГМ✅"              tvg-logo="https://scontent.cdninstagram.com/v/t51.82787-19/706357003_17874077550609574_5574102032422872509_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=DJAq-n7JcPMQ7kNvwHALJZ_&_nc_oc=AdqYWlBM8KYlst0czXOuTYsFxOgwchgpGejO1aMtpwUl2x4cy8uIoQAK_YQIfJe227E&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ybexqkCy7ZyICkR8AxIbPQ&_nc_ss=7ba8c&oh=00_AQEN_AIjaBtJPkrCcQNhZwp9CZvtYuWL0-8C4C7ANpJm1A&oe=6A7C9E7B" group-title="🏇 Fierros & Turf 🏎️",Maximo de Carreras de Caballos (1920x1080) HR Max
 https://cdnlive.klicgo.net/hrmax/live/playlist_dvr.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Монтеррико✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m2Zd82ML8n0z3PYrS6S65IFwmBTpPwxY_9hRXKSRm7i-I=s160-c-k-c0x00ffffff-no-rj" group-title="🏇 Fierros & Turf 🏎️",MonteRrico (1920x1080)
-https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:    Iskhodnyy="✔️ГБ✅"                tvg-logo="https://hipodromodemonterrico.com.pe/generales_logos_hipodromos/logo_mont.gif" group-title="🏇 Fierros & Turf 🏎️",MonteRrico (1080x720)
 https://jcp.live.opencaster.com/play_src/index.m3u8
+#EXTINF:    Iskhodnyy="✔️Монтеррико✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m2Zd82ML8n0z3PYrS6S65IFwmBTpPwxY_9hRXKSRm7i-I=s160-c-k-c0x00ffffff-no-rj" group-title="🏇 Fierros & Turf 🏎️",MonteRrico (1920x1080)
+https://h.jcp.live.opencaster.com/play_src/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Газон✅"              tvg-logo="https://play-lh.googleusercontent.com/kxna1UsvmqHkbH8SfZVC-kqPEnHms3BvSLjZr6tecYtgpjr5Jny6MxjEnIrsN8ERh9uCaTHS95uf6uIiDXtaeg=w240-h480-rw" group-title="🏇 Fierros & Turf 🏎️",Cesped (1280x720)
 https://tvturf4.janus.cl/playlist/stream.m3u8
