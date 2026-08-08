@@ -155,23 +155,68 @@ http://181.224.255.210:8001/play/a0pr/index.m3u8
 #EXTINF:    Iskhodnyy="❓РСПС6❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/espn-61.jpg" group-title="🌍 Futbol Mundial ⚽",ESPN 6 (1920x1080)
 http://181.224.255.210:8001/play/a0eq/index.m3u8
 
-#EXTINF:    Iskhodnyy="❓РСПС7❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/espn-71.jpg" group-title="🌍 Futbol Mundial ⚽",ESPN 7 (1280x720)
+#EXTINF:    Iskhodnyy="❓РСПС7❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/espn-71.jpg" group-title="🌍 Futbol Mundial ⚽",ESPN 7 (1920x1080)
 http://181.224.255.210:8001/play/a0m5/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓ТУСС❔"                  tvg-logo="https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw=w240-h480-rw" group-title="🌍 Futbol Mundial ⚽",Televisa Univision Deportes Network (1920x1080) TUDN
 http://190.61.101.11:7050/play/a04m/index.m3u8
 
-#EXTINF:    Iskhodnyy="❓аССТ❔"                  tvg-logo="https://yt3.googleusercontent.com/98t5HuaGolJi9epHyl23oge7PoSRvDnWbAhNSV8BOmpX50X2EFjXXlM3ySa8hchBDmP5tpf4HUQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Azteca Deportes Network (1280x720)
+#EXTINF:    Iskhodnyy="❓аССТ❔"                  tvg-logo="https://yt3.googleusercontent.com/98t5HuaGolJi9epHyl23oge7PoSRvDnWbAhNSV8BOmpX50X2EFjXXlM3ySa8hchBDmP5tpf4HUQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Azteca Deportes Network (1920x1080)
 http://209.87.175.160:5001/play/a0mb/index.m3u8
 
-#EXTINF:    Iskhodnyy="❓ТСТСПА❔"                tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Turner Deportes Premium (1280x720)
-http://8.243.126.131:8000/play/a0o7/index.m3u8
-
-#EXTINF:    Iskhodnyy="❓ПС+❔"                tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="🌍 Futbol Mundial ⚽",Win Deportes+ (1920x1080)
+#EXTINF:    Iskhodnyy="❓ПС+❔"                tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="🌍 Futbol Mundial ⚽",Win Deportes+ (1280x960)
 http://190.217.66.92:8000/play/a0qs/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓ТМСС❔"              tvg-logo="https://yt3.googleusercontent.com/-gn5ix3UvKEfHdnYJbH0a6KGsQGexUrOyNAZmsVS2etGzTKwozx2ljyMkU2jXzusZ2mLa8qHUA=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
+
+
+
+#EXTINF=====================================================================================================================================================================================================
+
+https://github.com/iptv-org/iptv/tree/master/streams
+
+https://github.com/EntreteNiMientoMultiMedia/iptv/edit/main/pruebas.m3u  (Editable)
+https://EntreteNiMientoMultiMedia.github.io/iptv/pruebas.m3u  (Visible)
+
+https://iptv-org.github.io/iptv/index.m3u
+https://iptv-org.github.io/iptv/countries/pe.m3u
+https://iptv-org.github.io/iptv/languages/spa.m3u
+
+https://github.com/iptv-org/iptv/edit/main/index.m3u
+https://github.com/iptv-org/iptv/edit/main/pe.m3u
+https://github.com/iptv-org/iptv/edit/main/spa.m3u
+
+https://github.com/iptv-org/iptv/blob/main/index.m3u
+https://github.com/iptv-org/iptv/index.m3u
+https://github.com/iptv-org/iptv/countries/blob/main/pe.m3u
+https://github.com/iptv-org/iptv/languages/blob/main/spa.m3u
+
+https://github.com/Free-TV/IPTV/blob/master/playlist.m3u8
+https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_spain.m3u8
+https://github.com/vk496/IPTVspain/blob/master/spain.m3u8
+https://www.tdtchannels.com/lists/tv.m3u
+https://www.tdtchannels.com/lists/tv.m3u8
+http://tvpe15.com/
+https://www.cxtvenvivo.com/
+https://globoview.cam/categorias/
+https://teleonline.org/
+https://www.tdtchannels.com/catalogo/television/
+https://m3u.cl/canales-iptv.php
+https://raw.githubusercontent.com/listacanales/listacanales/refs/heads/main/tv123.m3u
+https://raw.githubusercontent.com/shadowm1996/listas/main/LISTA.M3U
+https://iptvcat.com/sport__13/4
+https://es.scribd.com/document/429162199/Canales-m3u
+https://es.scribd.com/document/912107358/08032019-iptv-playlist-72-m3u
+https://es.scribd.com/document/957197795/05012019-lista-de-reproduccion-iptv-72a
+
+https://www.reddit.com/r/ArgentinaIPTV/comments/1tqjb90/humilde_listas_gracias_jmiguel85_y_luchitogali/
+https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
+https://raw.githubusercontent.com/luisms123/tdt/master/listalms.m3u
+https://raw.githubusercontent.com/luchitogali2020-bot/prueba2/refs/heads/main/prueba.m3u
+https://raw.githubusercontent.com/luchitogali2020-bot/fulvo/refs/heads/main/mundial.m3u
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -1542,47 +1587,7 @@ https://vmvpd.short.gy/T3B2/Karibena
 
 #EXTINF=====================================================================================================================================================================================================
 
-https://github.com/iptv-org/iptv/tree/master/streams
 
-https://github.com/EntreteNiMientoMultiMedia/iptv/edit/main/pruebas.m3u  (Editable)
-https://EntreteNiMientoMultiMedia.github.io/iptv/pruebas.m3u  (Visible)
-
-https://iptv-org.github.io/iptv/index.m3u
-https://iptv-org.github.io/iptv/countries/pe.m3u
-https://iptv-org.github.io/iptv/languages/spa.m3u
-
-https://github.com/iptv-org/iptv/edit/main/index.m3u
-https://github.com/iptv-org/iptv/edit/main/pe.m3u
-https://github.com/iptv-org/iptv/edit/main/spa.m3u
-
-https://github.com/iptv-org/iptv/blob/main/index.m3u
-https://github.com/iptv-org/iptv/index.m3u
-https://github.com/iptv-org/iptv/countries/blob/main/pe.m3u
-https://github.com/iptv-org/iptv/languages/blob/main/spa.m3u
-
-https://github.com/Free-TV/IPTV/blob/master/playlist.m3u8
-https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_spain.m3u8
-https://github.com/vk496/IPTVspain/blob/master/spain.m3u8
-https://www.tdtchannels.com/lists/tv.m3u
-https://www.tdtchannels.com/lists/tv.m3u8
-http://tvpe15.com/
-https://www.cxtvenvivo.com/
-https://globoview.cam/categorias/
-https://teleonline.org/
-https://www.tdtchannels.com/catalogo/television/
-https://m3u.cl/canales-iptv.php
-https://raw.githubusercontent.com/listacanales/listacanales/refs/heads/main/tv123.m3u
-https://raw.githubusercontent.com/shadowm1996/listas/main/LISTA.M3U
-https://iptvcat.com/sport__13/4
-https://es.scribd.com/document/429162199/Canales-m3u
-https://es.scribd.com/document/912107358/08032019-iptv-playlist-72-m3u
-https://es.scribd.com/document/957197795/05012019-lista-de-reproduccion-iptv-72a
-
-https://www.reddit.com/r/ArgentinaIPTV/comments/1tqjb90/humilde_listas_gracias_jmiguel85_y_luchitogali/
-https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
-https://raw.githubusercontent.com/luisms123/tdt/master/listalms.m3u
-https://raw.githubusercontent.com/luchitogali2020-bot/prueba2/refs/heads/main/prueba.m3u
-https://raw.githubusercontent.com/luchitogali2020-bot/fulvo/refs/heads/main/mundial.m3u
 
 #EXTINF================================================================================================================================================================================================================================================================
 
