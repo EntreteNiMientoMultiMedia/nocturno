@@ -172,16 +172,46 @@ https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF=====================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTITAN.png&width=100" group-title="🥊 Combate & Accion 🥋",Titán (1280x720)
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Titan_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dtitan_stream_y7&_cdn_session=6216307078&_cdn_token=1cfdea119eb5f203183c25e1d73b68b503efb870
+
+#EXTINF:    Iskhodnyy="✔️ВбТб✅"                tvg-logo="https://yt3.googleusercontent.com/NrjpW38Y4KnhK5k-xhg-oNvNz7cMZ3l_qg6SO7CmyObQCl3z55mb6SgloRg-WX88FJIaEsgP=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",Torneo de Lucha Destacado (1280x720) SFT Combat
+https://hrm-sftc.otteravision.com/hrm/sftc/sftc.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ОбЧ✅"                tvg-logo="https://yt3.googleusercontent.com/qxsTGNMcFPwqYRykApeJyLbdQCBZRPr_gCXuxwDbYuYZah5ZYmKs4bq0rtkCLLC011A0MgsGs10=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",Campeonato de Lucha Definitivo (1920x1080) UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️СП✅"                tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDm0LgmuZ6YBLmfnip23dHSVP_cyqFB0kZc5BCrys7YAk=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",KickBoxing de la Gloria (1280x720) Glory KickBoxing
+https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ПБЛСМИ✅"                tvg-logo="https://yt3.googleusercontent.com/rE9KHIFc7HVG3N1x7nid-DlStOusk8dZ3xeuOYG9Onws-X3PO2XgDs9XPGIP1UM0jmF3-0hKHQ=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",Liga de Luchadores Profesionales de Artes Marciales Mixtas (1280x720) PFL MMA
+https://32528224.wurl.com/TEctZXNfUEZMTU1BX0hMUw/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ЖССМИ✅"                tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mK6g_wkxcJhSrCRwaW5t4NW5gSQD8hLQrttEmB3lO9uA=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",Golpes Duros de Artes Marciales Mixtas (1280x720) Hard Knocks MMA
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
+
+#EXTINF:    Iskhodnyy="✔️БП✅"                tvg-logo="https://yt3.googleusercontent.com/d-Eo6-PcOi7ZHf1_B_Kcj5YsBw31swOftqvXSYA191HZL_qkOqgdJmKNJCzfZ118DdEV4h1qnQ=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",Lucha Plus (1920x1080)
+https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️КБ✅"                tvg-logo="https://yt3.googleusercontent.com/EJbx3XSVH0_eTBATyJVLqpKXyDTf9YZ1y6B_25WFkyny2eMZos_gGcQgcem-X-IzTe6GDtFq=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",Toro Rojo (1920x1080)
+https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️СЧЛ✅"              tvg-logo="https://strongmancl.com/wp-content/uploads/2019/08/SCL-logo.png" group-title="🥊 Combate & Accion 🥋",Liga de Campeones de Hombres Fuertes (1280x720) StrongMan Champions League
+https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
+
 https://github.com/iptv-org/awesome-iptv
 https://github.com/iptv-org/iptv/tree/master/streams
 
 https://github.com/Free-TV/IPTV/tree/master/playlists
+
+https://github.com/vk496/IPTVspain/blob/master/spain.m3u8
+
 https://raw.githubusercontent.com/listacanales/listacanales/refs/heads/main/tv123.m3u
 
 https://raw.githubusercontent.com/luisms123/tdt/master/listalms.m3u
 https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
-
-https://github.com/vk496/IPTVspain/blob/master/spain.m3u8
 
 https://raw.githubusercontent.com/luchitogali2020-bot/prueba/refs/heads/main/todofulvo.m3u
 https://raw.githubusercontent.com/luchitogali2020-bot/prueba2/refs/heads/main/prueba.m3u
@@ -201,44 +231,6 @@ https://www.tdtchannels.com/catalogo/television/
 
 
 https://www.reddit.com/r/ArgentinaIPTV/
-
-#EXTINF=====================================================================================================================================================================================================
-
-
-
-#EXTINF=====================================================================================================================================================================================================
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTITAN.png&width=100" group-title="🥊 Combate & Accion 🥋",Titán (1280x720)
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Titan_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dtitan_stream_y7&_cdn_session=6216307078&_cdn_token=1cfdea119eb5f203183c25e1d73b68b503efb870
-
-#EXTINF:    Iskhodnyy="✔️Кб✅"                tvg-logo="https://yt3.googleusercontent.com/tJAN8AAu78kkFfG12IhPOBgz3Dh_FolNRq4rg-_hdjnz8STCRI1srjL7eamBzepD9n5l5cNg9Q=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",Canela Combate (1920x1080)
-https://amg00658-amg00658c114-canelatv-international-8990.playouts.now.amagi.tv/1080p/index.m3u8
-
-#EXTINF:    Iskhodnyy="✔️ВбТб✅"                tvg-logo="https://yt3.googleusercontent.com/NrjpW38Y4KnhK5k-xhg-oNvNz7cMZ3l_qg6SO7CmyObQCl3z55mb6SgloRg-WX88FJIaEsgP=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",Torneo de Lucha Destacado (1280x720) SFT Combat
-https://vmvpd.short.gy/ВыделятьсябоевойТурнирбоевой
-
-#EXTINF:    Iskhodnyy="✔️ОбЧ✅"                tvg-logo="https://tvg-logo.short.gy/ОкончательныйбоевойЧемпионат" group-title="🥊 Combate & Accion 🥋",Campeonato de Lucha Definitivo (1920x1080) UFC
-https://vmvpd.short.gy/ОкончательныйбоевойЧемпионат
-
-#EXTINF:    Iskhodnyy="✔️СП✅"                tvg-logo="https://tvg-logo.short.gy/СлаваПинатьБокс" group-title="🥊 Combate & Accion 🥋",KickBoxing de la Gloria (1280x720) Glory KickBoxing
-https://vmvpd.short.gy/СлаваПинатьБокс
-
-#EXTINF:    Iskhodnyy="✔️ПБЛСМИ✅"                tvg-logo="https://tvg-logo.short.gy/ПБЛСМИ" group-title="🥊 Combate & Accion 🥋",Liga de Luchadores Profesionales de Artes Marciales Mixtas (1280x720) PFL MMA
-https://vmvpd.short.gy/ПрофессиональныйБойцыЛигаСмешанныйМарциалИскусство
-
-#EXTINF:    Iskhodnyy="✔️ЖССМИ✅"                tvg-logo="https://tvg-logo.short.gy/ЖССМИ" group-title="🥊 Combate & Accion 🥋",Golpes Duros de Artes Marciales Mixtas (1280x720) Hard Knocks MMA
-https://vmvpd.short.gy/ЖесткийСтукиСмешанныйМарциалИскусство
-
-#EXTINF:    Iskhodnyy="✔️БП✅"                tvg-logo="https://tvg-logo.short.gy/БорьбаПлюс" group-title="🥊 Combate & Accion 🥋",Lucha Plus (1920x1080)
-https://vmvpd.short.gy/БорьбаПлюс
-
-#EXTINF:    Iskhodnyy="✔️КБ✅"                tvg-logo="https://tvg-logo.short.gy/КрасныйБык" group-title="🥊 Combate & Accion 🥋",Toro Rojo (1920x1080)
-https://vmvpd.short.gy/КрасныйБык
-
-#EXTINF:    Iskhodnyy="✔️СЧЛ✅"              tvg-logo="https://tvg-logo.short.gy/СМЧЛ" group-title="🥊 Combate & Accion 🥋",Liga de Campeones de Hombres Fuertes (1280x720) StrongMan Champions League
-https://vmvpd.short.gy/СилачЧемпионыЛига
-#EXTINF:    Iskhodnyy="✔️СМЧЛ✅"              tvg-logo="https://tvg-logo.short.gy/СМЧЛ" group-title="🥊 Combate & Accion 🥋",Liga de Campeones de Hombres Fuertes (1280x720) StrongMan Champions League
-https://vmvpd.short.gy/СильныйМужчинаЧемпионыЛига
 
 #EXTINF=====================================================================================================================================================================================================
 
