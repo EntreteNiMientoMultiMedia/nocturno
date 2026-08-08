@@ -172,61 +172,49 @@ https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF=====================================================================================================================================================================================================
 
-
-
-#EXTINF=====================================================================================================================================================================================================
-
+https://github.com/iptv-org/awesome-iptv
 https://github.com/iptv-org/iptv/tree/master/streams
 
-https://github.com/EntreteNiMientoMultiMedia/iptv/edit/main/pruebas.m3u  (Editable)
-https://EntreteNiMientoMultiMedia.github.io/iptv/pruebas.m3u  (Visible)
+https://github.com/Free-TV/IPTV/tree/master/playlists
+https://raw.githubusercontent.com/listacanales/listacanales/refs/heads/main/tv123.m3u
 
-https://iptv-org.github.io/iptv/index.m3u
-https://iptv-org.github.io/iptv/countries/pe.m3u
-https://iptv-org.github.io/iptv/languages/spa.m3u
+https://raw.githubusercontent.com/luisms123/tdt/master/listalms.m3u
+https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
 
-https://github.com/iptv-org/iptv/edit/main/index.m3u
-https://github.com/iptv-org/iptv/edit/main/pe.m3u
-https://github.com/iptv-org/iptv/edit/main/spa.m3u
-
-https://github.com/iptv-org/iptv/blob/main/index.m3u
-https://github.com/iptv-org/iptv/index.m3u
-https://github.com/iptv-org/iptv/countries/blob/main/pe.m3u
-https://github.com/iptv-org/iptv/languages/blob/main/spa.m3u
-
-https://github.com/Free-TV/IPTV/blob/master/playlist.m3u8
-https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_spain.m3u8
 https://github.com/vk496/IPTVspain/blob/master/spain.m3u8
+
+https://raw.githubusercontent.com/luchitogali2020-bot/prueba/refs/heads/main/todofulvo.m3u
+https://raw.githubusercontent.com/luchitogali2020-bot/prueba2/refs/heads/main/prueba.m3u
+https://raw.githubusercontent.com/luchitogali2020-bot/fulvo/refs/heads/main/mundial.m3u
+https://raw.githubusercontent.com/shadowm1996/listas/main/LISTA.M3U
+
 https://www.tdtchannels.com/lists/tv.m3u
 https://www.tdtchannels.com/lists/tv.m3u8
-http://tvpe15.com/
+
 https://www.cxtvenvivo.com/
+https://m3u.cl/canales-iptv.php
+http://tvpe15.com/
+
 https://globoview.cam/categorias/
 https://teleonline.org/
 https://www.tdtchannels.com/catalogo/television/
-https://m3u.cl/canales-iptv.php
-https://raw.githubusercontent.com/listacanales/listacanales/refs/heads/main/tv123.m3u
-https://raw.githubusercontent.com/shadowm1996/listas/main/LISTA.M3U
-https://iptvcat.com/sport__13/4
-https://es.scribd.com/document/429162199/Canales-m3u
-https://es.scribd.com/document/912107358/08032019-iptv-playlist-72-m3u
-https://es.scribd.com/document/957197795/05012019-lista-de-reproduccion-iptv-72a
 
-https://www.reddit.com/r/ArgentinaIPTV/comments/1tqjb90/humilde_listas_gracias_jmiguel85_y_luchitogali/
-https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
-https://raw.githubusercontent.com/luisms123/tdt/master/listalms.m3u
-https://raw.githubusercontent.com/luchitogali2020-bot/prueba2/refs/heads/main/prueba.m3u
-https://raw.githubusercontent.com/luchitogali2020-bot/fulvo/refs/heads/main/mundial.m3u
+
+https://www.reddit.com/r/ArgentinaIPTV/
+
+#EXTINF=====================================================================================================================================================================================================
+
+
 
 #EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTITAN.png&width=100" group-title="🥊 Combate & Accion 🥋",Titán (1280x720)
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Titan_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dtitan_stream_y7&_cdn_session=6216307078&_cdn_token=1cfdea119eb5f203183c25e1d73b68b503efb870
 
-#EXTINF:    Iskhodnyy="✔️Кб✅"                tvg-logo="https://tvg-logo.short.gy/Корицабоевой" group-title="🥊 Combate & Accion 🥋",Canela Combate (1920x1080)
-https://vmvpd.short.gy/Корицабоевой
+#EXTINF:    Iskhodnyy="✔️Кб✅"                tvg-logo="https://yt3.googleusercontent.com/tJAN8AAu78kkFfG12IhPOBgz3Dh_FolNRq4rg-_hdjnz8STCRI1srjL7eamBzepD9n5l5cNg9Q=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",Canela Combate (1920x1080)
+https://amg00658-amg00658c114-canelatv-international-8990.playouts.now.amagi.tv/1080p/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ВбТб✅"                tvg-logo="https://tvg-logo.short.gy/ВыделятьсябоевойТурнирбоевой" group-title="🥊 Combate & Accion 🥋",Torneo de Lucha Destacado (1280x720) SFT Combat
+#EXTINF:    Iskhodnyy="✔️ВбТб✅"                tvg-logo="https://yt3.googleusercontent.com/NrjpW38Y4KnhK5k-xhg-oNvNz7cMZ3l_qg6SO7CmyObQCl3z55mb6SgloRg-WX88FJIaEsgP=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",Torneo de Lucha Destacado (1280x720) SFT Combat
 https://vmvpd.short.gy/ВыделятьсябоевойТурнирбоевой
 
 #EXTINF:    Iskhodnyy="✔️ОбЧ✅"                tvg-logo="https://tvg-logo.short.gy/ОкончательныйбоевойЧемпионат" group-title="🥊 Combate & Accion 🥋",Campeonato de Lucha Definitivo (1920x1080) UFC
