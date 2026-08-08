@@ -239,6 +239,20 @@ https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="✔️МПТ✅"              tvg-logo="https://yt3.googleusercontent.com/-ODrgOmfYYb7NJW3U0Zr_le4vqJDEjiWMnSvFsUTkqg-p0jCcEh2IcFpZmODzk_zY8XXRCd_tg=s160-c-k-c0x00ffffff-no-rj" group-title="🕹️ Apuestas & eSports 🃏",Gira Mundial de Poker (1920x1080)
+https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ЭСМ✅"              tvg-logo="https://yt3.googleusercontent.com/YkQ2WTno_zyI0WAkV0aLrtzkKB4ZONe8xYV2HnAbTwGm5C5kGB6nWHRqai1_cXwsotYDVjks=s160-c-k-c0x00ffffff-no-rj" group-title="🕹️ Apuestas & eSports 🃏",ESports Max (1280x720) 
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FE_Sport_Go.png&width=100" group-title="🕹️ Apuestas & eSports 🃏",E Sports Go (720x576)
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/E_Sport_Go/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_Sport_Go_stream_b5&_cdn_session=6941194579&_cdn_token=a1b4a730ba4e60e806251f89e7a1f17d7fabb4c0
+
+#EXTINF:    Iskhodnyy="✔️КГ✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mDjjsSaCKGC2vCcHqu3av4jrZs9D1HRhfjuIV49pPNdg=s160-c-k-c0x00ffffff-no-rj" group-title="🕹️ Apuestas & eSports 🃏",Jugadores de Cajas (1024x576) Box Gamers
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
+
 https://github.com/iptv-org/awesome-iptv
 https://github.com/iptv-org/iptv/tree/master/streams
 
@@ -272,17 +286,17 @@ https://www.reddit.com/r/ArgentinaIPTV/
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️МПТ✅"              tvg-logo="https://tvg-logo.short.gy/МирПокерТур" group-title="🕹️ Apuestas & eSports 🃏",Gira Mundial de Poker (1920x1080)
-https://vmvpd.short.gy/МирПокерТур
+#EXTINF:    Iskhodnyy="✔️МПТ✅"              tvg-logo="https://yt3.googleusercontent.com/-ODrgOmfYYb7NJW3U0Zr_le4vqJDEjiWMnSvFsUTkqg-p0jCcEh2IcFpZmODzk_zY8XXRCd_tg=s160-c-k-c0x00ffffff-no-rj" group-title="🕹️ Apuestas & eSports 🃏",Gira Mundial de Poker (1920x1080)
+https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ЭСМ✅"              tvg-logo="https://tvg-logo.short.gy/ЭлектроникаСпортМакс" group-title="🕹️ Apuestas & eSports 🃏",E Sports Max (1280x720) 
-https://vmvpd.short.gy/ЭлектроникаСпортМакс
+#EXTINF:    Iskhodnyy="✔️ЭСМ✅"              tvg-logo="https://yt3.googleusercontent.com/YkQ2WTno_zyI0WAkV0aLrtzkKB4ZONe8xYV2HnAbTwGm5C5kGB6nWHRqai1_cXwsotYDVjks=s160-c-k-c0x00ffffff-no-rj" group-title="🕹️ Apuestas & eSports 🃏",ESports Max (1280x720) 
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://tvg-logo.short.gy/ВТ/ЭлектроникаСпортИдти" group-title="🕹️ Apuestas & eSports 🃏",E Sports Go (720x576)
-https://vmvpd.short.gy/ВТ/ЭлектроникаСпортИдти
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FE_Sport_Go.png&width=100" group-title="🕹️ Apuestas & eSports 🃏",E Sports Go (720x576)
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/E_Sport_Go/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_Sport_Go_stream_b5&_cdn_session=6941194579&_cdn_token=a1b4a730ba4e60e806251f89e7a1f17d7fabb4c0
 
-#EXTINF:    Iskhodnyy="✔️КГ✅"              tvg-logo="https://tvg-logo.short.gy/КоробкаГеймеры" group-title="🕹️ Apuestas & eSports 🃏",Jugadores de Cajas (1024x576) Box Gamers
-https://vmvpd.short.gy/КоробкаГеймеры
+#EXTINF:    Iskhodnyy="✔️КГ✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mDjjsSaCKGC2vCcHqu3av4jrZs9D1HRhfjuIV49pPNdg=s160-c-k-c0x00ffffff-no-rj" group-title="🕹️ Apuestas & eSports 🃏",Jugadores de Cajas (1024x576) Box Gamers
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
