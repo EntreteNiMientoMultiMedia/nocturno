@@ -330,16 +330,13 @@ https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/NTN24_SIGNAL/40-hls/live-me
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/VPI_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVPI_MIC_stream_og&_cdn_session=6989981571&_cdn_token=6628934de03f069b4d022d4ae5faab122fc90665
 
 #EXTINF:    Iskhodnyy="✔️ТелеЮг✅"                  tvg-logo="https://yt3.googleusercontent.com/aS4NpzUqnC9bnETSlxCYllF5GeYFfdLzClYVsjNIDI4psYBJtGMTfv0LCIpUOEE7aPxK14v9Og=s160-c-k-c0x00ffffff-no-rj" group-title="📰🌐 Noticias del Mundo 🚨",TeleSur (640x360)
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ADN40✅"                  tvg-logo="https://yt3.googleusercontent.com/-GdmThVE45ey6KgOpeG8i83vdDu8SL0Ozn91rhdTiJhM_i05fvudr4xfH2Z8YuY48VTWM0LI5Q=s160-c-k-c0x00ffffff-no-rj" group-title="📰🌐 Noticias del Mundo 🚨",Azteca, Deportes y Noticias 40 (1280x720) ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Блумберг✅"                  tvg-logo="https://yt3.googleusercontent.com/QHk5qgbDEES_BrWfzUK7h6ldgdkC6q5tzbZKGZdSR42xH-iQc-vN5R8V5jGuJch9-dsKHfjN=s160-c-k-c0x00ffffff-no-rj" group-title="📰🌐 Noticias del Mundo 🚨",Bloomberg (1920x1080)
 https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/2a647c61-2a0a-46b1-9bbd-2e16fd530fdb:TUL/variant/dd0a1227701dfa2d888d4bd736db2793/bandwidth/3000000.m3u8
-
-
-
 
 #EXTINF=====================================================================================================================================================================================================
 
