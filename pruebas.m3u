@@ -13,7 +13,7 @@ https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Latina_WIN/40-hls/live-medi
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=4064772203&_cdn_token=3ff64b1cbe7434d98e77fa078cf6b32e620b9e60
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FATV_WIN.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Andina (1920x1080) ATV
-https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/ATV_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_WIN_stream_o4&_cdn_session=6205802374&_cdn_token=678f923fcd6e9cdc7e2400d036a85c1f372009ff
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/ATV_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_WIN_stream_o4&_cdn_session=6997534931&_cdn_token=3a2ef98b12b434abf3bb6a6963f92c066d1568bb
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FATVHD.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Andina (1280x720) ATV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=4064775435&_cdn_token=8d96b45f2b05d04164e4c8b1839611ea6016e44a
 
@@ -162,7 +162,7 @@ http://181.224.255.210:8001/play/a0m5/index.m3u8
 http://190.61.101.11:7050/play/a04m/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓аССТ❔"                  tvg-logo="https://yt3.googleusercontent.com/98t5HuaGolJi9epHyl23oge7PoSRvDnWbAhNSV8BOmpX50X2EFjXXlM3ySa8hchBDmP5tpf4HUQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Azteca Deportes Network (1920x1080)
-http://209.87.175.160:5001/play/a0mb/index.m3u8
+http://190.61.101.11:7050/play/a08l/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓ПС+❔"                tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="🌍 Futbol Mundial ⚽",Win Deportes+ (1280x960)
 http://190.217.66.92:8000/play/a0qs/index.m3u8
