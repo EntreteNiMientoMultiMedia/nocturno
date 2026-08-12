@@ -155,22 +155,22 @@ http://181.224.255.210:8001/play/a0eq/index.m3u8
 #EXTINF:    Iskhodnyy="❓РСПС7❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/espn-71.jpg" group-title="🌍 Futbol Mundial ⚽",ESPN 7 (1920x1080)
 http://181.224.255.210:8001/play/a0m5/index.m3u8
 
-#EXTINF:    Iskhodnyy="❓ТУСС❔"                  tvg-logo="https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw=w240-h480-rw" group-title="🌍 Futbol Mundial ⚽",Televisa Univision Deportes Network (1920x1080) TUDN
-http://190.61.101.11:7050/play/a04m/index.m3u8
-
 #EXTINF:    Iskhodnyy="❓ПС+❔"                tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="🌍 Futbol Mundial ⚽",Win Deportes+ (1280x960)
 http://190.217.66.92:8000/play/a0qs/index.m3u8
+
+#EXTINF:    Iskhodnyy="❓ТУСС❔"                  tvg-logo="https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw=w240-h480-rw" group-title="🌍 Futbol Mundial ⚽",Televisa Univision Deportes Network (1920x1080) TUDN
+http://190.61.101.11:7050/play/a04m/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓ТМСС❔"              tvg-logo="https://yt3.googleusercontent.com/-gn5ix3UvKEfHdnYJbH0a6KGsQGexUrOyNAZmsVS2etGzTKwozx2ljyMkU2jXzusZ2mLa8qHUA=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
 
-#EXTINF:    Iskhodnyy="❓КСП❔"              tvg-logo="https://www.foxsports.com.mx/resizer/v2/C4CAHXMBVFEDHEQ6X2CGW6OCOM.jpg?smart=true&auth=900d286d50bae286c42ddfa4945cf8aa3275e7a5194b0278686ecf0adea8267d&width=1200&height=675&quality=85" group-title="🌍 Futbol Mundial ⚽",Zorro Deportes Premium (1920x1080)
+#EXTINF:    Iskhodnyy="❓КСП❔"              tvg-logo="https://www.foxsports.com.mx/resizer/v2/C4CAHXMBVFEDHEQ6X2CGW6OCOM.jpg?smart=true&auth=900d286d50bae286c42ddfa4945cf8aa3275e7a5194b0278686ecf0adea8267d&width=1200&height=675&quality=85" group-title="🌍 Futbol Mundial ⚽",Zorro Deportes (1920x1080)
 http://190.61.101.11:7050/play/a08t/index.m3u8
 
-#EXTINF:    Iskhodnyy="❓ТСТ❔"              tvg-logo="https://yt3.googleusercontent.com/aeyLuevStCjBPQOlnymEaOvzZdywR353xR22S88bG2pWs4sEHctqeLTA6rb4rY8qS05-Itlhfg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Tuner Deportes (1920x1080)
+#EXTINF:    Iskhodnyy="❓ТСТ❔"              tvg-logo="https://yt3.googleusercontent.com/aeyLuevStCjBPQOlnymEaOvzZdywR353xR22S88bG2pWs4sEHctqeLTA6rb4rY8qS05-Itlhfg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Turner Deportes (1920x1080)
 http://205.235.6.29:8000/play/a104/index.m3u8
 
-#EXTINF:    Iskhodnyy="❓аССТ❔"                  tvg-logo="https://yt3.googleusercontent.com/98t5HuaGolJi9epHyl23oge7PoSRvDnWbAhNSV8BOmpX50X2EFjXXlM3ySa8hchBDmP5tpf4HUQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Azteca Deportes Network (1920x1080)
+#EXTINF:    Iskhodnyy="❓аССТ❔"                  tvg-logo="https://yt3.googleusercontent.com/98t5HuaGolJi9epHyl23oge7PoSRvDnWbAhNSV8BOmpX50X2EFjXXlM3ySa8hchBDmP5tpf4HUQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Azteca Deportes Network (720x480)
 http://190.61.101.11:7050/play/a08l/index.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
