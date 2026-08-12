@@ -299,6 +299,44 @@ https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/2a647c6
 
 #EXTINF=====================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="✔️ДМ&З✅"                  tvg-logo="https://m.media-amazon.com/images/I/91Is1RTRbXL._SL1500_.jpg" group-title="🔄 24/7 (Maratones) 🍿",Doragon Bōru Zetto (1280x720)
+https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ДМС✅"                  tvg-logo="https://m.media-amazon.com/images/I/914fjnd3E-L._SL1500_.jpg" group-title="🔄 24/7 (Maratones) 🍿",Doragon Bōru Sūpā (1280x720)
+https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ДМФ✅"                  tvg-logo="https://m.media-amazon.com/images/I/61LpilHYFeL._SL1050_.jpg" group-title="🔄 24/7 (Maratones) 🍿",Doragon Bōru (1280x720)
+https://live20.bozztv.com/akamaissh101/ssh101/gokupelis/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Чаво✅"                  tvg-logo="https://yt3.googleusercontent.com/R3qnM27ndE-PmTCDmsYbQgJXipnySuBR25ynL-HPKzz6KFtm44qzQ886uwXmLNt_d0S9ErLvGvI=s160-c-k-c0x00ffffff-no-rj" group-title="🔄 24/7 (Maratones) 🍿",El Chavo del 8 (960x720)
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ЧВ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ltTpF4RWJNx-U1-e9eG9ltH_QoXP5YkumjlQ4zntccF93z=s160-c-k-c0x00ffffff-no-rj" group-title="🔄 24/7 (Maratones) 🍿",El Chavo del 8 (960x720)
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Симпсон✅"                  tvg-logo="https://elcomercio.pe/resizer/v2/BOAV73DWOBBX5IFWIOTU6JYJ2Y.jpg?auth=3899465987defc9c0d541946f8f20cd2510cf1db52a375cd5f67339806c481e8&width=1200&height=700&quality=75&smart=true" group-title="🔄 24/7 (Maratones) 🍿",Los Simpson Clasicos (960x720)
+https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Симпсон✅"                  tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/b589a828-a253-4912-a25f-624206ac535f/compose?format=webp&width=350" group-title="🔄 24/7 (Maratones) 🍿",Los Simpson (1280x720)
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ЛК✅"                  tvg-logo="https://assets.rudo.video/assets/latina/live/logoApi_41f7da8c23667b5df6d91c67782924e81757541245.png" group-title="🔄 24/7 (Maratones) 🍿",Latina Clásicos (1920x1080)
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ПМд✅"                  tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/753bd1ad-fa2c-4b29-8326-b0d01cbeebcd/compose?format=webp&width=350" group-title="🔄 24/7 (Maratones) 🍿",El Hombre que Araña 90´s (1280x720)
+https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ДМ✅"                  tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/3f73769f-1b1c-433a-ab15-ddbd7f945164/compose?format=webp&width=350" group-title="🔄 24/7 (Maratones) 🍿",X-Men (640x480)
+https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️МФ✅"                  tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dc183a747a9649d15324cee5b15226749c36722695eb25959e0940357a93b63b._BR-6_AC_SX720_FMavif_PQ65_.jpg" group-title="🔄 24/7 (Maratones) 🍿",Mr Bean (1920x1080)
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Смурфики✅"                  tvg-logo="https://images.vix.com/prd/videos/video:mcp:4473240/38aba932bdabbbc0212d1c731d54468b?tr=w-900,q-80" group-title="🔄 24/7 (Maratones) 🍿",Los Pitufos (1280x720)
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
+
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPLAYBOY.png&width=100" group-title="😈 +18 🔒 Solo Adultos 🔞",🐰 Jugar con el Chiquito 🥂 (1280x720) PlayBoy
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PLAYBOY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLAYBOY_stream_qg&_cdn_session=4066300275&_cdn_token=af75313f55fff962872e4767f6715337ca3f7952
 
@@ -337,44 +375,6 @@ https://www.tdtchannels.com/catalogo/television/
 
 
 https://www.reddit.com/r/ArgentinaIPTV/
-
-#EXTINF=====================================================================================================================================================================================================
-
-#EXTINF:    Iskhodnyy="✔️ДМ&З✅"                  tvg-logo="https://m.media-amazon.com/images/I/91Is1RTRbXL._SL1500_.jpg" group-title="🔄 24/7 (Maratones) 🍿",Doragon Bōru Zetto (1280x720)
-https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️ДМС✅"                  tvg-logo="https://m.media-amazon.com/images/I/914fjnd3E-L._SL1500_.jpg" group-title="🔄 24/7 (Maratones) 🍿",Doragon Bōru Sūpā (1280x720)
-https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️ДМФ✅"                  tvg-logo="https://m.media-amazon.com/images/I/61LpilHYFeL._SL1050_.jpg" group-title="🔄 24/7 (Maratones) 🍿",Doragon Bōru (1280x720)
-https://live20.bozztv.com/akamaissh101/ssh101/gokupelis/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Чаво✅"                  tvg-logo="https://yt3.googleusercontent.com/R3qnM27ndE-PmTCDmsYbQgJXipnySuBR25ynL-HPKzz6KFtm44qzQ886uwXmLNt_d0S9ErLvGvI=s160-c-k-c0x00ffffff-no-rj" group-title="🔄 24/7 (Maratones) 🍿",El Chavo del 8 (960x720)
-https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️ЧВ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ltTpF4RWJNx-U1-e9eG9ltH_QoXP5YkumjlQ4zntccF93z=s160-c-k-c0x00ffffff-no-rj" group-title="🔄 24/7 (Maratones) 🍿",El Chavo del 8 (640x480)
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Симпсон✅"                  tvg-logo="https://elcomercio.pe/resizer/v2/BOAV73DWOBBX5IFWIOTU6JYJ2Y.jpg?auth=3899465987defc9c0d541946f8f20cd2510cf1db52a375cd5f67339806c481e8&width=1200&height=700&quality=75&smart=true" group-title="🔄 24/7 (Maratones) 🍿",Los Simpson Clasicos (1280x720)
-https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Симпсон✅"                  tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/b589a828-a253-4912-a25f-624206ac535f/compose?format=webp&width=350" group-title="🔄 24/7 (Maratones) 🍿",Los Simpson (1280x720)
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
-
-#EXTINF:    Iskhodnyy="✔️ЛК✅"                  tvg-logo="https://assets.rudo.video/assets/latina/live/logoApi_41f7da8c23667b5df6d91c67782924e81757541245.png" group-title="🔄 24/7 (Maratones) 🍿",Latina Clásicos (1920x1080)
-https://jireh-6-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8
-
-#EXTINF:    Iskhodnyy="✔️ПМд✅"                  tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/753bd1ad-fa2c-4b29-8326-b0d01cbeebcd/compose?format=webp&width=350" group-title="🔄 24/7 (Maratones) 🍿",El Hombre que Araña 90´s (482x360)
-https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️ДМ✅"                  tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/3f73769f-1b1c-433a-ab15-ddbd7f945164/compose?format=webp&width=350" group-title="🔄 24/7 (Maratones) 🍿",X-Men (640x480)
-https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️МФ✅"                  tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dc183a747a9649d15324cee5b15226749c36722695eb25959e0940357a93b63b._BR-6_AC_SX720_FMavif_PQ65_.jpg" group-title="🔄 24/7 (Maratones) 🍿",Mr Bean (1920x1080)
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Смурфики✅"                  tvg-logo="https://images.vix.com/prd/videos/video:mcp:4473240/38aba932bdabbbc0212d1c731d54468b?tr=w-900,q-80" group-title="🔄 24/7 (Maratones) 🍿",Los Pitufos (1280x720)
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
