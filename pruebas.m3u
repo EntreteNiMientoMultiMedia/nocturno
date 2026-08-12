@@ -412,23 +412,17 @@ https://www.reddit.com/r/ArgentinaIPTV/
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️УХТЫ✅"                  tvg-logo="https://tvg-logo.short.gy/УХТЫ" group-title="💃🏻 Variedad Hispana 🌎",WOW 🇸🇻 (1920x1080)
-https://vmvpd.short.gy/УХТЫСальвадор
-#EXTINF:    Iskhodnyy="✔️УС✅"                  tvg-logo="https://tvg-logo.short.gy/УХТЫСальвадор" group-title="💃🏻 Variedad Hispana 🌎",WOW 🇸🇻 (1920x1080)
-https://vmvpd.short.gy/УХТЫ
+#EXTINF:    Iskhodnyy="✔️УХТЫ✅"                  tvg-logo="https://yt3.googleusercontent.com/UPj12VPlhl_2bWrRqFrb3Fr12jxPyLkfm-GZ8CmWBsPP27-ZrQF0T0ow2qNRHQK9s8XtMpDFNQ=s160-c-k-c0x00ffffff-no-rj" group-title="💃🏻 Variedad Hispana 🌎",WOW 🇸🇻 (1920x1080)
+https://cdn1.cef-technology.com/wow/wow_tv/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️АКЛа✅"                  tvg-logo="https://tvg-logo.short.gy/АКаналЛатиноамериканецамериканский" group-title="💃🏻 Variedad Hispana 🌎",Un Canal Latinoamericano 🇺🇾 (1280x720) Union Continental LatinoAmerica
-https://vmvpd.short.gy/АКаналЛатиноамериканецамериканский
-#EXTINF:    Iskhodnyy="✔️СкЛа✅"                  tvg-logo="https://tvg-logo.short.gy/СоюзКонтинентальныйЛатиноамериканецамериканский" group-title="💃🏻 Variedad Hispana 🌎",UCL 🇺🇾 (1920x1080)
-https://vmvpd.short.gy/СоюзКонтинентальныйЛатиноамериканецамериканский
+#EXTINF:    Iskhodnyy="✔️СвятыеТелло✅"                  tvg-logo="https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/7326866084535533573~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=76de3888&x-expires=1786744800&x-signature=o5JOVIpdeyETpcCrOZ1J2YNStL8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3" group-title="💃🏻 Variedad Hispana 🌎",Los Santos 🇨🇷 (1280x720)
+https://tiquiciatv.com/hls/lstv.m3u8
 
-#EXTINF:    Iskhodnyy="✔️СвятыеТелло✅"                  tvg-logo="https://tvg-logo.short.gy/СвятыеТелло" group-title="💃🏻 Variedad Hispana 🌎",Los Santos 🇨🇷 (1280x720)
-https://vmvpd.short.gy/СвятыеТелло
+#EXTINF:    Iskhodnyy="✔️АКЛа✅"                  tvg-logo="https://www.ucltelevision.com/assets/logo-CTpYteM_.png" group-title="💃🏻 Variedad Hispana 🌎",Un Canal Latinoamericano 🇺🇾 (1280x720) Union Continental LatinoAmerica
+https://streamingmcbo.ddns.net:8081/ucltelevision/tracks-v1a1/mono.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ОПА✅"                  tvg-logo="https://tvg-logo.short.gy/ОнПампасыАргентина" group-title="💃🏻 Variedad Hispana 🌎",La Pampa Argentina 🇦🇷 (1280x720)
-https://vmvpd.short.gy/ОнПампасыАргентина
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/ОнПампасыАргентина" group-title="💃🏻 Variedad Hispana 🌎",La Pampita Argentina 🇦🇷 (1280x720)
-https://vmvpd.short.gy/Т3Б2/ОнПампасыАргентина
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/02/21/1772460951208/d8a93cf1c8d3_480_270.png" group-title="💃🏻 Variedad Hispana 🌎",La Pampita Argentina 🇦🇷 (1280x720)
+https://live-evg10.tv360.bitel.com.pe/bitel/pampaargentina/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/ОнЗвезды" group-title="💃🏻 Variedad Hispana 🌎",Las Estrellas 🇲🇽 (1280x720)
 https://vmvpd.short.gy/ВТ/ОнЗвезды
