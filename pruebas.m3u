@@ -555,6 +555,8 @@ https://www.cxtvenvivo.com/
 https://www.xhkzv.com/
 https://m3u.cl/canales-iptv.php
 http://tvpe15.com/
+https://serenotv.com/
+https://www.chiletvapp.com/
 
 https://globoview.cam/categorias/
 https://teleonline.org/
@@ -578,14 +580,23 @@ https://jmp2.uk/stvp-ES300029LP
 #EXTINF:    Iskhodnyy="✔️АЗК✅"              tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="🎌 Anime 👀",Anime Vision Clasicos (1920x1080)
 https://jmp2.uk/stvp-ES3000288I
 
-#EXTINF:    Iskhodnyy="✔️TAM✅"                  tvg-logo="https://tvg-logo.short.gy/ТелеАнимеМания" group-title="🎌 Anime 👀",Tele Anime Mania (1280x720)
-https://vmvpd.short.gy/ТелеАнимеМания
+#EXTINF:    Iskhodnyy="✔️AS✅"                  tvg-logo="https://scontent.flim28-1.fna.fbcdn.net/v/t39.30808-6/305651445_459742029532787_5251624699839533330_n.jpg?stp=dst-jpg_tt6&cstp=mx2046x2046&ctp=s2046x2046&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rFVfl4_dv-kQ7kNvwGdLvDS&_nc_oc=Adpbv-K3B7IX7VaO1G0QF0EIv4TpgN4oVvtJK20J3hD2yYZuttPcTKHTi7U_RgaO-ic&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&_nc_gid=mAjdWwE5Q1S8hAlS6fxxMA&_nc_ss=7b289&oh=00_AQH1vWl5ItbygDoVcw0oXjpLOJBG2C_QafMVPACh02j-MQ&oe=6A832748" group-title="🎌 Anime 👀",Anime Estacion (1280x720)
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️AS✅"                  tvg-logo="https://tvg-logo.short.gy/АнимеСезон" group-title="🎌 Anime 👀",Anime Estacion (1280x720)
-https://vmvpd.short.gy/АнимеСезон
+#EXTINF:    Iskhodnyy="✔️ЭГР✅"              tvg-logo="https://energeek.cl/wp-content/themes/EnerGeek-Theme-pop/assets/img/logo.png" group-title="🎌 Anime 👀",Energia Adicta Retro (1920x1080) EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ЭГР✅"              tvg-logo="https://tvg-logo.short.gy/ЭнергияГикРетро" group-title="🎌 Anime 👀",Energia Adicta Retro (1920x1080) EnerGeek Retro
-https://vmvpd.short.gy/ЭнергияГикРетро
+#EXTINF:    Iskhodnyy="✔️АМ✅"              tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCRyIeb5IY-BbZf4GL-ljuAxXmg2Y8Mttf5ZlEauL6LL1ainsD_Ly8-atcCtLZQAghALzHpJmRfDdY6pGjGxyLkbCWqmPlxqvyxuGK9EBdAz8nvJ41GDIB7ijVrgBj99pbuIvhA48c7eqncuN21Boz6_qkdhgER098nZkyp41u-LggItFxnv5Cit6U9Lg/s800/max-anime.jpg" group-title="🎌 Anime 👀",Anime Maximo (x) Max Anime
+https://cdnlive.klicgo.net/maxanime/live/chunklist_w1586344826_DVR.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ИИИ✅"              tvg-logo="https://play-lh.googleusercontent.com/DbhaqFt8P63zKmTLsRRSt4AtWMoSMsZ2DleTxpsIRgZA1s7Gh6GsU_am02rBFrebAf29RrvPI6WKUywPWPP3HlI=w2560-h1440-rw" group-title="🎌 Anime 👀",¡Vamos, vamos, a jugar! (x) GoGoPlay
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ТТФ✅"              tvg-logo="https://taltaltv.net/images/139/27074308/NUEVOLOGO2026-ZWc2xs-_pfcPFmlof05-1A-ByH0B-_UP2YZE7Jj3EszXw.png" group-title="🎌 Anime 👀",TalTal (x) Peliculas
+https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ТТР✅"              tvg-logo="https://taltaltv.net/images/139/27074308/NUEVOLOGO2026-ZWc2xs-_pfcPFmlof05-1A-ByH0B-_UP2YZE7Jj3EszXw.png" group-title="🎌 Anime 👀",TalTal (x) Series
+https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
