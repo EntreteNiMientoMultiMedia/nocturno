@@ -752,7 +752,7 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ЧВ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mkeVSbgeBIWUOlB_Pfzv09bFNXYy6WFgsq_ZB26injYQ=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Para Divertirse 🇵🇱 (1024x576)
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
+#EXTINF:    Iskhodnyy="✔️ЧВ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mkeVSbgeBIWUOlB_Pfzv09bFNXYy6WFgsq_ZB26injYQ=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Para Divertirse 🇵🇱 (512x288)
 https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️КУ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lgpjt4XY-iPt3cTTbRDYl0xg7rp8sKBJSUgr9jAN5EaSQ=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Krone HIT 🇦🇹 (960x540)
