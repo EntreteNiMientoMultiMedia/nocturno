@@ -722,8 +722,9 @@ https://ca2.oxira.net.pe/bestcablehatuntv/index.m3u8
 https://es2-p1-netcdn.bitel.com.pe/netcdn-live-5/bitel/peruanisimaSRT/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Ретро✅"                  tvg-logo="https://play-lh.googleusercontent.com/fSVDUWdsTrqSdwC8NIXmDmxCkuZbvsrChC6zosvbWvrjptNY15_9jcVPSIgEvDLr0i9cHMw9dx0Rlkz_q90gDw=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Retro 🇨🇿 (1280x720)
-https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w1512045336_b3256000.m3u8
 https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w860415805_b3256000.m3u8
+#EXTINF:    Iskhodnyy="✔️Ретро✅"                  tvg-logo="https://play-lh.googleusercontent.com/fSVDUWdsTrqSdwC8NIXmDmxCkuZbvsrChC6zosvbWvrjptNY15_9jcVPSIgEvDLr0i9cHMw9dx0Rlkz_q90gDw=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Retro 🇨🇿 (1280x720)
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w1512045336_b3256000.m3u8
 
 #EXTINF:    Iskhodnyy="✔️КЧМ✅"                  tvg-logo="https://play-lh.googleusercontent.com/XHmSklEPpVddQuU2ug90UDIwZjiuf-DAHwKzl93PEh1IHEn855sjzHvAdfBJy3T7U4OXn10npBhMNM8ZZ7D98w=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Rock FM 🇷🇴 (1280x720)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
@@ -736,6 +737,7 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b7596000_sltur.m3u
 
 #EXTINF:    Iskhodnyy="✔️ЧОЧМ✅"                  tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2021/10/yeni-logonr1.png" group-title="🎧 Melodiya 🌍🔊",Numero 1 Fm 🇹🇷 (1280x720)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️ЧОЧМ✅"                  tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2021/10/yeni-logonr1.png" group-title="🎧 Melodiya 🌍🔊",Numero 1 Fm 🇹🇷 (1280x720)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ТРТМ✅"                  tvg-logo="https://yt3.googleusercontent.com/g5vX561pekzstEWs_0cYHyk5Fv1mb3PkF4-0jBGfYk5GGi6ZP81ewSd1WQOcLCxiULD2OIpVVw=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",TRT Muzik 🇹🇷 (1920x1080)
@@ -791,8 +793,9 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Музангала✅"                  tvg-logo="https://muzangala.tv/wp-content/uploads/2022/08/LOGO_MUZANGALA_TV_.png" group-title="🎧 Melodiya 🌍🔊",Muzangala 🇦🇴 (1920x1080)
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1890938145.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w223938361.m3u8
+#EXTINF:    Iskhodnyy="✔️Музангала✅"                  tvg-logo="https://muzangala.tv/wp-content/uploads/2022/08/LOGO_MUZANGALA_TV_.png" group-title="🎧 Melodiya 🌍🔊",Muzangala 🇦🇴 (1920x1080)
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1890938145.m3u8
 
 #EXTINF:    Iskhodnyy="✔️АМ✅"                  tvg-logo="https://yt3.googleusercontent.com/OKgYTAsf-t8jCbaeMo6JzCXQLeiSDe9VJvt0r-hlNPDMciGIdusMnPZClIl0UO3zPm4iJ0VXig=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",A Muscica 🇳🇬 (854x480)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8
