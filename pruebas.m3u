@@ -556,7 +556,6 @@ https://globoview.cam/categorias/
 https://teleonline.org/
 https://www.tdtchannels.com/catalogo/television/
 
-
 https://www.reddit.com/r/ArgentinaIPTV/
 
 #EXTINF=====================================================================================================================================================================================================
@@ -570,19 +569,17 @@ https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/BITME/40-hls/live-media.m3u
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/BITME/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBITME_stream_n7&_cdn_session=4152557947&_cdn_token=66047937d2b2e6c9b4ba823605684fa6cb55cc5b
 
 #EXTINF:    Iskhodnyy="✔️АЗ✅"              tvg-logo="https://tvg-logo.short.gy/АнимеЗрение" group-title="🎌 Anime 👀",Anime Vision (1920x1080)
-https://vmvpd.short.gy/АнимеЗрение
+https://d3s16x8nuluqt7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-rhh1tvdzbxvg0/58d9ecf2-8888-4468-b788-eafd72c0b0e6/0.m3u8
+https://jmp2.uk/stvp-ES300029LP
 
 #EXTINF:    Iskhodnyy="✔️АЗК✅"              tvg-logo="https://tvg-logo.short.gy/АнимеЗрениеКлассика" group-title="🎌 Anime 👀",Anime Vision Clasicos (1920x1080)
-https://vmvpd.short.gy/АнимеЗрениеКлассика
+https://jmp2.uk/stvp-ES3000288I
 
 #EXTINF:    Iskhodnyy="✔️TAM✅"                  tvg-logo="https://tvg-logo.short.gy/ТелеАнимеМания" group-title="🎌 Anime 👀",Tele Anime Mania (1280x720)
 https://vmvpd.short.gy/ТелеАнимеМания
 
 #EXTINF:    Iskhodnyy="✔️AS✅"                  tvg-logo="https://tvg-logo.short.gy/АнимеСезон" group-title="🎌 Anime 👀",Anime Estacion (1280x720)
 https://vmvpd.short.gy/АнимеСезон
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641223719/2ea742cd2ef0_480_270.png" group-title="🎌 Anime 👀",Almas de Niñas (1920x1080) Anima Kids
-https://es3-p1-netcdn.bitel.com.pe/netcdn-live-7/bitel/animakids/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ЭГР✅"              tvg-logo="https://tvg-logo.short.gy/ЭнергияГикРетро" group-title="🎌 Anime 👀",Energia Adicta Retro (1920x1080) EnerGeek Retro
 https://vmvpd.short.gy/ЭнергияГикРетро
