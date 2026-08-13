@@ -755,16 +755,14 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:    Iskhodnyy="✔️ЧВ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mkeVSbgeBIWUOlB_Pfzv09bFNXYy6WFgsq_ZB26injYQ=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Para Divertirse 🇵🇱 (512x288)
 https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️КУ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lgpjt4XY-iPt3cTTbRDYl0xg7rp8sKBJSUgr9jAN5EaSQ=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Krone HIT 🇦🇹 (960x540)
+#EXTINF:    Iskhodnyy="✔️КУ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lgpjt4XY-iPt3cTTbRDYl0xg7rp8sKBJSUgr9jAN5EaSQ=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Krone HIT 🇦🇹 (1920x1080)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ПЗ✅"                  tvg-logo="https://play-lh.googleusercontent.com/hgqxVvDATj4pQVigg1pdRTe0l2rrSuQnSUu8sZaiac2FtZFyagxZ71NK7sZk5x-PC6Nm9xuwGV1B1UWU_oI7BQ=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Ocko Estrella 🇨🇿 (720x400)
+#EXTINF:    Iskhodnyy="✔️ПЗ✅"                  tvg-logo="https://play-lh.googleusercontent.com/hgqxVvDATj4pQVigg1pdRTe0l2rrSuQnSUu8sZaiac2FtZFyagxZ71NK7sZk5x-PC6Nm9xuwGV1B1UWU_oI7BQ=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Ocko Estrella 🇨🇿 (960x540)
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hd.m3u8
 
 #EXTINF:    Iskhodnyy="✔️OE✅"                  tvg-logo="https://1gr.cz/o/ocko/logo.jpg" group-title="🎧 Melodiya 🌍🔊",Ocko Expres 🇨🇿 (960x540)
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hd.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ЧХРК✅"                  tvg-logo="https://www.radiocontact.be/app/themes/radiocontact-new/static/assets/images/logo.png" group-title="🎧 Melodiya 🌍🔊",Sientete Bien 🇧🇪 (854x480) Radio Contacto
 https://live-radiocontact.digiteka.com/1564284079/tracks-v1a1/mono.ts.m3u8
