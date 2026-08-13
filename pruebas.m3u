@@ -614,50 +614,50 @@ https://www.reddit.com/r/ArgentinaIPTV/
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/КаналЛичностьперуанский" group-title="🔬 Ciencia & Cultura 🔭",Identidad Peruana (1280x720) IPe
-https://vmvpd.short.gy/ЭС/КаналЛичностьперуанский
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/КаналЛичностьперуанский" group-title="🔬 Ciencia & Cultura 🔭",Identidad Peruana (720x576) IPe
-https://vmvpd.short.gy/ВТ/КаналЛичностьперуанский
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FIPE.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Identidad Peruana (1280x720) IPe
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/IPE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIPE_stream_ft&_cdn_session=4153310843&_cdn_token=b655f179b8d3ff84dfc12e0e27793d9835058404
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FIPE_WIN.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Identidad Peruana (720x576) IPe
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/IPE_WIN/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DIPE_WIN_stream_06&_cdn_session=6815544150&_cdn_token=c9f8422b082e08779385e8d33b6792f88198dd5b
 
-#EXTINF:    Iskhodnyy="✔️УСМдП✅"                  tvg-logo="https://tvg-logo.short.gy/УниверситетСвятойМартиндеПоррес" group-title="🔬 Ciencia & Cultura 🔭",San Martín de Porres Universidad (1280x720)
-https://vmvpd.short.gy/УниверситетСвятойМартиндеПоррес
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/УниверситетСвятойМартиндеПоррес" group-title="🔬 Ciencia & Cultura 🔭",San Martín de Porres Universidad (1920x1080)
-https://vmvpd.short.gy/Т3Б2/УниверситетСвятойМартиндеПоррес
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/УниверситетСвятойМартиндеПоррес" group-title="🔬 Ciencia & Cultura 🔭",San Martín de Porres Universidad (1280x720)
-https://vmvpd.short.gy/ВТ/УниверситетСвятойМартиндеПоррес
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/УниверситетСвятойМартиндеПоррес" group-title="🔬 Ciencia & Cultura 🔭",San Martín de Porres Universidad (1280x720)
-https://vmvpd.short.gy/ЭС/УниверситетСвятойМартиндеПоррес
+#EXTINF:    Iskhodnyy="✔️УСМдП✅"                  tvg-logo="https://cdn.usmptv.pe/v1/images/logo-usmptv-main.png" group-title="🔬 Ciencia & Cultura 🔭",San Martín de Porres Universidad (1280x720)
+https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648109382/b90c2a82637d_480_270.jpg" group-title="🔬 Ciencia & Cultura 🔭",San Martín de Porres Universidad (1920x1080)
+https://live-evg11.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FUSMP_WIN.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",San Martín de Porres Universidad (1280x720)
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/USMP_HD/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DUSMP_HD_stream_eg&_cdn_session=6815588054&_cdn_token=6dd26973019ebb417458ab09d93fe80a8dd0cbf2
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FUSMPTV.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",San Martín de Porres Universidad (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=4153315147&_cdn_token=887e197ba379412880e7133599265f2b7a65e883
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ОткрытиеКанал" group-title="🔬 Ciencia & Cultura 🔭",Canal Descubridor (1280x720)
-https://vmvpd.short.gy/ЭС/ОткрытиеКанал
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISCOVERYCHANNEL.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Canal Descubridor (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=4153315563&_cdn_token=205b23c0a88c01828a760549ea3c43bdb093b134
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/ИсторияКанал" group-title="🔬 Ciencia & Cultura 🔭",Canal Historia (1280x720)
-https://vmvpd.short.gy/ВТ/ИсторияКанал
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ИсторияКанал" group-title="🔬 Ciencia & Cultura 🔭",Canal Historia (1280x720)
-https://vmvpd.short.gy/ЭС/ИсторияКанал
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FHistory_Channel.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Canal Historia (1280x720)
+https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_stream_u9&_cdn_session=6815606230&_cdn_token=68c78396f03cc6b08b38eb334fc8d5e25342fa62
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHISTORYCHANNEL.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Canal Historia (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_session=4153316763&_cdn_token=602d17affd83833b2e269193c2263c551fef5630
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/НациональныйГеографический" group-title="🔬 Ciencia & Cultura 🔭",Nacional Geografico (1280x720)
-https://vmvpd.short.gy/ЭС/НациональныйГеографический
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FNATGEO.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Nacional Geografico (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NATGEO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=4153317187&_cdn_token=a0a2dcb44826e50a5b012160e196de2330563a03
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ЖивотноеПланета" group-title="🔬 Ciencia & Cultura 🔭",Planeta Animal (1280x720)
-https://vmvpd.short.gy/ЭС/ЖивотноеПланета
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FANIMALPLANET.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Planeta Animal (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PLAYBOY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLAYBOY_stream_qg&_cdn_session=4066300275&_cdn_token=af75313f55fff962872e4767f6715337ca3f7952
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/ВТ/ИсторияКаналДва" group-title="🔬 Ciencia & Cultura 🔭",Canal Historia 2 (1280x720)
-https://vmvpd.short.gy/ВТ/ИсторияКаналДва
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ИсторияКаналДва" group-title="🔬 Ciencia & Cultura 🔭",Canal Historia 2 (1280x720)
-https://vmvpd.short.gy/ЭС/ИсторияКаналДва
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FHistory_Channel_2.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Canal Historia 2 (1280x720)
+https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/HISTORY_CHANNEL_2/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DHISTORY_CHANNEL_2_stream_9h&_cdn_session=6815628726&_cdn_token=9a615219b86f5fca286f69cf116fea31020d2e7e
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHISTORY2.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Canal Historia 2 (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=4153318459&_cdn_token=e782222c0a878996374b21741d80dc7ae167afa2
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ЛюбовьПрирода" group-title="🔬 Ciencia & Cultura 🔭",Ama la Naturaleza (1280x720)
-https://vmvpd.short.gy/ЭС/ЛюбовьПрирода
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLOVENATURE.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Ama la Naturaleza (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DVENUS_stream_o3&_cdn_session=4066298819&_cdn_token=3454e758a09690bc48c645ea7b8f87174ad697a2
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ОткрытиеНаука" group-title="🔬 Ciencia & Cultura 🔭",Discovery Ciencia (1280x720)
-https://vmvpd.short.gy/ЭС/ОткрытиеНаука
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISCOVERYSCIENCE.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Discovery Ciencia (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=4153319875&_cdn_token=114edc176bc905a8dda73f4d43c131b7e2c4d995
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ОткрытиеТеатр" group-title="🔬 Ciencia & Cultura 🔭",Discovery Teatro (1280x720)
-https://vmvpd.short.gy/ЭС/ОткрытиеТеатр
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISCOVERYTHEATER.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Discovery Teatro (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTHEATER_stream_ss&_cdn_session=4153320459&_cdn_token=cce7289b2ba420d27d22294e21fe2e84c9dc099c
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://tvg-logo.short.gy/ЭС/ОткрытиеМир" group-title="🔬 Ciencia & Cultura 🔭",Discovery Mundo (1280x720)
-https://vmvpd.short.gy/ЭС/ОткрытиеМир
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISCOVERYWORLD.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Discovery Mundo (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYWORLD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYWORLD_stream_tr&_cdn_session=4153321075&_cdn_token=638bbe4b2837ec1240fe02cf89ac3c07f7749e1c
 
 #EXTINF=====================================================================================================================================================================================================
 
