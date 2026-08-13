@@ -684,16 +684,17 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF:    Iskhodnyy="✔️КИ✅"                  tvg-logo="https://yt3.googleusercontent.com/9f7GMoKtTlfsGcvZYcqP1HGtYQnhiK6aVkD3x2merssw1_pOL2Qc21jMn4BcKSUNINCV34LFQw=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Canal E 🇦🇷 (1920x1080)
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream0/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Тевекс✅"                  tvg-logo="https://tevex.cl/brand/tevex-logo.png" group-title="📈 Negocios y Emprendimiento 🚀",Tevex 🇨🇱 (1920x1080)
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Тевекс✅"                  tvg-logo="https://yt3.googleusercontent.com/cQnfvzNtGoY5lBZgQx6MGBeipba0diW8Sq07BKnhfaTu9Tsry9vl324wMJ4hohV03FXqQwFojg=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Tevex 🇨🇱 (1280x720)
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️КП✅"                  tvg-logo="https://static.wixstatic.com/media/3fae4e_47eb435907ab4d95a9832a2022fbe604~mv2.png/v1/fill/w_291,h_133,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PRO%20PNG%20BLANCO.png" group-title="📈 Negocios y Emprendimiento 🚀",Canal Pro 🇵🇾 (1280x720)
 https://www.desde-paraguay.com/pro.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://yt3.googleusercontent.com/ZPN7l9oatmeZXkcGa3kK6rD5T7gh5awtXqVMHbcSnCs2lTqsf4rypEXeK9cuvNigL3cArUqMHQ=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Cosmos 🇵🇾 (1280x720)
+#EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://yt3.googleusercontent.com/ZPN7l9oatmeZXkcGa3kK6rD5T7gh5awtXqVMHbcSnCs2lTqsf4rypEXeK9cuvNigL3cArUqMHQ=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Cosmos 🇵🇾 (1920x1080)
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
