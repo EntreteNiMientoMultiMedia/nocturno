@@ -518,17 +518,54 @@ http://45.181.122.46:8090/play/a00m
 #EXTINF:    Iskhodnyy="✔️Делми✅"                  tvg-logo="https://serenotv.com/wp-content/uploads/2026/07/Delmi-Channel-150x150.png" group-title="🎮 Juvenil ⚡ 7 a 14 años",Delmi (1280x720)
 https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:    Iskhodnyy="✔️РМ✅"                  tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.99422-6/724024668_4385366471778475_352164791176907914_n.png?stp=dst-jpg_tt6&cstp=mx1402x1122&ctp=s1402x1122&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KbtxDCsJOPwQ7kNvwFwpbJo&_nc_oc=Adqup-umehGAfrb3dlrKrfG9QdwWPBjK0IQ89DJOD1jGj_rIaBZk7UB-v1J9sH2st4M&_nc_zt=14&_nc_ht=scontent.flim38-1.fna&_nc_gid=5uWpSeuyJ5QrbN-Aodknmw&_nc_ss=7b289&oh=00_AQFIfpXMrUMAQue1iZ9yXyC2RezcA8c974CtZco0j0riDQ&oe=6A8362AC" group-title="🎮 Juvenil ⚡ 7 a 14 años",Dibujos Animados Retrox (1280x720) Retrox Cartoon
+https://lbgo.bozztv.com/ssh101/ssh101/erenay/chunks.m3u8
+
 #EXTINF:    Iskhodnyy="✔️МД✅"                  tvg-logo="https://magickids.site/img/ui/mgk-logo.gif" group-title="🎮 Juvenil ⚡ 7 a 14 años",Niños Magicos (854x480) Magic Kids
 https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️РВ✅"                  tvg-logo="https://yt3.googleusercontent.com/CzquR2TXgIpZ32C7Nm8_Jfa4bONgKxVoEXZpOZ2T9E6O2AB6dVty-6ZTB5vDTv46Tx7tnGBpWA=s160-c-k-c0x00ffffff-no-rj" group-title="🎮 Juvenil ⚡ 7 a 14 años",Retro Magico (1280x720)
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️РМ✅"                  tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.99422-6/724024668_4385366471778475_352164791176907914_n.png?stp=dst-jpg_tt6&cstp=mx1402x1122&ctp=s1402x1122&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KbtxDCsJOPwQ7kNvwFwpbJo&_nc_oc=Adqup-umehGAfrb3dlrKrfG9QdwWPBjK0IQ89DJOD1jGj_rIaBZk7UB-v1J9sH2st4M&_nc_zt=14&_nc_ht=scontent.flim38-1.fna&_nc_gid=5uWpSeuyJ5QrbN-Aodknmw&_nc_ss=7b289&oh=00_AQFIfpXMrUMAQue1iZ9yXyC2RezcA8c974CtZco0j0riDQ&oe=6A8362AC" group-title="🎮 Juvenil ⚡ 7 a 14 años",Dibujos Animados Retrox (1280x720) Retrox Cartoon
-https://lbgo.bozztv.com/ssh101/ssh101/erenay/chunks.m3u8
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647052374/d0b7cf8623a8_480_270.png" group-title="🎮 Juvenil ⚡ 7 a 14 años",Chiki Toonz (1920x1080)
 https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/chunks.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="💵EC💸"              tvg-logo="https://yt3.googleusercontent.com/oGhBcOj4r0zwibT0YBO70um0bKh5g-DW7cuamIha3zmdJ7wxcinJUMybzVwhXCn6PXnFf8zP=s160-c-k-c0x00ffffff-no-rj" group-title="🎌 Anime 👀",Natacion para Adultos (1280x720) Adult Swim
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ADULTSWIM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DADULTSWIM_stream_e0&_cdn_session=4152554579&_cdn_token=8c9db7e3c9fa6ec4d13eb961efdd2013c3ccb453
+
+#EXTINF:    Iskhodnyy="✔️ИИИ✅"              tvg-logo="https://play-lh.googleusercontent.com/JaR2adDlhrsrR1LLozpLA5FK5tysYVpn9GkxsXCziMEuC1147BgDHV48-0X5fR12oCDocx85_jI1J0UkDkS7=s48-rw" group-title="🎌 Anime 👀",¡Vamos vamos a jugar! (1920x1080) GoGoPlay
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBITME.png&width=100" group-title="🎌 Anime 👀",Poco A Mi (1280x720) BitMe
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/BITME/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DBITME_stream_kl&_cdn_session=6808028934&_cdn_token=f22d8681ccc57f99e12079ee1a2b38ab2166fcac
+#EXTINF:    Iskhodnyy="💵CF💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBITME.png&width=100" group-title="🎌 Anime 👀",Poco A Mi (1024x576) BitMe
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/BITME/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBITME_stream_n7&_cdn_session=4152557947&_cdn_token=66047937d2b2e6c9b4ba823605684fa6cb55cc5b
+
+#EXTINF:    Iskhodnyy="✔️АЗ✅"              tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="🎌 Anime 👀",Anime Vision (1920x1080)
+https://jmp2.uk/stvp-ES300029LP
+
+#EXTINF:    Iskhodnyy="✔️АЗК✅"              tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="🎌 Anime 👀",Anime Vision Clasicos (1920x1080)
+https://jmp2.uk/stvp-ES3000288I
+
+#EXTINF:    Iskhodnyy="✔️ЭГР✅"              tvg-logo="https://energeek.cl/wp-content/themes/EnerGeek-Theme-pop/assets/img/logo.png" group-title="🎌 Anime 👀",Energia Adicta Retro (1920x1080) EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="✔️АМ✅"              tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCRyIeb5IY-BbZf4GL-ljuAxXmg2Y8Mttf5ZlEauL6LL1ainsD_Ly8-atcCtLZQAghALzHpJmRfDdY6pGjGxyLkbCWqmPlxqvyxuGK9EBdAz8nvJ41GDIB7ijVrgBj99pbuIvhA48c7eqncuN21Boz6_qkdhgER098nZkyp41u-LggItFxnv5Cit6U9Lg/s800/max-anime.jpg" group-title="🎌 Anime 👀",Anime Maximo (1920x1080) Max Anime
+https://cdnlive.klicgo.net/maxanime/live/chunklist_w1586344826_DVR.m3u8
+
+#EXTINF:    Iskhodnyy="✔️AS✅"                  tvg-logo="https://scontent.flim28-1.fna.fbcdn.net/v/t39.30808-6/305651445_459742029532787_5251624699839533330_n.jpg?stp=dst-jpg_tt6&cstp=mx2046x2046&ctp=s2046x2046&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rFVfl4_dv-kQ7kNvwGdLvDS&_nc_oc=Adpbv-K3B7IX7VaO1G0QF0EIv4TpgN4oVvtJK20J3hD2yYZuttPcTKHTi7U_RgaO-ic&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&_nc_gid=mAjdWwE5Q1S8hAlS6fxxMA&_nc_ss=7b289&oh=00_AQH1vWl5ItbygDoVcw0oXjpLOJBG2C_QafMVPACh02j-MQ&oe=6A832748" group-title="🎌 Anime 👀",Anime Estacion (1280x720)
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️АнимеX✅"              tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/304985929_207370408297696_8449256898233177886_n.png?stp=dst-png&cstp=mx1920x1080&ctp=s1920x1080&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=LTmDZ6AItBQQ7kNvwGvDkw4&_nc_oc=Adrm4t-zeGFmxZ4ep4NcGxxbQCpJy6DwRgcti83-XMJOQmfOUtcflFejBnWXq81Uebo&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&_nc_gid=DV3n4D_q_63w7MBauiJ5Zg&_nc_ss=7b289&oh=00_AQFiBN6qOXyXoLB4OS5kyzes4nByoXsbyaeFcIM4DxzpCA&oe=6A83D160" group-title="🎌 Anime 👀",Anime X (854x480)
+http://animezonetv.net:81/live_hls/animetest/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Гул✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqjrELl3INMI8lqxxYk7SuvGmJT2tIvv2PFBHD6L0w9A=s160-c-k-c0x00ffffff-no-rj" group-title="🎌 Anime 👀",Buzz (1280x720)
+https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Зюн✅"              tvg-logo="https://pbs.twimg.com/profile_images/1914751025598128128/GUSnkM_M.jpg" group-title="🎌 Anime 👀",Zyoon (1280x720)
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -574,43 +611,6 @@ https://teleonline.org/
 https://www.tdtchannels.com/catalogo/television/
 
 https://www.reddit.com/r/ArgentinaIPTV/
-
-#EXTINF=====================================================================================================================================================================================================
-
-#EXTINF:    Iskhodnyy="💵EC💸"              tvg-logo="https://yt3.googleusercontent.com/oGhBcOj4r0zwibT0YBO70um0bKh5g-DW7cuamIha3zmdJ7wxcinJUMybzVwhXCn6PXnFf8zP=s160-c-k-c0x00ffffff-no-rj" group-title="🎌 Anime 👀",Natacion para Adultos (1280x720) Adult Swim
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ADULTSWIM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DADULTSWIM_stream_e0&_cdn_session=4152554579&_cdn_token=8c9db7e3c9fa6ec4d13eb961efdd2013c3ccb453
-
-#EXTINF:    Iskhodnyy="✔️ИИИ✅"              tvg-logo="https://play-lh.googleusercontent.com/JaR2adDlhrsrR1LLozpLA5FK5tysYVpn9GkxsXCziMEuC1147BgDHV48-0X5fR12oCDocx85_jI1J0UkDkS7=s48-rw" group-title="🎌 Anime 👀",¡Vamos vamos a jugar! (1920x1080) GoGoPlay
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBITME.png&width=100" group-title="🎌 Anime 👀",Poco A Mi (1280x720) BitMe
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/BITME/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DBITME_stream_kl&_cdn_session=6808028934&_cdn_token=f22d8681ccc57f99e12079ee1a2b38ab2166fcac
-#EXTINF:    Iskhodnyy="💵CF💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBITME.png&width=100" group-title="🎌 Anime 👀",Poco A Mi (1024x576) BitMe
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/BITME/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBITME_stream_n7&_cdn_session=4152557947&_cdn_token=66047937d2b2e6c9b4ba823605684fa6cb55cc5b
-
-#EXTINF:    Iskhodnyy="✔️АЗ✅"              tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="🎌 Anime 👀",Anime Vision (1920x1080)
-https://jmp2.uk/stvp-ES300029LP
-
-#EXTINF:    Iskhodnyy="✔️АЗК✅"              tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="🎌 Anime 👀",Anime Vision Clasicos (1920x1080)
-https://jmp2.uk/stvp-ES3000288I
-
-#EXTINF:    Iskhodnyy="✔️ЭГР✅"              tvg-logo="https://energeek.cl/wp-content/themes/EnerGeek-Theme-pop/assets/img/logo.png" group-title="🎌 Anime 👀",Energia Adicta Retro (1920x1080) EnerGeek Retro
-https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8
-
-#EXTINF:    Iskhodnyy="✔️АМ✅"              tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCRyIeb5IY-BbZf4GL-ljuAxXmg2Y8Mttf5ZlEauL6LL1ainsD_Ly8-atcCtLZQAghALzHpJmRfDdY6pGjGxyLkbCWqmPlxqvyxuGK9EBdAz8nvJ41GDIB7ijVrgBj99pbuIvhA48c7eqncuN21Boz6_qkdhgER098nZkyp41u-LggItFxnv5Cit6U9Lg/s800/max-anime.jpg" group-title="🎌 Anime 👀",Anime Maximo (1920x1080) Max Anime
-https://cdnlive.klicgo.net/maxanime/live/chunklist_w1586344826_DVR.m3u8
-
-#EXTINF:    Iskhodnyy="✔️AS✅"                  tvg-logo="https://scontent.flim28-1.fna.fbcdn.net/v/t39.30808-6/305651445_459742029532787_5251624699839533330_n.jpg?stp=dst-jpg_tt6&cstp=mx2046x2046&ctp=s2046x2046&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rFVfl4_dv-kQ7kNvwGdLvDS&_nc_oc=Adpbv-K3B7IX7VaO1G0QF0EIv4TpgN4oVvtJK20J3hD2yYZuttPcTKHTi7U_RgaO-ic&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&_nc_gid=mAjdWwE5Q1S8hAlS6fxxMA&_nc_ss=7b289&oh=00_AQH1vWl5ItbygDoVcw0oXjpLOJBG2C_QafMVPACh02j-MQ&oe=6A832748" group-title="🎌 Anime 👀",Anime Estacion (1280x720)
-https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
-
-#EXTINF:    Iskhodnyy="✔️АнимеX✅"              tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/304985929_207370408297696_8449256898233177886_n.png?stp=dst-png&cstp=mx1920x1080&ctp=s1920x1080&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=LTmDZ6AItBQQ7kNvwGvDkw4&_nc_oc=Adrm4t-zeGFmxZ4ep4NcGxxbQCpJy6DwRgcti83-XMJOQmfOUtcflFejBnWXq81Uebo&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&_nc_gid=DV3n4D_q_63w7MBauiJ5Zg&_nc_ss=7b289&oh=00_AQFiBN6qOXyXoLB4OS5kyzes4nByoXsbyaeFcIM4DxzpCA&oe=6A83D160" group-title="🎌 Anime 👀",Anime X (854x480)
-http://animezonetv.net:81/live_hls/animetest/index.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Гул✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqjrELl3INMI8lqxxYk7SuvGmJT2tIvv2PFBHD6L0w9A=s160-c-k-c0x00ffffff-no-rj" group-title="🎌 Anime 👀",Buzz (1280x720)
-https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Зюн✅"              tvg-logo="https://pbs.twimg.com/profile_images/1914751025598128128/GUSnkM_M.jpg" group-title="🎌 Anime 👀",Zyoon (1280x720)
-https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
