@@ -311,11 +311,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️ДМФ✅"                  tvg-logo="https://m.media-amazon.com/images/I/61LpilHYFeL._SL1050_.jpg" group-title="🔄 24/7 (Maratones) 🍿",Doragon Bōru (1280x720)
 https://live20.bozztv.com/akamaissh101/ssh101/gokupelis/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️кМ✅"                  tvg-logo="https://yt3.googleusercontent.com/SdSPd43OldWxfIcSwz6uJlGIM3fSBfW6jtZwemTR134G63afqIgQK0veub9JgFlT_aE_3-tuYgA=s160-c-k-c0x00ffffff-no-rj" group-title="🔄 24/7 (Maratones) 🍿",Poketto Monsutā (1280x720)
-https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
-https://live20.bozztv.com/giatvplayout7/giatv-211854/tracks-v1a1/mono.ts.m3u8
-https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
-
 #EXTINF:    Iskhodnyy="✔️Чаво✅"                  tvg-logo="https://yt3.googleusercontent.com/R3qnM27ndE-PmTCDmsYbQgJXipnySuBR25ynL-HPKzz6KFtm44qzQ886uwXmLNt_d0S9ErLvGvI=s160-c-k-c0x00ffffff-no-rj" group-title="🔄 24/7 (Maratones) 🍿",El Chavo del 8 (960x720)
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 
@@ -599,6 +594,9 @@ https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ТТР✅"              tvg-logo="https://taltaltv.net/images/139/27074308/NUEVOLOGO2026-ZWc2xs-_pfcPFmlof05-1A-ByH0B-_UP2YZE7Jj3EszXw.png" group-title="🎌 Anime 👀",TalTal (1280x720) Series
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Зюн✅"              tvg-logo="https://pbs.twimg.com/profile_images/1914751025598128128/GUSnkM_M.jpg" group-title="🎌 Anime 👀",Zyoon (1280x720)
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
