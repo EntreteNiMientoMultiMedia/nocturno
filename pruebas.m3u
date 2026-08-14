@@ -549,12 +549,6 @@ https://jmp2.uk/stvp-ES300029LP
 #EXTINF:    Iskhodnyy="✔️АЗК✅"              tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="🎌 Anime 👀",Anime Vision Clasicos (1920x1080)
 https://jmp2.uk/stvp-ES3000288I
 
-#EXTINF:    Iskhodnyy="✔️ЭГР✅"              tvg-logo="https://energeek.cl/wp-content/themes/EnerGeek-Theme-pop/assets/img/logo.png" group-title="🎌 Anime 👀",Energia Adicta Retro (1920x1080) EnerGeek Retro
-https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Гул✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqjrELl3INMI8lqxxYk7SuvGmJT2tIvv2PFBHD6L0w9A=s160-c-k-c0x00ffffff-no-rj" group-title="🎌 Anime 👀",Buzz (1280x720)
-https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
-
 #EXTINF:    Iskhodnyy="✔️АМ✅"              tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCRyIeb5IY-BbZf4GL-ljuAxXmg2Y8Mttf5ZlEauL6LL1ainsD_Ly8-atcCtLZQAghALzHpJmRfDdY6pGjGxyLkbCWqmPlxqvyxuGK9EBdAz8nvJ41GDIB7ijVrgBj99pbuIvhA48c7eqncuN21Boz6_qkdhgER098nZkyp41u-LggItFxnv5Cit6U9Lg/s800/max-anime.jpg" group-title="🎌 Anime 👀",Anime Maximo (1920x1080) Max Anime
 https://cdnlive.klicgo.net/maxanime/live/chunklist_w1586344826_DVR.m3u8
 
@@ -566,6 +560,12 @@ http://animezonetv.net:81/live_hls/animetest/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Зюн✅"              tvg-logo="https://pbs.twimg.com/profile_images/1914751025598128128/GUSnkM_M.jpg" group-title="🎌 Anime 👀",Zyoon (1280x720)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ЭГР✅"              tvg-logo="https://energeek.cl/wp-content/themes/EnerGeek-Theme-pop/assets/img/logo.png" group-title="🎌 Anime 👀",Energia Adicta Retro (1920x1080) EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Гул✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqjrELl3INMI8lqxxYk7SuvGmJT2tIvv2PFBHD6L0w9A=s160-c-k-c0x00ffffff-no-rj" group-title="🎌 Anime 👀",Buzz (1280x720)
+https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
@@ -722,12 +722,6 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/BITTCH/40-hls/live-media.m3u8
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHTV.png&width=100" group-title="🎧 Melodiya 🌍🔊",Hispano 🇺🇸 (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHTV_stream_9c&_cdn_session=4154201099&_cdn_token=1df0a13365e195134c49d74422ea34137666c662
-
-#EXTINF:    Iskhodnyy="✔️Хатун✅"                  tvg-logo="https://yt3.googleusercontent.com/MlyLsY8exzz_iOovpBhXPmvt3QrXv0c59RwY-t64julqKXUgL2H0773zmaVNzh_cJsM3CByuPw=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",El Canal del Folklore 🇵🇪 (1280x720)
-https://ca2.oxira.net.pe/bestcablehatuntv/index.m3u8
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647270971/87355ce6667a_480_270.jpg" group-title="🎧 Melodiya 🌍🔊",PeruAniSima 🇵🇪 (1920x1080)
-https://es2-p1-netcdn.bitel.com.pe/netcdn-live-5/bitel/peruanisimaSRT/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Ретро✅"                  tvg-logo="https://play-lh.googleusercontent.com/fSVDUWdsTrqSdwC8NIXmDmxCkuZbvsrChC6zosvbWvrjptNY15_9jcVPSIgEvDLr0i9cHMw9dx0Rlkz_q90gDw=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Retro 🇨🇿 (1280x720)
 https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w860415805_b3256000.m3u8
