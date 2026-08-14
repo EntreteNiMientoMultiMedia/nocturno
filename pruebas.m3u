@@ -823,7 +823,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FUEGOTV/20-hls/live-media.m3u
 #EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Cable Peru Noticias (1280x720)
 https://video2.lhdserver.es/cableperu/live.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Триву✅"                  tvg-logo="https://yt3.googleusercontent.com/7DmotRepBkvbFSoaxNtuaFhEeP-hsDXo7hUse7J8oSRErenQ8RNlgf5EVThQPskqslW6tNOa2xk=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Cable Peru Noticias (1280x720)
+#EXTINF:    Iskhodnyy="✔️Триву✅"                  tvg-logo="https://yt3.googleusercontent.com/7DmotRepBkvbFSoaxNtuaFhEeP-hsDXo7hUse7J8oSRErenQ8RNlgf5EVThQPskqslW6tNOa2xk=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Trivu (1920x1080)
 https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103_output_0.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647433897/4d6766e17768_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Trivu (1920x1080)
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
@@ -847,9 +847,9 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NEOTV/40-hls/live-media.m3u8?
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2Fdigital.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Neo (720x576)
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/NEOTV/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNEOTV_stream_88&_cdn_session=6832074630&_cdn_token=f310fee0c161cb8d35dc968382fae0718de14124
 
-#EXTINF:    Iskhodnyy="✔️СД✅"                  tvg-logo="https://bhtv.pe/wp-content/uploads/2025/01/logo-2025web-300x205.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Casa Azul (1920x1080) Blue House
+#EXTINF:    Iskhodnyy="✔️СД✅"                  tvg-logo="https://bhtv.pe/wp-content/uploads/2025/01/logo-2025web-300x205.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Casa Azul (1280x720) Blue House
 https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w712406729.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767640937611/3e9e20e09e21_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Casa Azul (1920x1080) Blue House
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767640937611/3e9e20e09e21_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Casa Azul (1280x720) Blue House
 https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBH_TV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Casa Azul (1280x720) Blue House
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/BH_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DBH_TV_stream_i8&_cdn_session=6832197798&_cdn_token=0467c6e52d6b8bcb42b62c4fab3d47da03156565
