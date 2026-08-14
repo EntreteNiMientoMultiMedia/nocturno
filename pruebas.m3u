@@ -803,8 +803,11 @@ https://www.reddit.com/r/ArgentinaIPTV/
 
 #EXTINF=====================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://tvg-logo.short.gy/Вива" group-title="🌐 Alternativos & Nativos Digitales 📲",Viva (1280x720)
-https://vmvpd.short.gy/Вива
+#EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Cable Peru Noticias (1920x1080)
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FViva_WIN.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Viva (1280x720)
+https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/VIVA_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVIVA_WIN_stream_wp&_cdn_session=6830437542&_cdn_token=4fbb5657da0d620c01b888ca08bf86cd8e223d47
 
 #EXTINF:    Iskhodnyy="✔️ХЦ✅"                  tvg-logo="https://tvg-logo.short.gy/Поколениемиллениалов" group-title="🌐 Alternativos & Nativos Digitales 📲",Milenial (1920x1080)
 https://vmvpd.short.gy/Поколениемиллениалов
