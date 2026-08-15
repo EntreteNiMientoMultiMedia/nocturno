@@ -1,6 +1,6 @@
 #EXTM3U8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=100" group-title="📡🇵🇪 Primørdial 📺",America (1920x1080)
 https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Americatv_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAmericatv_WIN_stream_a6&_cdn_session=6205714486&_cdn_token=e11c687d3b182d2c4dcd8e6e7ae99c0217c6c75f
@@ -37,7 +37,7 @@ https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/TVPERU_WIN/40-hls/live-medi
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTVPERU.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Tv Peru (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=4064782555&_cdn_token=18247568d358857d8548627b9fe268a8ecc670d4
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️Успешный✅"                  tvg-logo="https://yt3.googleusercontent.com/WS_VtveabSs00D1LpuT7xdG8fdXLgs5MaIg_r6gL2Zal3YF4JSr3YsbHeH1Eswd-JD8MSkYNKpI=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Exitosa (1280x720)
 https://luna-1-video.mediaserver.digital/exitosatv_server2_3d41s0d1/tracks-v1a1/mono.m3u8
@@ -99,7 +99,7 @@ https://play.agenciastreaming.com:8081/nacionaltv/tracks-v1a1/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644527718/6d3118de737a_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Nacional (1280x720) 
 https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/chunks.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FSUPERTV.png&width=100" group-title="⚽ Futbol 🇵🇪",Super (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/SUPERTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSUPERTV_stream_04&_cdn_session=4065337915&_cdn_token=8d5d0df84d06e57c2436fed33b8692a5d4857438
@@ -135,7 +135,7 @@ http://181.224.255.210:8001/play/a0oj/index.m3u8
 #EXTINF:    Iskhodnyy="❓РСПСП❔"                  tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/69d43e41647215b0a66f37c6_espnpremium.jpg" group-title="⚽ Futbol 🇵🇪",ESPN Premium (1920x1080)
 http://181.224.255.210:8001/play/a0pt/index.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="❓РСПС3❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/51.2.png" group-title="🌍 Futbol Mundial ⚽",ESPN 3 (1280x720)
 http://190.217.66.92:8000/play/a0q7/index.m3u8
@@ -173,7 +173,7 @@ http://205.235.6.29:8000/play/a104/index.m3u8
 #EXTINF:    Iskhodnyy="❓аССТ❔"                  tvg-logo="https://yt3.googleusercontent.com/98t5HuaGolJi9epHyl23oge7PoSRvDnWbAhNSV8BOmpX50X2EFjXXlM3ySa8hchBDmP5tpf4HUQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Azteca Deportes Network (720x480)
 http://190.61.101.11:7050/play/a08l/index.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTITAN.png&width=100" group-title="🥊 Combate & Accion 🥋",Titán (1280x720)
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Titan_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dtitan_stream_y7&_cdn_session=6216307078&_cdn_token=1cfdea119eb5f203183c25e1d73b68b503efb870
@@ -202,7 +202,7 @@ https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:    Iskhodnyy="✔️СЧЛ✅"              tvg-logo="https://strongmancl.com/wp-content/uploads/2019/08/SCL-logo.png" group-title="🥊 Combate & Accion 🥋",Liga de Campeones de Hombres Fuertes (1280x720) StrongMan Champions League
 https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISCOVERYTURBO.png&width=100" group-title="🏇 Fierros & Turf 🏎️",Discovery Turbo (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=4132739963&_cdn_token=9f6330b9d0baed8fce602f5067e48356a60f9259
@@ -240,7 +240,7 @@ https://tvturf4.janus.cl/playlist/stream.m3u8
 #EXTINF:    Iskhodnyy="✔️МВ✅"              tvg-logo="https://www.revistacasinoperu.com/wp-content/uploads/2021/03/tipos-de-apuesta-teletrak.jpg" group-title="🏇 Fierros & Turf 🏎️",TeleTrak (1280x720)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️МПТ✅"              tvg-logo="https://yt3.googleusercontent.com/-ODrgOmfYYb7NJW3U0Zr_le4vqJDEjiWMnSvFsUTkqg-p0jCcEh2IcFpZmODzk_zY8XXRCd_tg=s160-c-k-c0x00ffffff-no-rj" group-title="🕹️ Apuestas & eSports 🃏",Gira Mundial de Poker (1920x1080)
 https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
@@ -254,7 +254,7 @@ https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/E_Sport_Go/40-hls/live-medi
 #EXTINF:    Iskhodnyy="✔️КГ✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mDjjsSaCKGC2vCcHqu3av4jrZs9D1HRhfjuIV49pPNdg=s160-c-k-c0x00ffffff-no-rj" group-title="🕹️ Apuestas & eSports 🃏",Jugadores de Cajas (1920x1080) Box Gamers
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️РС✅"                  tvg-logo="https://1a-1791.com/video/z8/6/7/h/m/67hma.baa-RTES-rvkuq9.png" group-title="📰🌐 Noticias del Mundo 🚨",Hoy Rusia (1920X1080) RT
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
@@ -300,7 +300,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:    Iskhodnyy="✔️Блумберг✅"                  tvg-logo="https://yt3.googleusercontent.com/QHk5qgbDEES_BrWfzUK7h6ldgdkC6q5tzbZKGZdSR42xH-iQc-vN5R8V5jGuJch9-dsKHfjN=s160-c-k-c0x00ffffff-no-rj" group-title="📰🌐 Noticias del Mundo 🚨",Bloomberg (1920x1080)
 https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/2a647c61-2a0a-46b1-9bbd-2e16fd530fdb:TUL/variant/dd0a1227701dfa2d888d4bd736db2793/bandwidth/3000000.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️ДМ&З✅"                  tvg-logo="https://m.media-amazon.com/images/I/91Is1RTRbXL._SL1500_.jpg" group-title="🔄 24/7 (Maratones) 🍿",Doragon Bōru Zetto (1280x720)
 https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
@@ -335,7 +335,7 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:    Iskhodnyy="✔️Смурфики✅"                  tvg-logo="https://images.vix.com/prd/videos/video:mcp:4473240/38aba932bdabbbc0212d1c731d54468b?tr=w-900,q-80" group-title="🔄 24/7 (Maratones) 🍿",Los Pitufos (1280x720)
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTLNOVELAS.png&width=100" group-title="🥀 Drama y Novelas 🍷",TL Novelas 🇲🇽 (1280x720)
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/TLNOVELAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTLNOVELAS_stream_45&_cdn_session=6995061715&_cdn_token=f959aabeaa8ad5989a2260bdd3bf82f94c8334d8
@@ -369,7 +369,7 @@ https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:    Iskhodnyy="❓ТСТР❔"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTNTNOVELAS.png&width=100" group-title="🥀 Drama y Novelas 🍷",Turner Novelas (1920x1080)
 http://181.224.255.210:8001/play/a0lv/index.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️VerTv✅"                  tvg-logo="https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/c13a4414c1a5b90c4177514238778380~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=65574760&x-expires=1786748400&x-signature=r2miP6Vj%2BTlIxAJDjVW%2Bim1GqW8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my" group-title="💃🏻 Variedad Hispana 🌎",VerTv 🇦🇷 (1920x1080)
 https://media.cdnvid.com/public/uovlwqzikeyf.m3u8
@@ -433,7 +433,7 @@ https://5ca3e84a76d30.streamlock.net/canal66/videocanal66/chunklist_w2019181616.
 #EXTINF:    Iskhodnyy="✔️КШШ✅"                  tvg-logo="https://canal66.tv/wp-content/uploads/2021/09/TOP-66LOGO.png" group-title="💃🏻 Variedad Hispana 🌎",Canal 66 🇲🇽 (1920x1080)
 https://5ca9af4645e15.streamlock.net/canal33tijuana/videocanal33tijuana/chunklist_w1589922678.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHOMEANDHEALTH.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Discovery Hogar & Salud (1280x720) Home & Health
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=4152381635&_cdn_token=fff59032f63f78e276e972f29eec719f9063d67b
@@ -473,7 +473,7 @@ https://jmp2.uk/plu-677f929054f43dad4b325c1c.m3u8
 #EXTINF:    Iskhodnyy="✔️ТДСП✅"                  tvg-logo="https://yt3.googleusercontent.com/yECM7_PN1KQ_q_EYLZosSG4oOnVj0-Xb_qTrOFW1s15gtiCtlfRLPm_lGI2ZN9XqSCn7xDedDQ=s160-c-k-c0x00ffffff-no-rj" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Just For Laughs (1920x1080)
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDISCOVERYKIDS.png&width=100" group-title="🍼 Infantil 🌈 0 a 6 años",Discovery Niños (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCKIDS_stream_fa&_cdn_session=4152469099&_cdn_token=590562f92267a4061419f7a0e0ba61aaa33e71df
@@ -496,7 +496,7 @@ http://181.224.255.210:8001/play/a0pz/index.m3u8
 #EXTINF:    Iskhodnyy="🌕ОКД🐶"                  tvg-logo="https://yt3.googleusercontent.com/Hba48Ru37OIS1OFpFqIQ512bR3_3TvSzky0T8fDNd9R0rsZR3Yhq-sH8UQMXyXWa-1bVrEMkXHI=s160-c-k-c0x00ffffff-no-rj" group-title="🍼 Infantil 🌈 0 a 6 años",El Reino Infantil
 https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCARTOON_NETWORK.png&width=100" group-title="🎮 Juvenil ⚡ 7 a 14 años",Red Dibujos Animados (1280x720) Cartoon NetWork
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CARTOON_NETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOON_NETWORK_stream_mu&_cdn_session=4152516235&_cdn_token=ee8d6c676d10a0a99f2f042f0187fad75f3eede6
@@ -530,7 +530,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/chunks.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647052374/d0b7cf8623a8_480_270.png" group-title="🎮 Juvenil ⚡ 7 a 14 años",Chiki Toonz (1920x1080)
 https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/chunks.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"              tvg-logo="https://yt3.googleusercontent.com/oGhBcOj4r0zwibT0YBO70um0bKh5g-DW7cuamIha3zmdJ7wxcinJUMybzVwhXCn6PXnFf8zP=s160-c-k-c0x00ffffff-no-rj" group-title="🎌 Anime 👀",Natacion para Adultos (1280x720) Adult Swim
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ADULTSWIM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DADULTSWIM_stream_e0&_cdn_session=4152554579&_cdn_token=8c9db7e3c9fa6ec4d13eb961efdd2013c3ccb453
@@ -567,7 +567,7 @@ https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="✔️Гул✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqjrELl3INMI8lqxxYk7SuvGmJT2tIvv2PFBHD6L0w9A=s160-c-k-c0x00ffffff-no-rj" group-title="🎌 Anime 👀",Buzz (1280x720)
 https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FIPE.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Identidad Peruana (1280x720) IPe
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/IPE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIPE_stream_ft&_cdn_session=4153310843&_cdn_token=b655f179b8d3ff84dfc12e0e27793d9835058404
@@ -620,7 +620,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYWORLD/40-hls/live-me
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/01/07/1785542716473/f265f3903440_480_270.png" group-title="🔬 Ciencia & Cultura 🔭",Planeta Salvaje
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DVENUS_stream_o3&_cdn_session=4066298819&_cdn_token=3454e758a09690bc48c645ea7b8f87174ad697a2
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FGamarra.png&width=100" group-title="📈 Negocios y Emprendimiento 🚀",Gamarra 🇵🇪 (1280x720)
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/gamarra/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dgamarra_stream_y1&_cdn_session=6815966870&_cdn_token=fb7eaf853761fbadea45ebac15434fb2f2d989cb
@@ -658,7 +658,7 @@ https://www.desde-paraguay.com/pro.m3u8
 #EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://yt3.googleusercontent.com/ZPN7l9oatmeZXkcGa3kK6rD5T7gh5awtXqVMHbcSnCs2lTqsf4rypEXeK9cuvNigL3cArUqMHQ=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Cosmos 🇵🇾 (1920x1080)
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTopLatino_win.png&width=100" group-title="🎧 Melodiya 🌍🔊",Arriba Latino 🇵🇪 (1280x720)
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/TopLatino_win/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTopLatino_win_stream_0s&_cdn_session=6816516342&_cdn_token=8f9493123f3d0748ed192a01cd0ac6abbd62bb1e
@@ -756,52 +756,7 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u
 #EXTINF:    Iskhodnyy="✔️ТГ✅"                  tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/481070845_1182167547247256_2502655948055035316_n.jpg?stp=dst-jpg_tt6&cstp=mx1063x267&ctp=s1063x267&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=zVA6mwHxWnkQ7kNvwHtFchK&_nc_oc=AdpTt9nKxC2aMeqOwXzP97oDMhYyJzkP4ect8aGsO4xpORc-xzFLOunf_SGZlgI5xhk&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&_nc_gid=TbbBbu81qH-RIaV6iX8RXg&_nc_ss=7b289&oh=00_AQGO6R0nEzfXvq0BWznCz-7E7l82cXRcZonzveLuk0wJgw&oe=6A843391" group-title="🎧 Melodiya 🌍🔊",Ritmo Solido 🇳🇬 (1920x1080)
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/503e2ec8-88fb-40e0-ad50-a80f51fce84a/2.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPLAYBOY.png&width=100" group-title="😈 +18 🔒 Solo Adultos 🔞",🐰 Jugar con el Chiquito 🥂 (1280x720) PlayBoy
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PLAYBOY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLAYBOY_stream_qg&_cdn_session=4066300275&_cdn_token=af75313f55fff962872e4767f6715337ca3f7952
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FVENUS.png&width=100" group-title="😈 +18 🔒 Solo Adultos 🔞",👠 Venus 👄🍒 (1024x576)
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DVENUS_stream_o3&_cdn_session=4066298819&_cdn_token=3454e758a09690bc48c645ea7b8f87174ad697a2
-
-#EXTINF=====================================================================================================================================================================================================
-
-https://github.com/iptv-org/awesome-iptv
-https://github.com/iptv-org/iptv/tree/master/streams
-
-https://github.com/Free-TV/IPTV/tree/master/playlists
-
-https://github.com/vk496/IPTVspain/blob/master/spain.m3u8
-
-https://github.com/delmitv/lista-IPTV/blob/main/lista.m3u
-
-https://raw.githubusercontent.com/listacanales/listacanales/refs/heads/main/tv123.m3u
-
-https://raw.githubusercontent.com/luisms123/tdt/master/listalms.m3u
-https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
-
-https://raw.githubusercontent.com/luchitogali2020-bot/prueba/refs/heads/main/todofulvo.m3u
-https://raw.githubusercontent.com/luchitogali2020-bot/prueba2/refs/heads/main/prueba.m3u
-https://raw.githubusercontent.com/luchitogali2020-bot/fulvo/refs/heads/main/mundial.m3u
-https://raw.githubusercontent.com/shadowm1996/listas/main/LISTA.M3U
-
-https://www.tdtchannels.com/lists/tv.m3u
-https://www.tdtchannels.com/lists/tv.m3u8
-
-https://www.cxtvenvivo.com/
-https://www.xhkzv.com/
-https://m3u.cl/canales-iptv.php
-http://tvpe15.com/
-https://serenotv.com/
-https://www.chiletvapp.com/
-
-https://globoview.cam/categorias/
-https://teleonline.org/
-https://www.tdtchannels.com/catalogo/television/
-
-https://www.reddit.com/r/ArgentinaIPTV/
-
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FViva_WIN.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Viva (1280x720)
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/VIVA_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVIVA_WIN_stream_wp&_cdn_session=6830437542&_cdn_token=4fbb5657da0d620c01b888ca08bf86cd8e223d47
@@ -861,7 +816,52 @@ https://live.ondadigitaltv.com/ODTV/tracks-a1v1/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644363575/e775e89c1af7_480_270.jpg" group-title="🌐 Alternativos & Nativos Digitales 📲",Onda Digital (1920x1080)
 https://live-evg5.tv360.bitel.com.pe/bitel/radioodtvSRT/chunks.m3u8
 
-#EXTINF=====================================================================================================================================================================================================
+#EXTINF===================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPLAYBOY.png&width=100" group-title="😈 +18 🔒 Solo Adultos 🔞",🐰 Jugar con el Chiquito 🥂 (1280x720) PlayBoy
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PLAYBOY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLAYBOY_stream_qg&_cdn_session=4066300275&_cdn_token=af75313f55fff962872e4767f6715337ca3f7952
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FVENUS.png&width=100" group-title="😈 +18 🔒 Solo Adultos 🔞",👠 Venus 👄🍒 (1024x576)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DVENUS_stream_o3&_cdn_session=4066298819&_cdn_token=3454e758a09690bc48c645ea7b8f87174ad697a2
+
+#EXTINF===================================================================================================================================================================================================================================================================================================================
+
+https://github.com/iptv-org/awesome-iptv
+https://github.com/iptv-org/iptv/tree/master/streams
+
+https://github.com/Free-TV/IPTV/tree/master/playlists
+
+https://github.com/vk496/IPTVspain/blob/master/spain.m3u8
+
+https://github.com/delmitv/lista-IPTV/blob/main/lista.m3u
+
+https://raw.githubusercontent.com/listacanales/listacanales/refs/heads/main/tv123.m3u
+
+https://raw.githubusercontent.com/luisms123/tdt/master/listalms.m3u
+https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
+
+https://raw.githubusercontent.com/luchitogali2020-bot/prueba/refs/heads/main/todofulvo.m3u
+https://raw.githubusercontent.com/luchitogali2020-bot/prueba2/refs/heads/main/prueba.m3u
+https://raw.githubusercontent.com/luchitogali2020-bot/fulvo/refs/heads/main/mundial.m3u
+https://raw.githubusercontent.com/shadowm1996/listas/main/LISTA.M3U
+
+https://www.tdtchannels.com/lists/tv.m3u
+https://www.tdtchannels.com/lists/tv.m3u8
+
+https://www.cxtvenvivo.com/
+https://www.xhkzv.com/
+https://m3u.cl/canales-iptv.php
+http://tvpe15.com/
+https://serenotv.com/
+https://www.chiletvapp.com/
+
+https://globoview.cam/categorias/
+https://teleonline.org/
+https://www.tdtchannels.com/catalogo/television/
+
+https://www.reddit.com/r/ArgentinaIPTV/
+
+#EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️ВДо✅"                  tvg-logo="https://tvg-logo.short.gy/ВанкаДвадцатьодин" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Wanka 21 (1280x720) HuancaYork
 https://vmvpd.short.gy/ВанкаДвадцатьодин
