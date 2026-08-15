@@ -865,18 +865,22 @@ https://www.reddit.com/r/ArgentinaIPTV/
 
 #EXTINF:    Iskhodnyy="✔️ЗН✅"                  tvg-logo="https://yt3.googleusercontent.com/km9cbYISnrhIRf1feyhfnkBsVzgyqE6c6o-RJK8aQFr5WSpOizM94UQaCxR0aW7hW2bLhyWlLA=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (Arequipa) 1920x1080
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️ЗН✅"                  tvg-logo="https://yt3.googleusercontent.com/km9cbYISnrhIRf1feyhfnkBsVzgyqE6c6o-RJK8aQFr5WSpOizM94UQaCxR0aW7hW2bLhyWlLA=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (Arequipa) 1920x1080
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/live/Ia6tBZUR_2yptRX0C/chunks.m3u8
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FVision_sur.png&width=100" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (Arequipa) 1280x720
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Vision_sur/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVision_sur_stream_t0&_cdn_session=6846329334&_cdn_token=b89f1cbb067a2dd9217ec44c11d5030aacad167f
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/05/1771281231848/47e4126171f3_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (Arequipa) 1920x1080
-https://ott1.hdlatam.tv/live_abr/webtvVisionSur/live/Ia6tBZUR_2yptRX0C/chunks.m3u8
+https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV4.png" group-title="🌊 Para Variar... de la Costa 🏖️",Region (Callao) 
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647979447/cf7a1694e097_480_270.jpg" group-title="🌊 Para Variar... de la Costa 🏖️",Region (Callao) 
+https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://kliptv.pe/wp-content/uploads/2025/10/chrome_DjqSutKGsS.png" group-title="🌊 Para Variar... de la Costa 🏖️",Klip (Arequipa) 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://kliptv.pe/wp-content/uploads/2025/10/chrome_DjqSutKGsS.png" group-title="🌊 Para Variar... de la Costa 🏖️",Klip (Arequipa) 1280x720
 https://sae13.playlist.ttvnw.net/v1/playlist/CtIG_MWu7QTbJ_Y4r_oAqWHp0IKsu_93UlBTrigSoZhxz9Obg6g9Msdl8dVD_amuYODpJHrYOsBvuPLP7Nfct0VWtJARqx2PP0AKKe4HgJ4y_znL8fRCSCTCbN9ZcemWMY1ZVYD_rIOdQQpT6FaZ2m3qzi6hNqR95RSPglsdJSIkdE-qQ8zzPY0pGG5bAyZ-PHvgz4O5s_JrUtdzjw5zWSpcEeC_BQ7AdWGSvqxh96qs5tfQ7Y-623WLybFKZxgnicSQPDIp_4BMkIJf3MsF3TqbK2Wl8m3fAkfpmf7-bOnS8JokV94oF2UQuzfE82PGB3l8NZIKxAwaGMqoBDz2ZiZ0Fvu9K9hAUg2aT-eKDAhPN6s2Km4TKJr6I1kWDP7A2TYxcv_bD26aI7B0cLYon7HfomMPx6aTj0uIAy0cCDRN1p8-P2NMsi151yvY_fh02sbps3P6whb2eEvi-4lnA_Dwbhz4psz6e-k2sj3CHPLXvIbBZ9avkfiGzJ6lewnUcvkdPxId8BsT0z-zWmgdMTVQDg7Rqi14Fzc5aTGGK9fc3cipr0ZnBXkB1RjH47kxcCIuyiR5SmdjOjUc5NHPcCGlEYInMOt0SA39Ag1s8QRuiey1LFZONWlIdsqc3xWTVr4BOHybnM7t_sqhAYrgseCYIf1pKWe9ULW2mApAAeyL571LE0b22f_I_EOHzeEe77t3tzxKsCEc4LUL4Wha7uVnIrypfhf4H8aJk5C6Y6UfMj6xGi01gXahGh4EC3iVdziPBU2noxlLwIhZF9fDfuS9JFBW8Y5k2GXGQcQ5VPja5ktWBx6FQlWxkFzRwvmOWOhc2efmReRzEWxpvoC06yo2qlH-2D2Li4woPdW14gZDgh8l0b1tf4iekCRuQJnDTPKF3GCjYJZgzpPFDHBdg8rN4kYwKmT5xq82En-oP1hlHg7oonpk8EBOp_-BNQTc4Bi0-ONTyL1n-k3G54Vn7zqPdXAVfhR6fW6NQvyB7lTyeJb6AmXhcMezX_V0wSjmSWwLF3Nri6eR-DHCBC0EABLPswosyau-yakxREY__05yLEyOO5pkKYdmbKaQBoYL3gfXVKQ5yellLBEkRTKMGSCHC_PSK9s6-R7HghNNQkOkkE7aUhoMT3IkdXDTSYM91-tDIAEqCXVzLWVhc3QtMjDsDw.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276622208/9b06ded8c435_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Klip (Arequipa) 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276622208/9b06ded8c435_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Klip (Arequipa) 1280x720
 https://live-evg10.tv360.bitel.com.pe/bitel/kliptv/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️", () 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️", () 
 
 
 
