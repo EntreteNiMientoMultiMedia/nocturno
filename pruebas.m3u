@@ -886,6 +886,11 @@ https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647241133/922bc3f51820_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Sol (720x576) Avenida Paseo de la Republica 5753 - Miraflores
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 
+#EXTINF:    Iskhodnyy="✔️Рику✅"                  tvg-logo="https://dn721803.ca.archive.org/0/items/sin-titulo-1_202511/Sin%20t%C3%ADtulo-1.png" group-title="🌊 Para Variar... de la Costa 🏖️",Riku (Lambayeque) 
+https://amixtv.com:8081/rikutv/index.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387700821/34ca245f9d66_480_270.jpg" group-title="🌊 Para Variar... de la Costa 🏖️",Riku (Lambayeque) 
+https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="✔️Область✅"                  tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV4.png" group-title="🌊 Para Variar... de la Costa 🏖️",Region (1280x720) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647979447/cf7a1694e097_480_270.jpg" group-title="🌊 Para Variar... de la Costa 🏖️",Region (1920x1080) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
@@ -899,7 +904,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647461434/f6cab8d2c24f_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Onda (Ica) 1280x720
 https://live-evg5.tv360.bitel.com.pe/bitel/onda/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387900429/262eed648bf0_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Norte () Juan Cuglievan 216 - Chiclayo - 14001
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387900429/262eed648bf0_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Norte (1280x720) Juan Cuglievan 216 - Chiclayo - 14001
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Наска✅"                  tvg-logo="https://yt3.googleusercontent.com/9-CLft0AqzMK_FQJfVi1zMIYvoqUyDSykEkkabJdbRCk6g87scpafcLtgV5lY-CNDCs9adMtgg=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",NaZKa (1280x720) Calle Bolognesi Nº 770 - Nasca
