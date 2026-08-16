@@ -37,6 +37,11 @@ https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/TVPERU_WIN/40-hls/live-medi
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTVPERU.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Tv Peru (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=4064782555&_cdn_token=18247568d358857d8548627b9fe268a8ecc670d4
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FGlobalTV_WIN.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Global (1280x720)
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/GLOBAL_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DGLOBAL_WIN_stream_j7&_cdn_session=6853678502&_cdn_token=5713a1bdb1c5024cddca3885ed32eda69464e904
+#EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FGLOBAL.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Global (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=4157173251&_cdn_token=84eb194d200905766cf280fe8ef6212bab5b3b90
+
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️Успешный✅"                  tvg-logo="https://yt3.googleusercontent.com/WS_VtveabSs00D1LpuT7xdG8fdXLgs5MaIg_r6gL2Zal3YF4JSr3YsbHeH1Eswd-JD8MSkYNKpI=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Exitosa (1280x720)
