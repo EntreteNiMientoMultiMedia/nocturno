@@ -910,11 +910,14 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ECOTV/40-hls/live-media.m3u8?
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647583280/b0a1fe2a450f_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
 https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDUNASTV.png&width=100" group-title="🌊 Para Variar... de la Costa 🏖️",Dunas () Calle Ayacucho - Pisco - 11601
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FDUNASTV.png&width=100" group-title="🌊 Para Variar... de la Costa 🏖️",Dunas (1280x720) Calle Ayacucho - Pisco - 11601
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DUNASTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDUNASTV_stream_9d&_cdn_session=4156920411&_cdn_token=ddf1b62a81819acb12c13e66a7845480bb97e03e
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767649074957/211cc18779be_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",DAC (1280x720) Calle 24 713 - Panamericana Sur Km 144 - San Vicente
 https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://cosmos.pe/wp-content/uploads/2026/01/logo-cosmos.png" group-title="🌊 Para Variar... de la Costa 🏖️",Cosmos () Avenida Víctor Larco 1679
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Чинча✅"                  tvg-logo="https://yt3.googleusercontent.com/m5JRPpKnoMq2-LLaHf9Mu8AO6XvcrKh3m8KbPHervlcfzAPoNdGbOQKw9WtFL1G954GsOktXhBI=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Chincha (1280x720) Calle Grau 547 - Chincha Alta
 https://s3.tvdatta.com:3908/stream/play.m3u8
