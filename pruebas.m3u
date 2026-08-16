@@ -770,9 +770,6 @@ https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/FUEGO_TV/40-hls/live-media.
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FFUEGOTV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Fuego (1024x576)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FUEGOTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFUEGOTV_stream_19&_cdn_session=4154974203&_cdn_token=999cf52e361b530a99eb54ceeb5a8029b10d3bfa
 
-#EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Cable Peru Noticias (1280x720)
-https://video2.lhdserver.es/cableperu/live.m3u8
-
 #EXTINF:    Iskhodnyy="✔️Триву✅"                  tvg-logo="https://yt3.googleusercontent.com/7DmotRepBkvbFSoaxNtuaFhEeP-hsDXo7hUse7J8oSRErenQ8RNlgf5EVThQPskqslW6tNOa2xk=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Trivu (1920x1080)
 https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103_output_0.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647433897/4d6766e17768_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Trivu (1920x1080)
@@ -810,6 +807,12 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8?_
 https://live.ondadigitaltv.com/ODTV/tracks-a1v1/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644363575/e775e89c1af7_480_270.jpg" group-title="🌐 Alternativos & Nativos Digitales 📲",Onda Digital (1920x1080)
 https://live-evg5.tv360.bitel.com.pe/bitel/radioodtvSRT/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/1775081979482/ddba258dd964_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",WO Digital (1920x1080)
+https://live-evg8.tv360.bitel.com.pe/bitel/vozdigitalperu/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Cable Peru Noticias (1280x720)
+https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
@@ -863,8 +866,11 @@ https://www.reddit.com/r/ArgentinaIPTV/
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️", () 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️", () 
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/1775081979482/ddba258dd964_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Voz Digital () Jr. Tacna 525 - La Perla
-https://live-evg8.tv360.bitel.com.pe/bitel/vozdigitalperu/chunks.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️", () 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/13/04/1778619708408/3beabf5356a8_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️", () 
+https://live-evg10.tv360.bitel.com.pe/bitel/WODigitalSRT/chunks.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️", () 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️", () 
 
 #EXTINF:    Iskhodnyy="✔️ЗН✅"                  tvg-logo="https://yt3.googleusercontent.com/km9cbYISnrhIRf1feyhfnkBsVzgyqE6c6o-RJK8aQFr5WSpOizM94UQaCxR0aW7hW2bLhyWlLA=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (1920x1080) Centro Comercial Bonanza 3er piso - Cerro Colorado
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
