@@ -879,6 +879,9 @@ https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Vision_sur/40-hls/live-medi
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/05/1771281231848/47e4126171f3_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (1920x1080) Centro Comercial Bonanza 3er piso - Cerro Colorado
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/20/23/1776702032916/c89eca9916a5_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",UniLan (Lambayeque) 
+https://live-evg8.tv360.bitel.com.pe/bitel/unilantv/chunks.m3u8
+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FSolTV.png&width=100" group-title="🌊 Para Variar... de la Costa 🏖️",Sol (720x576) Avenida Jesus de Nazareth 1323 - Urbanizacion Covicorti
 https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/sol/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dsol_stream_r6&_cdn_session=6850806726&_cdn_token=f39e6f397924e13135fb1c2a5615246dc6a56ac6
 #EXTINF:    Iskhodnyy="✔️Солнце✅"                  tvg-logo="https://soltvperu.com/wp-content/uploads/2026/06/htetjh-03.png" group-title="🌊 Para Variar... de la Costa 🏖️", (720x576) Avenida España 345 - Trujillo
@@ -886,9 +889,9 @@ https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647241133/922bc3f51820_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Sol (720x576) Avenida Paseo de la Republica 5753 - Miraflores
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Рику✅"                  tvg-logo="https://dn721803.ca.archive.org/0/items/sin-titulo-1_202511/Sin%20t%C3%ADtulo-1.png" group-title="🌊 Para Variar... de la Costa 🏖️",Riku (Lambayeque) 
+#EXTINF:    Iskhodnyy="✔️Рику✅"                  tvg-logo="https://dn721803.ca.archive.org/0/items/sin-titulo-1_202511/Sin%20t%C3%ADtulo-1.png" group-title="🌊 Para Variar... de la Costa 🏖️",Riku (Lambayeque) 1920x1080
 https://amixtv.com:8081/rikutv/index.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387700821/34ca245f9d66_480_270.jpg" group-title="🌊 Para Variar... de la Costa 🏖️",Riku (Lambayeque) 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387700821/34ca245f9d66_480_270.jpg" group-title="🌊 Para Variar... de la Costa 🏖️",Riku (Lambayeque) 1920x1080
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Область✅"                  tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV4.png" group-title="🌊 Para Variar... de la Costa 🏖️",Region (1280x720) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
