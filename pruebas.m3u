@@ -808,7 +808,7 @@ https://live.ondadigitaltv.com/ODTV/tracks-a1v1/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644363575/e775e89c1af7_480_270.jpg" group-title="🌐 Alternativos & Nativos Digitales 📲",Onda Digital (1920x1080)
 https://live-evg5.tv360.bitel.com.pe/bitel/radioodtvSRT/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/13/04/1778619708408/3beabf5356a8_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",WO Digital ()
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/13/04/1778619708408/3beabf5356a8_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",WO Digital (1920x1080)
 https://live-evg10.tv360.bitel.com.pe/bitel/WODigitalSRT/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Cable Peru Noticias (1280x720)
@@ -888,7 +888,8 @@ https://sae13.playlist.ttvnw.net/v1/playlist/CtIG_MWu7QTbJ_Y4r_oAqWHp0IKsu_93UlB
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276622208/9b06ded8c435_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Klip (Arequipa) 1280x720
 https://live-evg10.tv360.bitel.com.pe/bitel/kliptv/chunks.m3u8
 
-
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767649054853/2c1806974be8_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Casma () Luis Ormeño Mz. L Lte. 6 - 02661
+https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
 
 
 
