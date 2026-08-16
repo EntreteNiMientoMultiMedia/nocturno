@@ -820,92 +820,46 @@ https://live.ondadigitaltv.com/ODTV/tracks-a1v1/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644363575/e775e89c1af7_480_270.jpg" group-title="🌐 Alternativos & Nativos Digitales 📲",Onda Digital (1920x1080)
 https://live-evg5.tv360.bitel.com.pe/bitel/radioodtvSRT/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645515476/68d99d53548a_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Bitt ()
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645515476/68d99d53548a_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Bitt (1920x1080)
 https://live-evg10.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBITCHANNEL.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Bitt ()
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBITCHANNEL.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Bitt (1280x720)
 https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/BIT_CHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DBIT_CHANNEL_stream_pn&_cdn_session=6853398070&_cdn_token=6d02bd373e3a456643411e16db469d44740a8211
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBITTCHANNEL.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Bitt ()
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBITTCHANNEL.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Bitt (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/BITTCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBITTCH_stream_u1&_cdn_session=4157155067&_cdn_token=50b3a7dc83027218ee65f7eca06928aade8bddea
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/13/04/1778619708408/3beabf5356a8_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",WO Digital (1920x1080)
 https://live-evg10.tv360.bitel.com.pe/bitel/WODigitalSRT/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648938669/e0a9868ad260_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",TeleLima ()
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648938669/e0a9868ad260_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",TeleLima (1920x1080)
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTeleLima.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",TeleLima ()
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTeleLima.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",TeleLima (1280x720)
 https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Telelima_nic/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dprueba_stream_e7&_cdn_session=6853353526&_cdn_token=25f585576e17e8b9b7931b1760df5ba3ee37bb4b
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643581411/b7cffc7c14d4_480_270.jpg" group-title="🌐 Alternativos & Nativos Digitales 📲",Folklore ()
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643581411/b7cffc7c14d4_480_270.jpg" group-title="🌐 Alternativos & Nativos Digitales 📲",Folklore (1280x720)
 https://live-evg8.tv360.bitel.com.pe/bitel/folkloretv/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFolklore.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Folklore ()
-https://cdnmain7.win.cdn.moderntv.eu:7909/win/stream/folklore/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dfolklore_stream_as&_cdn_session=6853363494&_cdn_token=59ae30c73c92e9dc6e44154a9615ccbf1f53a8d3
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FFOLKLORETV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Folklore ()
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FFOLKLORETV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Folklore (1024x576)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FOLKLORETV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOLKLORETV_stream_j7&_cdn_session=4157153291&_cdn_token=b3e54f6af6770676eff1cd2a0c2b5409f8711af1
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFolklore.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Folklore (720x576)
+https://cdnmain7.win.cdn.moderntv.eu:7909/win/stream/folklore/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dfolklore_stream_as&_cdn_session=6853363494&_cdn_token=59ae30c73c92e9dc6e44154a9615ccbf1f53a8d3
 
-#EXTINF:    Iskhodnyy="✔️Секрет✅"                  tvg-logo="https://yt3.googleusercontent.com/llqpbHaAkQY9SpZhoGbHlqzfFBBrqXd-fvrAoPSt3_cp-afgVr3twxco27XDdXeWyK2H2XLi8CM=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Asiri ()
+#EXTINF:    Iskhodnyy="✔️Секрет✅"                  tvg-logo="https://yt3.googleusercontent.com/llqpbHaAkQY9SpZhoGbHlqzfFBBrqXd-fvrAoPSt3_cp-afgVr3twxco27XDdXeWyK2H2XLi8CM=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Asiri (1280x720)
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/176764712451/ace0d5d352e9_480_270.jpg" group-title="🌐 Alternativos & Nativos Digitales 📲",Asiri ()
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/176764712451/ace0d5d352e9_480_270.jpg" group-title="🌐 Alternativos & Nativos Digitales 📲",Asiri (1280x720)
 https://live-evg10.tv360.bitel.com.pe/bitel/asiritv/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FASIRI.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Asiri ()
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FASIRI.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Asiri (1280x720)
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/ASIRI_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DASIRI_TV_stream_ak&_cdn_session=6853378422&_cdn_token=c3ecc5f84f31fdf3310d8e8ee999becaa670f950
 
 #EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Cable Peru Noticias (1280x720)
 https://video2.lhdserver.es/cableperu/live.m3u8
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FSUMACTV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Sumac ()
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FSUMACTV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Sumac (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/SUMACTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSUMACTV_stream_wa&_cdn_session=4157154555&_cdn_token=4d8cd0a59f4d9aca5103729e15242f59e6223d90
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/26/22/1772120012871/88aef8401501_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",X ()
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/26/22/1772120012871/88aef8401501_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",X (1920x1080)
 https://live-evg11.tv360.bitel.com.pe/bitel/xtvSRT/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/27/03/1779825690602/35cfac0ed79a_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Max ()
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/27/03/1779825690602/35cfac0ed79a_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Max (1920x1080)
 https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/chunks.m3u8
-
-#EXTINF===================================================================================================================================================================================================================================================================================================================
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPLAYBOY.png&width=100" group-title="😈 +18 🔒 Solo Adultos 🔞",🐰 Jugar con el Chiquito 🥂 (1280x720) PlayBoy
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PLAYBOY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLAYBOY_stream_qg&_cdn_session=4066300275&_cdn_token=af75313f55fff962872e4767f6715337ca3f7952
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FVENUS.png&width=100" group-title="😈 +18 🔒 Solo Adultos 🔞",👠 Venus 👄🍒 (1024x576)
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DVENUS_stream_o3&_cdn_session=4066298819&_cdn_token=3454e758a09690bc48c645ea7b8f87174ad697a2
-
-#EXTINF===================================================================================================================================================================================================================================================================================================================
-
-https://github.com/iptv-org/awesome-iptv
-https://github.com/iptv-org/iptv/tree/master/streams
-
-https://github.com/Free-TV/IPTV/tree/master/playlists
-
-https://github.com/vk496/IPTVspain/blob/master/spain.m3u8
-
-https://github.com/delmitv/lista-IPTV/blob/main/lista.m3u
-
-https://raw.githubusercontent.com/listacanales/listacanales/refs/heads/main/tv123.m3u
-
-https://raw.githubusercontent.com/luisms123/tdt/master/listalms.m3u
-https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
-
-https://raw.githubusercontent.com/luchitogali2020-bot/prueba/refs/heads/main/todofulvo.m3u
-https://raw.githubusercontent.com/luchitogali2020-bot/prueba2/refs/heads/main/prueba.m3u
-https://raw.githubusercontent.com/luchitogali2020-bot/fulvo/refs/heads/main/mundial.m3u
-https://raw.githubusercontent.com/shadowm1996/listas/main/LISTA.M3U
-
-https://www.tdtchannels.com/lists/tv.m3u
-https://www.tdtchannels.com/lists/tv.m3u8
-
-https://www.cxtvenvivo.com/
-https://www.xhkzv.com/
-https://m3u.cl/canales-iptv.php
-http://tvpe15.com/
-https://serenotv.com/
-https://www.chiletvapp.com/
-https://arp.cns.pe/
-
-https://globoview.cam/categorias/
-https://teleonline.org/
-https://www.tdtchannels.com/catalogo/television/
-
-https://www.reddit.com/r/ArgentinaIPTV/
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
@@ -1013,11 +967,57 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767649054853/2c1806974be8_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Casma (854x480) Luis Ormeño Mz. L Lte. 6 - 02661
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644665288/51117e06e159_480_270.jpg" group-title="🌊 Para Variar... de la Costa 🏖️",Albricias () Napoles Mz. K2 Lt. 8 - Paita Alta
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644665288/51117e06e159_480_270.jpg" group-title="🌊 Para Variar... de la Costa 🏖️",Albricias (1920x1080) Napoles Mz. K2 Lt. 8 - Paita Alta
 https://live-evg11.tv360.bitel.com.pe/bitel/albriciastv/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647221982/1185f9ef2c2e_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",36 Huacho (1920x1080) Av. Francisco Vidal 605 - Huaura
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/chunks.m3u8
+
+#EXTINF===================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPLAYBOY.png&width=100" group-title="😈 +18 🔒 Solo Adultos 🔞",🐰 Jugar con el Chiquito 🥂 (1280x720) PlayBoy
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PLAYBOY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLAYBOY_stream_qg&_cdn_session=4066300275&_cdn_token=af75313f55fff962872e4767f6715337ca3f7952
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FVENUS.png&width=100" group-title="😈 +18 🔒 Solo Adultos 🔞",👠 Venus 👄🍒 (1024x576)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DVENUS_stream_o3&_cdn_session=4066298819&_cdn_token=3454e758a09690bc48c645ea7b8f87174ad697a2
+
+#EXTINF===================================================================================================================================================================================================================================================================================================================
+
+https://github.com/iptv-org/awesome-iptv
+https://github.com/iptv-org/iptv/tree/master/streams
+
+https://github.com/Free-TV/IPTV/tree/master/playlists
+
+https://github.com/vk496/IPTVspain/blob/master/spain.m3u8
+
+https://github.com/delmitv/lista-IPTV/blob/main/lista.m3u
+
+https://raw.githubusercontent.com/listacanales/listacanales/refs/heads/main/tv123.m3u
+
+https://raw.githubusercontent.com/luisms123/tdt/master/listalms.m3u
+https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
+
+https://raw.githubusercontent.com/luchitogali2020-bot/prueba/refs/heads/main/todofulvo.m3u
+https://raw.githubusercontent.com/luchitogali2020-bot/prueba2/refs/heads/main/prueba.m3u
+https://raw.githubusercontent.com/luchitogali2020-bot/fulvo/refs/heads/main/mundial.m3u
+https://raw.githubusercontent.com/shadowm1996/listas/main/LISTA.M3U
+
+https://www.tdtchannels.com/lists/tv.m3u
+https://www.tdtchannels.com/lists/tv.m3u8
+
+https://www.cxtvenvivo.com/
+https://www.xhkzv.com/
+https://m3u.cl/canales-iptv.php
+http://tvpe15.com/
+https://serenotv.com/
+https://www.chiletvapp.com/
+https://arp.cns.pe/
+
+https://globoview.cam/categorias/
+https://teleonline.org/
+https://www.tdtchannels.com/catalogo/television/
+
+https://www.reddit.com/r/ArgentinaIPTV/
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
