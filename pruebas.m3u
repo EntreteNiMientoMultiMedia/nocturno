@@ -862,11 +862,6 @@ https://www.reddit.com/r/ArgentinaIPTV/
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️", () 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️", () 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️", () 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️", () 
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/1775081979482/ddba258dd964_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Voz Digital (1920x1080) Jr. Tacna 525 - La Perla
 https://live-evg8.tv360.bitel.com.pe/bitel/vozdigitalperu/chunks.m3u8
 
@@ -953,7 +948,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DUNASTV/40-hls/live-media.m3u
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767649074957/211cc18779be_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",DAC (1280x720) Calle 24 713 - Panamericana Sur Km 144 - San Vicente
 https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://cvn.pe/wp-content/uploads/2025/01/TIPOGRAFIA-CVN-TV-ok.png" group-title="🌊 Para Variar... de la Costa 🏖️",CVN
+#EXTINF:    Iskhodnyy="✔️КТС✅"                  tvg-logo="https://cvn.pe/wp-content/uploads/2025/01/TIPOGRAFIA-CVN-TV-ok.png" group-title="🌊 Para Variar... de la Costa 🏖️",Corporacion de Television Norteña (1920x1080) Calle Miguel Grau 668 - 24001
 https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://cosmos.pe/wp-content/uploads/2026/01/logo-cosmos.png" group-title="🌊 Para Variar... de la Costa 🏖️",Cosmos (854x480) Avenida Victor Larco N° 1679 - 13009
