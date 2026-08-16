@@ -879,6 +879,9 @@ https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Vision_sur/40-hls/live-medi
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/05/1771281231848/47e4126171f3_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (1920x1080) Centro Comercial Bonanza 3er piso - Cerro Colorado
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648190114/2532f36e1afb_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Vigil () Avenida de Pinto N° 1301 - Alto de la Alianza
+https://live-evg11.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/20/23/1776702032916/c89eca9916a5_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",UniLan (Lambayeque) 1920x1080
 https://live-evg8.tv360.bitel.com.pe/bitel/unilantv/chunks.m3u8
 
@@ -899,7 +902,7 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647979447/cf7a1694e097_480_270.jpg" group-title="🌊 Para Variar... de la Costa 🏖️",Region (1920x1080) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️",Radio Uno () Avenida Dos de Mayo N° 263
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647179623/f2fda43856b1_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Radio Uno () Avenida Dos de Mayo N° 263
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGcQqTfnuovlmCMOWW9Xv_YrC-B_CrkU5kmzWEstxfZ9s=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Piura (1280x720) Calle Huallaga - centro de Piura
@@ -949,6 +952,9 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DUNASTV/40-hls/live-media.m3u
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767649074957/211cc18779be_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",DAC (1280x720) Calle 24 713 - Panamericana Sur Km 144 - San Vicente
 https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://cvn.pe/wp-content/uploads/2025/01/TIPOGRAFIA-CVN-TV-ok.png" group-title="🌊 Para Variar... de la Costa 🏖️",Corporación de Televisión Norteña () Calle Miguel Grau N.° 668 - Tumbes - 24001
+https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://cosmos.pe/wp-content/uploads/2026/01/logo-cosmos.png" group-title="🌊 Para Variar... de la Costa 🏖️",Cosmos (854x480) Avenida Victor Larco N° 1679 - 13009
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
