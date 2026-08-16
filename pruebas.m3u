@@ -892,6 +892,11 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647979447/cf7a1694e097_480_270.jpg" group-title="🌊 Para Variar... de la Costa 🏖️",Region (1920x1080) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️Озон✅"                  tvg-logo="https://ozonotv.com/wp-content/uploads/2025/04/Recurso-1@10x-scaled.png" group-title="🌊 Para Variar... de la Costa 🏖️",Ozono () Calle Jorge Bizet 418 - Urb. Primavera
+http://vps.chasquirouter.com/salida/ozono.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/09/02/1767901961607/3609f9dccf21_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Ozono () Calle Jorge Bizet 418 - Urb. Primavera
+https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647461434/f6cab8d2c24f_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Onda (Ica) 1280x720
 https://live-evg5.tv360.bitel.com.pe/bitel/onda/chunks.m3u8
 
@@ -926,6 +931,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://cosmos.pe/wp-content/uploads/2026/01/logo-cosmos.png" group-title="🌊 Para Variar... de la Costa 🏖️",Cosmos (854x480) Avenida Victor Larco N° 1679 - 13009
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/14/22/1778773449664/bb9c09f95b29_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Cosmos (854x480) Avenida Victor Larco N° 1679 - 13009
+https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Чинча✅"                  tvg-logo="https://yt3.googleusercontent.com/m5JRPpKnoMq2-LLaHf9Mu8AO6XvcrKh3m8KbPHervlcfzAPoNdGbOQKw9WtFL1G954GsOktXhBI=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Chincha (1280x720) Calle Grau 547 - Chincha Alta
 https://s3.tvdatta.com:3908/stream/play.m3u8
