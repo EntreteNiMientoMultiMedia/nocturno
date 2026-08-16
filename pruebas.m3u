@@ -888,8 +888,15 @@ https://sae13.playlist.ttvnw.net/v1/playlist/CtIG_MWu7QTbJ_Y4r_oAqWHp0IKsu_93UlB
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276622208/9b06ded8c435_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Klip (Arequipa) 1280x720
 https://live-evg10.tv360.bitel.com.pe/bitel/kliptv/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767649074957/211cc18779be_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",DAC () Calle 24 713 - Panamericana Sur Km 144 - San Vicente
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767649074957/211cc18779be_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",DAC (1280x720) Calle 24 713 - Panamericana Sur Km 144 - San Vicente
 https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/1767387559628/cc7733e3609d_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Chincha () Chincha Alta
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTVMASCHIN.png&width=100" group-title="🌊 Para Variar... de la Costa 🏖️",Chincha () Chincha Alta
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVMASCHIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVMASCHIN_stream_ec&_cdn_session=4156747851&_cdn_token=1e95b484c7ff35aa0ee47f5981979ddd6f0fa5f1
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/m5JRPpKnoMq2-LLaHf9Mu8AO6XvcrKh3m8KbPHervlcfzAPoNdGbOQKw9WtFL1G954GsOktXhBI=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Chincha () Calle Grau 547 - Chincha Alta
+https://s3.tvdatta.com:3908/stream/play.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767649054853/2c1806974be8_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Casma (854x480) Luis Ormeño Mz. L Lte. 6 - 02661
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
