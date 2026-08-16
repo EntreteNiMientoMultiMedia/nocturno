@@ -681,6 +681,9 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHTV.png&width=100" group-title="🎧 Melodiya 🌍🔊",Hispano 🇺🇸 (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHTV_stream_9c&_cdn_session=4154201099&_cdn_token=1df0a13365e195134c49d74422ea34137666c662
 
+#EXTINF:    Iskhodnyy="✔️СвятойБорха✅"                  tvg-logo="https://radiosanborjatv.com/wp-content/uploads/2020/12/LOGO-RSB-TV.png" group-title="🎧 Melodiya 🌍🔊",Radio San Borja 🇵🇪 (1920x1080)
+https://stream.mediacorp.pe/srt/3/chunks.m3u8
+
 #EXTINF:    Iskhodnyy="✔️Ретро✅"                  tvg-logo="https://play-lh.googleusercontent.com/fSVDUWdsTrqSdwC8NIXmDmxCkuZbvsrChC6zosvbWvrjptNY15_9jcVPSIgEvDLr0i9cHMw9dx0Rlkz_q90gDw=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Retro 🇨🇿 (1280x720)
 https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w860415805_b3256000.m3u8
 #EXTINF:    Iskhodnyy="✔️Ретро✅"                  tvg-logo="https://play-lh.googleusercontent.com/fSVDUWdsTrqSdwC8NIXmDmxCkuZbvsrChC6zosvbWvrjptNY15_9jcVPSIgEvDLr0i9cHMw9dx0Rlkz_q90gDw=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Retro 🇨🇿 (1280x720)
@@ -1898,6 +1901,66 @@ https://vmvpd.short.gy/T3B2/Eco
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/T3B2/36Huacho" group-title="🌊 Para Variar... de la Costa 🏖️",36 Huacho (Huacho) 1920x1080
 https://vmvpd.short.gy/T3B2/36Huacho
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/27/02/176418583453/68405e22d4dd_480_270.png" group-title="Para variar 🗿🌊 de la Costa",ChinchaTv+ 🇻🇳 Chincha 1280x720p
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+
+#EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",CosiTel Perú 🇻🇳 Ica 1280x720p
+https://live-evg18.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/176374172622/64c20ab130a3_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Cosmos 🇻🇳 La Libertad 1280x720p
+https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742937437/33c28f1ce033_480_270.png" group-title="Para variar 🗿🌊 de la Costa",CVN Tv 🇻🇳 Tumbes 1920x1080p
+https://live-evg18.tv360.bitel.com.pe/bitel/cvn/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763754729784/2a7ddf11d876_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Huacho Tv.com 🇻🇳 Huacho 1280x720p
+https://live-evg18.tv360.bitel.com.pe/bitel/huacho/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/00/1763745308942/fd38cc17f6fd_480_270.png" group-title="Para variar 🗿🌊 de la Costa",DunasTv 🇻🇳 Ica 1280x720p
+https://live-evg18.tv360.bitel.com.pe/bitel/dunastv/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756219606/1cd5e21414a5_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Eco 🇻🇳 Ica 1280x720p
+https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763742874364/fe3f4e3d734d_480_270.png" group-title="Para variar 🗿🌊 de la Costa",FillkaTv 🇻🇳 Chiclayo 1920x1080p
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756394529/5e70bc4bd79c_480_270.png" group-title="Para variar 🗿🌊 de la Costa",G Tv 🇻🇳 Pisco 1280x720p
+https://live-evg18.tv360.bitel.com.pe/bitel/gtvpiscohls/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763741074740/e0811c27c2dc_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Norteña Mix 🇻🇳 Piura 854x480p
+https://live-evg11.tv360.bitel.com.pe/bitel/nortenamix/chunks.m3u8
+
+#EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",NZK TeleVisión 🇻🇳 Ica 1280x720p
+https://live-evg5.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756370285/975ca986dc17_480_270.png" group-title="Para variar 🗿🌊 de la Costa",OndaTv 🇻🇳 Ica 1280x720p
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",PiuraTv 🇻🇳 Piura 1280x720p
+https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",R Tv 🇻🇳 Callao 1920x1080p
+https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",Radio Uno 🇻🇳 Tacna 1280x720p
+https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763741433712/554db8b867d1_480_270.png" group-title="Para variar 🗿🌊 de la Costa",RikuTv 🇻🇳 Lambayeque 1920x1080p
+https://live-evg7.tv360.bitel.com.pe/bitel/riku/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756894988/f74ee9b16077_480_270.png" group-title="Para variar 🗿🌊 de la Costa",SolTv 🇻🇳 La Libertad 1280x720p
+https://live-evg7.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="" group-title="Para variar 🗿🌊 de la Costa",TvNorte 🇻🇳 Lambayeque 854x480p
+https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/02/1763754357915/19911d11ebc0_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Vigil 45 🇻🇳 Tacna 1280x720p
+https://live-evg11.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756295942/d90528a142cf_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Vision Sur 🇻🇳 Arequipa 1920x1080p
+https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
