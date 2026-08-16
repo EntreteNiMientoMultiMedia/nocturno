@@ -879,15 +879,20 @@ https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Vision_sur/40-hls/live-medi
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/05/1771281231848/47e4126171f3_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (1920x1080) Centro Comercial Bonanza 3er piso - Cerro Colorado
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV4.png" group-title="🌊 Para Variar... de la Costa 🏖️",Region (1280x720) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
+#EXTINF:    Iskhodnyy="✔️Область✅"                  tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV4.png" group-title="🌊 Para Variar... de la Costa 🏖️",Region (1280x720) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647979447/cf7a1694e097_480_270.jpg" group-title="🌊 Para Variar... de la Costa 🏖️",Region (1920x1080) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647461434/f6cab8d2c24f_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Onda (Ica) 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647461434/f6cab8d2c24f_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Onda (Ica) 1280x720
 https://live-evg5.tv360.bitel.com.pe/bitel/onda/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://kliptv.pe/wp-content/uploads/2025/10/chrome_DjqSutKGsS.png" group-title="🌊 Para Variar... de la Costa 🏖️",Klip (Arequipa) 1280x720
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/9-CLft0AqzMK_FQJfVi1zMIYvoqUyDSykEkkabJdbRCk6g87scpafcLtgV5lY-CNDCs9adMtgg=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",NaZKa () Calle Bolognesi Nº 770 - Nasca
+https://eu1.servers10.com:8081/8258/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/1767386997814/c65f6ebc5be3_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",NaZKa () Calle Bolognesi Nº 770 - Nasca
+https://live-evg10.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Клип✅"                  tvg-logo="https://kliptv.pe/wp-content/uploads/2025/10/chrome_DjqSutKGsS.png" group-title="🌊 Para Variar... de la Costa 🏖️",Klip (Arequipa) 1280x720
 https://sae13.playlist.ttvnw.net/v1/playlist/CtIG_MWu7QTbJ_Y4r_oAqWHp0IKsu_93UlBTrigSoZhxz9Obg6g9Msdl8dVD_amuYODpJHrYOsBvuPLP7Nfct0VWtJARqx2PP0AKKe4HgJ4y_znL8fRCSCTCbN9ZcemWMY1ZVYD_rIOdQQpT6FaZ2m3qzi6hNqR95RSPglsdJSIkdE-qQ8zzPY0pGG5bAyZ-PHvgz4O5s_JrUtdzjw5zWSpcEeC_BQ7AdWGSvqxh96qs5tfQ7Y-623WLybFKZxgnicSQPDIp_4BMkIJf3MsF3TqbK2Wl8m3fAkfpmf7-bOnS8JokV94oF2UQuzfE82PGB3l8NZIKxAwaGMqoBDz2ZiZ0Fvu9K9hAUg2aT-eKDAhPN6s2Km4TKJr6I1kWDP7A2TYxcv_bD26aI7B0cLYon7HfomMPx6aTj0uIAy0cCDRN1p8-P2NMsi151yvY_fh02sbps3P6whb2eEvi-4lnA_Dwbhz4psz6e-k2sj3CHPLXvIbBZ9avkfiGzJ6lewnUcvkdPxId8BsT0z-zWmgdMTVQDg7Rqi14Fzc5aTGGK9fc3cipr0ZnBXkB1RjH47kxcCIuyiR5SmdjOjUc5NHPcCGlEYInMOt0SA39Ag1s8QRuiey1LFZONWlIdsqc3xWTVr4BOHybnM7t_sqhAYrgseCYIf1pKWe9ULW2mApAAeyL571LE0b22f_I_EOHzeEe77t3tzxKsCEc4LUL4Wha7uVnIrypfhf4H8aJk5C6Y6UfMj6xGi01gXahGh4EC3iVdziPBU2noxlLwIhZF9fDfuS9JFBW8Y5k2GXGQcQ5VPja5ktWBx6FQlWxkFzRwvmOWOhc2efmReRzEWxpvoC06yo2qlH-2D2Li4woPdW14gZDgh8l0b1tf4iekCRuQJnDTPKF3GCjYJZgzpPFDHBdg8rN4kYwKmT5xq82En-oP1hlHg7oonpk8EBOp_-BNQTc4Bi0-ONTyL1n-k3G54Vn7zqPdXAVfhR6fW6NQvyB7lTyeJb6AmXhcMezX_V0wSjmSWwLF3Nri6eR-DHCBC0EABLPswosyau-yakxREY__05yLEyOO5pkKYdmbKaQBoYL3gfXVKQ5yellLBEkRTKMGSCHC_PSK9s6-R7HghNNQkOkkE7aUhoMT3IkdXDTSYM91-tDIAEqCXVzLWVhc3QtMjDsDw.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276622208/9b06ded8c435_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Klip (Arequipa) 1280x720
 https://live-evg10.tv360.bitel.com.pe/bitel/kliptv/chunks.m3u8
@@ -895,7 +900,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/kliptv/chunks.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/04/05/177257759387/52db6d17dfb1_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Huaral 45 En Linea (Huaral) 1920x1080
 https://live-evg8.tv360.bitel.com.pe/bitel/huaralenlineaSRT-TRA/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643518557/1e6ee0a2630d_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Huacho.com (Huacho) 1280x720
+#EXTINF:    Iskhodnyy="✔️Уачо✅"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643518557/1e6ee0a2630d_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Huacho.com (Huacho) 1280x720
 https://tv.huachotv.com/stream.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767649074957/211cc18779be_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",DAC (1280x720) Calle 24 713 - Panamericana Sur Km 144 - San Vicente
@@ -905,7 +910,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTVMASCHIN.png&width=100" group-title="🌊 Para Variar... de la Costa 🏖️",Chincha (1280x720) Chincha Alta
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVMASCHIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVMASCHIN_stream_ec&_cdn_session=4156747851&_cdn_token=1e95b484c7ff35aa0ee47f5981979ddd6f0fa5f1
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/m5JRPpKnoMq2-LLaHf9Mu8AO6XvcrKh3m8KbPHervlcfzAPoNdGbOQKw9WtFL1G954GsOktXhBI=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Chincha (1280x720) Calle Grau 547 - Chincha Alta
+#EXTINF:    Iskhodnyy="✔️Чинча✅"                  tvg-logo="https://yt3.googleusercontent.com/m5JRPpKnoMq2-LLaHf9Mu8AO6XvcrKh3m8KbPHervlcfzAPoNdGbOQKw9WtFL1G954GsOktXhBI=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Chincha (1280x720) Calle Grau 547 - Chincha Alta
 https://s3.tvdatta.com:3908/stream/play.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767649054853/2c1806974be8_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Casma (854x480) Luis Ormeño Mz. L Lte. 6 - 02661
