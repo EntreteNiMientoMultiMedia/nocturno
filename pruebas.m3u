@@ -899,10 +899,12 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647979447/cf7a1694e097_480_270.jpg" group-title="🌊 Para Variar... de la Costa 🏖️",Region (1920x1080) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGcQqTfnuovlmCMOWW9Xv_YrC-B_CrkU5kmzWEstxfZ9s=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Piura () Calle Huallaga - centro de Piura
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🌊 Para Variar... de la Costa 🏖️",Radio Uno () Avenida Dos de Mayo N° 263
+https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGcQqTfnuovlmCMOWW9Xv_YrC-B_CrkU5kmzWEstxfZ9s=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Piura (1280x720) Calle Huallaga - centro de Piura
 https://live.obslivestream.com/piuratv/tracks-v1a1/mono.m3u8
-https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/1767387083768/e074ea93db6a_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Piura () Calle Huallaga - centro de Piura
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/1767387083768/e074ea93db6a_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Piura (1280x720) Calle Huallaga - centro de Piura
 https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Озон✅"                  tvg-logo="https://ozonotv.com/wp-content/uploads/2025/04/Recurso-1@10x-scaled.png" group-title="🌊 Para Variar... de la Costa 🏖️",Ozono (1280x720) Calle Jorge Bizet 418 - Urb. Primavera
