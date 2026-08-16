@@ -258,7 +258,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:    Iskhodnyy="✔️РС✅"                  tvg-logo="https://1a-1791.com/video/z8/6/7/h/m/67hma.baa-RTES-rvkuq9.png" group-title="📰🌐 Noticias del Mundo 🚨",Hoy Rusia (1920X1080) RT
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/20/00/1768842513372/2dc82a716cdd_480_270.png" group-title="📰🌐 Noticias del Mundo 🚨",Hoy Rusia (1920X1080) RT
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/20/00/1768842513372/2dc82a716cdd_480_270.png" group-title="📰🌐 Noticias del Mundo 🚨",Hoy Rusia (1920X1080) RT
 https://live-evg10.tv360.bitel.com.pe/bitel/rt/chunks.m3u8
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FRT.png&width=100" group-title="📰🌐 Noticias del Mundo 🚨",Hoy Rusia (1280x720) RT
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/RT_L/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DRT_L_stream_tf&_cdn_session=6988881747&_cdn_token=698d779fc5845fdb761210465c6bf2f755481a0c
@@ -276,11 +276,14 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:    Iskhodnyy="✔️RTvE✅"                  tvg-logo="https://yt3.googleusercontent.com/I3ZVT2djUYfXZIqgnPJtztmriw4dfgOklrfaSEXOwP-7eT3jNUqYUzZJx5KIoYbn0WZQeX49hQ=s160-c-k-c0x00ffffff-no-rj" group-title="📰🌐 Noticias del Mundo 🚨",24 Horas - Radio TeleVisión Española (1280x720) RTvE
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFrance24.png&width=100" group-title="📰🌐 Noticias del Mundo 🚨",Francia 24 (1280x720)
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/FRANCE24_SAT/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DFRANCE24_SAT_stream_fg&_cdn_session=6989787507&_cdn_token=40b04b560f94b3cd38998c7aff187c81d0c22909
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCNN_ESPANOL.png&width=100" group-title="📰🌐 Noticias del Mundo 🚨",Cadena de Noticias por Cable (1280x720) CNN
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_ESPANOL_stream_di&_cdn_session=4137621259&_cdn_token=29504bc8c0f91a2ff7a74fcb852f829fb4302931
+#EXTINF:    Iskhodnyy="✔️RTvE✅"                  tvg-logo="https://grupotvl.com/wp-content/uploads/2024/03/LOGO_Transparente.png" group-title="📰🌐 Noticias del Mundo 🚨",Libertad ()
+https://stream-us-east-1.getpublica.com/cl/260816da0l9bcvqmgc739bbld0/1920x1080_4953537_0_f.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTVL.png&width=100" group-title="📰🌐 Noticias del Mundo 🚨",Libertad ()
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/TVL_SAT/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTVL_SAT_stream_jh&_cdn_session=6852986694&_cdn_token=7df12685f85e716ecce68fbe26bd76846e254fb0
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTVL.png&width=100" group-title="📰🌐 Noticias del Mundo 🚨",Libertad ()
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TVL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVL_stream_w4&_cdn_session=4157127307&_cdn_token=73867c664b93a7c8c2977502e2ffef4b8b22c0dc
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/20/22/1776697794199/587a4b07afa2_480_270.png" group-title="📰🌐 Noticias del Mundo 🚨",Libertad ()
+https://live-evg8.tv360.bitel.com.pe/bitel/tvlibertadSRT/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FNOTICIASCARACOL.png&width=100" group-title="📰🌐 Noticias del Mundo 🚨",Noticias Caracol (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=4137636235&_cdn_token=0b8417799f93d5eedec49bc4ed126bc6b43172b2
@@ -290,6 +293,12 @@ https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/NTN24_SIGNAL/40-hls/live-me
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FVPI.png&width=100" group-title="📰🌐 Noticias del Mundo 🚨",Venezolanos por la Informacion (1280x720)
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/VPI_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVPI_MIC_stream_og&_cdn_session=6989981571&_cdn_token=6628934de03f069b4d022d4ae5faab122fc90665
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFrance24.png&width=100" group-title="📰🌐 Noticias del Mundo 🚨",Francia 24 (1280x720)
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/FRANCE24_SAT/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DFRANCE24_SAT_stream_fg&_cdn_session=6989787507&_cdn_token=40b04b560f94b3cd38998c7aff187c81d0c22909
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCNN_ESPANOL.png&width=100" group-title="📰🌐 Noticias del Mundo 🚨",Cadena de Noticias por Cable (1280x720) CNN
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_ESPANOL_stream_di&_cdn_session=4137621259&_cdn_token=29504bc8c0f91a2ff7a74fcb852f829fb4302931
 
 #EXTINF:    Iskhodnyy="✔️ТелеЮг✅"                  tvg-logo="https://yt3.googleusercontent.com/aS4NpzUqnC9bnETSlxCYllF5GeYFfdLzClYVsjNIDI4psYBJtGMTfv0LCIpUOEE7aPxK14v9Og=s160-c-k-c0x00ffffff-no-rj" group-title="📰🌐 Noticias del Mundo 🚨",TeleSur (640x360)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
