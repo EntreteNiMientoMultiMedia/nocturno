@@ -879,7 +879,7 @@ https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Vision_sur/40-hls/live-medi
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/05/1771281231848/47e4126171f3_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (1920x1080) Centro Comercial Bonanza 3er piso - Cerro Colorado
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/20/23/1776702032916/c89eca9916a5_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",UniLan (Lambayeque) 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/20/23/1776702032916/c89eca9916a5_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",UniLan (Lambayeque) 1920x1080
 https://live-evg8.tv360.bitel.com.pe/bitel/unilantv/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FSolTV.png&width=100" group-title="🌊 Para Variar... de la Costa 🏖️",Sol (720x576) Avenida Jesus de Nazareth 1323 - Urbanizacion Covicorti
@@ -925,6 +925,11 @@ https://live-evg8.tv360.bitel.com.pe/bitel/huaralenlineaSRT-TRA/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Уачо✅"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643518557/1e6ee0a2630d_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Huacho.com (Huacho) 1280x720
 https://tv.huachotv.com/stream.m3u8
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FGTVPisco.png&width=100" group-title="🌊 Para Variar... de la Costa 🏖️",Gerardo () Calle Huancavelica 107 - San Clemente
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/GTVPisco/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGTVPisco_stream_i0&_cdn_session=4157054155&_cdn_token=79fe2ef1392f28ab9e4266ce594efc2db591ae46
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643607770/736677dfa0be_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Gerardo () Calle Huancavelica 107 - San Clemente
+https://live-evg18.tv360.bitel.com.pe/bitel/gtvpiscohls/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Эко✅"                  tvg-logo="https://ecoperu.tv/wp-content/uploads/2024/02/Eco.png" group-title="🌊 Para Variar... de la Costa 🏖️",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
 https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
