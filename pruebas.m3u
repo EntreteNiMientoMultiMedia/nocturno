@@ -890,9 +890,6 @@ https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Vision_sur/40-hls/live-medi
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/05/1771281231848/47e4126171f3_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Vision Sur (1920x1080) Centro Comercial Bonanza 3er piso - Cerro Colorado
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648190114/2532f36e1afb_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Vigil () Avenida de Pinto N° 1301 - Alto de la Alianza
-https://live-evg11.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/20/23/1776702032916/c89eca9916a5_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",UniLan (Lambayeque) 1920x1080
 https://live-evg8.tv360.bitel.com.pe/bitel/unilantv/chunks.m3u8
 
@@ -913,7 +910,7 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647979447/cf7a1694e097_480_270.jpg" group-title="🌊 Para Variar... de la Costa 🏖️",Region (1920x1080) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647179623/f2fda43856b1_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Radio Uno () Avenida Dos de Mayo N° 263
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647179623/f2fda43856b1_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Radio Uno (1280x720) Avenida Dos de Mayo N° 263
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGcQqTfnuovlmCMOWW9Xv_YrC-B_CrkU5kmzWEstxfZ9s=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Piura (1280x720) Calle Huallaga - centro de Piura
@@ -1135,31 +1132,31 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/KW4oJwXea_fc-DtVmMGfQrGMp51qy9TqMT9jmuQ93QXf5JgLoU4LrFpR00LuRXPcQks6zHblc8w=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Resistencia (1280x720) Canal 9
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal12web.com/wp-content/uploads/2026/06/Logo-Canal-12-OK-200px.png" group-title="🇦🇷 Argentina 🇦🇷",Web () Canal 12
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal12web.com/wp-content/uploads/2026/06/Logo-Canal-12-OK-200px.png" group-title="🇦🇷 Argentina 🇦🇷",Web (850x480) Canal 12
 https://nd106.republicaservers.com/hls/c7827/1_2/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mBkMOqEq3cZggQQhA1Q43pzSCyWrH0Rci860y56yvjFBU=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",La Rioja () Canal 13
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mBkMOqEq3cZggQQhA1Q43pzSCyWrH0Rci860y56yvjFBU=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",La Rioja (1280x720) Canal 13
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/cPq0w98cwm7W1R_DAW7NT3iaccjT0AJSUlZr_Zwk_PuWCufNqDLmobKvXdwf9VhlX0i6yi2zpA=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",San Luis () Canal 13
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/cPq0w98cwm7W1R_DAW7NT3iaccjT0AJSUlZr_Zwk_PuWCufNqDLmobKvXdwf9VhlX0i6yi2zpA=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",San Luis (1280x720) Canal 13
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal22web.com/wp-content/uploads/2024/05/LOGO-CANAL-REBORDE-BLANCO-1.2.png" group-title="🇦🇷 Argentina 🇦🇷",Web () Canal 22
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal22web.com/wp-content/uploads/2024/05/LOGO-CANAL-REBORDE-BLANCO-1.2.png" group-title="🇦🇷 Argentina 🇦🇷",Web (1920x1080) Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/AXfRjrq_qOO7EAtYzgj-i7ityi400ky6H-OG0JWBYbhjkGY_UK9UN7N5tUWl15myvRjwnDf8MhXWzb_u7wf9dQ=w240-h480-rw" group-title="🇦🇷 Argentina 🇦🇷",TeleCentro () Canal 26
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/AXfRjrq_qOO7EAtYzgj-i7ityi400ky6H-OG0JWBYbhjkGY_UK9UN7N5tUWl15myvRjwnDf8MhXWzb_u7wf9dQ=w240-h480-rw" group-title="🇦🇷 Argentina 🇦🇷",TeleCentro (1920x1080) Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal50.tv/public/images/Boton_EnVivo1_1.png" group-title="🇦🇷 Argentina 🇦🇷",Morteros () Canal 50
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal50.tv/public/images/Boton_EnVivo1_1.png" group-title="🇦🇷 Argentina 🇦🇷",Morteros (1920x1080) Canal 50
 https://online.coopmorteros.coop/canal50/vivo.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRY5MeaAe4v1ZXg5wYY9u--1lWSwZcux0w8yWJhGA6gtE=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Mar de la Plata () Canal 79
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRY5MeaAe4v1ZXg5wYY9u--1lWSwZcux0w8yWJhGA6gtE=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Mar de la Plata (1280x720) Canal 79
 https://streamconex.com:2000/hls/mardelplata/mardelplata.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/-xH1pJyFmtYv0Xzmv5tUInAG0yrSXGbHo8uuvy9T3j8mFH3swdoKFJ8WCOSo096wMJVFVVwi9Q=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Santa Clara () Canal 79
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/-xH1pJyFmtYv0Xzmv5tUInAG0yrSXGbHo8uuvy9T3j8mFH3swdoKFJ8WCOSo096wMJVFVVwi9Q=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Santa Clara (1920x1080) Canal 79
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://radiocardinal.com.ar/wp-content/uploads/2024/12/logocardinal.jpeg.jpg" group-title="🇦🇷 Argentina 🇦🇷",Miramar de Ansenuza () Canal 99
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://radiocardinal.com.ar/wp-content/uploads/2024/12/logocardinal.jpeg.jpg" group-title="🇦🇷 Argentina 🇦🇷",Miramar de Ansenuza (1280x720) Canal 99
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
 
