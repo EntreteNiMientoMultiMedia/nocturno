@@ -1136,8 +1136,6 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal12web.com/wp-content/uploads/2026/06/Logo-Canal-12-OK-200px.png" group-title="🇦🇷 Argentina 🇦🇷",Web () Canal 12
-https://nd106.republicaservers.com:4433/c7827.mp4
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/YyU4kqh-ghEAgWung_Wcw2pfpZ3jCcDscPSdntYfzSfSQDeTuRsVwKegK59AvUrLIX7oLZy91Q=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Web () Canal 12
 https://nd106.republicaservers.com/hls/c7827/1_2/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mBkMOqEq3cZggQQhA1Q43pzSCyWrH0Rci860y56yvjFBU=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",La Rioja () Canal 13
