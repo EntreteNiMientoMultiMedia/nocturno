@@ -1172,6 +1172,21 @@ https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal.mdp.edu.ar/resources/views/frontend/img/canal_iso_new.png" group-title="🇦🇷 Argentina 🇦🇷",Universidad Nacional de Mar del Plata (1280x720)
 https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/YJe5RXP1hXnPhELfVACSMRgIX1QKvXQ7mREVQRNCx72HYncSLcDhCVbldnTudMwkfIoGk6PW=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Caras ()
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://catamarcartv.com/wp-content/uploads/2023/02/Logo-CatamarcaRTV.png" group-title="🇦🇷 Argentina 🇦🇷",Catamarca ()
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/wm_EPUAXa6uypkGoDL0DP4clmdtjUDQJEiAoEiLkgyZTumqO4f36pT-RD-kDprVSnlLpT12agQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Chaco ()
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="🇦🇷 Argentina 🇦🇷",Chacra ()
+https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇦🇷 Argentina 🇦🇷",Ciudad Magica ()
+https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇦🇷 Argentina 🇦🇷", ()
@@ -1335,6 +1350,9 @@ https://vmvpd.short.gy/ВТ/ХуанДевятнадцать
 https://vmvpd.short.gy/Объем
 
 #EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://www.southparkshop.com/cdn/shop/files/all-over-print-backpack-white-front-68825cf548a71.jpg?v=1753374444" group-title="Película",South Park
+https://www.mediafire.com/file/wps7musik122fk1/Sobre_Cargado.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fe/c4/50/fec4501a211cf49b0c7bdec295179a23.jpg" group-title="Película",Shrek (2001)
 
