@@ -1135,6 +1135,36 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/KW4oJwXea_fc-DtVmMGfQrGMp51qy9TqMT9jmuQ93QXf5JgLoU4LrFpR00LuRXPcQks6zHblc8w=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Resistencia (1280x720) Canal 9
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal12web.com/wp-content/uploads/2026/06/Logo-Canal-12-OK-200px.png" group-title="🇦🇷 Argentina 🇦🇷",Web () Canal 12
+https://nd106.republicaservers.com:4433/c7827.mp4
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/YyU4kqh-ghEAgWung_Wcw2pfpZ3jCcDscPSdntYfzSfSQDeTuRsVwKegK59AvUrLIX7oLZy91Q=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Web () Canal 12
+https://nd106.republicaservers.com/hls/c7827/1_2/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mBkMOqEq3cZggQQhA1Q43pzSCyWrH0Rci860y56yvjFBU=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",La Rioja () Canal 13
+http://arcast.net:1935/mp/mp/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/cPq0w98cwm7W1R_DAW7NT3iaccjT0AJSUlZr_Zwk_PuWCufNqDLmobKvXdwf9VhlX0i6yi2zpA=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",San Luis () Canal 13
+https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal22web.com/wp-content/uploads/2024/05/LOGO-CANAL-REBORDE-BLANCO-1.2.png" group-title="🇦🇷 Argentina 🇦🇷",Web () Canal 22
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/AXfRjrq_qOO7EAtYzgj-i7ityi400ky6H-OG0JWBYbhjkGY_UK9UN7N5tUWl15myvRjwnDf8MhXWzb_u7wf9dQ=w240-h480-rw" group-title="🇦🇷 Argentina 🇦🇷",TeleCentro () Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal50.tv/public/images/Boton_EnVivo1_1.png" group-title="🇦🇷 Argentina 🇦🇷",Morteros () Canal 50
+https://online.coopmorteros.coop/canal50/vivo.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRY5MeaAe4v1ZXg5wYY9u--1lWSwZcux0w8yWJhGA6gtE=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Mar de la Plata () Canal 79
+https://streamconex.com:2000/hls/mardelplata/mardelplata.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/-xH1pJyFmtYv0Xzmv5tUInAG0yrSXGbHo8uuvy9T3j8mFH3swdoKFJ8WCOSo096wMJVFVVwi9Q=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Santa Clara () Canal 79
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://radiocardinal.com.ar/wp-content/uploads/2024/12/logocardinal.jpeg.jpg" group-title="🇦🇷 Argentina 🇦🇷",Miramar de Ansenuza () Canal 99
+https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+
+
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️ВДо✅"                  tvg-logo="https://tvg-logo.short.gy/ВанкаДвадцатьодин" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Wanka 21 (1280x720) HuancaYork
