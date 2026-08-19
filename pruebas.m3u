@@ -1059,7 +1059,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://azaharesfm.com.ar/wp-content/uploads/2025/02/FB_IMG_1643768075729.jpg" group-title="🇦🇷 Argentina 🇦🇷",Azahares Radio Multimedia (1280x720)
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mC_C9vK7jAR-bKfTMMvhQKOo1OUygYMOBoTXpR-MPWuQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷", (854x480)
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mC_C9vK7jAR-bKfTMMvhQKOo1OUygYMOBoTXpR-MPWuQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Radio Bestia (854x480)
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/GXLJMoKhmw23i7gC6U7QlfOhYpnJ-ssKASKyQqpJ3yeQf6RxOMEImuTtT29sFQ7qSa_zKpNgdQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Bragado (1280x720)
@@ -1100,6 +1100,22 @@ https://intelincloud01.com.ar/hls/cn3/index.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal3tacural.com.ar/wp-content/uploads/2023/05/cropped-logo_canal3tacural.jpg" group-title="🇦🇷 Argentina 🇦🇷",Tacural () Canal 3
 http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2025/05/logo-canal-2.png" group-title="🇦🇷 Argentina 🇦🇷",Esquel () Canal 4 
+https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/canalcuatro-logo-light-217x48.png" group-title="🇦🇷 Argentina 🇦🇷",Jujuy () Canal 4
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/r71ovcKEm4PP85dQXp8DUJl8PRdnrm_qCi-W_8E8tmo-XsWf2Tuwtu8fhONFoOaQYOpJdQQh=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Jujuy () Canal 4
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live7/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2026/04/logo-pag-22.png" group-title="🇦🇷 Argentina 🇦🇷",Posadas () Canal 4
+https://iptv.ixfo.com.ar:30443/live-HD/C4POS/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal4sanjuan.com.ar/wp-content/uploads/2026/03/cropped-canal425anos.jpg" group-title="🇦🇷 Argentina 🇦🇷",San Juan () Canal 4
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/s45--XbUhkBZe99mp1IEJ8BsH2yVAg8wlrB21kcmrZsa0r3FdWcWt3KNFuRbGJYYYymlhYNbww=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Villa Dolores () Canal 4
+https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
