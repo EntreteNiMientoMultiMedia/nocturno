@@ -1193,6 +1193,23 @@ https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://www.southparkshop.com/cdn/shop/files/all-over-print-backpack-white-front-68825cf548a71.jpg?v=1753374444" group-title="Película",South Park
+https://www.mediafire.com/file/wps7musik122fk1/Sobre_Cargado.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fe/c4/50/fec4501a211cf49b0c7bdec295179a23.jpg" group-title="Película",Shrek (2001)
+https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%20%282001%29.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE2ODE0ZTAtYzAyNC00OWY2LWIyMWYtZDljZWYyNWYzNmY2XkEyXkFqcGc@._V1_.jpg" group-title="Película",Shrek 2 (2004)
+https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%202%20%282004%29.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2QzFdR6o7vNhiGH2YCj5vbmC5qDeW84sXbQ&s" group-title="Película",Shrek Tercero (2007)
+https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%20Tercero%20%282007%29.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/s/h/r/shrek-felices-para-siempre-poster-151833_SPA-60_V.jpg" group-title="Película",Shrek felices para siempre (2010)
+https://ia601400.us.archive.org/5/items/shrek-tercero-2007/Shrek%2C%20felices%20para%20siempre%20%282010%29.mp4
+
+#EXTINF===================================================================================================================================================================================================================================================================================================================
+
 #EXTINF:    Iskhodnyy="✔️ВДо✅"                  tvg-logo="https://tvg-logo.short.gy/ВанкаДвадцатьодин" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Wanka 21 (1280x720) HuancaYork
 https://vmvpd.short.gy/ВанкаДвадцатьодин
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://tvg-logo.short.gy/Т3Б2/ВанкаДвадцатьодин" group-title="🇵🇪 Regional DesCentralizado 🌄📡",Wanka 21 (1280x720) HuancaYork
@@ -1348,27 +1365,6 @@ https://vmvpd.short.gy/ВТ/ХуанДевятнадцать
 
 #EXTINF:    Iskhodnyy="✔️Объем✅"                  tvg-logo="https://tvg-logo.short.gy/Объем" group-title="🕊️ Religion y Fe 🙏🏼",Alcance (1280x720)
 https://vmvpd.short.gy/Объем
-
-#EXTINF=====================================================================================================================================================================================================
-
-#EXTINF:-1 tvg-logo="https://www.southparkshop.com/cdn/shop/files/all-over-print-backpack-white-front-68825cf548a71.jpg?v=1753374444" group-title="Película",South Park
-https://www.mediafire.com/file/wps7musik122fk1/Sobre_Cargado.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fe/c4/50/fec4501a211cf49b0c7bdec295179a23.jpg" group-title="Película",Shrek (2001)
-
-https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%20%282001%29.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE2ODE0ZTAtYzAyNC00OWY2LWIyMWYtZDljZWYyNWYzNmY2XkEyXkFqcGc@._V1_.jpg" group-title="Película",Shrek 2 (2004)
-
-https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%202%20%282004%29.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2QzFdR6o7vNhiGH2YCj5vbmC5qDeW84sXbQ&s" group-title="Película",Shrek Tercero (2007)
-
-https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%20Tercero%20%282007%29.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/s/h/r/shrek-felices-para-siempre-poster-151833_SPA-60_V.jpg" group-title="Película",Shrek felices para siempre (2010)
-
-https://ia601400.us.archive.org/5/items/shrek-tercero-2007/Shrek%2C%20felices%20para%20siempre%20%282010%29.mp4
 
 #EXTINF=====================================================================================================================================================================================================
 
