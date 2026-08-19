@@ -1071,50 +1071,47 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://bahiavision.com.ar/wp-content/uploads/2024/01/bvc-logo.png#95" group-title="🇦🇷 Argentina 🇦🇷",Bahia Vision Color (850x480)
 https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox2.png" group-title="🇦🇷 Argentina 🇦🇷",Cable Imagen Armstrong ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox2.png" group-title="🇦🇷 Argentina 🇦🇷",Cable Imagen Armstrong (1280x720)
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.cadena103.com.ar/wp-content/uploads/2017/07/Logo02-3.png" group-title="🇦🇷 Argentina 🇦🇷",Cadena 103 ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.cadena103.com.ar/wp-content/uploads/2017/07/Logo02-3.png" group-title="🇦🇷 Argentina 🇦🇷",Cadena 103 (1280x720)
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/RkjIuCskfUzr4PFSjEE3I54CX074c1Z5EUuBe1ij8uhYrYWyfFC8-xh3rJutiU_0eCWxxkS0JA=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Cadena 103 ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/RkjIuCskfUzr4PFSjEE3I54CX074c1Z5EUuBe1ij8uhYrYWyfFC8-xh3rJutiU_0eCWxxkS0JA=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Cadena 103 (1280x720)
 https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal2gualeguay.com.ar/wp-content/uploads/2020/08/logoc2gualeguay-x2.png" group-title="🇦🇷 Argentina 🇦🇷",Gualeguay () Canal 2
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal2gualeguay.com.ar/wp-content/uploads/2020/08/logoc2gualeguay-x2.png" group-title="🇦🇷 Argentina 🇦🇷",Gualeguay (1920x1080) Canal 2
 https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.canal2misiones.com.ar/img/canal2-header-1100X200.jpg" group-title="🇦🇷 Argentina 🇦🇷",Misiones () Canal 2
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.canal2misiones.com.ar/img/canal2-header-1100X200.jpg" group-title="🇦🇷 Argentina 🇦🇷",Misiones (1920x1080) Canal 2
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/QeRCOEyvmCJblbb4Rp7f28cU-UiGpOxpIXs_94tJRcijg7HbiT8HRohFarQ_MbOTqXn0QIs3=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Next Rafaela () Canal 2
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/QeRCOEyvmCJblbb4Rp7f28cU-UiGpOxpIXs_94tJRcijg7HbiT8HRohFarQ_MbOTqXn0QIs3=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Next Rafaela (1920x1080) Canal 2
 https://edge.enhdtv.com/nexthd/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m5fQeipXi3af-KhfNxyeCLFtKZhZpoa7v1eo7GQOTdSOI=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",AgenForMosa () Canal 3
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m5fQeipXi3af-KhfNxyeCLFtKZhZpoa7v1eo7GQOTdSOI=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",AgenForMosa (854x480) Canal 3
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/kqpNu0gfn57w9ydDnPsspPAIkgD0gD_WzEhm_WEac7KBF32H3R7QwPmKk9YY8i1lWgoJ1zkopQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Televisión Pública Pampeana () Canal 3
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/kqpNu0gfn57w9ydDnPsspPAIkgD0gD_WzEhm_WEac7KBF32H3R7QwPmKk9YY8i1lWgoJ1zkopQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Televisión Pública Pampeana (1280x720) Canal 3
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.canal3pinamar.com/webapp/imagenes/cn3.png" group-title="🇦🇷 Argentina 🇦🇷",Annapurna PipaMar () Canal 3
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.canal3pinamar.com/webapp/imagenes/cn3.png" group-title="🇦🇷 Argentina 🇦🇷",Annapurna PipaMar (1280x720) Canal 3
 https://intelincloud01.com.ar/hls/cn3/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal3tacural.com.ar/wp-content/uploads/2023/05/cropped-logo_canal3tacural.jpg" group-title="🇦🇷 Argentina 🇦🇷",Tacural () Canal 3
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal3tacural.com.ar/wp-content/uploads/2023/05/cropped-logo_canal3tacural.jpg" group-title="🇦🇷 Argentina 🇦🇷",Tacural (1280x720) Canal 3
 http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2025/05/logo-canal-2.png" group-title="🇦🇷 Argentina 🇦🇷",Esquel () Canal 4 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2025/05/logo-canal-2.png" group-title="🇦🇷 Argentina 🇦🇷",Esquel (1280x720) Canal 4 
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/canalcuatro-logo-light-217x48.png" group-title="🇦🇷 Argentina 🇦🇷",Jujuy () Canal 4
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/canalcuatro-logo-light-217x48.png" group-title="🇦🇷 Argentina 🇦🇷",Jujuy (1280x720) Canal 4
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/r71ovcKEm4PP85dQXp8DUJl8PRdnrm_qCi-W_8E8tmo-XsWf2Tuwtu8fhONFoOaQYOpJdQQh=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Jujuy () Canal 4
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/r71ovcKEm4PP85dQXp8DUJl8PRdnrm_qCi-W_8E8tmo-XsWf2Tuwtu8fhONFoOaQYOpJdQQh=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Jujuy (1280x720) Canal 4
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live7/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2026/04/logo-pag-22.png" group-title="🇦🇷 Argentina 🇦🇷",Posadas () Canal 4
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2026/04/logo-pag-22.png" group-title="🇦🇷 Argentina 🇦🇷",Posadas 1280x720() Canal 4
 https://iptv.ixfo.com.ar:30443/live-HD/C4POS/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal4sanjuan.com.ar/wp-content/uploads/2026/03/cropped-canal425anos.jpg" group-title="🇦🇷 Argentina 🇦🇷",San Juan () Canal 4
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/s45--XbUhkBZe99mp1IEJ8BsH2yVAg8wlrB21kcmrZsa0r3FdWcWt3KNFuRbGJYYYymlhYNbww=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Villa Dolores () Canal 4
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/s45--XbUhkBZe99mp1IEJ8BsH2yVAg8wlrB21kcmrZsa0r3FdWcWt3KNFuRbGJYYYymlhYNbww=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Villa Dolores (854x480) Canal 4
 https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
