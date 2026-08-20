@@ -1025,6 +1025,8 @@ https://serenotv.com/
 https://www.chiletvapp.com/
 https://arp.cns.pe/
 
+https://tvomix.com/
+
 https://globoview.cam/categorias/
 https://teleonline.org/
 https://www.tdtchannels.com/catalogo/television/
@@ -1201,8 +1203,29 @@ https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://cumbiamix.com/Logos/Cumbiamix.png" group-title="🇦🇷 Argentina 🇦🇷",Siente el Ritmo () Cumbia Mix
-https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://lumiere-a.akamaihd.net/v1/images/about-dj_91ae8bf8.png?region=0,0,600,336" group-title="🇦🇷 Argentina 🇦🇷",Disney Junior () Zona Sur
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_W7HXpQEYWXITAV7pYntsHnia-0AYn_qiIAQp48_i3w=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷", ()
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/Wl5VfyDuB_GWbJMmlQrUZNxbeqg5KMABhiV_a2sEJA1ig5NZQy4SX0VE2RjmIcB29nhxH-tS=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Folcloreando ()
+https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/VRbBwrn1T7X5a-FG8-mqOZkbTjF_-o3ZggkmiapKaiihtox2Ck7zMYg2zL7M_WJH5U9Qab-m=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Zorro Deportes ()
+https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.iteltv.com.ar/public/img/iconos/itel%20Tv%20logo.png" group-title="🇦🇷 Argentina 🇦🇷",Itel () Canal 2
+https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/OE7VpnK6DlX5KfLy8A7QnL3sORXwGS3sHXMlsYjQlM_Ft46ghTw1Eki0m6kA9Ha78FaG45CY0A=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",La 100 ()
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/RYqcGtiLArhQpJ9eQsTR66YCVVBctQFCm05yh-i-p7rfc420pO2dovJoa442L15iEeJqQvKhft0=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Lamil35 ()
+https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/_HVpT8u6iWhd4M4ZoEr2DpgRnzLw5dFhPSOWUxotz3UY59fcvlufbIajvVzIMbrwPF-npWmP=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Más FM 95.9 ()
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
