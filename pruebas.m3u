@@ -1219,8 +1219,28 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/RYqcGtiLArhQpJ9eQsTR66YCVVBctQFCm05yh-i-p7rfc420pO2dovJoa442L15iEeJqQvKhft0=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Lamil35 (1280x720)
 https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/_HVpT8u6iWhd4M4ZoEr2DpgRnzLw5dFhPSOWUxotz3UY59fcvlufbIajvVzIMbrwPF-npWmP=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Más FM 95.9 (1920x1080)
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/_HVpT8u6iWhd4M4ZoEr2DpgRnzLw5dFhPSOWUxotz3UY59fcvlufbIajvVzIMbrwPF-npWmP=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Mas FM 95.9 (1920x1080)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/WLb6jGaP9US93BrR7Avg08tX11SWlBBgMba3457pD3ZD3My3FTLU71sryd8tWeqZ3JQ24DON=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Metro ()
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2024/07/Logo-Neo-Tv-PNG-alta-calidad.png" group-title="🇦🇷 Argentina 🇦🇷",Neo ()
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.ngfederal.ar/images/new-logo2.png" group-title="🇦🇷 Argentina 🇦🇷",Norte Grande Federal ()
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/8-RmJNFvF43SLpwTUHFU1hihk-4oZqcEDQ50Jz41vFEzENn4lSg_Aepu_cMQJMoeuCMrSnyipA=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Norte Grande Federal ()
+https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/URQtp1hyiPiJ4LvUmMURM-J4DCE1lpkXTmuPEryekqWjKMiZtDUijYdM-iltIkvQsv79OMCqEQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Potencia Maxima Radio ()
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="🇦🇷 Argentina 🇦🇷",Poder ()
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/Kl4EnZvliyOrq-IP9Sdd-5J48lCB6VW7dk91MW5UKRPjNGs5Cw3nfTleKdUul4luGjxxzhtv9LQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 Argentina 🇦🇷",Quantica ()
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
