@@ -581,10 +581,16 @@ https://jmp2.uk/stvp-ES3000288I
 #EXTINF:    Iskhodnyy="✔️АМ✅"              tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCRyIeb5IY-BbZf4GL-ljuAxXmg2Y8Mttf5ZlEauL6LL1ainsD_Ly8-atcCtLZQAghALzHpJmRfDdY6pGjGxyLkbCWqmPlxqvyxuGK9EBdAz8nvJ41GDIB7ijVrgBj99pbuIvhA48c7eqncuN21Boz6_qkdhgER098nZkyp41u-LggItFxnv5Cit6U9Lg/s800/max-anime.jpg" group-title="🎌 Anime 👀",Anime Maximo (1920x1080) Max Anime
 https://cdnlive.klicgo.net/maxanime/live/chunklist_w1586344826_DVR.m3u8
 
-#EXTINF:    Iskhodnyy="✔️AS✅"                  tvg-logo="https://scontent.flim28-1.fna.fbcdn.net/v/t39.30808-6/305651445_459742029532787_5251624699839533330_n.jpg?stp=dst-jpg_tt6&cstp=mx2046x2046&ctp=s2046x2046&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rFVfl4_dv-kQ7kNvwGdLvDS&_nc_oc=Adpbv-K3B7IX7VaO1G0QF0EIv4TpgN4oVvtJK20J3hD2yYZuttPcTKHTi7U_RgaO-ic&_nc_zt=23&_nc_ht=scontent.flim28-1.fna&_nc_gid=mAjdWwE5Q1S8hAlS6fxxMA&_nc_ss=7b289&oh=00_AQH1vWl5ItbygDoVcw0oXjpLOJBG2C_QafMVPACh02j-MQ&oe=6A832748" group-title="🎌 Anime 👀",Anime Estacion (1280x720)
+#EXTINF:    Iskhodnyy="✔️AS✅"                  tvg-logo="https://s3-media0.fl.yelpcdn.com/bphoto/0D8hoiTFqM8LFApSka_y1g/348s.jpg" group-title="🎌 Anime 👀",Anime Estacion (1280x720)
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️АнимеX✅"              tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/304985929_207370408297696_8449256898233177886_n.png?stp=dst-png&cstp=mx1920x1080&ctp=s1920x1080&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=LTmDZ6AItBQQ7kNvwGvDkw4&_nc_oc=Adrm4t-zeGFmxZ4ep4NcGxxbQCpJy6DwRgcti83-XMJOQmfOUtcflFejBnWXq81Uebo&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&_nc_gid=DV3n4D_q_63w7MBauiJ5Zg&_nc_ss=7b289&oh=00_AQFiBN6qOXyXoLB4OS5kyzes4nByoXsbyaeFcIM4DxzpCA&oe=6A83D160" group-title="🎌 Anime 👀",Anime X (854x480)
+#EXTINF:    Iskhodnyy="✔️AS✅"                  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAFkd3OxJ-jeli-4NEuY9SeE4zbLSrUx8n_PiqGXQ5HB670SyLcTTFeu4&s=10" group-title="🎌 Anime 👀",Anime Estacion (1280x720)
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️AS✅"                  tvg-logo="https://static.wixstatic.com/media/302bec_3b299d72127146b1ac2f4b2881ca4423~mv2.jpg/v1/fill/w_247,h_165,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC_8860_JPG.jpg" group-title="🎌 Anime 👀",Anime Estacion (1280x720)
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️АнимеX✅"              tvg-logo="" group-title="🎌 Anime 👀",Anime X (854x480)
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Зюн✅"              tvg-logo="https://pbs.twimg.com/profile_images/1914751025598128128/GUSnkM_M.jpg" group-title="🎌 Anime 👀",Zyoon (1280x720)
@@ -794,9 +800,6 @@ https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w18909381
 
 #EXTINF:    Iskhodnyy="✔️АМ✅"                  tvg-logo="https://yt3.googleusercontent.com/OKgYTAsf-t8jCbaeMo6JzCXQLeiSDe9VJvt0r-hlNPDMciGIdusMnPZClIl0UO3zPm4iJ0VXig=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",A Muscica 🇳🇬 (854x480)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️ТГ✅"                  tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/481070845_1182167547247256_2502655948055035316_n.jpg?stp=dst-jpg_tt6&cstp=mx1063x267&ctp=s1063x267&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=zVA6mwHxWnkQ7kNvwHtFchK&_nc_oc=AdpTt9nKxC2aMeqOwXzP97oDMhYyJzkP4ect8aGsO4xpORc-xzFLOunf_SGZlgI5xhk&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&_nc_gid=TbbBbu81qH-RIaV6iX8RXg&_nc_ss=7b289&oh=00_AQGO6R0nEzfXvq0BWznCz-7E7l82cXRcZonzveLuk0wJgw&oe=6A843391" group-title="🎧 Melodiya 🌍🔊",Ritmo Solido 🇳🇬 (1920x1080)
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/503e2ec8-88fb-40e0-ad50-a80f51fce84a/2.m3u8
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
