@@ -1039,6 +1039,33 @@ https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/chunks.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/23/23/1769187431426/c057def7db7b_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Yungay () Jiron Miguel Grau
+https://live-evg5.tv360.bitel.com.pe/bitel/yungaytvSRT/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Солнечная✅"                  tvg-logo="https://corporacionsolar.com.pe/assets/img/solar-tv-logo.png" group-title="🏔️ Corazon de los Andes 🦙",Solar () Av. Seoane 377
+https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644709204/c6a30a3cbd07_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Solar () Av. Prado Alto 603
+https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/19/03/1787083887400/32d57e36f928_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Cuba () Carmen Alto
+https://live-evg8.tv360.bitel.com.pe/bitel/Ayacanal/chunks.m3u8
+
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙", () 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙", () 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙", () 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙", () 
+
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🌳 De la Selva su Encanto 🦜", () 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🌳 De la Selva su Encanto 🦜", () 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🌳 De la Selva su Encanto 🦜", () 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🌳 De la Selva su Encanto 🦜", () 
+
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static.wixstatic.com/media/0365c0_c2c3f8a5a4334548bfdd9e24e9bb4fc7~mv2.png/v1/fill/w_188,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%20CANAL_edited_edited.png" group-title="🇵🇾 Paraguay 🇵🇾",AGR 101.3 (1280x720) Canal 7
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 
