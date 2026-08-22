@@ -1433,7 +1433,15 @@ https://rds3gen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://uniradiopy.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-18-at-15.14.30.jpeg" group-title="🇵🇾 Paraguay 🇵🇾",UniRadio Estacion 7 ()  - 104.7 FM
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/Jyik_llw_SEZWKp7TaEEvwyBekGReWzlf-XC9Q26V2FcI3oHVBGyNJ4Lt4heUttgdPUUg0Fi5P8ZsmgHCjyK=w240-h480-rw" group-title="🇵🇾 Paraguay 🇵🇾",Villa Elisa ()
+https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="🇵🇾 Paraguay 🇵🇾",Venus Media ()
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZWMwLdm_Ag4eNCbhhowHXvSupNE-bCpsLWmZte1tLLq8=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇾 Paraguay 🇵🇾",Venus Media ()
+https://copaco.desdeparaguay.net/venusmedia/venusmedia_alt/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://pbs.twimg.com/profile_images/2053835972467367936/cDHyl_VX.jpg" group-title="🇵🇾 Paraguay 🇵🇾",Venus Media ()
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DVENUS_stream_o3&_cdn_session=4165915803&_cdn_token=55d407205def2f242f08b553e18f5f7d1a07cd6b
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
