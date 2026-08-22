@@ -1407,6 +1407,34 @@ https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://ss-static-01.esmsv.com/id/115480/galeriaimagenes/obtenerimagen/?width=115&height=64&id=sitio_logo&ultimaModificacion=2026-08-21+23%3A36%3A22" group-title="🇵🇾 Paraguay 🇵🇾",Red Interior (1280x720)
 https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/46YfvP8lSxLQVDdDR5DNJAQA3I2CIhcoB-ySOr3i4tI8vf0BHz_dOGRjaUh3zld8vXlujs_2oQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇾 Paraguay 🇵🇾",Regional Yaguaron () Canal 12
+https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static.wixstatic.com/media/0365c0_899f93b4209e49498c3cd8e72b083aac~mv2.png/v1/fill/w_242,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0365c0_899f93b4209e49498c3cd8e72b083aac~mv2.png" group-title="🇵🇾 Paraguay 🇵🇾",Republica Radio 101.3 FM () Canal 29
+https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://alba-py-snt.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-1-150x68.png" group-title="🇵🇾 Paraguay 🇵🇾",Sistema Nacional de Television () Cerro Cora
+https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/TvusI5A1N-Si4QRaZoFnUJx1VtDgJ9FrkzQBZCV3yhrl9UTyctgSYq2eXv7nLndV9EDNZ060_w=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇾 Paraguay 🇵🇾",Suceso ()
+https://live.enhdtv.com:8081/8060/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.grupovierci.com/wp-content/uploads/2023/05/TELEFUTURO_W.png" group-title="🇵🇾 Paraguay 🇵🇾",TeleFuturo ()
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/3CZhRbmLKFVwqCZ3TGQYHpboXRKjs-KJGEKnmVcmVKR9fy33tmSw_NBl8DtKZ-097jEaqIrawqt3hHKSXfltoo0=w240-h480-rw" group-title="🇵🇾 Paraguay 🇵🇾",Aire ()
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://uniontv.com.py/wp-content/uploads/2023/03/logo_retina-01.png" group-title="🇵🇾 Paraguay 🇵🇾",Union ()
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/m--zDQrW_oIIJF-ErQ5NntJr4A0UsFSUm1Ffi2CAXeFvB20Lk9q6qUT9dloBIzRgajhopVFiKg=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇾 Paraguay 🇵🇾",Union ()
+https://rds3gen.desdeparaguay.net/800tv/800tv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://uniradiopy.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-18-at-15.14.30.jpeg" group-title="🇵🇾 Paraguay 🇵🇾",UniRadio Estacion 7 ()  - 104.7 FM
+https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
+
+
+
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇵🇾 Paraguay 🇵🇾", ()
