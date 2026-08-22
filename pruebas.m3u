@@ -680,11 +680,6 @@ https://tigocloudgen.desdeparaguay.net/productivatv/productivatv_alta/playlist.m
 #EXTINF:    Iskhodnyy="✔️Продуктивный✅"                  tvg-logo="https://yt3.googleusercontent.com/F-Jg00o135I8WgDtp45fs0Mkv_ysMpx4_pm8fWUkk2ZnZ78u4hV4vOgnEN-XyllnZTnIaatQHQ=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Productiva 🇵🇾 (1280x720)
 https://copacoradios.desdeparaguay.net/productivatv/productivatv_alta/playlist.m3u8?admin=nacion
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static.wixstatic.com/media/0365c0_9b7d28cea2184ac0bcad4afa684e7260~mv2.png/v1/fill/w_278,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0365c0_9b7d28cea2184ac0bcad4afa684e7260~mv2.png" group-title="🇵🇾 Paraguay 🇵🇾",Cosmos (1920x1080)
-https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-#EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://yt3.googleusercontent.com/ZPN7l9oatmeZXkcGa3kK6rD5T7gh5awtXqVMHbcSnCs2lTqsf4rypEXeK9cuvNigL3cArUqMHQ=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Cosmos 🇵🇾 (1920x1080)
-https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-
 #EXTINF:    Iskhodnyy="✔️КИ✅"                  tvg-logo="https://yt3.googleusercontent.com/9f7GMoKtTlfsGcvZYcqP1HGtYQnhiK6aVkD3x2merssw1_pOL2Qc21jMn4BcKSUNINCV34LFQw=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Canal E 🇦🇷 (1920x1080)
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
@@ -1064,6 +1059,9 @@ https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static.wixstatic.com/media/f103ae_b5983cdb5c5549599dfaf8f40ad55b54~mv2.png/v1/crop/x_23,y_324,w_964,h_339/fill/w_152,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/VISION%20TV.png" group-title="🇵🇾 Paraguay 🇵🇾",Vision (1280x720) Canal 8
 https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static.wixstatic.com/media/0365c0_9b7d28cea2184ac0bcad4afa684e7260~mv2.png/v1/fill/w_278,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0365c0_9b7d28cea2184ac0bcad4afa684e7260~mv2.png" group-title="🇵🇾 Paraguay 🇵🇾",Cosmos (1920x1080)
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://tvonline.com.py/tv/img/delreytv.png" group-title="🇵🇾 Paraguay 🇵🇾",Del Rey (1280x720)
 https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
