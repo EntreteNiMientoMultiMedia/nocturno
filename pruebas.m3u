@@ -906,6 +906,12 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATELE/40-hls/live-media.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645029340/3879825b6e20_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",La Tele (10240x576)
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 
+#EXTINF:    Iskhodnyy="✔️КР✅"                  tvg-logo="https://i.ibb.co/5ZpmjN4/retroclub.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Club Retro (1280x720) XYZ
+https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Метро✅"                  tvg-logo="https://yt3.googleusercontent.com/WLb6jGaP9US93BrR7Avg08tX11SWlBBgMba3457pD3ZD3My3FTLU71sryd8tWeqZ3JQ24DON=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Metro (1280x720)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/1775081979482/ddba258dd964_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Voz Digital (1920x1080) Jr. Tacna 525 - La Perla
