@@ -1301,21 +1301,35 @@ https://gia.tv/
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static.wixstatic.com/media/0365c0_c2c3f8a5a4334548bfdd9e24e9bb4fc7~mv2.png/v1/fill/w_188,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%20CANAL_edited_edited.png" group-title="🇵🇾 Paraguay 🇵🇾",AGR 101.3 () Canal 7
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static.wixstatic.com/media/0365c0_c2c3f8a5a4334548bfdd9e24e9bb4fc7~mv2.png/v1/fill/w_188,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%20CANAL_edited_edited.png" group-title="🇵🇾 Paraguay 🇵🇾",AGR 101.3 (1280x720) Canal 7
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static.wixstatic.com/media/0365c0_c2c3f8a5a4334548bfdd9e24e9bb4fc7~mv2.png/v1/fill/w_188,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%20CANAL_edited_edited.png" group-title="🇵🇾 Paraguay 🇵🇾",AGR 101.3 () Canal 7
-https://rds3.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://alcance.com.py/_next/static/media/alcance-tv-logo.dc44471b.png" group-title="🇵🇾 Paraguay 🇵🇾",Alcance ()
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://alcance.com.py/_next/static/media/alcance-tv-logo.dc44471b.png" group-title="🇵🇾 Paraguay 🇵🇾",Alcance (1920x1080)
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://alt.com.py/static/images/logo-alt-menu.png" group-title="🇵🇾 Paraguay 🇵🇾",Alt. ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://alt.com.py/static/images/logo-alt-menu.png" group-title="🇵🇾 Paraguay 🇵🇾",Alt. (1920x1080)
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static.wixstatic.com/media/cea420_e17b8bda7832457eb802f6ae3367226b~mv2.png/v1/crop/x_0,y_0,w_3239,h_902/fill/w_124,h_34,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20BM%202026.png" group-title="🇵🇾 Paraguay 🇵🇾",Bruno Alfonso Masi Guggiari ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static.wixstatic.com/media/cea420_e17b8bda7832457eb802f6ae3367226b~mv2.png/v1/crop/x_0,y_0,w_3239,h_902/fill/w_124,h_34,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20BM%202026.png" group-title="🇵🇾 Paraguay 🇵🇾",Bruno Alfonso Masi Guggiari (1920x1080)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/_giPB-UdK-xn2yOtSahJ1iZnU4aPLVfoMsUV9KIxGuewGWQUG8-DV4wgkzaZ0h9YsrJPR8ziSQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="🇵🇾 Paraguay 🇵🇾",Bruno Alfonso Masi Guggiari ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/_giPB-UdK-xn2yOtSahJ1iZnU4aPLVfoMsUV9KIxGuewGWQUG8-DV4wgkzaZ0h9YsrJPR8ziSQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="🇵🇾 Paraguay 🇵🇾",Bruno Alfonso Masi Guggiari (1920x1080)
 https://video.hostingcaaguazu.com:19360/brunomasi/brunomasi.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://alba-py-c9n.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo.png" group-title="🇵🇾 Paraguay 🇵🇾",Canal 9 Noticias () C9N
+https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/ZS0NTHRHSJJ8av84kGysplJ---fiJ8UwkK-58Xcj_-wcyI-Ug0E4WuB67lCgcvuVvkWTQVB5D2YpV1LvNZ9M5g=w240-h480-rw" group-title="🇵🇾 Paraguay 🇵🇾",Concepción Al Día () CAD
+https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://tvmaxsa.com.py/wp-content/uploads/2025/10/LOGO-TVMAX-1-2048x1092.png" group-title="🇵🇾 Paraguay 🇵🇾",Max () Canal 5
+https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/rcPxlz4ctwHp0GtvoYooR1Lza_iudN6NpymoemYDGD1nCdoHW-98Chnm8ovTui2FkSHQOPE13O4=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇾 Paraguay 🇵🇾",Cesar Cano y Juan Carlos Cuenca () Canal 8
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static.wixstatic.com/media/f103ae_b5983cdb5c5549599dfaf8f40ad55b54~mv2.png/v1/crop/x_23,y_324,w_964,h_339/fill/w_152,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/VISION%20TV.png" group-title="🇵🇾 Paraguay 🇵🇾",Vision () Canal 8
+https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
 
