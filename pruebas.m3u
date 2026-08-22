@@ -1050,6 +1050,9 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641246753/bdec12e12a54_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Turbo Mix () Jr. Miguel Iglesias 483
 https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643550986/2c6fa63a32c9_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",TeveSur En Vivo () Av. de la Cultura 824 - Wanchaq
+https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT//playlist.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/31/06/1774913400221/5d8b80112466_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Estudio () Av. San Martin 302 - Huanta
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 
@@ -1066,11 +1069,21 @@ https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643388696/1c518fd9089a_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",3 Media () Huanta
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙", () Via Evitiamiento Sur 3635
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Jeque () Via Evitiamiento Sur 3635
 https://live-evg8.tv360.bitel.com.pe/bitel/jequetv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️КЗ✅"                  tvg-logo="https://inkavision.pe/wp-content/uploads/2025/11/Logoika.png" group-title="🏔️ Corazon de los Andes 🦙",Inka Vision () Wanchaq
+https://7.innovatestream.pe:19360/inkavision/inkavision.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2Finka.png&width=100" group-title="🏔️ Corazon de los Andes 🦙",Inka Vision () Wanchaq
+https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Inka_vision/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DInka_vision_stream_hw&_cdn_session=7134904435&_cdn_token=357b444648b27f742b188f211f23964f3ec5e9da
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647889228/7431097466e6_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Inka Vision () Wanchaq
+https://live-evg5.tv360.bitel.com.pe/bitel/inkavision/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/19/03/1787083887400/32d57e36f928_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Cuba () Carmen Alto
 https://live-evg8.tv360.bitel.com.pe/bitel/Ayacanal/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641331255/4b71507e26a5_480_270.jpg" group-title="🏔️ Corazon de los Andes 🦙",Compañia de TeleVision Cusqueña () Av. de la Cultura 3035 - Wanchaq
+https://live-evg7.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://www.cnccajamarca.com/wp-content/uploads/2021/06/LOGO-CNC-24-HORAS.png" group-title="🏔️ Corazon de los Andes 🦙",Canal de Noticias de Cajamarca () Jr. Juan Villanueva 324 - 06001
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
@@ -1091,7 +1104,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙", () 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙", () 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙", () 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙", () 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙", () 
@@ -1934,7 +1947,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/radiocorporacionpasco/chunks.m3u8?uid
 https://live-evg18.tv360.bitel.com.pe/bitel/cumbretv/chunks.m3u8
 
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",CTCv 🇻🇳 Cuzco 1920x1080p
-https://live-evg7.tv360.bitel.com.pe/bitel/ctc/chunks.m3u8?uid=12051151
+https://live-evg7.tv360.bitel.com.pe/bitel/ctc/chunks.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743172965/80e269c5da52_480_270.png" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",ExtremoTv 🇻🇳 Puno 1920x1080p
 https://live-evg18.tv360.bitel.com.pe/bitel/extremotv/chunks.m3u8
