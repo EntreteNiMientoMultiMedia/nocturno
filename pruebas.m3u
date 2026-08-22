@@ -1378,33 +1378,33 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/1b3d72b/2147483647/strip/true/resize/400x%5E/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2F82%2F0f4ad1784b01a07ceac4d5aba972%2Flogo-npy-2024.webp" group-title="🇵🇾 Paraguay 🇵🇾",Noticias Paraguay (1920x1080)
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/HsXP-jobXokaeTamga2cR5VWgRUblq3rAt7rtVVDPTAYi1gNxxuux9e51pxYPaxo72-16AyBXvyUQudUWgmu=w240-h480-rw" group-title="🇵🇾 Paraguay 🇵🇾",Oasis ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/HsXP-jobXokaeTamga2cR5VWgRUblq3rAt7rtVVDPTAYi1gNxxuux9e51pxYPaxo72-16AyBXvyUQudUWgmu=w240-h480-rw" group-title="🇵🇾 Paraguay 🇵🇾",Oasis (1280x720)
 https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.occidentaltv.com.py/wp-content/uploads/2022/07/cropped-WhatsApp_Image_2022-07-28_at_10.03.40_AM-removebg-preview-160x107.png" group-title="🇵🇾 Paraguay 🇵🇾",Occidental ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.occidentaltv.com.py/wp-content/uploads/2022/07/cropped-WhatsApp_Image_2022-07-28_at_10.03.40_AM-removebg-preview-160x107.png" group-title="🇵🇾 Paraguay 🇵🇾",Occidental (1092x614)
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://productiva.tv/wp-content/uploads/2022/02/ptv.png" group-title="🇵🇾 Paraguay 🇵🇾",Productiva ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://productiva.tv/wp-content/uploads/2022/02/ptv.png" group-title="🇵🇾 Paraguay 🇵🇾",Productiva (1280x720)
 https://tigocloudgen.desdeparaguay.net/productivatv/productivatv_alta/playlist.m3u8?admin=nacion
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/F-Jg00o135I8WgDtp45fs0Mkv_ysMpx4_pm8fWUkk2ZnZ78u4hV4vOgnEN-XyllnZTnIaatQHQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇾 Paraguay 🇵🇾",Productiva ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/F-Jg00o135I8WgDtp45fs0Mkv_ysMpx4_pm8fWUkk2ZnZ78u4hV4vOgnEN-XyllnZTnIaatQHQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇾 Paraguay 🇵🇾",Productiva (1280x720)
 https://copacoradios.desdeparaguay.net/productivatv/productivatv_alta/playlist.m3u8?admin=nacion
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://radiocolmenar.com.py/wp-content/uploads/2022/12/logo-radio-colmenar.jpg" group-title="🇵🇾 Paraguay 🇵🇾",Radio Colmenar () 92.5 FM
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://radiocolmenar.com.py/wp-content/uploads/2022/12/logo-radio-colmenar.jpg" group-title="🇵🇾 Paraguay 🇵🇾",Radio Colmenar (1280x720) 92.5 FM
 https://tvdatta.com:3041/live/colmenarlive.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.radioguaira.com/wp-content/uploads/2022/03/logo-radio-guaira.png" group-title="🇵🇾 Paraguay 🇵🇾",Radio Guaira () 840 AM
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.radioguaira.com/wp-content/uploads/2022/03/logo-radio-guaira.png" group-title="🇵🇾 Paraguay 🇵🇾",Radio Guaira (1280x720) 840 AM
 https://tvdatta.com:3991/live/guairatvlive.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/rIoDjC43izgT3Avgq07tfcybNLc-TBBHtTnLZB785tH8M1_zyBE48qrq1n1n-iHBEkLDw1WwzfqKYcFUbyOhxaQ=w240-h480-rw" group-title="🇵🇾 Paraguay 🇵🇾",Radio San Cristobal () 88.7 FM
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/rIoDjC43izgT3Avgq07tfcybNLc-TBBHtTnLZB785tH8M1_zyBE48qrq1n1n-iHBEkLDw1WwzfqKYcFUbyOhxaQ=w240-h480-rw" group-title="🇵🇾 Paraguay 🇵🇾",Radio San Cristobal (1092x614) 88.7 FM
 https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/vva9qNZGNiIRe9dPZ-xrblK68wwP5aPcmsydlnPUh_tGTYRNAHbJIHNYX7eQIBNa-L-udRW3BWPrQXgpauYINxU=w240-h480-rw" group-title="🇵🇾 Paraguay 🇵🇾",Roberto Benitez () 7 Radio 88.1 FM
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/vva9qNZGNiIRe9dPZ-xrblK68wwP5aPcmsydlnPUh_tGTYRNAHbJIHNYX7eQIBNa-L-udRW3BWPrQXgpauYINxU=w240-h480-rw" group-title="🇵🇾 Paraguay 🇵🇾",Roberto Benitez (1280x720) 7 Radio 88.1 FM
 https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://reddigitalsanpedro.com.py/wp-content/uploads/2024/05/LOGO-RED-DIGITAL-Mario-Luis-Ledezma-Acosta-e1766162089696.png" group-title="🇵🇾 Paraguay 🇵🇾",Red Digital () San Pedro
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://reddigitalsanpedro.com.py/wp-content/uploads/2024/05/LOGO-RED-DIGITAL-Mario-Luis-Ledezma-Acosta-e1766162089696.png" group-title="🇵🇾 Paraguay 🇵🇾",Red Digital (1920x1080) San Pedro
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://ss-static-01.esmsv.com/id/115480/galeriaimagenes/obtenerimagen/?width=115&height=64&id=sitio_logo&ultimaModificacion=2026-08-21+23%3A36%3A22" group-title="🇵🇾 Paraguay 🇵🇾",Red Interior ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://ss-static-01.esmsv.com/id/115480/galeriaimagenes/obtenerimagen/?width=115&height=64&id=sitio_logo&ultimaModificacion=2026-08-21+23%3A36%3A22" group-title="🇵🇾 Paraguay 🇵🇾",Red Interior (1280x720)
 https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
 
 #EXTINF===================================================================================================================================================================================================================================================================================================================
