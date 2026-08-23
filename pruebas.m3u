@@ -1076,6 +1076,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643550986/2c6fa63a32c9_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",TeveSur En Vivo () Av. de la Cultura 824 - Wanchaq
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT//playlist.m3u8
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643687275/1988094cceaf_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Estudio Pasco () Pasco
+https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/chunks.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/31/06/1774913400221/5d8b80112466_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Estudio () Av. San Martin 302 - Huanta
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 
@@ -1106,6 +1109,11 @@ https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 https://sc3.wasidata.com/Peruanisima14_1614/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/PERUANISIMA-TV-02.png" group-title="🏔️ Corazon de los Andes 🦙",Peruanisima () HuancaYork
 https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Родной✅"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Nativa () Prolongación Arenales nº 433
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Nativa () Prolongación Arenales nº 433
+https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643388696/1c518fd9089a_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",3 Media () Huanta
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
@@ -2055,7 +2063,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/rumba/chunks.m3u8?uid=12051151
 https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/chunks.m3u8
 
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",Studio PascoTv 🇻🇳 Pasco 1920x1080p
-https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/chunks.m3u8?uid=12051151
+https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/chunks.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763743006469/47515e9586b9_480_270.png" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",TeleCentro 🇻🇳 Huancavelica 1920x1080p
 https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/chunks.m3u8?uid=12051151
