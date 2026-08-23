@@ -1160,6 +1160,9 @@ https://rtmp.eliniktech.com/RadioImperial/tracks-v1a1/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Maxima () Huancavelica
 https://live-evg8.tv360.bitel.com.pe/bitel/maximatv/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648750885/42f22e0f704f_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",+ () Av. Daniel Alcides Carrion 304, San Juan - Yanacancha
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="✔️КХЗ✅"                  tvg-logo="https://yt3.ggpht.com/cdIZN_vB5voyFxd9ZC-haksGqxdrDszSfOcXTyKY2ymZU2FiL0-2kGZSrBZCsxIZyNKDx9ryow=s176-c-k-c0x00ffffff-no-rj-mo" group-title="🏔️ Corazon de los Andes 🦙",K Buena Onda () Av. Bolognesi 128 - Quillabamba
 https://7.innovatestream.pe:19360/kbo/kbo.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644684375/984a68668c30_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",K Buena Onda () Av. Bolognesi 128 - Quillabamba
@@ -2053,10 +2056,10 @@ https://live-evg18.tv360.bitel.com.pe/bitel/cnhSRT/chunks.m3u8
 https://live-evg18.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763741144205/d023be4cae33_480_270.png" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",CumbreTv 🇻🇳 Pasco 1920x1080p
-https://live-evg5.tv360.bitel.com.pe/bitel/radiocorporacionpasco/chunks.m3u8?uid=12051151
+https://live-evg18.tv360.bitel.com.pe/bitel/cumbretv/chunks.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763741837182/b363f65ccb06_480_270.png" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",CorporaciónTv 🇻🇳 Pasco 1920x1080p
-https://live-evg18.tv360.bitel.com.pe/bitel/cumbretv/chunks.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/radiocorporacionpasco/chunks.m3u8
 
 #EXTINF: tvg-logo="" group-title="De los Andes 🌋⛰️🏔️ para el mundo 🌎",CTCv 🇻🇳 Cuzco 1920x1080p
 https://live-evg7.tv360.bitel.com.pe/bitel/ctc/chunks.m3u8
