@@ -1056,10 +1056,17 @@ https://play.agenciastreaming.com:8081/tvwanka/tracks-v1a1/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641753537/4eae2dd8d3fa_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Wanka 21 () Jr. Sebastian Lorente 485 - El Tambo
 https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://radiourbana.com.pe/wp-content/uploads/2024/01/logo.png" group-title="🏔️ Corazon de los Andes 🦙",Urbana () Carretera Central Nº 685 - Caraz
+#EXTINF:    Iskhodnyy="✔️Городской✅"                  tvg-logo="https://radiourbana.com.pe/wp-content/uploads/2024/01/logo.png" group-title="🏔️ Corazon de los Andes 🦙",Urbana () Carretera Central Nº 685 - Caraz
 https://tv.sistemasandinos.org/urbanatv/tracks-v1a1/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/06/11/03/1781123350780/08429527171b_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Urbana () Carretera Central Nº 685 - Caraz
 https://live-evg13.tv360.bitel.com.pe/bitel/UrbanaTv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️УниТел✅"                  tvg-logo="https://unitelperu.pe/players/videoplayer/assets/logo.png" group-title="🏔️ Corazon de los Andes 🦙",UniTel () Jr. Libertad 1098 - 12003
+https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="✔️УниТел✅"                  tvg-logo="https://yt3.googleusercontent.com/CARKe8eIuYycJZ9DqRc5KilTMKE4PK114XCWIXp4dKtrObpxoGzQO-_yKt06sZO-3Sgoy7glKtA=s160-c-k-c0x00ffffff-no-rj" group-title="🏔️ Corazon de los Andes 🦙",UniTel () Jr. Libertad 1098 - 12003
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644582599/d9b88e3083bf_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",UniTel () Jr. Libertad 1098 - 12003
+https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ТС✅"                  tvg-logo="https://turbomix.com.pe/wp-content/uploads/2025/09/e79ceee7-8ce3-4d56-9f6f-04774e5631cb1.png" group-title="🏔️ Corazon de los Andes 🦙",Turbo Mix () Jr. Miguel Iglesias 483
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
@@ -1090,11 +1097,17 @@ https://7.innovatestream.pe:19360/planetajaen/planetajaen.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/177508224841/d6e7baef3669_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Planea () Av. Evitamiento 961 - Torres de la Molina - Sector Montegrande
 https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/PERUANISIMA-TV-02.png" group-title="🏔️ Corazon de los Andes 🦙",Peruanisima () HuancaYork
+https://sc3.wasidata.com/Peruanisima14_1614/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/PERUANISIMA-TV-02.png" group-title="🏔️ Corazon de los Andes 🦙",Peruanisima () HuancaYork
+https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643388696/1c518fd9089a_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",3 Media () Huanta
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Максима✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/PERUANISIMA-TV-02.png" group-title="🏔️ Corazon de los Andes 🦙",Maxima () Huancavelica
-https://sc3.wasidata.com/Peruanisima14_1614/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="✔️Максима✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/08/MAXIMA-TV-PARA-BITEL-TV-770x369.png" group-title="🏔️ Corazon de los Andes 🦙",Maxima () Huancavelica
+https://rtmp.eliniktech.com/RadioImperial/tracks-v1a1/index.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Maxima () Huancavelica
 https://live-evg8.tv360.bitel.com.pe/bitel/maximatv/playlist.m3u8
 
