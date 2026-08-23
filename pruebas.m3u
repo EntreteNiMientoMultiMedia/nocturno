@@ -1120,10 +1120,15 @@ https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641500666/9204c41b4241_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Nexxor () HuancaYork
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Родной✅"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Nativa () Prolongación Arenales nº 433
+#EXTINF:    Iskhodnyy="✔️Родной✅"                  tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2025/03/nativa-21-1.png" group-title="🏔️ Corazon de los Andes 🦙",Nativa () Jr. Junin 162A 3er Piso - La Merced
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Nativa () Prolongación Arenales nº 433
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648089119/2c3ae3f94a7d_480_270.jpg" group-title="🏔️ Corazon de los Andes 🦙",Nativa () Jr. Junin 162A 3er Piso - La Merced
 https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Мед✅"                  tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2025/03/miel-2.1.png" group-title="🏔️ Corazon de los Andes 🦙",Miel () Jr. Junin 162A 3er Piso - La Merced
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641975903/ead8f9206acf_480_270.jpg" group-title="🏔️ Corazon de los Andes 🦙",Miel () Jr. Junin 162A 3er Piso - La Merced
+https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT-TRA/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643388696/1c518fd9089a_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",3 Media () Huanta
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
