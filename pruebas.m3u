@@ -1205,6 +1205,11 @@ https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://atlantisradiotv.com/api/default.png" group-title="🏔️ Corazon de los Andes 🦙",Atlantis () Jr. Manco Capac 157 - 05001
 https://play.agenciastreaming.com:8081/atlantistv/tracks-v1a1/mono.m3u8
 
+#EXTINF:    Iskhodnyy="✔️АН✅"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Antena Sur () Juliaca
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Antena Sur () Juliaca
+https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/22/04/1769031636409/4435f403a5fa_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Anqara () Jiron Puno - Lircay 09405 - Angaraes
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 
@@ -1216,6 +1221,11 @@ https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645542166/d9fd730144fe_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",ABC TeleShow () Jr. Angel del Señor Mz "C" Lote 01 - Jesus Nazareno
 https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️A1✅"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",A Uno () Av. Los Andes 313
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",A Uno () Av. Los Andes 313
+https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
