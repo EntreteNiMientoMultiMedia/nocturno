@@ -1156,11 +1156,10 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Максима✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/08/MAXIMA-TV-PARA-BITEL-TV-770x369.png" group-title="🏔️ Corazon de los Andes 🦙",Maxima () Huancavelica
 https://rtmp.eliniktech.com/RadioImperial/tracks-v1a1/index.m3u8
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Maxima () Huancavelica
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/28/04/1779918924336/f2517197645e_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Maxima () Huancavelica
 https://live-evg8.tv360.bitel.com.pe/bitel/maximatv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648750885/42f22e0f704f_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",+ () Av. Daniel Alcides Carrion 304, San Juan - Yanacancha
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648750885/42f22e0f704f_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",+ () Av. Daniel Alcides Carrion 304 - San Juan Yanacancha
 https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️КХЗ✅"                  tvg-logo="https://yt3.ggpht.com/cdIZN_vB5voyFxd9ZC-haksGqxdrDszSfOcXTyKY2ymZU2FiL0-2kGZSrBZCsxIZyNKDx9ryow=s176-c-k-c0x00ffffff-no-rj-mo" group-title="🏔️ Corazon de los Andes 🦙",K Buena Onda () Av. Bolognesi 128 - Quillabamba
@@ -1205,9 +1204,9 @@ https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://atlantisradiotv.com/api/default.png" group-title="🏔️ Corazon de los Andes 🦙",Atlantis () Jr. Manco Capac 157 - 05001
 https://play.agenciastreaming.com:8081/atlantistv/tracks-v1a1/mono.m3u8
 
-#EXTINF:    Iskhodnyy="✔️АН✅"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Antena Sur () Juliaca
+#EXTINF:    Iskhodnyy="✔️АН✅"                  tvg-logo="https://yt3.googleusercontent.com/DomydNfklMMrt0B-By63MAaD-Dc4czrTga18vnyki0zSf0SJeeH_wV-DMJRqcE_OOWEWYqNXCA=s160-c-k-c0x00ffffff-no-rj" group-title="🏔️ Corazon de los Andes 🦙",Antena Sur () Juliaca
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Antena Sur () Juliaca
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/1767387023610/20768adaee63_480_270.jpg" group-title="🏔️ Corazon de los Andes 🦙",Antena Sur () Juliaca
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/22/04/1769031636409/4435f403a5fa_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Anqara () Jiron Puno - Lircay 09405 - Angaraes
@@ -1222,9 +1221,11 @@ https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645542166/d9fd730144fe_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",ABC TeleShow () Jr. Angel del Señor Mz "C" Lote 01 - Jesus Nazareno
 https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️A1✅"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",A Uno () Av. Los Andes 313
+#EXTINF:    Iskhodnyy="✔️A1✅"                  tvg-logo="https://canala1.com/wp-content/uploads/2023/10/logo-1-e1779759112111.png" group-title="🏔️ Corazon de los Andes 🦙",A Uno () Av. Los Andes 313
+https://tv.canala1.com:8081/web/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="✔️A1✅"                  tvg-logo="https://canala1.com/wp-content/uploads/2023/10/logo-1-e1779759112111.png" group-title="🏔️ Corazon de los Andes 🦙",A Uno () Av. Los Andes 313
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",A Uno () Av. Los Andes 313
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387756921/10e2cfffc29a_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",A Uno () Av. Los Andes 313
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
