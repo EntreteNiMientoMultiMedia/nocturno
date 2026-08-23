@@ -1051,6 +1051,11 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yolitvSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/176738796857/f7c7e931602f_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Wayra () Urb. Santa Rosa Mz. H Nº 228
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️Wanka21✅"                  tvg-logo="https://yt3.googleusercontent.com/kaGVZtdhf8hMPv2cTNyuh6V7vneQkivRF5YIXPI2PBRu-UMvNr0rjKaX2SrwGkTlwdBup3gJQA=s160-c-k-c0x00ffffff-no-rj" group-title="🏔️ Corazon de los Andes 🦙",Wanka 21 () Jr. Sebastian Lorente 485 - El Tambo
+https://play.agenciastreaming.com:8081/tvwanka/tracks-v1a1/index.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641753537/4eae2dd8d3fa_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Wanka 21 () Jr. Sebastian Lorente 485 - El Tambo
+https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://radiourbana.com.pe/wp-content/uploads/2024/01/logo.png" group-title="🏔️ Corazon de los Andes 🦙",Urbana () Carretera Central Nº 685 - Caraz
 https://tv.sistemasandinos.org/urbanatv/tracks-v1a1/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/06/11/03/1781123350780/08429527171b_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Urbana () Carretera Central Nº 685 - Caraz
@@ -1072,6 +1077,9 @@ https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistic
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644709204/c6a30a3cbd07_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Solar () Av. Prado Alto 603
 https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/27/05/1769467697980/bb62404c02ab_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Sabor Mix () Av. Ayacucho 127 - Pampas - Tayacaja
+https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://qosqotimes.pe/wp-content/uploads/2020/07/gRecurso-1qosqotimesfavicon.png" group-title="🏔️ Corazon de los Andes 🦙",Qosqo Tiempo () Urb. Los Sauces - Calle Tulipanes C11 - Wanchaq
 https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641543380/f106691c6004_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Qosqo Tiempo () Urb. Los Sauces - Calle Tulipanes C11 - Wanchaq
@@ -1085,12 +1093,17 @@ https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643388696/1c518fd9089a_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",3 Media () Huanta
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️Максима✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/PERUANISIMA-TV-02.png" group-title="🏔️ Corazon de los Andes 🦙",Maxima () Huancavelica
+https://sc3.wasidata.com/Peruanisima14_1614/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Maxima () Huancavelica
+https://live-evg8.tv360.bitel.com.pe/bitel/maximatv/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="✔️КХЗ✅"                  tvg-logo="https://yt3.ggpht.com/cdIZN_vB5voyFxd9ZC-haksGqxdrDszSfOcXTyKY2ymZU2FiL0-2kGZSrBZCsxIZyNKDx9ryow=s176-c-k-c0x00ffffff-no-rj-mo" group-title="🏔️ Corazon de los Andes 🦙",K Buena Onda () Av. Bolognesi 128 - Quillabamba
 https://7.innovatestream.pe:19360/kbo/kbo.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644684375/984a68668c30_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",K Buena Onda () Av. Bolognesi 128 - Quillabamba
 https://live-evg18.tv360.bitel.com.pe/bitel/kbo/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="" group-title="🏔️ Corazon de los Andes 🦙",Jeque () Via Evitiamiento Sur 3635
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/28/04/1779918924336/f2517197645e_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Jeque () Via Evitiamiento Sur 3635
 https://live-evg8.tv360.bitel.com.pe/bitel/jequetv/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️КЗ✅"                  tvg-logo="https://inkavision.pe/wp-content/uploads/2025/11/Logoika.png" group-title="🏔️ Corazon de los Andes 🦙",Inka Vision () Wanchaq
@@ -1099,6 +1112,11 @@ https://7.innovatestream.pe:19360/inkavision/inkavision.m3u8
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Inka_vision/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DInka_vision_stream_hw&_cdn_session=7134904435&_cdn_token=357b444648b27f742b188f211f23964f3ec5e9da
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647889228/7431097466e6_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Inka Vision () Wanchaq
 https://live-evg5.tv360.bitel.com.pe/bitel/inkavision/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Имперский✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/IMPETV.jpg" group-title="🏔️ Corazon de los Andes 🦙",Imperial () Huancavelica
+https://sc3.wasidata.com/Imperial14_2014/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/02/1767382481928/9660e3d9a2fd_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Imperial () Huancavelica
+https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/19/03/1787083887400/32d57e36f928_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Cuba () Carmen Alto
 https://live-evg8.tv360.bitel.com.pe/bitel/Ayacanal/playlist.m3u8
@@ -1116,6 +1134,9 @@ https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://atlantisradiotv.com/api/default.png" group-title="🏔️ Corazon de los Andes 🦙",Atlantis () Jr. Manco Capac 157 - 05001
 https://play.agenciastreaming.com:8081/atlantistv/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/22/04/1769031636409/4435f403a5fa_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Anqara () Jiron Puno - Lircay 09405 - Angaraes
+https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767642268652/e37c05c39ad8_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Andina Radio y TeleVision () Jose Carlos Mariategui 429 - Ayacucho 05001
 https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8
