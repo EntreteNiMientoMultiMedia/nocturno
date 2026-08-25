@@ -732,7 +732,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/PERUANISIMA-TV-02.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Peruanisima (1920X1080) HuancaYork
+#EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/PERUANISIMA-TV-02.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Peruanisima 🇵🇪 (1920X1080) HuancaYork
 https://sc3.wasidata.com/Peruanisima14_1614/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTopLatino_win.png&width=100" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Arriba Latino 🇵🇪 (1280x720)
@@ -747,27 +747,22 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3
 #EXTINF:    Iskhodnyy="✔️СвятойБорха✅"                  tvg-logo="https://radiosanborjatv.com/wp-content/uploads/2020/12/LOGO-RSB-TV.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Radio San Borja 🇵🇪 (1920x1080)
 https://stream.mediacorp.pe/srt/3/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Peruanisima (1280x720)
+#EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Peruanisima 🇵🇪 (1280x720)
 https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHTV.png&width=100" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Hispano 🇺🇸 (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHTV_stream_9c&_cdn_session=4154201099&_cdn_token=1df0a13365e195134c49d74422ea34137666c662
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FRumba_TV.png&width=100" group-title="🏔️ Corazon de los Andes 🦙",Rumba 🇨🇴 (720x576) Malecón Daniel Alomia Robles N° 405 - 10001
-https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Rumba_TV_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DRUMBA_TV_stream_co&_cdn_session=7137451907&_cdn_token=54081e07f44b7757714848519314506577f45bf1
-
-#EXTINF:    Iskhodnyy="✔️ТС✅"                  tvg-logo="https://turbomix.com.pe/wp-content/uploads/2025/09/e79ceee7-8ce3-4d56-9f6f-04774e5631cb1.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Turbo Mix (1920x1080) Jr. Miguel Iglesias 483
+#EXTINF:    Iskhodnyy="✔️ТС✅"                  tvg-logo="https://turbomix.com.pe/wp-content/uploads/2025/09/e79ceee7-8ce3-4d56-9f6f-04774e5631cb1.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Turbo Mix 🇵🇪 (1920x1080) Jr. Miguel Iglesias 483
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641246753/bdec12e12a54_480_270.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Turbo Mix (1920x1080) Jr. Miguel Iglesias 483
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641246753/bdec12e12a54_480_270.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Turbo Mix 🇵🇪 (1920x1080) Jr. Miguel Iglesias 483
 https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/27/05/1769467697980/bb62404c02ab_480_270.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Sabor Mix (1920x1080) Av. Ayacucho 127 - Pampas - Tayacaja
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/27/05/1769467697980/bb62404c02ab_480_270.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Sabor Mix 🇵🇪 (1920x1080) Av. Ayacucho 127 - Pampas - Tayacaja
 https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Венера✅"                  tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Venus Media 🇵🇾 (1920x1080)
-https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
-#EXTINF:    Iskhodnyy="✔️Венера✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZWMwLdm_Ag4eNCbhhowHXvSupNE-bCpsLWmZte1tLLq8=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Venus Media 🇵🇾 (1920x1080)
-https://copaco.desdeparaguay.net/venusmedia/venusmedia_alt/playlist.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FRumba_TV.png&width=100" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Rumba 🇨🇴 (720x576) Malecón Daniel Alomia Robles N° 405 - 10001
+https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Rumba_TV_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DRUMBA_TV_stream_co&_cdn_session=7137451907&_cdn_token=54081e07f44b7757714848519314506577f45bf1
 
 #EXTINF:    Iskhodnyy="✔️СезонСорок✅"                  tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/853d5fc/2147483647/strip/true/crop/994x472+0+0/resize/400x190!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F66%2Fbd%2F3159d2b245dbb75fe3c0aad32eac%2Flogo-e40-2026.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Estacion 40 🇵🇾 (1920x1080) E40
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
@@ -1327,6 +1322,11 @@ https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/Jyik_llw_SEZWKp7TaEEvwyBekGReWzlf-XC9Q26V2FcI3oHVBGyNJ4Lt4heUttgdPUUg0Fi5P8ZsmgHCjyK=w240-h480-rw" group-title="🇵🇾 Paraguay 🇵🇾",Villa Elisa (1280x720)
 https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
+
+#EXTINF:    Iskhodnyy="✔️Венера✅"                  tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="🇵🇾 Paraguay 🇵🇾",Venus Media 🇵🇾 (1920x1080)
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️Венера✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZWMwLdm_Ag4eNCbhhowHXvSupNE-bCpsLWmZte1tLLq8=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇾 Paraguay 🇵🇾",Venus Media 🇵🇾 (1920x1080)
+https://copaco.desdeparaguay.net/venusmedia/venusmedia_alt/playlist.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
