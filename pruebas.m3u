@@ -1302,6 +1302,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764455212/e4e59097e633_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Mar () Jr. Tacna 828 - Puerto Maldonado
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Genios () Jr. Libertad 406 - Barrio de Huastilla
+https://sc3.wasidata.com/Genios2_1902/tracks-v1a1/mono.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648006398/3637cf4fb531_480_270.jpg" group-title="🌳 De la Selva su Encanto 🦜",Dub () Bagua Grande
 https://live-evg18.tv360.bitel.com.pe/bitel/dubtv/playlist.m3u8
 
@@ -2350,6 +2353,66 @@ https://live-evg11.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
 
 #EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/22/03/1763756295942/d90528a142cf_480_270.png" group-title="Para variar 🗿🌊 de la Costa",Vision Sur 🇻🇳 Arequipa 1920x1080p
 https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",AmazónicaTv 🇻🇳 Loreto
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Arpegio 🇻🇳 Iquitos
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",BNB Tv 🇻🇳 Pucallpa
+
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",CNC 🇻🇳 Iquitos 1280x720p
+https://live-evg18.tv360.bitel.com.pe/bitel/cnctvSRT/chunks.m3u8
+
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",DubTv 🇻🇳 San Martin 1920x1080p
+https://live-evg18.tv360.bitel.com.pe/bitel/dubtv/chunks.m3u8
+
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Master 🇻🇳 Tarapoto 1280x720p
+https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/08/05/1746658366448/22d5f117b2db_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",MielTv 🇻🇳 Tarma 1920x1080p
+https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763744029840/6d8216fc7771_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Nativa 🇻🇳 Junín 1920x1080p
+https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/07/05/1749249581832/abf8e713b94e_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Rio TeleVisión 🇻🇳 Aucayacu 1920x1080p
+https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830668625/e84e7ec96a4a_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Selvatica 🇻🇳 Pucallpa 1280x720p
+https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/23/02/1747941878952/97be9250ac29_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",SelvaTv 🇻🇳 Loreto 854x480p
+https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/chunks.m3u8
+
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Super Canal 🇻🇳 Loreto 1280x720p
+https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/18/05/1739829893540/29a765aae2f5_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tarapoto TeleVisión 🇻🇳 Tarapoto 1920x1080p
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/23/02/1747941878952/97be9250ac29_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",TeleSelva 🇻🇳 Junín 1280x720p
+https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/chunks.m3u8?uid=12051151
+
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Tropical 🇻🇳 Tarapoto 1920x1080p
+https://live-evg11.tv360.bitel.com.pe/bitel/tropical/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/03/21/21/1742565867775/9313a6713a88_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",TvMar 🇻🇳 Madre De Dios 1920x1080p
+https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/chunks.m3u8
+
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",UcayaliTv 🇻🇳 Ucayali 1920x1080p
+https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/chunks.m3u8
+
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",U Tv 🇻🇳 Ucayali 1920x1080p
+https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
+
+#EXTINF: tvg-logo="" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Uranio 🇻🇳 Tingo Maria 1920x1080p
+https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830432152/1906c9d73b57_480_270.jpg" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",Via 🇻🇳 Tarapoto 1280x720p
+https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/chunks.m3u8
+
+#EXTINF: tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/12/22/173401728675/a4cd78baf453_480_270.png" group-title="De la selva 🌳🌴 Su encanto Ya vuelta 🦜🐒 Ñañit@",YuriVisión 🇻🇳 Loreto 1920x1080p
+https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/chunks.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
 
