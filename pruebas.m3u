@@ -1202,6 +1202,8 @@ https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️A1✅"                  tvg-logo="https://canala1.com/wp-content/uploads/2023/10/logo-1-e1779759112111.png" group-title="🏔️ Corazon de los Andes 🦙",A Uno (1280x720) Av. Los Andes 313
 https://tv.canala1.com:8081/web/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FAntenaUno.png&width=100" group-title="🏔️ Corazon de los Andes 🦙",,A Uno (1920x1080) Av. Los Andes 313
+https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/AntenaUno/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAntenaUno_stream_kf&_cdn_session=7180774883&_cdn_token=a4884b7f0607c299ed8ae1367d806a2242a65620
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387756921/10e2cfffc29a_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",A Uno (1920x1080) Av. Los Andes 313
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 
@@ -1218,6 +1220,22 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/VIATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DVIATV_stream_c4&_cdn_session=4171062851&_cdn_token=96e2285e379ca57b7e49b59715e1a5fa310bc809
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643989170/95a31b8cfe7d_480_270.jpg" group-title="🌳 De la Selva su Encanto 🦜",Via () Jr. Elias Linares 357 - Partido Alto
 https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Uranio () Los Nogales 211 - Yurimaguas
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/IFCQtRCCf-bzJYTlRbZ-LqtnYhUGWD1nj01Yqh5blbgxTpQYHi3MHDJtyMTz5gn8QRdyH_OkBLM=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🦜",Uranio () Los Nogales 211 - Yurimaguas
+https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/31/06/1774913387125/0ae034768578_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Uranio () Los Nogales 211 - Yurimaguas
+https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644870388/492202ff9267_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Uranio () Av. Alameda Peru 884
+https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767642801539/9929bbfd098a_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Ucayalina () Jr. Coronel Portillo 448 - Pucallpa 25001
+https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643662584/0fd8255b8863_480_270.jpg" group-title="🌳 De la Selva su Encanto 🦜",Ucayali () Calleria
+https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://radiotropical.pe/wp-content/uploads/2020/08/logo-png-fondo-blanco.jpg" group-title="🌳 De la Selva su Encanto 🦜",Tropical 99.1 FM () Jr. Bolognesi 157
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
@@ -1277,6 +1295,11 @@ https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://radioconsuelostar.com/wp-content/uploads/elementor/thumbs/logo-102.5-PNG-rfj17wappt1sh6uexfmx7f9z85wtvsgdmo7zt1uazu.png" group-title="🌳 De la Selva su Encanto 🦜",Consuelo Estrella () San Jose de Sisa - El Dorado
 https://7.innovatestream.pe:19360/consuelostartv/consuelostartv.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://charaparadio.com/players/nexoplayer/assets/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Charapa () Interseccion del Jr. Libertad y la Calle Prado - Campo Verde
+https://srt.grupolimalive.com:8081/charapatv/video.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/12/03/1770842577740/0b3323f6ab86_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Charapa () Interseccion del Jr. Libertad y la Calle Prado - Campo Verde
+https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="✔️https://www.cnctv.pe/api/default.png✅"                  tvg-logo="https://www.cnctv.pe/api/default.png" group-title="🌳 De la Selva su Encanto 🦜",Cable Noticias Canal () Pevas 1301 - Iquitos 16002
 https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767646856673/a6b5181b56d2_480_270.jpg" group-title="🌳 De la Selva su Encanto 🦜",Cable Noticias Canal () Pevas 1301 - Iquitos 16002
@@ -1299,6 +1322,9 @@ https://servilive.com:3295/live/v8nkywddqlive.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://redalpha.pe/wp-content/uploads/2026/05/redalpha.png" group-title="🌳 De la Selva su Encanto 🦜",Alfa () Pucallpa
 https://play.agenciastreaming.com:8081/redalphatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387621325/c082bac795b2_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",ABC () Jr. Progreso N°144 - Calleria 051
+https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
