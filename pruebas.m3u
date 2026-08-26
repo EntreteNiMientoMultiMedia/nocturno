@@ -140,6 +140,29 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-med
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://www.cnccajamarca.com/wp-content/uploads/2021/06/LOGO-CNC-24-HORAS.png" group-title="🇵🇪🗞️ Noticias 🚨",Canal de Noticias de Cajamarca (1920x1080) Jr. Juan Villanueva 324 - 06001
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
+#EXTINF:    Iskhodnyy="✔️КНК✅"                  tvg-logo="https://www.cnctv.pe/api/default.png" group-title="🇵🇪🗞️ Noticias 🚨",Cable Noticias Canal (1280x720) Pevas 1301 - Iquitos 16002
+https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="✔️МД✅"                  tvg-logo="https://teleselva.com/wp-content/uploads/2025/03/Diseno-sin-titulo-1-e1743437097540.png" group-title="🇵🇪🗞️ Noticias 🚨",TeleSelva (1280x720) Satipo
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764340947/30593eac8bd8_480_270.jpg" group-title="🇵🇪🗞️ Noticias 🚨",TeleSelva (1280x720) Satipo
+https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Cable Peru Noticias (1280x720)
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCTV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Central (1280x720) CTv
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCTV_stream_7w&_cdn_session=4155011427&_cdn_token=4e40a27db32ef52f931b2cf8a9a3ad82a30ecea4
+
+#EXTINF:    Iskhodnyy="✔️СД✅"                  tvg-logo="https://bhtv.pe/wp-content/uploads/2025/01/logo-2025web-300x205.png" group-title="🇵🇪🗞️ Noticias 🚨",Casa Azul (1280x720) Blue House
+https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w712406729.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767640937611/3e9e20e09e21_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Casa Azul (1280x720) Blue House
+https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBH_TV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Casa Azul (1280x720) Blue House
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/BH_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DBH_TV_stream_i8&_cdn_session=6832197798&_cdn_token=0467c6e52d6b8bcb42b62c4fab3d47da03156565
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBHTV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Casa Azul (1280x720) Blue House
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBHTV_stream_v0&_cdn_session=4155128603&_cdn_token=671863ae413bda36ce5fc0bc0da13c15e71ca5f7
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FSUPERTV.png&width=100" group-title="⚽ Futbol 🇵🇪",Super (1280x720)
@@ -491,52 +514,84 @@ https://5ca9af4645e15.streamlock.net/canal33tijuana/videocanal33tijuana/chunklis
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHOMEANDHEALTH.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Discovery Hogar & Salud (1280x720) Home & Health
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=4152381635&_cdn_token=fff59032f63f78e276e972f29eec719f9063d67b
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTRAVELANDLIVING.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Viajes y estilo de vida (1280x720) TLC
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=4152382811&_cdn_token=41ebc635991fb77eb852466a706cd1e3169b45d4
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FGOURMET.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",El Gastronomo (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FGOURMET.png&width=100" group-title="🛋️ Estilo de Vida: Cocina & Hogar 🪴",El Gastronomo (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_sj&_cdn_session=4152384043&_cdn_token=e9c23bc577114ce28452a7e2b406edb109185555
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FFOODNETWORK.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Red de Alimentos (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHOMEANDHEALTH.png&width=100" group-title="🛋️ Estilo de Vida: Cocina & Hogar 🪴",Discovery Hogar & Salud (1280x720) Home & Health
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=4152381635&_cdn_token=fff59032f63f78e276e972f29eec719f9063d67b
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FFOODNETWORK.png&width=100" group-title="🛋️ Estilo de Vida: Cocina & Hogar 🪴",Red de Alimentos (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=4152385259&_cdn_token=d6d7f619957d3f6f42374d26e81f54836f030c0a
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/31/06/1774913408757/a59f909fc992_480_270.png" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Juntos (1920x1080)
-https://live-evg13.tv360.bitel.com.pe/bitel/juntostvSRT/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FCanalJ.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Canal J (1280x720)
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/CANALJ_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DCANALJ_1_stream_gm&_cdn_session=6806542710&_cdn_token=aa4e785b495dc190505445dad680be42d0f1ce43
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FJUNTOSTV.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Juntos (1280x720)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/JUNTOSTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DJUNTOSTV_stream_9l&_cdn_session=4152388019&_cdn_token=e7295d67f25f574e64ff3772af852b21d0d7e748
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTRAVELANDLIVING.png&width=100" group-title="🛋️ Estilo de Vida: Cocina & Hogar 🪴",Viajes y estilo de vida (1280x720) TLC
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=4152382811&_cdn_token=41ebc635991fb77eb852466a706cd1e3169b45d4
 
-#EXTINF:    Iskhodnyy="✔️Лица✅"                  tvg-logo="https://yt3.googleusercontent.com/YJe5RXP1hXnPhELfVACSMRgIX1QKvXQ7mREVQRNCx72HYncSLcDhCVbldnTudMwkfIoGk6PW=s160-c-k-c0x00ffffff-no-rj" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Caras (1920x1080)
-https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FE.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",E! (1280x720)
-https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FECH.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",E! (1280x720)
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=4152390675&_cdn_token=72d212b423820cf0f1f0632926ff028e5b907425
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAandEMUNDO.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Arte & Entretenimiento (1280x720) A&E
-https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/AyE/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAyE_stream_cz&_cdn_session=6806571206&_cdn_token=a007d4441b66b0531c214dfacb88fdc147eec718
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHGTV.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Hogar y Jardin (1280x720) HGTV
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHGTV.png&width=100" group-title="🛋️ Estilo de Vida: Cocina & Hogar 🪴",Hogar y Jardin (1280x720) HGTV
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=4152393739&_cdn_token=ee5cbe55b894327c87cb281a2a79cf7c15c1e351
 
-#EXTINF:    Iskhodnyy="❓TВ❔"                  tvg-logo="https://www.mitelefe.com/media/cache/logo/logo-telefe-blanco-69286e9c2c776.png" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",TeleFe (720x480)
-http://190.108.83.69:8000/play/a08l/index.m3u8
-
-#EXTINF:    Iskhodnyy="✔️ММ✅"                  tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",TeleMax (1920x1080)
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FHOGAR_TV.png&width=100" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Hogar (720x576)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FHOGAR_TV.png&width=100" group-title="🛋️ Estilo de Vida: Cocina & Hogar 🪴",Hogar (720x576)
 https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Hogar_TV_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dhogar_tv_stream_vo&_cdn_session=6806609030&_cdn_token=28f35def94720cc0d5abdfd6d7e908a90c57c530
 
-#EXTINF:    Iskhodnyy="✔️ТДСП✅"                  tvg-logo="https://yt3.googleusercontent.com/yECM7_PN1KQ_q_EYLZosSG4oOnVj0-Xb_qTrOFW1s15gtiCtlfRLPm_lGI2ZN9XqSCn7xDedDQ=s160-c-k-c0x00ffffff-no-rj" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Chistes Solo Para Reir 
-https://jmp2.uk/plu-677f929054f43dad4b325c1c.m3u8
-#EXTINF:    Iskhodnyy="✔️ТДСП✅"                  tvg-logo="https://yt3.googleusercontent.com/yECM7_PN1KQ_q_EYLZosSG4oOnVj0-Xb_qTrOFW1s15gtiCtlfRLPm_lGI2ZN9XqSCn7xDedDQ=s160-c-k-c0x00ffffff-no-rj" group-title="🛋️ Estilo de Vida & Entretenimiento 🍿",Just For Laughs (1920x1080)
-https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FNEOTV.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Neo (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NEOTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNEOTV_stream_83&_cdn_session=4155114075&_cdn_token=34ef7221a1e6e7b3dfcb27541bd284fcf7ef0fb0
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2Fdigital.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Neo (720x576)
+https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/NEOTV/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNEOTV_stream_88&_cdn_session=6832074630&_cdn_token=f310fee0c161cb8d35dc968382fae0718de14124
+
+#EXTINF:    Iskhodnyy="✔️Триву✅"                  tvg-logo="https://yt3.googleusercontent.com/7DmotRepBkvbFSoaxNtuaFhEeP-hsDXo7hUse7J8oSRErenQ8RNlgf5EVThQPskqslW6tNOa2xk=s160-c-k-c0x00ffffff-no-rj" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Trivu (1920x1080)
+https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103_output_0.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647433897/4d6766e17768_480_270.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Trivu (1920x1080)
+https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTrivu_TV1.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Trivu (1280x720)
+https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/Trivu_TV1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTrivu_TV1_stream_df&_cdn_session=6830840166&_cdn_token=545718f78dc06382eb8a6303b46f7823c63e471e
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTRIVUTV.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Trivu (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TRIVUTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRIVUTV_stream_56&_cdn_session=4154992683&_cdn_token=6942f16b5effb725f309ceaceea75552368ef327
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/31/06/1774913408757/a59f909fc992_480_270.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Juntos (1920x1080)
+https://live-evg13.tv360.bitel.com.pe/bitel/juntostvSRT/chunks.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FCanalJ.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Canal J (1280x720)
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/CANALJ_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DCANALJ_1_stream_gm&_cdn_session=6806542710&_cdn_token=aa4e785b495dc190505445dad680be42d0f1ce43
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FJUNTOSTV.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Juntos (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/JUNTOSTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DJUNTOSTV_stream_9l&_cdn_session=4152388019&_cdn_token=e7295d67f25f574e64ff3772af852b21d0d7e748
+
+#EXTINF:    Iskhodnyy="✔️СД✅"                  tvg-logo="https://conecta2.pe/wp-content/uploads/2023/09/logo-oficial.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Conecta2 (1280x720)
+https://live.obslivestream.com/conecta2/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FConecta2.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Conecta2 (1280x720)
+https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/Conecta2/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DConecta2_stream_9b&_cdn_session=6831802678&_cdn_token=5df7cf37783072f37394a9fb44dd2e51dde138df
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCONECTA2.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Conecta2 (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCONECTADA2_stream_so&_cdn_session=4155088667&_cdn_token=5a916553313b494446f5c9c701e3708da3e92cd3
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643313546/ffc5b7c6b272_480_270.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Fuego (1920x1080)
+https://live-evg5.tv360.bitel.com.pe/bitel/fuegotv/playlist.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLikeTV.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Fuego (1280x720)
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/FUEGO_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLIKETV_PRUEBA_stream_lg&_cdn_session=6830674310&_cdn_token=2834b2ffcacd4abbfb268a22c0378f73049aa223
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FFUEGOTV.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Fuego (1024x576)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FUEGOTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFUEGOTV_stream_19&_cdn_session=4154974203&_cdn_token=999cf52e361b530a99eb54ceeb5a8029b10d3bfa
+
+#EXTINF:    Iskhodnyy="✔️ХЦ✅"                  tvg-logo="https://www.milenial.news/images/advert-box.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Milenial (1920x1080)
+https://vps.chasquirouter.com/salida/milenial.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643633107/23e9ee066751_480_270.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Milenial (1920x1080)
+https://live-evg5.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FMilenial.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Milenial (1280x720)
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Milenial/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DMilenial_stream_l8&_cdn_session=6830483222&_cdn_token=7a20b779488133e6d6c6a0ca894d806b864d6ab4
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAandEMUNDO.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Arte & Entretenimiento (1280x720) A&E
+https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/AyE/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAyE_stream_cz&_cdn_session=6806571206&_cdn_token=a007d4441b66b0531c214dfacb88fdc147eec718
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FE.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",E! (1280x720)
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FECH.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",E! (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=4152390675&_cdn_token=72d212b423820cf0f1f0632926ff028e5b907425
+
+#EXTINF:    Iskhodnyy="❓TВ❔"                  tvg-logo="https://www.mitelefe.com/media/cache/logo/logo-telefe-blanco-69286e9c2c776.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",TeleFe (720x480)
+http://190.108.83.69:8000/play/a08l/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ММ✅"                  tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",TeleMax (1920x1080)
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Лица✅"                  tvg-logo="https://yt3.googleusercontent.com/YJe5RXP1hXnPhELfVACSMRgIX1QKvXQ7mREVQRNCx72HYncSLcDhCVbldnTudMwkfIoGk6PW=s160-c-k-c0x00ffffff-no-rj" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Caras (1920x1080)
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
@@ -597,6 +652,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647052374/d0b7cf8623a8_480_270.png" group-title="🎮 Juvenil ⚡ 7 a 14 años",Chiki Toonz (1920x1080)
 https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ТДСП✅"                  tvg-logo="https://yt3.googleusercontent.com/yECM7_PN1KQ_q_EYLZosSG4oOnVj0-Xb_qTrOFW1s15gtiCtlfRLPm_lGI2ZN9XqSCn7xDedDQ=s160-c-k-c0x00ffffff-no-rj" group-title="🎮 Juvenil ⚡ 7 a 14 años",Chistes Solo Para Reir 
+https://jmp2.uk/plu-677f929054f43dad4b325c1c.m3u8
+#EXTINF:    Iskhodnyy="✔️ТДСП✅"                  tvg-logo="https://yt3.googleusercontent.com/yECM7_PN1KQ_q_EYLZosSG4oOnVj0-Xb_qTrOFW1s15gtiCtlfRLPm_lGI2ZN9XqSCn7xDedDQ=s160-c-k-c0x00ffffff-no-rj" group-title="🎮 Juvenil ⚡ 7 a 14 años",Just For Laughs (1920x1080)
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
@@ -708,6 +768,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/chunks.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAGROTV.png&width=100" group-title="📈 Negocios y Emprendimiento 🚀",Agro 🇵🇪 (1024X576)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AGROTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAGROTV_stream_dl&_cdn_session=4153358475&_cdn_token=8a3d722346d4b9a136fe0c3b0fdd8ec0e983c13e
 
+#EXTINF:    Iskhodnyy="✔️ХЦ✅"                  tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png" group-title="📈 Negocios y Emprendimiento 🚀",Onda Digital 🇵🇪 (1920x1080)
+https://live.ondadigitaltv.com/ODTV/tracks-a1v1/index.m3u8
+
 #EXTINF:    Iskhodnyy="✔️КП✅"                  tvg-logo="https://static.wixstatic.com/media/3fae4e_47eb435907ab4d95a9832a2022fbe604~mv2.png/v1/fill/w_291,h_133,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PRO%20PNG%20BLANCO.png" group-title="📈 Negocios y Emprendimiento 🚀",Canal Pro 🇵🇾 (1280x720)
 https://www.desde-paraguay.com/pro.m3u8
 
@@ -735,7 +798,6 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/PERUANISIMA-TV-02.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Peruanisima 🇵🇪 (1920X1080) HuancaYork
 https://sc3.wasidata.com/Peruanisima14_1614/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648233356/da7e065b6446_480_270.jpg" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Mix 🇵🇪 (1920x1080) Jr. Bruno Terreros Nº 216 – Oficina 202 - Chupaca
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 
@@ -750,6 +812,12 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3
 
 #EXTINF:    Iskhodnyy="✔️СвятойБорха✅"                  tvg-logo="https://radiosanborjatv.com/wp-content/uploads/2020/12/LOGO-RSB-TV.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Radio San Borja 🇵🇪 (1920x1080)
 https://stream.mediacorp.pe/srt/3/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644363575/e775e89c1af7_480_270.jpg" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Onda Digital 🇵🇪 (1920x1080)
+https://live-evg5.tv360.bitel.com.pe/bitel/radioodtvSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/176764285939/35bcacf9ad3b_480_270.jpg" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Tarpuy (1920x1080) Jr. Azangaro 630 - Cercado de Lima
+https://live-evg13.tv360.bitel.com.pe/bitel/tarpuy/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Peruanisima 🇵🇪 (1280x720)
 https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
@@ -784,6 +852,9 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
 #EXTINF:    Iskhodnyy="✔️К&П95.9ЧМ✅"                  tvg-logo="https://play-lh.googleusercontent.com/mXdm3GYQUIXvfeX_FXGChH1AJiboPCmgqAiAv2vg_5AyqpXBf4PTksZsHKYABUSIhZ1H4wHC0zR3aDwwDtjnXNk=w240-h480-rw" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Rock & Pop 95.9 FM 🇦🇷 (1920x1080)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️КР✅"                  tvg-logo="https://i.ibb.co/5ZpmjN4/retroclub.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Club Retro 🇦🇷 (1280x720) XYZ
+https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ДЧМ95.9✅"                  tvg-logo="https://yt3.googleusercontent.com/_HVpT8u6iWhd4M4ZoEr2DpgRnzLw5dFhPSOWUxotz3UY59fcvlufbIajvVzIMbrwPF-npWmP=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Mas FM 95.9 🇦🇷 (1920x1080)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
@@ -887,44 +958,11 @@ https://live-evg11.tv360.bitel.com.pe/bitel/xtvplusSRT/chunks.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/26/22/1772120012871/88aef8401501_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",X (1920x1080)
 https://live-evg11.tv360.bitel.com.pe/bitel/xtvSRT/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FNEOTV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Neo (1280x720)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NEOTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNEOTV_stream_83&_cdn_session=4155114075&_cdn_token=34ef7221a1e6e7b3dfcb27541bd284fcf7ef0fb0
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2Fdigital.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Neo (720x576)
-https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/NEOTV/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNEOTV_stream_88&_cdn_session=6832074630&_cdn_token=f310fee0c161cb8d35dc968382fae0718de14124
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/27/03/1779825690602/35cfac0ed79a_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Max (1920x1080)
 https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/13/04/1778619708408/3beabf5356a8_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",WO Digital (1920x1080)
 https://live-evg10.tv360.bitel.com.pe/bitel/WODigitalSRT/chunks.m3u8
-
-#EXTINF:    Iskhodnyy="✔️СД✅"                  tvg-logo="https://bhtv.pe/wp-content/uploads/2025/01/logo-2025web-300x205.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Casa Azul (1280x720) Blue House
-https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w712406729.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767640937611/3e9e20e09e21_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Casa Azul (1280x720) Blue House
-https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBH_TV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Casa Azul (1280x720) Blue House
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/BH_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DBH_TV_stream_i8&_cdn_session=6832197798&_cdn_token=0467c6e52d6b8bcb42b62c4fab3d47da03156565
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBHTV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Casa Azul (1280x720) Blue House
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBHTV_stream_v0&_cdn_session=4155128603&_cdn_token=671863ae413bda36ce5fc0bc0da13c15e71ca5f7
-
-#EXTINF:    Iskhodnyy="✔️СД✅"                  tvg-logo="https://conecta2.pe/wp-content/uploads/2023/09/logo-oficial.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Conecta2 (1280x720)
-https://live.obslivestream.com/conecta2/tracks-v1a1/mono.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FConecta2.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Conecta2 (1280x720)
-https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/Conecta2/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DConecta2_stream_9b&_cdn_session=6831802678&_cdn_token=5df7cf37783072f37394a9fb44dd2e51dde138df
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCONECTA2.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Conecta2 (1280x720)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCONECTADA2_stream_so&_cdn_session=4155088667&_cdn_token=5a916553313b494446f5c9c701e3708da3e92cd3
-
-#EXTINF:    Iskhodnyy="✔️Триву✅"                  tvg-logo="https://yt3.googleusercontent.com/7DmotRepBkvbFSoaxNtuaFhEeP-hsDXo7hUse7J8oSRErenQ8RNlgf5EVThQPskqslW6tNOa2xk=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Trivu (1920x1080)
-https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103_output_0.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647433897/4d6766e17768_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Trivu (1920x1080)
-https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTrivu_TV1.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Trivu (1280x720)
-https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/Trivu_TV1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTrivu_TV1_stream_df&_cdn_session=6830840166&_cdn_token=545718f78dc06382eb8a6303b46f7823c63e471e
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTRIVUTV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Trivu (1280x720)
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TRIVUTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRIVUTV_stream_56&_cdn_session=4154992683&_cdn_token=6942f16b5effb725f309ceaceea75552368ef327
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCTV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Central (1280x720) CTv
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCTV_stream_7w&_cdn_session=4155011427&_cdn_token=4e40a27db32ef52f931b2cf8a9a3ad82a30ecea4
 
 #EXTINF:    Iskhodnyy="✔️Секрет✅"                  tvg-logo="https://yt3.googleusercontent.com/llqpbHaAkQY9SpZhoGbHlqzfFBBrqXd-fvrAoPSt3_cp-afgVr3twxco27XDdXeWyK2H2XLi8CM=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Asiri (1280x720)
 https://video2.lhdserver.es/asiritv/live.m3u8
@@ -933,32 +971,10 @@ https://live-evg10.tv360.bitel.com.pe/bitel/asiritv/chunks.m3u8
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FASIRI.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Asiri (1280x720)
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/ASIRI_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DASIRI_TV_stream_ak&_cdn_session=6853378422&_cdn_token=c3ecc5f84f31fdf3310d8e8ee999becaa670f950
 
-#EXTINF:    Iskhodnyy="✔️ХЦ✅"                  tvg-logo="https://www.milenial.news/images/advert-box.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Milenial (1920x1080)
-https://vps.chasquirouter.com/salida/milenial.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643633107/23e9ee066751_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Milenial (1920x1080)
-https://live-evg5.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FMilenial.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Milenial (1280x720)
-https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Milenial/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DMilenial_stream_l8&_cdn_session=6830483222&_cdn_token=7a20b779488133e6d6c6a0ca894d806b864d6ab4
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643313546/ffc5b7c6b272_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Fuego (1920x1080)
-https://live-evg5.tv360.bitel.com.pe/bitel/fuegotvSRT/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLikeTV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Fuego (1280x720)
-https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/FUEGO_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLIKETV_PRUEBA_stream_lg&_cdn_session=6830674310&_cdn_token=2834b2ffcacd4abbfb268a22c0378f73049aa223
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FFUEGOTV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Fuego (1024x576)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FUEGOTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFUEGOTV_stream_19&_cdn_session=4154974203&_cdn_token=999cf52e361b530a99eb54ceeb5a8029b10d3bfa
-
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648938669/e0a9868ad260_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",TeleLima (1920x1080)
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTeleLima.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",TeleLima (1280x720)
 https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Telelima_nic/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dprueba_stream_e7&_cdn_session=6853353526&_cdn_token=25f585576e17e8b9b7931b1760df5ba3ee37bb4b
-
-#EXTINF:    Iskhodnyy="✔️ХЦ✅"                  tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Onda Digital (1920x1080)
-https://live.ondadigitaltv.com/ODTV/tracks-a1v1/index.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644363575/e775e89c1af7_480_270.jpg" group-title="🌐 Alternativos & Nativos Digitales 📲",Onda Digital (1920x1080)
-https://live-evg5.tv360.bitel.com.pe/bitel/radioodtvSRT/chunks.m3u8
-
-#EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Cable Peru Noticias (1280x720)
-https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FARUSSATV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Arussa (1024x576)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ARUSSATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DARUSSATV_stream_lx&_cdn_session=4157160867&_cdn_token=5559c125966ad278bce38138d787ee0d94dfb7a2
@@ -967,7 +983,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ARUSSATV/20-hls/live-media.m3
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/SUMACTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSUMACTV_stream_wa&_cdn_session=4157154555&_cdn_token=4d8cd0a59f4d9aca5103729e15242f59e6223d90
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643581411/b7cffc7c14d4_480_270.jpg" group-title="🌐 Alternativos & Nativos Digitales 📲",Folklore (1280x720)
-https://live-evg8.tv360.bitel.com.pe/bitel/folkloretv/chunks.m3u8
+https://live-evg8.tv360.bitel.com.pe/bitel/folkloretv/playlist.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FFOLKLORETV.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Folklore (1024x576)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FOLKLORETV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOLKLORETV_stream_j7&_cdn_session=4157153291&_cdn_token=b3e54f6af6770676eff1cd2a0c2b5409f8711af1
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FFolklore.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Folklore (720x576)
@@ -985,9 +1001,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Все✅"                  tvg-logo="https://alt.com.py/static/images/logo-alt-menu.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Alt. (1920x1080)
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
-
-#EXTINF:    Iskhodnyy="✔️КР✅"                  tvg-logo="https://i.ibb.co/5ZpmjN4/retroclub.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Club Retro (1280x720) XYZ
-https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Метро✅"                  tvg-logo="https://yt3.googleusercontent.com/WLb6jGaP9US93BrR7Avg08tX11SWlBBgMba3457pD3ZD3My3FTLU71sryd8tWeqZ3JQ24DON=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Metro (1280x720)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
@@ -1101,14 +1114,6 @@ https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644582599/d9b88e3083bf_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",UniTel (1920x1080) Jr. Libertad 1098 - 12003
 https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️МД✅"                  tvg-logo="https://teleselva.com/wp-content/uploads/2025/03/Diseno-sin-titulo-1-e1743437097540.png" group-title="🏔️ Corazon de los Andes 🦙",TeleSelva (1280x720) Satipo
-https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764340947/30593eac8bd8_480_270.jpg" group-title="🏔️ Corazon de los Andes 🦙",TeleSelva (1280x720) Satipo
-https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/176764285939/35bcacf9ad3b_480_270.jpg" group-title="🏔️ Corazon de los Andes 🦙",Tarpuy (1920x1080) Jr. Azangaro 630 - Cercado de Lima
-https://live-evg13.tv360.bitel.com.pe/bitel/tarpuy/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Солнечная✅"                  tvg-logo="https://corporacionsolar.com.pe/assets/img/solar-tv-logo.png" group-title="🏔️ Corazon de los Andes 🦙",Solar (640x360) Av. Seoane 377
 https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
@@ -1303,9 +1308,6 @@ https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/12/03/1770842577740/0b3323f6ab86_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Charapa (1920x1080) Interseccion del Jr. Libertad y la Calle Prado - Campo Verde
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️КНК✅"                  tvg-logo="https://www.cnctv.pe/api/default.png" group-title="🌳 De la Selva su Encanto 🦜",Cable Noticias Canal (1280x720) Pevas 1301 - Iquitos 16002
-https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Арпеджио✅"                  tvg-logo="https://arpegio.com.pe/wp-content/uploads/2024/03/Logo-arpegio-8.png" group-title="🌳 De la Selva su Encanto 🦜",Arpegio (1280x720) Jorge Chavez N° 1085 - Iquitos
 https://vdo.oyotunserver.com/arpegio/video.m3u8
