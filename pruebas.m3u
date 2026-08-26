@@ -44,65 +44,6 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️Успешный✅"                  tvg-logo="https://yt3.googleusercontent.com/WS_VtveabSs00D1LpuT7xdG8fdXLgs5MaIg_r6gL2Zal3YF4JSr3YsbHeH1Eswd-JD8MSkYNKpI=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Exitosa (1280x720)
-https://luna-1-video.mediaserver.digital/exitosatv_server2_3d41s0d1/tracks-v1a1/mono.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FExitosa_WIN.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Exitosa (1280x720)
-https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Exitosa_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DExitosa_WIN_stream_gd&_cdn_session=6208605078&_cdn_token=11efc988ba77852dbe3b154780ab4908e9415491
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FEXITOSATV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Exitosa (1280x720)
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=4065130419&_cdn_token=ca13d0a61df9b80be3a681472ddd53b973472408
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767642219681/63923310eec1_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Exitosa (1280x720)
-https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPBO.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Oficina de RadioDifusion del Peru (1280x720) PBO
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=4065171595&_cdn_token=106ed11cf074247d8d32ccdd3b30e3eaf9b178f4
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764674230/09c684249796_480_270.jpg" group-title="🇵🇪🗞️ Noticias 🚨",Oficina de RadioDifusion del Peru (1280x720) PBO
-https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FPBO.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Oficina de RadioDifusion del Peru (720x576) PBO
-https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/PBO2/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DPBO2_stream_ch&_cdn_session=6208910678&_cdn_token=0e71d44a30ef856a73642aa6c2f9de39c0635980
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FSolTV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Sol (720x576) Avenida Jesus de Nazareth 1323 - Urbanizacion Covicorti
-https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/sol/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dsol_stream_r6&_cdn_session=6850806726&_cdn_token=f39e6f397924e13135fb1c2a5615246dc6a56ac6
-#EXTINF:    Iskhodnyy="✔️Солнце✅"                  tvg-logo="https://soltvperu.com/wp-content/uploads/2026/06/htetjh-03.png" group-title="🇵🇪🗞️ Noticias 🚨", (720x576) Avenida España 345 - Trujillo
-https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647241133/922bc3f51820_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Sol (720x576) Avenida Paseo de la Republica 5753 - Miraflores
-https://live-evg7.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FEnlaceTV_WIN.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Nativa (1280x720)
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Nativa/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DUCI_stream_k7&_cdn_session=6208728694&_cdn_token=e9a5930a1bf7432e368b227fc8d8610c044deff1
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FNATIVA.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Nativa (1280x720)
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/NATIVATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUCITV_stream_mg&_cdn_session=4065148339&_cdn_token=d86109e5d0651e122bb94c17f0f81b09e7e73806
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764445459/065423fd8588_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Nativa (1280x720)
-https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Эко✅"                  tvg-logo="https://ecoperu.tv/wp-content/uploads/2024/02/Eco.png" group-title="🇵🇪🗞️ Noticias 🚨",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
-https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FECOTV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ECOTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECOTV_stream_5g&_cdn_session=4156898323&_cdn_token=6fd30a503e562da8fab2955e77725027e3bffb10
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647583280/b0a1fe2a450f_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
-https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/1775081979482/ddba258dd964_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Voz Digital (1920x1080) Jr. Tacna 525 - La Perla
-https://live-evg8.tv360.bitel.com.pe/bitel/vozdigitalperu/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://cosmos.pe/wp-content/uploads/2026/01/logo-cosmos.png" group-title="🇵🇪🗞️ Noticias 🚨",Cosmos (854x480) Avenida Victor Larco N° 1679 - 13009
-https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/14/22/1778773449664/bb9c09f95b29_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Cosmos (854x480) Avenida Victor Larco N° 1679 - 13009
-https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641331255/4b71507e26a5_480_270.jpg" group-title="🇵🇪🗞️ Noticias 🚨",Compañia de TeleVision Cusqueña (1920X1080) Av. de la Cultura 3035 - Wanchaq
-https://live-evg7.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Область✅"                  tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV4.png" group-title="🇵🇪🗞️ Noticias 🚨",Region (1280x720) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
-https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647979447/cf7a1694e097_480_270.jpg" group-title="🇵🇪🗞️ Noticias 🚨",Region (1920x1080) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
-https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647179623/f2fda43856b1_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Radio Uno (1280x720) Avenida Dos de Mayo N° 263
-https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTV_Peru_Noticias_WIN.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Tv Peru Noticias (720x576)
-https://cdnmain7.win.cdn.moderntv.eu:7909/win/stream/TVPERU_NOTICIAS_WIN/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTVPERU_NOTICIAS_WIN_stream_es&_cdn_session=6208703542&_cdn_token=a93242d0e2edd046b1a227a8e46bb2f1c053d611
-
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLATINANOTI.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Latina Noticias (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=4065138363&_cdn_token=a84b03f0fb90e46bcff2aaf675f1311f51d3d76a
 
@@ -113,43 +54,85 @@ https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/ATV_NOTICIAS_WIN/40-hls/liv
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FATVMAS.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Andina+ (1280x720) ATV+
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVMAS_stream_nu&_cdn_session=4065143339&_cdn_token=7d206a0b0947b2fa20fc45104b12c9efe22d37b5
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTV_Peru_Noticias_WIN.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Tv Peru Noticias (720x576)
+https://cdnmain7.win.cdn.moderntv.eu:7909/win/stream/TVPERU_NOTICIAS_WIN/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTVPERU_NOTICIAS_WIN_stream_es&_cdn_session=6208703542&_cdn_token=a93242d0e2edd046b1a227a8e46bb2f1c053d611
+
+#EXTINF:    Iskhodnyy="✔️Успешный✅"                  tvg-logo="https://yt3.googleusercontent.com/WS_VtveabSs00D1LpuT7xdG8fdXLgs5MaIg_r6gL2Zal3YF4JSr3YsbHeH1Eswd-JD8MSkYNKpI=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Exitosa (1280x720)
+https://luna-1-video.mediaserver.digital/exitosatv_server2_3d41s0d1/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FExitosa_WIN.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Exitosa (1280x720)
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Exitosa_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DExitosa_WIN_stream_gd&_cdn_session=6208605078&_cdn_token=11efc988ba77852dbe3b154780ab4908e9415491
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FEXITOSATV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Exitosa (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=4065130419&_cdn_token=ca13d0a61df9b80be3a681472ddd53b973472408
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767642219681/63923310eec1_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Exitosa (1280x720)
+https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FEnlaceTV_WIN.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Nativa (1280x720)
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Nativa/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DUCI_stream_k7&_cdn_session=6208728694&_cdn_token=e9a5930a1bf7432e368b227fc8d8610c044deff1
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FNATIVA.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Nativa (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/NATIVATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUCITV_stream_mg&_cdn_session=4065148339&_cdn_token=d86109e5d0651e122bb94c17f0f81b09e7e73806
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764445459/065423fd8588_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Nativa (1280x720)
+https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPBO.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Oficina de RadioDifusion del Peru (1280x720) PBO
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=4065171595&_cdn_token=106ed11cf074247d8d32ccdd3b30e3eaf9b178f4
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764674230/09c684249796_480_270.jpg" group-title="🇵🇪🗞️ Noticias 🚨",Oficina de RadioDifusion del Peru (1280x720) PBO
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FPBO.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Oficina de RadioDifusion del Peru (720x576) PBO
+https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/PBO2/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DPBO2_stream_ch&_cdn_session=6208910678&_cdn_token=0e71d44a30ef856a73642aa6c2f9de39c0635980
+
+#EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Cable Peru Noticias (1280x720)
+https://video2.lhdserver.es/cableperu/live.m3u8
+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FCANALB.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Canal Baella (1280x720)
 https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/CANALB/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DPrueba_stream_1g&_cdn_session=6208745910&_cdn_token=fa874166bdddbbc6131664711ff64a1314b8551b
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FMonitor.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Monitor (1280x720)
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Monitor/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DMonitor_stream_7r&_cdn_session=6209044822&_cdn_token=e694c8fef6cfb871f175d305f9fdbb4f46a871ef
 
 #EXTINF:    Iskhodnyy="✔️Новости✅"                  tvg-logo="https://lanoticia.com.pe/wp-content/uploads/2025/10/la-noticia-peru.jpg" group-title="🇵🇪🗞️ Noticias 🚨",La Noticia (1280x720)
 https://play.agenciastreaming.com:8081/lanoticiatv/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLANOTICIATV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",La Noticia (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LANOTICIATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLANOTICIATV_stream_p1&_cdn_session=4065185035&_cdn_token=9d1c65c515d507dfb585c99a9fd21a36a37c0cab
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FMonitor.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Monitor (1280x720)
-https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Monitor/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DMonitor_stream_7r&_cdn_session=6209044822&_cdn_token=e694c8fef6cfb871f175d305f9fdbb4f46a871ef
-
 #EXTINF:    Iskhodnyy="✔️Национальный✅"                  tvg-logo="https://yt3.googleusercontent.com/79JX6QwOREZ2Es-sIKJrRTt_XJr3SL-UStTyqkR2LROaUfdkoYeRem9S9Uxhj_AbnC5uHPvCOA=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Nacional (1280x720)
 https://play.agenciastreaming.com:8081/nacionaltv/tracks-v1a1/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644527718/6d3118de737a_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Nacional (1280x720) 
 https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCANALCONGRESO.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Congreso (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=4065174851&_cdn_token=e7f3ea2808fd177c2ab8cea715dd52b293a418b2
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FJUSTICIATV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Justicia (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/JUSTICIATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DJUSTICIATV_stream_rx&_cdn_session=4065186515&_cdn_token=0e0d123921285cee1f6bfd6195c5e7fb2955b8ec
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FJusticiaTV_WIN.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Justicia (720x576)
 https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/justiciatv/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Djusticiatv_stream_1d&_cdn_session=6209020006&_cdn_token=06c8f27af868d2213059d0101e56c2726951ee20
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCANALCONGRESO.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Congreso (1280x720)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=4065174851&_cdn_token=e7f3ea2808fd177c2ab8cea715dd52b293a418b2
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://www.cnccajamarca.com/wp-content/uploads/2021/06/LOGO-CNC-24-HORAS.png" group-title="🇵🇪🗞️ Noticias 🚨",Canal de Noticias de Cajamarca (1920x1080) Jr. Juan Villanueva 324 - 06001
-https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FSolTV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Sol (720x576) Avenida Jesus de Nazareth 1323 - Urbanizacion Covicorti
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/sol/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dsol_stream_r6&_cdn_session=6850806726&_cdn_token=f39e6f397924e13135fb1c2a5615246dc6a56ac6
+#EXTINF:    Iskhodnyy="✔️Солнце✅"                  tvg-logo="https://soltvperu.com/wp-content/uploads/2026/06/htetjh-03.png" group-title="🇵🇪🗞️ Noticias 🚨",Sol (720x576) Avenida España 345 - Trujillo
+https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647241133/922bc3f51820_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Sol (720x576) Avenida Paseo de la Republica 5753 - Miraflores
+https://live-evg7.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️КНК✅"                  tvg-logo="https://www.cnctv.pe/api/default.png" group-title="🇵🇪🗞️ Noticias 🚨",Cable Noticias Canal (1280x720) Pevas 1301 - Iquitos 16002
-https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641331255/4b71507e26a5_480_270.jpg" group-title="🇵🇪🗞️ Noticias 🚨",Compañia de TeleVision Cusqueña (1920X1080) Av. de la Cultura 3035 - Wanchaq
+https://live-evg7.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️МД✅"                  tvg-logo="https://teleselva.com/wp-content/uploads/2025/03/Diseno-sin-titulo-1-e1743437097540.png" group-title="🇵🇪🗞️ Noticias 🚨",TeleSelva (1280x720) Satipo
-https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764340947/30593eac8bd8_480_270.jpg" group-title="🇵🇪🗞️ Noticias 🚨",TeleSelva (1280x720) Satipo
-https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647179623/f2fda43856b1_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Radio Uno (1280x720) Avenida Dos de Mayo N° 263
+https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Cable Peru Noticias (1280x720)
-https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://cosmos.pe/wp-content/uploads/2026/01/logo-cosmos.png" group-title="🇵🇪🗞️ Noticias 🚨",Cosmos (854x480) Avenida Victor Larco N° 1679 - 13009
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/14/22/1778773449664/bb9c09f95b29_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Cosmos (854x480) Avenida Victor Larco N° 1679 - 13009
+https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Эко✅"                  tvg-logo="https://ecoperu.tv/wp-content/uploads/2024/02/Eco.png" group-title="🇵🇪🗞️ Noticias 🚨",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
+https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FECOTV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ECOTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECOTV_stream_5g&_cdn_session=4156898323&_cdn_token=6fd30a503e562da8fab2955e77725027e3bffb10
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647583280/b0a1fe2a450f_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
+https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCTV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Central (1280x720) CTv
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCTV_stream_7w&_cdn_session=4155011427&_cdn_token=4e40a27db32ef52f931b2cf8a9a3ad82a30ecea4
@@ -162,6 +145,25 @@ https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/BH_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DBH_TV_stream_i8&_cdn_session=6832197798&_cdn_token=0467c6e52d6b8bcb42b62c4fab3d47da03156565
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBHTV.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Casa Azul (1280x720) Blue House
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBHTV_stream_v0&_cdn_session=4155128603&_cdn_token=671863ae413bda36ce5fc0bc0da13c15e71ca5f7
+
+#EXTINF:    Iskhodnyy="✔️МД✅"                  tvg-logo="https://teleselva.com/wp-content/uploads/2025/03/Diseno-sin-titulo-1-e1743437097540.png" group-title="🇵🇪🗞️ Noticias 🚨",TeleSelva (1280x720) Satipo
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764340947/30593eac8bd8_480_270.jpg" group-title="🇵🇪🗞️ Noticias 🚨",TeleSelva (1280x720) Satipo
+https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://www.cnccajamarca.com/wp-content/uploads/2021/06/LOGO-CNC-24-HORAS.png" group-title="🇵🇪🗞️ Noticias 🚨",Canal de Noticias de Cajamarca (1920x1080) Jr. Juan Villanueva 324 - 06001
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+
+#EXTINF:    Iskhodnyy="✔️КНК✅"                  tvg-logo="https://www.cnctv.pe/api/default.png" group-title="🇵🇪🗞️ Noticias 🚨",Cable Noticias Canal (1280x720) Pevas 1301 - Iquitos 16002
+https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Область✅"                  tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV4.png" group-title="🇵🇪🗞️ Noticias 🚨",Region (1280x720) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647979447/cf7a1694e097_480_270.jpg" group-title="🇵🇪🗞️ Noticias 🚨",Region (1920x1080) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
+https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/1775081979482/ddba258dd964_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Voz Digital (1920x1080) Jr. Tacna 525 - La Perla
+https://live-evg8.tv360.bitel.com.pe/bitel/vozdigitalperu/playlist.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
@@ -586,9 +588,6 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/40-hls/live-med
 
 #EXTINF:    Iskhodnyy="❓TВ❔"                  tvg-logo="https://www.mitelefe.com/media/cache/logo/logo-telefe-blanco-69286e9c2c776.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",TeleFe (720x480)
 http://190.108.83.69:8000/play/a08l/index.m3u8
-
-#EXTINF:    Iskhodnyy="✔️ММ✅"                  tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",TeleMax (1920x1080)
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Лица✅"                  tvg-logo="https://yt3.googleusercontent.com/YJe5RXP1hXnPhELfVACSMRgIX1QKvXQ7mREVQRNCx72HYncSLcDhCVbldnTudMwkfIoGk6PW=s160-c-k-c0x00ffffff-no-rj" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Caras (1920x1080)
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
@@ -1227,8 +1226,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-1/730382067_4450272645194544_4328781685240962082_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s200x200&_nc_cat=102&ccb=1-7&_nc_sid=e99d92&_nc_ohc=JUVX1wtF5DwQ7kNvwEOM0eW&_nc_oc=AdoObX-KW2AUE5mcm-Hp0rvfQtQwWiIhDvR45RtWrvVLH_ZqhJYHdL9i5rmO-Sd-uEY&_nc_zt=24&_nc_ht=scontent-mia5-1.xx&_nc_gid=7Lzzq5jwDB5MSN6RaFW6XA&_nc_ss=7b2a8&oh=00_AQH2VUtaSBsaf8QQgIdfSna2bkBwtJypYKFy9zgHgSHIJg&oe=6A93EDC7" group-title="🌳 De la Selva su Encanto 🦜",Rios (1920x1080) Julio C. Tello Vargas Puerta 251 Piso 1 Interior 109 - San Francisco de Borja
 https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/playlist.m3u8
 
-#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
-
 #EXTINF:    Iskhodnyy="✔️ЮриВижн✅"                  tvg-logo="https://yurivision.com/assets/brand/logo-yurivision.png" group-title="🌳 De la Selva su Encanto 🦜",YuriVision (1280x720) Yurimaguas - Alto Amazonas
 https://live.obslivestream.com/yurivision/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/30/03/1769719385912/a368548cfbb4_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",YuriVision (1920x1080) Yurimaguas - Alto Amazonas
@@ -1461,6 +1458,9 @@ https://copaco.desdeparaguay.net/venusmedia/venusmedia_alt/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/02/21/1772460951208/d8a93cf1c8d3_480_270.png" group-title="🇦🇷 Argentina 🇦🇷",La Pampita Argentina 🇦🇷 (1280x720)
 https://live-evg10.tv360.bitel.com.pe/bitel/pampaargentina/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ММ✅"                  tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="🇦🇷 Argentina 🇦🇷",TeleMax (1920x1080)
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="🇦🇷 Argentina 🇦🇷",5 (1080x608)
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
