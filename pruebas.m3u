@@ -735,6 +735,10 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/PERUANISIMA-TV-02.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Peruanisima 🇵🇪 (1920X1080) HuancaYork
 https://sc3.wasidata.com/Peruanisima14_1614/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648233356/da7e065b6446_480_270.jpg" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Mix 🇵🇪 (1920x1080) Jr. Bruno Terreros Nº 216 – Oficina 202 - Chupaca
+https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTopLatino_win.png&width=100" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Arriba Latino 🇵🇪 (1280x720)
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/TopLatino_win/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTopLatino_win_stream_0s&_cdn_session=6816516342&_cdn_token=8f9493123f3d0748ed192a01cd0ac6abbd62bb1e
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTOPLATINO.png&width=100" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Arriba Latino 🇵🇪 (1280x720)
@@ -752,6 +756,11 @@ https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHTV.png&width=100" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Hispano 🇺🇸 (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHTV_stream_9c&_cdn_session=4154201099&_cdn_token=1df0a13365e195134c49d74422ea34137666c662
+
+#EXTINF:    Iskhodnyy="✔️Тропический✅"                  tvg-logo="https://radiotropical.pe/wp-content/uploads/2020/08/logo-png-fondo-blanco.jpg" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Tropical 🇵🇪 99.1 FM (1280x720) Jr. Bolognesi 157
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387726515/441c3231df73_480_270.jpg" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Tropical 🇵🇪 99.1 FM (1280x720) Jr. Bolognesi 157
+https://live-evg11.tv360.bitel.com.pe/bitel/tropical/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ТС✅"                  tvg-logo="https://turbomix.com.pe/wp-content/uploads/2025/09/e79ceee7-8ce3-4d56-9f6f-04774e5631cb1.png" group-title="🎧 Melodiya 🇵🇪 e HisPana 🔊",Turbo Mix 🇵🇪 (1920x1080) Jr. Miguel Iglesias 483
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
@@ -1129,7 +1138,7 @@ https://7.innovatestream.pe:19360/planetajaen/planetajaen.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/04/05/177257580770/6db7ebc6ef35_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Planea (1920x1080) Av Evitamiento 961 - La Molina - Montegrande
 https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641500666/9204c41b4241_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Nexxor (1920x1080) HuancaYork
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641500666/9204c41b4241_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Nexxor (1920x1080) Jr. Bruno Terreros Nº 216 – Oficina 202 - Chupaca
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Родной✅"                  tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2025/03/nativa-21-1.png" group-title="🏔️ Corazon de los Andes 🦙",Nativa (1280x720) Jr. Junin 162A 3er Piso - La Merced
@@ -1247,11 +1256,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643662584/0fd8255b8863_480_270.jpg" group-title="🌳 De la Selva su Encanto 🦜",Ucayali (1920x1080) Calleria
 https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Тропический✅"                  tvg-logo="https://radiotropical.pe/wp-content/uploads/2020/08/logo-png-fondo-blanco.jpg" group-title="🌳 De la Selva su Encanto 🦜",Tropical 99.1 FM (1280x720) Jr. Bolognesi 157
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/1767387726515/441c3231df73_480_270.jpg" group-title="🌳 De la Selva su Encanto 🦜",Tropical 99.1 FM (1280x720) Jr. Bolognesi 157
-https://live-evg11.tv360.bitel.com.pe/bitel/tropical/playlist.m3u8
-
 #EXTINF:    Iskhodnyy="✔️Общий✅"                  tvg-logo="https://rtvtotal.com.pe/wp-content/uploads/2024/11/logo2-1.png" group-title="🌳 De la Selva su Encanto 🦜",Total (1280x720) Calle Ucayali 630
 https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/31/06/1774914040862/d123fa364824_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Total (1280x720) Calle Ucayali 630
@@ -1279,9 +1283,6 @@ https://play.agenciastreaming.com:8081/nextv/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/04/05/1772578731585/af488e42bb5e_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Nex 1920x1080() Pucallpa
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648233356/da7e065b6446_480_270.jpg" group-title="🌳 De la Selva su Encanto 🦜",Mix (1920x1080) Paseo Parodi Nº 370 – San Isidro
-https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
-
 #EXTINF:    Iskhodnyy="✔️Владелец✅"                  tvg-logo="https://mastertvradio.com/wp-content/uploads/2024/11/logoweb1.png" group-title="🌳 De la Selva su Encanto 🦜",Master (854x480) Jr. Union 226 - Piso 3
 https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="✔️Владелец✅"                  tvg-logo="https://mastertvradio.com/wp-content/uploads/2024/11/logoweb3.png" group-title="🌳 De la Selva su Encanto 🦜",Master (854x480) Jr. Union 226 - Piso 3
@@ -1295,9 +1296,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️Гении✅"                  tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Genios (1920x1080) Jr. Libertad 406 - Barrio de Huastilla
 https://sc3.wasidata.com/Genios2_1902/tracks-v1a1/mono.m3u8
 
-#EXTINF:    Iskhodnyy="✔️CC✅"                  tvg-logo="https://doblec.com.pe/wp-content/uploads/2025/10/LOGO-DOBLE-C-21.png" group-title="🌳 De la Selva su Encanto 🦜",Doble C (1920x1080) Jiron Los Incas Nº 378
+#EXTINF:    Iskhodnyy="✔️CC✅"                  tvg-logo="https://doblec.com.pe/wp-content/uploads/2025/10/LOGO-DOBLE-C-21.png" group-title="🌳 De la Selva su Encanto 🦜",Doble C (1920x1080) Jr. Bruno Terreros Nº 216 – Oficina 202 - Chupaca
 https://183.bozztv.com/giatv/giatv-doblec1/doblec1/chunks.m3u8
-#EXTINF:    Iskhodnyy="✔️CC✅"                  tvg-logo="https://doblec.com.pe/wp-content/uploads/2025/10/DOBLE-C-TV.png" group-title="🌳 De la Selva su Encanto 🦜",Doble C (1920x1080) Jiron Bruno Terreros Nº 216
+#EXTINF:    Iskhodnyy="✔️CC✅"                  tvg-logo="https://doblec.com.pe/wp-content/uploads/2025/10/DOBLE-C-TV.png" group-title="🌳 De la Selva su Encanto 🦜",Doble C (1920x1080) Jr. Bruno Terreros Nº 216 – Oficina 202 - Chupaca
 https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/12/03/1770842577740/0b3323f6ab86_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Charapa (1920x1080) Interseccion del Jr. Libertad y la Calle Prado - Campo Verde
