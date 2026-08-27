@@ -488,13 +488,27 @@ https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Hogar_TV_SIGNAL/10-hls/live
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️TС✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lOwzON3-iyVFaLvGNzITxiGnuf0VDbakf_kNrLJuPkjyQ=s160-c-k-c0x00ffffff-no-rj" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Tele 7 🇪🇸 (1280x720)
-https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
-
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FNEOTV.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Neo (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NEOTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNEOTV_stream_83&_cdn_session=4155114075&_cdn_token=34ef7221a1e6e7b3dfcb27541bd284fcf7ef0fb0
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2Fdigital.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Neo (720x576)
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/NEOTV/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNEOTV_stream_88&_cdn_session=6832074630&_cdn_token=f310fee0c161cb8d35dc968382fae0718de14124
+
+#EXTINF:    Iskhodnyy="✔️СД✅"                  tvg-logo="https://conecta2.pe/wp-content/uploads/2023/09/logo-oficial.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Conecta2 (1280x720)
+https://live.obslivestream.com/conecta2/tracks-v1a1/mono.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FConecta2.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Conecta2 (1280x720)
+https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/Conecta2/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DConecta2_stream_9b&_cdn_session=6831802678&_cdn_token=5df7cf37783072f37394a9fb44dd2e51dde138df
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCONECTA2.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Conecta2 (1280x720)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCONECTADA2_stream_so&_cdn_session=4155088667&_cdn_token=5a916553313b494446f5c9c701e3708da3e92cd3
+
+#EXTINF:    Iskhodnyy="✔️TС✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lOwzON3-iyVFaLvGNzITxiGnuf0VDbakf_kNrLJuPkjyQ=s160-c-k-c0x00ffffff-no-rj" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Tele 7 🇪🇸 (1280x720)
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643313546/ffc5b7c6b272_480_270.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Fuego (1920x1080)
+https://live-evg5.tv360.bitel.com.pe/bitel/fuegotv/playlist.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLikeTV.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Fuego (1280x720)
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/FUEGO_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLIKETV_PRUEBA_stream_lg&_cdn_session=6830674310&_cdn_token=2834b2ffcacd4abbfb268a22c0378f73049aa223
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FFUEGOTV.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Fuego (1024x576)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FUEGOTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFUEGOTV_stream_19&_cdn_session=4154974203&_cdn_token=999cf52e361b530a99eb54ceeb5a8029b10d3bfa
 
 #EXTINF:    Iskhodnyy="✔️Триву✅"                  tvg-logo="https://yt3.googleusercontent.com/7DmotRepBkvbFSoaxNtuaFhEeP-hsDXo7hUse7J8oSRErenQ8RNlgf5EVThQPskqslW6tNOa2xk=s160-c-k-c0x00ffffff-no-rj" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Trivu (1920x1080)
 https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103_output_0.m3u8
@@ -511,20 +525,6 @@ https://live-evg13.tv360.bitel.com.pe/bitel/juntostvSRT/chunks.m3u8
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/CANALJ_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DCANALJ_1_stream_gm&_cdn_session=6806542710&_cdn_token=aa4e785b495dc190505445dad680be42d0f1ce43
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FJUNTOSTV.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Juntos (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/JUNTOSTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DJUNTOSTV_stream_9l&_cdn_session=4152388019&_cdn_token=e7295d67f25f574e64ff3772af852b21d0d7e748
-
-#EXTINF:    Iskhodnyy="✔️СД✅"                  tvg-logo="https://conecta2.pe/wp-content/uploads/2023/09/logo-oficial.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Conecta2 (1280x720)
-https://live.obslivestream.com/conecta2/tracks-v1a1/mono.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FConecta2.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Conecta2 (1280x720)
-https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/Conecta2/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DConecta2_stream_9b&_cdn_session=6831802678&_cdn_token=5df7cf37783072f37394a9fb44dd2e51dde138df
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCONECTA2.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Conecta2 (1280x720)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCONECTADA2_stream_so&_cdn_session=4155088667&_cdn_token=5a916553313b494446f5c9c701e3708da3e92cd3
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643313546/ffc5b7c6b272_480_270.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Fuego (1920x1080)
-https://live-evg5.tv360.bitel.com.pe/bitel/fuegotv/playlist.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLikeTV.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Fuego (1280x720)
-https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/FUEGO_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLIKETV_PRUEBA_stream_lg&_cdn_session=6830674310&_cdn_token=2834b2ffcacd4abbfb268a22c0378f73049aa223
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FFUEGOTV.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Fuego (1024x576)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FUEGOTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFUEGOTV_stream_19&_cdn_session=4154974203&_cdn_token=999cf52e361b530a99eb54ceeb5a8029b10d3bfa
 
 #EXTINF:    Iskhodnyy="✔️ХЦ✅"                  tvg-logo="https://www.milenial.news/images/advert-box.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Milenial (1920x1080)
 https://vps.chasquirouter.com/salida/milenial.m3u8
@@ -553,6 +553,14 @@ https://live-evg10.tv360.bitel.com.pe/bitel/epatv/chunks.m3u8
 https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/UNIVISION/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DUNIVISION_stream_c0&_cdn_session=6805161702&_cdn_token=eec3667f6e37215a2e89daff1000b0216456c630
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FUNIVISION.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",UniVision 🇺🇸 (1024x576)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UNIVISION/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVISION_stream_ft&_cdn_session=4151869773&_cdn_token=d4ad86d55f247ffd27a65e3f3c8becaba57b3075
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTelemundo.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",TeleMundo 🇺🇸 (1280x720)
+https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/Telemundo/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTelemundo_stream_xz&_cdn_session=6805134582&_cdn_token=adcb6dc9d02ecf511acbc08d20d2580904fa36e4
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTELEMUNDO.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",TeleMundo 🇺🇸 (1024x576)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=4151865773&_cdn_token=4af89d08227c5efce6fc853b111c2900fe974fe2
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNuestra_tele.png&width=100" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",Nuestra Tele 🇨🇴 (720x576)
+https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Nuestra_tele_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNuestra_tele_stream_ry&_cdn_session=6805531942&_cdn_token=641b2cd970befab719f282e7c155741a7c502a21
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
@@ -1714,14 +1722,6 @@ https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Метро✅"                  tvg-logo="https://yt3.googleusercontent.com/WLb6jGaP9US93BrR7Avg08tX11SWlBBgMba3457pD3ZD3My3FTLU71sryd8tWeqZ3JQ24DON=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Metro (1280x720)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTelemundo.png&width=100" group-title="🥀 Drama y Novelas 🍷",TeleMundo 🇺🇸 (1280x720)
-https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/Telemundo/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTelemundo_stream_xz&_cdn_session=6805134582&_cdn_token=adcb6dc9d02ecf511acbc08d20d2580904fa36e4
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTELEMUNDO.png&width=100" group-title="🥀 Drama y Novelas 🍷",TeleMundo 🇺🇸 (1024x576)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=4151865773&_cdn_token=4af89d08227c5efce6fc853b111c2900fe974fe2
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNuestra_tele.png&width=100" group-title="🥀 Drama y Novelas 🍷",Nuestra Tele 🇨🇴 (720x576)
-https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Nuestra_tele_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNuestra_tele_stream_ry&_cdn_session=6805531942&_cdn_token=641b2cd970befab719f282e7c155741a7c502a21
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
