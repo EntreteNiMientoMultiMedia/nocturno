@@ -712,7 +712,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AGROTV/20-hls/live-media.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ХЦ✅"                  tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png" group-title="📈 Negocios y Emprendimiento 🚀",Onda Digital 🇵🇪 (1920x1080)
 https://live.ondadigitaltv.com/ODTV/tracks-a1v1/index.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FODVT.png&width=100" group-title="📈 Negocios y Emprendimiento 🚀",Onda Digital 🇵🇪 ()
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FODVT.png&width=100" group-title="📈 Negocios y Emprendimiento 🚀",Onda Digital 🇵🇪 (720x576)
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Onda_digital/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DOnda_digital_stream_ps&_cdn_session=7202830083&_cdn_token=6b13ec7fbf84b85c2c9e9d464536dda7a0827e7d
 
 #EXTINF:    Iskhodnyy="✔️КП✅"                  tvg-logo="https://static.wixstatic.com/media/3fae4e_47eb435907ab4d95a9832a2022fbe604~mv2.png/v1/fill/w_291,h_133,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PRO%20PNG%20BLANCO.png" group-title="📈 Negocios y Emprendimiento 🚀",Canal Pro 🇵🇾 (1280x720)
