@@ -514,6 +514,11 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UNIVISION/20-hls/live-media.m
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNuestra_tele.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Nuestra Tele 🇨🇴 (720x576)
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Nuestra_tele_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNuestra_tele_stream_ry&_cdn_session=6805531942&_cdn_token=641b2cd970befab719f282e7c155741a7c502a21
 
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAZMUNDO.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Azteca InterNacional 🇲🇽 ()
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AZMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZMUNDO_stream_6q&_cdn_session=4172763011&_cdn_token=341977fa03433f7475e698b4d1126c72eddc6288
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FAzteca_internacional.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Azteca InterNacional 🇲🇽 ()
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Azteca_internacional_SIGNAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAzteca_internacional_MIC_stream_p9&_cdn_session=7197663395&_cdn_token=1bdaead49ac6f54a33f948c411b6438cde6d9fb4
+
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FE.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",E! (1280x720)
 https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FECH.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",E! (1280x720)
@@ -685,6 +690,8 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8?
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FGamarra.png&width=100" group-title="📈 Negocios y Emprendimiento 🚀",Gamarra 🇵🇪 (1280x720)
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/gamarra/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dgamarra_stream_y1&_cdn_session=6815966870&_cdn_token=fb7eaf853761fbadea45ebac15434fb2f2d989cb
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FRumbo_minero.png&width=100" group-title="📈 Negocios y Emprendimiento 🚀",Rumbo Minero 🇵🇪 ()
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Rumbo_minero/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DRumbo_minero_stream_58&_cdn_session=7197617187&_cdn_token=32a74191765d12c23bb32ee4fa48cb2e09ae4d72
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/01/07/1785542811672/6b2d9581f7df_480_270.png" group-title="📈 Negocios y Emprendimiento 🚀",Rumbo Minero 🇵🇪 (1280x720)
 https://live-evg8.tv360.bitel.com.pe/bitel/minero/chunks.m3u8
 
@@ -702,6 +709,8 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AGROTV/20-hls/live-media.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ХЦ✅"                  tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png" group-title="📈 Negocios y Emprendimiento 🚀",Onda Digital 🇵🇪 (1920x1080)
 https://live.ondadigitaltv.com/ODTV/tracks-a1v1/index.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FODVT.png&width=100" group-title="📈 Negocios y Emprendimiento 🚀",Onda Digital 🇵🇪 ()
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Rumbo_minero/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DRumbo_minero_stream_58&_cdn_session=7197617187&_cdn_token=32a74191765d12c23bb32ee4fa48cb2e09ae4d72
 
 #EXTINF:    Iskhodnyy="✔️КП✅"                  tvg-logo="https://static.wixstatic.com/media/3fae4e_47eb435907ab4d95a9832a2022fbe604~mv2.png/v1/fill/w_291,h_133,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PRO%20PNG%20BLANCO.png" group-title="📈 Negocios y Emprendimiento 🚀",Canal Pro 🇵🇾 (1280x720)
 https://www.desde-paraguay.com/pro.m3u8
