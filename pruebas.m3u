@@ -42,6 +42,9 @@ https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/GLOBAL_WIN/40-hls/live-medi
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FGLOBAL.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Global (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=4157173251&_cdn_token=84eb194d200905766cf280fe8ef6212bab5b3b90
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FViva_WIN.png&width=100" group-title="📡🇵🇪 Primørdial 📺",Viva (1280x720)
+https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/VIVA_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVIVA_WIN_stream_wp&_cdn_session=6830437542&_cdn_token=4fbb5657da0d620c01b888ca08bf86cd8e223d47
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLATINANOTI.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Latina Noticias (1280x720)
@@ -80,9 +83,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FPBO.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Oficina de RadioDifusion del Peru (720x576) PBO
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/PBO2/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DPBO2_stream_ch&_cdn_session=6208910678&_cdn_token=0e71d44a30ef856a73642aa6c2f9de39c0635980
 
-#EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Cable Peru Noticias (1280x720)
-https://video2.lhdserver.es/cableperu/live.m3u8
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FCANALB.png&width=100" group-title="🇵🇪🗞️ Noticias 🚨",Canal Baella (1280x720)
 https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/CANALB/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DPrueba_stream_1g&_cdn_session=6208745910&_cdn_token=fa874166bdddbbc6131664711ff64a1314b8551b
 
@@ -109,60 +109,52 @@ https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/justiciatv/10-hls/live-medi
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FSolTV.png&width=100" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Sol (720x576) Avenida Jesus de Nazareth 1323 - Urbanizacion Covicorti
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FSolTV.png&width=100" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Sol (720x576) Avenida Jesus de Nazareth 1323 - Urbanizacion Covicorti
 https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/sol/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dsol_stream_r6&_cdn_session=6850806726&_cdn_token=f39e6f397924e13135fb1c2a5615246dc6a56ac6
-#EXTINF:    Iskhodnyy="✔️Солнце✅"                  tvg-logo="https://soltvperu.com/wp-content/uploads/2026/06/htetjh-03.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Sol (720x576) Avenida España 345 - Trujillo
+#EXTINF:    Iskhodnyy="✔️Солнце✅"                  tvg-logo="https://soltvperu.com/wp-content/uploads/2026/06/htetjh-03.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Sol (720x576) Avenida España 345 - Trujillo
 https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647241133/922bc3f51820_480_270.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Sol (720x576) Avenida Paseo de la Republica 5753 - Miraflores
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647241133/922bc3f51820_480_270.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas,Sol (720x576) Avenida Paseo de la Republica 5753 - Miraflores
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641331255/4b71507e26a5_480_270.jpg" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Compañia de TeleVision Cusqueña (1920X1080) Av. de la Cultura 3035 - Wanchaq
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641331255/4b71507e26a5_480_270.jpg" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Compañia de TeleVision Cusqueña (1920X1080) Av. de la Cultura 3035 - Wanchaq
 https://live-evg7.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647179623/f2fda43856b1_480_270.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Radio Uno (1280x720) Avenida Dos de Mayo N° 263
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647179623/f2fda43856b1_480_270.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Radio Uno (1280x720) Avenida Dos de Mayo N° 263
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://cosmos.pe/wp-content/uploads/2026/01/logo-cosmos.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Cosmos (854x480) Avenida Victor Larco N° 1679 - 13009
+#EXTINF:    Iskhodnyy="✔️Космос✅"                  tvg-logo="https://cosmos.pe/wp-content/uploads/2026/01/logo-cosmos.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Cosmos (854x480) Avenida Victor Larco N° 1679 - 13009
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/14/22/1778773449664/bb9c09f95b29_480_270.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Cosmos (854x480) Avenida Victor Larco N° 1679 - 13009
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/14/22/1778773449664/bb9c09f95b29_480_270.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Cosmos (854x480) Avenida Victor Larco N° 1679 - 13009
 https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Эко✅"                  tvg-logo="https://ecoperu.tv/wp-content/uploads/2024/02/Eco.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
+#EXTINF:    Iskhodnyy="✔️Эко✅"                  tvg-logo="https://ecoperu.tv/wp-content/uploads/2024/02/Eco.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
 https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FECOTV.png&width=100" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FECOTV.png&width=100" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ECOTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECOTV_stream_5g&_cdn_session=4156898323&_cdn_token=6fd30a503e562da8fab2955e77725027e3bffb10
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647583280/b0a1fe2a450f_480_270.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647583280/b0a1fe2a450f_480_270.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Eco (1280x720) Calle Bolívar 473 - Cercado de Ica - 11001
 https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCTV.png&width=100" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Central (1280x720) CTv
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCTV.png&width=100" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Central (1280x720) CTv
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCTV_stream_7w&_cdn_session=4155011427&_cdn_token=4e40a27db32ef52f931b2cf8a9a3ad82a30ecea4
 
-#EXTINF:    Iskhodnyy="✔️СД✅"                  tvg-logo="https://bhtv.pe/wp-content/uploads/2025/01/logo-2025web-300x205.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Casa Azul (1280x720) Blue House
+#EXTINF:    Iskhodnyy="✔️СД✅"                  tvg-logo="https://bhtv.pe/wp-content/uploads/2025/01/logo-2025web-300x205.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Casa Azul (1280x720) Blue House
 https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w712406729.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767640937611/3e9e20e09e21_480_270.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Casa Azul (1280x720) Blue House
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767640937611/3e9e20e09e21_480_270.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Casa Azul (1280x720) Blue House
 https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBH_TV.png&width=100" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Casa Azul (1280x720) Blue House
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBH_TV.png&width=100" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Casa Azul (1280x720) Blue House
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/BH_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DBH_TV_stream_i8&_cdn_session=6832197798&_cdn_token=0467c6e52d6b8bcb42b62c4fab3d47da03156565
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBHTV.png&width=100" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Casa Azul (1280x720) Blue House
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBHTV.png&width=100" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Casa Azul (1280x720) Blue House
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBHTV_stream_v0&_cdn_session=4155128603&_cdn_token=671863ae413bda36ce5fc0bc0da13c15e71ca5f7
 
-#EXTINF:    Iskhodnyy="✔️МД✅"                  tvg-logo="https://teleselva.com/wp-content/uploads/2025/03/Diseno-sin-titulo-1-e1743437097540.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",TeleSelva (1280x720) Satipo
-https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764340947/30593eac8bd8_480_270.jpg" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",TeleSelva (1280x720) Satipo
-https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://www.cnccajamarca.com/wp-content/uploads/2021/06/LOGO-CNC-24-HORAS.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Canal de Noticias de Cajamarca (1920x1080) Jr. Juan Villanueva 324 - 06001
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://www.cnccajamarca.com/wp-content/uploads/2021/06/LOGO-CNC-24-HORAS.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Canal de Noticias de Cajamarca (1920x1080) Jr. Juan Villanueva 324 - 06001
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
-#EXTINF:    Iskhodnyy="✔️КНК✅"                  tvg-logo="https://www.cnctv.pe/api/default.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Cable Noticias Canal (1280x720) Pevas 1301 - Iquitos 16002
-https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/mono.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Область✅"                  tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV4.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Region (1280x720) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
+#EXTINF:    Iskhodnyy="✔️Область✅"                  tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV4.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Region (1280x720) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
 https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647979447/cf7a1694e097_480_270.jpg" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Region (1920x1080) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647979447/cf7a1694e097_480_270.jpg" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Region (1920x1080) Av. 1ero de Mayo 866 - Carmen de la Legua Reynoso
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/1775081979482/ddba258dd964_480_270.png" group-title="📰🇵🇪 Regional DesCentralizado 🌄 Noticias",Voz Digital (1920x1080) Jr. Tacna 525 - La Perla
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/1775081979482/ddba258dd964_480_270.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Voz Digital (1920x1080) Jr. Tacna 525 - La Perla
 https://live-evg8.tv360.bitel.com.pe/bitel/vozdigitalperu/playlist.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
@@ -415,9 +407,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️Симпсон✅"                  tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/b589a828-a253-4912-a25f-624206ac535f/compose?format=webp&width=350" group-title="🔄 24/7 (Maratones) 🍿",Los Simpson (1280x720)
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ЛК✅"                  tvg-logo="https://assets.rudo.video/assets/latina/live/logoApi_41f7da8c23667b5df6d91c67782924e81757541245.png" group-title="🔄 24/7 (Maratones) 🍿",Latina Clásicos (1920x1080)
-https://jireh-6-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8
-
 #EXTINF:    Iskhodnyy="✔️ПМд✅"                  tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/753bd1ad-fa2c-4b29-8326-b0d01cbeebcd/compose?format=webp&width=350" group-title="🔄 24/7 (Maratones) 🍿",El Hombre que Araña 90´s (1280x720)
 https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 
@@ -432,39 +421,31 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FESTRELLAS.png&width=100" group-title="🥀 Drama y Novelas 🍷",Las Estrellas 🇲🇽 (1280x720)
-https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/LAS_ESTRELLAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLAS_ESTRELLAS_stream_rg&_cdn_session=6805103670&_cdn_token=b97d058b18dd9c507dd3b9b782e60c0ab6d0a9c0
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCHESTRELLAS.png&width=100" group-title="🥀 Drama y Novelas 🍷",Las Estrellas 🇲🇽 (1024x576)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CHESTRELLAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCHESTRELLAS_stream_8c&_cdn_session=4151862965&_cdn_token=65af047128ba10c4c61ef86d93f4d5d503b04daa
-
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FKANALD.png&width=100" group-title="🥀 Drama y Novelas 🍷",Kanal D 🇹🇷 (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=4138237667&_cdn_token=0a7a32bba06e65d3d22680d1a5b59c89e0bec0c3
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTelemundo.png&width=100" group-title="🥀 Drama y Novelas 🍷",TeleMundo 🇺🇸 (1280x720)
-https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/Telemundo/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTelemundo_stream_xz&_cdn_session=6805134582&_cdn_token=adcb6dc9d02ecf511acbc08d20d2580904fa36e4
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTELEMUNDO.png&width=100" group-title="🥀 Drama y Novelas 🍷",TeleMundo 🇺🇸 (1024x576)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=4151865773&_cdn_token=4af89d08227c5efce6fc853b111c2900fe974fe2
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTLNOVELAS.png&width=100" group-title="🥀 Drama y Novelas 🍷",TL Novelas 🇲🇽 (1280x720)
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/TLNOVELAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTLNOVELAS_stream_45&_cdn_session=6995061715&_cdn_token=f959aabeaa8ad5989a2260bdd3bf82f94c8334d8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTELENOVELAS.png&width=100" group-title="🥀 Drama y Novelas 🍷",TL Novelas 🇲🇽 (1024x576)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TELENOVELAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOVELAS_stream_ak&_cdn_session=4138234507&_cdn_token=2ceddc114e3cf674cba743be719275cdead218e7
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNuestra_tele.png&width=100" group-title="🥀 Drama y Novelas 🍷",Nuestra Tele 🇨🇴 (720x576)
-https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Nuestra_tele_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNuestra_tele_stream_ry&_cdn_session=6805531942&_cdn_token=641b2cd970befab719f282e7c155741a7c502a21
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2Fpasiones.png&width=100" group-title="🥀 Drama y Novelas 🍷",Pasiones 🇺🇸 (1280x720)
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/pasiones/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dpas_stream_th&_cdn_session=6995114195&_cdn_token=3176f45a81a72e16a948f528d98b9d379e2e03b1
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPASIONES.png&width=100" group-title="🥀 Drama y Novelas 🍷",Pasiones 🇺🇸 (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=4138243083&_cdn_token=afade9cc0ed6669e80df64b96ea3ef7f950fcceb
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNOVELAS.png&width=100" group-title="🥀 Drama y Novelas 🍷",Radio Cadena Nacional Novelas 🇨🇴 (1280x720)
-https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Novelas_SIGNAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNovelas_stream_qw&_cdn_session=6995227075&_cdn_token=20b3973b51e4499745e3503dd758d54b122a2119
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FCorazon.png&width=100" group-title="🥀 Drama y Novelas 🍷",Corazón 🇲🇽 (1280x720)
 https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/Corazon_SIGNAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DCorazon_SIGNAL_stream_8c&_cdn_session=6995403507&_cdn_token=5f17cda8b38becec97661e6ff28232d001818049
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAZCORAZON.png&width=100" group-title="🥀 Drama y Novelas 🍷",Corazón 🇲🇽 (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=4138277235&_cdn_token=811ab3d08ac7f6482ce819ed258bc71c6e6a074e
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNOVELAS.png&width=100" group-title="🥀 Drama y Novelas 🍷",Radio Cadena Nacional Novelas 🇨🇴 (1280x720)
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Novelas_SIGNAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNovelas_stream_qw&_cdn_session=6995227075&_cdn_token=20b3973b51e4499745e3503dd758d54b122a2119
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FESTRELLAS.png&width=100" group-title="🥀 Drama y Novelas 🍷",Las Estrellas 🇲🇽 (1280x720)
+https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/LAS_ESTRELLAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLAS_ESTRELLAS_stream_rg&_cdn_session=6805103670&_cdn_token=b97d058b18dd9c507dd3b9b782e60c0ab6d0a9c0
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FCHESTRELLAS.png&width=100" group-title="🥀 Drama y Novelas 🍷",Las Estrellas 🇲🇽 (1024x576)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CHESTRELLAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCHESTRELLAS_stream_8c&_cdn_session=4151862965&_cdn_token=65af047128ba10c4c61ef86d93f4d5d503b04daa
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLife_Time.png&width=100" group-title="🥀 Drama y Novelas 🍷",Vida Tiempo 🇺🇸 (1280x720) LifeTime
 https://cdnmain7.win.cdn.moderntv.eu:7909/win/stream/LIFETIME/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLIFETIME_stream_u7&_cdn_session=6995455939&_cdn_token=146e6e56ce0f037837a74f1f472c8b7d7d76bb78
@@ -1390,7 +1371,7 @@ https://copaco.desdeparaguay.net/venusmedia/venusmedia_alt/playlist.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="❓TВ❔"                  tvg-logo="https://www.mitelefe.com/media/cache/logo/logo-telefe-blanco-69286e9c2c776.png" group-title="🏙️ TeleVision 2.0 🎭 Magazin & Tendencias 🤳",TeleFe (720x480)
+#EXTINF:    Iskhodnyy="❓TВ❔"                  tvg-logo="https://www.mitelefe.com/media/cache/logo/logo-telefe-blanco-69286e9c2c776.png" group-title="🇦🇷 Argentina 🇦🇷",TeleFe (720x480)
 http://190.108.83.69:8000/play/a08l/index.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/02/21/1772460951208/d8a93cf1c8d3_480_270.png" group-title="🇦🇷 Argentina 🇦🇷",La Pampita Argentina 🇦🇷 (1280x720)
@@ -1689,6 +1670,16 @@ https://gia.tv/
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="✔️КНК✅"                  tvg-logo="https://www.cnctv.pe/api/default.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",Cable Noticias Canal (1280x720) Pevas 1301 - Iquitos 16002
+https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="✔️МД✅"                  tvg-logo="https://teleselva.com/wp-content/uploads/2025/03/Diseno-sin-titulo-1-e1743437097540.png" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",TeleSelva (1280x720) Satipo
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764340947/30593eac8bd8_480_270.jpg" group-title="📰🇵🇪 Noticia Regional 🌄 DesCentralizadas",TeleSelva (1280x720) Satipo
+https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
+
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645515476/68d99d53548a_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",Bitt (1920x1080)
 https://live-evg10.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBITCHANNEL.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Bitt (1280x720)
@@ -1708,9 +1699,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/chunks.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/13/04/1778619708408/3beabf5356a8_480_270.png" group-title="🌐 Alternativos & Nativos Digitales 📲",WO Digital (1920x1080)
 https://live-evg10.tv360.bitel.com.pe/bitel/WODigitalSRT/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FViva_WIN.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",Viva (1280x720)
-https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/VIVA_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVIVA_WIN_stream_wp&_cdn_session=6830437542&_cdn_token=4fbb5657da0d620c01b888ca08bf86cd8e223d47
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLatele.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",La Tele (1280x720)
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/LATELE_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLATELE_WIN_stream_0d&_cdn_session=6853730262&_cdn_token=cfd448304bdb54dc32500cf574c119b1b7086674
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLATELE.png&width=100" group-title="🌐 Alternativos & Nativos Digitales 📲",La Tele (1280x720)
@@ -1723,6 +1711,14 @@ https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Метро✅"                  tvg-logo="https://yt3.googleusercontent.com/WLb6jGaP9US93BrR7Avg08tX11SWlBBgMba3457pD3ZD3My3FTLU71sryd8tWeqZ3JQ24DON=s160-c-k-c0x00ffffff-no-rj" group-title="🌐 Alternativos & Nativos Digitales 📲",Metro (1280x720)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTelemundo.png&width=100" group-title="🥀 Drama y Novelas 🍷",TeleMundo 🇺🇸 (1280x720)
+https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/Telemundo/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTelemundo_stream_xz&_cdn_session=6805134582&_cdn_token=adcb6dc9d02ecf511acbc08d20d2580904fa36e4
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTELEMUNDO.png&width=100" group-title="🥀 Drama y Novelas 🍷",TeleMundo 🇺🇸 (1024x576)
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=4151865773&_cdn_token=4af89d08227c5efce6fc853b111c2900fe974fe2
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNuestra_tele.png&width=100" group-title="🥀 Drama y Novelas 🍷",Nuestra Tele 🇨🇴 (720x576)
+https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Nuestra_tele_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNuestra_tele_stream_ry&_cdn_session=6805531942&_cdn_token=641b2cd970befab719f282e7c155741a7c502a21
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
