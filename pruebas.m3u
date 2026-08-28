@@ -334,6 +334,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/rt/chunks.m3u8
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FRT.png&width=100" group-title="📰🌐 Noticias del Mundo 🚨",Hoy Rusia (1280x720) RT
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/RT_L/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DRT_L_stream_tf&_cdn_session=6988881747&_cdn_token=698d779fc5845fdb761210465c6bf2f755481a0c
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FRTRUSIA.png" group-title="📰🌐 Noticias del Mundo 🚨",Hoy Rusia (1024x576) RT
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/RTRUSIA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DRTRUSIA_stream_e5&_cdn_session=4173983355&_cdn_token=89276379bf3c61ca37344cd6bdc7f9ab917ee97c
 
 #EXTINF:    Iskhodnyy="✔️Вн✅"                  tvg-logo="https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s160-c-k-c0x00ffffff-no-rj" group-title="📰🌐 Noticias del Mundo 🚨",Onda Alemana (1920x1080) DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
