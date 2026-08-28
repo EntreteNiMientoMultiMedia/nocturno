@@ -242,7 +242,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/40-hls/live-media.m3
 #EXTINF:    Iskhodnyy="✔️зОР✅"                  tvg-logo="https://yt3.googleusercontent.com/thkcxHoryUINUS3Nl2NyxlZNG3W641DspALMK1bg0psURCf_QVGMg97vUnCUNQxmvbLOACjN=s160-c-k-c0x00ffffff-no-rj" group-title="🥀 Drama y Novelas 🍷",Sony Uno Novelas (1280x720)
 https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ВР✅"                  tvg-logo="https://yt3.googleusercontent.com/f4ClnogtOTfPmuEMCIMGHDRU8OXZK7J7V448aoGa7ZoLI1WLYqZazZ9pyJoYRwwBfZXMUkHAY3o=s160-c-k-c0x00ffffff-no-rj" group-title="🥀 Drama y Novelas 🍷",Todo Novelas ()
+#EXTINF:    Iskhodnyy="✔️ВР✅"                  tvg-logo="https://yt3.googleusercontent.com/f4ClnogtOTfPmuEMCIMGHDRU8OXZK7J7V448aoGa7ZoLI1WLYqZazZ9pyJoYRwwBfZXMUkHAY3o=s160-c-k-c0x00ffffff-no-rj" group-title="🥀 Drama y Novelas 🍷",Todo Novelas (1920x1080)
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 
 #EXTINF:    Iskhodnyy="❓ТСТР❔"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTNTNOVELAS.png&width=100" group-title="🥀 Drama y Novelas 🍷",Turner Novelas (1920x1080)
@@ -306,10 +306,10 @@ https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/AXN/40-hls/live-media.m3u8?
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FCineClick.png&width=100" group-title="🎬🎥 Cine en tus Manos 🎟️📱",CineClick (1280x720)
 https://cdnmain7.win.cdn.moderntv.eu:7909/win/stream/CineClick_SIGNAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DCineClick_SIGNAL_stream_k1&_cdn_session=7214989731&_cdn_token=39ca211529bc58bdc4a165dc2c9bc3edb98ecef5
 
-#EXTINF:    Iskhodnyy="❓ТСТР❔"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTNT_SERIES.png" group-title="📹📷 MultiVersos Seriales 🎥📽️",Turner Series ()
-http://186.33.26.18:8000/play/a0l8/index.m3u8
-#EXTINF:    Iskhodnyy="❓ТСТР❔"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTNT_SERIES.png" group-title="📹📷 MultiVersos Seriales 🎥📽️",Turner Series ()
+#EXTINF:    Iskhodnyy="❓ТСТР❔"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTNT_SERIES.png" group-title="📹📷 MultiVersos Seriales 🎥📽️",Turner Series (1920x1080)
 http://181.224.255.210:8001/play/a0ls/index.m3u8
+#EXTINF:    Iskhodnyy="❓ТСТР❔"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTNT_SERIES.png" group-title="📹📷 MultiVersos Seriales 🎥📽️",Turner Series (1280x720)
+http://186.33.26.18:8000/play/a0l8/index.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
