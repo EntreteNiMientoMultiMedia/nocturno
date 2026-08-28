@@ -536,6 +536,9 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FHOGAR_TV.png&width=100" group-title="🛋️ Estilo de Vida & Hogar 🪴",Hogar (720x576)
+https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Hogar_TV_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dhogar_tv_stream_vo&_cdn_session=6806609030&_cdn_token=28f35def94720cc0d5abdfd6d7e908a90c57c530
+
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FGOURMET.png&width=100" group-title="🛋️ Estilo de Vida & Hogar 🪴",El Gastronomo (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_sj&_cdn_session=4152384043&_cdn_token=e9c23bc577114ce28452a7e2b406edb109185555
 
@@ -550,14 +553,6 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_c
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHGTV.png&width=100" group-title="🛋️ Estilo de Vida & Hogar 🪴",Hogar y Jardin (1280x720) HGTV
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=4152393739&_cdn_token=ee5cbe55b894327c87cb281a2a79cf7c15c1e351
-
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAZCLIC.png&width=100" group-title="🛋️ Estilo de Vida & Hogar 🪴",Clic 🇲🇽 (1280x720)
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AZCLIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCLIC_stream_ln&_cdn_session=4151926029&_cdn_token=cf0c5b236eba2b5611e68bccc834df689b802abb
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FClic.png&width=100" group-title="🛋️ Estilo de Vida & Hogar 🪴",Clic 🇲🇽 (1280x720)
-https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Clic_SIGNAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DClic_SIGNAL_stream_0x&_cdn_session=6805726678&_cdn_token=b25c0dae97c4212a593d7804176d8f2b4489988b
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FHOGAR_TV.png&width=100" group-title="🛋️ Estilo de Vida & Hogar 🪴",Hogar (720x576)
-https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Hogar_TV_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dhogar_tv_stream_vo&_cdn_session=6806609030&_cdn_token=28f35def94720cc0d5abdfd6d7e908a90c57c530
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
@@ -574,21 +569,29 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UNIVISION/20-hls/live-media.m
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNuestra_tele.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Nuestra Tele 🇨🇴 (720x576)
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/Nuestra_tele_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DNuestra_tele_stream_ry&_cdn_session=6805531942&_cdn_token=641b2cd970befab719f282e7c155741a7c502a21
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAZMUNDO.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Azteca InterNacional 🇲🇽 (1280x720)
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AZMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZMUNDO_stream_6q&_cdn_session=4172763011&_cdn_token=341977fa03433f7475e698b4d1126c72eddc6288
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FAzteca_internacional.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Azteca InterNacional 🇲🇽 (1280x720)
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Azteca_internacional_SIGNAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAzteca_internacional_MIC_stream_p9&_cdn_session=7197663395&_cdn_token=1bdaead49ac6f54a33f948c411b6438cde6d9fb4
-
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FE.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",E! (1280x720)
 https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/CANAL_E/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DE_stream_pc&_cdn_session=6806554678&_cdn_token=da6356f0d26209b116f8c44b9c4250c5f85174dd
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FECH.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",E! (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=4152390675&_cdn_token=72d212b423820cf0f1f0632926ff028e5b907425
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FClover_Channel.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Clover (1280x720)
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Clover_Channel/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DClover_Channel_stream_3a&_cdn_session=7215205347&_cdn_token=edeaa9022ae4e6fb5ceae9e6725bdc74079917e5
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAandEMUNDO.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Arte & Entretenimiento (1280x720) A&E
 https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/AyE/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAyE_stream_cz&_cdn_session=6806571206&_cdn_token=a007d4441b66b0531c214dfacb88fdc147eec718
 
 #EXTINF:    Iskhodnyy="✔️Лица✅"                  tvg-logo="https://yt3.googleusercontent.com/YJe5RXP1hXnPhELfVACSMRgIX1QKvXQ7mREVQRNCx72HYncSLcDhCVbldnTudMwkfIoGk6PW=s160-c-k-c0x00ffffff-no-rj" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Caras (1920x1080)
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAZCLIC.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Clic 🇲🇽 (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AZCLIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCLIC_stream_ln&_cdn_session=4151926029&_cdn_token=cf0c5b236eba2b5611e68bccc834df689b802abb
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FClic.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Clic 🇲🇽 (1280x720)
+https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Clic_SIGNAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DClic_SIGNAL_stream_0x&_cdn_session=6805726678&_cdn_token=b25c0dae97c4212a593d7804176d8f2b4489988b
+
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAZMUNDO.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Azteca InterNacional 🇲🇽 (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AZMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZMUNDO_stream_6q&_cdn_session=4172763011&_cdn_token=341977fa03433f7475e698b4d1126c72eddc6288
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FAzteca_internacional.png&width=100" group-title="🏙️ Magazin 🎭 Farandula & Tendencias 🤳",Azteca InterNacional 🇲🇽 (1280x720)
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Azteca_internacional_SIGNAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAzteca_internacional_MIC_stream_p9&_cdn_session=7197663395&_cdn_token=1bdaead49ac6f54a33f948c411b6438cde6d9fb4
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
