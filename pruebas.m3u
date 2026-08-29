@@ -822,9 +822,8 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FKaribena_WIN.png&width=100" group-title="🎧 Melodiya 🇵🇪 🔊",Karibeña 🇵🇪 (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FKaribena_WIN.png" group-title="🎧 Melodiya 🇵🇪 🔊",Karibeña 🇵🇪 (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=4153418859&_cdn_token=08d01a1708e3b286ac894397f0e6bed0e8d352b6
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_480_270.jpg" group-title="🎧 Melodiya 🇵🇪 🔊",Karibeña 🇵🇪 (1280x720)
 
 #EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/PERUANISIMA-TV-02.png" group-title="🎧 Melodiya 🇵🇪 🔊",Peruanisima 🇵🇪 (1920X1080) HuancaYork
 https://sc3.wasidata.com/Peruanisima14_1614/tracks-v1a1/mono.m3u8
@@ -1900,20 +1899,33 @@ https://gia.tv/
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:0    tvg-type="VOD"      tvg-logo="https://www.southparkshop.com/cdn/shop/files/all-over-print-backpack-white-front-68825cf548a71.jpg?v=1753374444" group-title="Película",South Park
-https://download850.mediafire.com/bq0tfnc6ar4gu5QYdJQFnHMYI50pgFWyCRxGyrMQ-kFYkMbHMuZQdEWev-vZvX-S1vdXqXL9VhZrMRmPOwLtSl-I_3KhR8pqV8bcWQkeqe6LmSnaEqParrxnureb_TJRs9QKF6XtaXjGoKacM5om33xA9nezyQUXUnMjoRQkV45s/wps7musik122fk1/Sobre+Cargado.mp4
-
-#EXTINF:0    tvg-type="VOD"        tvg-logo="https://i.pinimg.com/736x/fe/c4/50/fec4501a211cf49b0c7bdec295179a23.jpg" group-title="Película",Shrek (2001) M3U8
+#EXTINF:0    tvg-type="VOD"        tvg-logo="https://i.pinimg.com/736x/fe/c4/50/fec4501a211cf49b0c7bdec295179a23.jpg" group-title="Película",Shrek (2001) MP4-M3U8
 https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%20%282001%29.mp4.m3u8
 
-#EXTINF:0    tvg-type="VOD"        tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE2ODE0ZTAtYzAyNC00OWY2LWIyMWYtZDljZWYyNWYzNmY2XkEyXkFqcGc@._V1_.jpg" group-title="Película",Shrek 2 (2004) M3U8
+#EXTINF:0    tvg-type="VOD"        tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE2ODE0ZTAtYzAyNC00OWY2LWIyMWYtZDljZWYyNWYzNmY2XkEyXkFqcGc@._V1_.jpg" group-title="Película",Shrek 2 (2004) MP4-M3U8
 https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%202%20%282004%29.mp4.m3u8
 
-#EXTINF:0    tvg-type="VOD"        tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2QzFdR6o7vNhiGH2YCj5vbmC5qDeW84sXbQ&s" group-title="Película",Shrek Tercero (2007) M3U8
+#EXTINF:0    tvg-type="VOD"        tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2QzFdR6o7vNhiGH2YCj5vbmC5qDeW84sXbQ&s" group-title="Película",Shrek Tercero (2007) MP4-M3U8
 https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%20Tercero%20%282007%29.mp4.m3u8
 
-#EXTINF:0    tvg-type="VOD"        tvg-logo="https://cdn.sincroguia.tv/uploads/programs/s/h/r/shrek-felices-para-siempre-poster-151833_SPA-60_V.jpg" group-title="Película",Shrek felices para siempre (2010) M3U8
+#EXTINF:0    tvg-type="VOD"        tvg-logo="https://cdn.sincroguia.tv/uploads/programs/s/h/r/shrek-felices-para-siempre-poster-151833_SPA-60_V.jpg" group-title="Película",Shrek felices para siempre (2010) MP4-M3U8
 https://ia601400.us.archive.org/5/items/shrek-tercero-2007/Shrek%2C%20felices%20para%20siempre%20%282010%29.mp4.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
+
+#EXTINF:0    tvg-type="VOD"        tvg-logo="https://i.pinimg.com/736x/fe/c4/50/fec4501a211cf49b0c7bdec295179a23.jpg" group-title="Película",Shrek (2001) M3U8
+https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%20%282001%29.m3u8
+
+#EXTINF:0    tvg-type="VOD"        tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE2ODE0ZTAtYzAyNC00OWY2LWIyMWYtZDljZWYyNWYzNmY2XkEyXkFqcGc@._V1_.jpg" group-title="Película",Shrek 2 (2004) M3U8
+https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%202%20%282004%29.m3u8
+
+#EXTINF:0    tvg-type="VOD"        tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2QzFdR6o7vNhiGH2YCj5vbmC5qDeW84sXbQ&s" group-title="Película",Shrek Tercero (2007) M3U8
+https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%20Tercero%20%282007%29.m3u8
+
+#EXTINF:0    tvg-type="VOD"        tvg-logo="https://cdn.sincroguia.tv/uploads/programs/s/h/r/shrek-felices-para-siempre-poster-151833_SPA-60_V.jpg" group-title="Película",Shrek felices para siempre (2010) M3U8
+https://ia601400.us.archive.org/5/items/shrek-tercero-2007/Shrek%2C%20felices%20para%20siempre%20%282010%29.m3u8
+
+#EXTINF=====================================================================================================================================================================================================
 
 #EXTINF:0    tvg-type="VOD"        tvg-logo="https://i.pinimg.com/736x/fe/c4/50/fec4501a211cf49b0c7bdec295179a23.jpg" group-title="Película",Shrek (2001)
 https://ia801400.us.archive.org/5/items/shrek-tercero-2007/Shrek%20%282001%29.mp4
