@@ -700,9 +700,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️Культура24✅"                  tvg-logo="https://www.cultura24.tv/sites/default/files/inline-images/logo.png" group-title="🔬 Ciencia & Cultura 🔭",Cultura 24 (1920x1080)
+#EXTINF:    Iskhodnyy="✔️Культура24✅"                  tvg-logo="https://www.cultura24.tv/sites/default/files/inline-images/logo.png" group-title="🔬 Ciencia & Cultura 🔭",Cultura 24 (1280x720)
 https://cloud.live.opencaster.com/playlist_src/index.m3u8
-#EXTINF:    Iskhodnyy="✔️Культура24✅"                  tvg-logo="https://www.cultura24.tv/sites/default/files/inline-images/sponsor1.jpg" group-title="🔬 Ciencia & Cultura 🔭",Cultura 24 (1280x720)
+#EXTINF:    Iskhodnyy="✔️Культура24✅"                  tvg-logo="https://www.cultura24.tv/sites/default/files/inline-images/sponsor1.jpg" group-title="🔬 Ciencia & Cultura 🔭",Cultura 24 (1080x720)
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FIPE.png&width=100" group-title="🔬 Ciencia & Cultura 🔭",Identidad Peruana (1280x720) IPe
@@ -1334,9 +1334,9 @@ https://7.innovatestream.pe:19360/kbo/kbo.m3u8
 #EXTINF:    Iskhodnyy="✔️Гении✅"                  tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Genios (1920x1080) Jr. Libertad 406 - Barrio de Huastilla
 https://sc3.wasidata.com/Genios2_1902/tracks-v1a1/mono.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Споры✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n57_uFx_RvpVMzo7bsFJN9Dee1txyUdUmkAkcZplZ3t9Uw=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🦜",Controversia () Jr. Del Mayo 1100 - MoyoBamba
+#EXTINF:    Iskhodnyy="✔️Споры✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n57_uFx_RvpVMzo7bsFJN9Dee1txyUdUmkAkcZplZ3t9Uw=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🦜",Controversia (1280x720) Jr. Del Mayo 1100 - MoyoBamba
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:    Iskhodnyy="✔️Споры✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n57_uFx_RvpVMzo7bsFJN9Dee1txyUdUmkAkcZplZ3t9Uw=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🦜",Controversia () Jr. Del Mayo 1100 - MoyoBamba
+#EXTINF:    Iskhodnyy="✔️Споры✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n57_uFx_RvpVMzo7bsFJN9Dee1txyUdUmkAkcZplZ3t9Uw=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🦜",Controversia (1280x720) Jr. Del Mayo 1100 - MoyoBamba
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/12/03/1770842577740/0b3323f6ab86_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Charapa (1920x1080) Interseccion del Jr. Libertad y la Calle Prado - Campo Verde
@@ -1345,10 +1345,8 @@ https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️КНК✅"                  tvg-logo="https://www.cnctv.pe/api/default.png" group-title="🌳 De la Selva su Encanto 🦜",Cable Noticias Canal (1280x720) Pevas 1301 - Iquitos 16002
 https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/mono.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Аутентичный✅"                  tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="🌳 De la Selva su Encanto 🦜",Autentica () Jr. Alonso de Alvarado 1040 - Moyobamba
+#EXTINF:    Iskhodnyy="✔️Аутентичный✅"                  tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="🌳 De la Selva su Encanto 🦜",Autentica (1280x720) Jr. Alonso de Alvarado 1040 - Moyobamba
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:    Iskhodnyy="✔️Аутентичный✅"                  tvg-logo="https://yt3.googleusercontent.com/WNBcIxiXn395uOD_ZVtg60_TDUduMUePyjug3KJVVE7hygp-TbygwwnyLxxPWGc98KIHroSv=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🦜",Autentica () Jr. Alonso de Alvarado 1040 - Moyobamba
-https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Арпеджио✅"                  tvg-logo="https://arpegio.com.pe/wp-content/uploads/2024/03/Logo-arpegio-8.png" group-title="🌳 De la Selva su Encanto 🦜",Arpegio (1280x720) Jorge Chavez N° 1085 - Iquitos
 https://vdo.oyotunserver.com/arpegio/video.m3u8
@@ -1357,9 +1355,9 @@ https://vdo.oyotunserver.com/arpegio/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/10/03/1770670525476/3149c613863d_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Arpegio  (1280x720) Jorge Chavez N° 1085 - Iquitos
 https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Антарес✅"                  tvg-logo="http://antarestvradio.com/images/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Antares () Jr. San Pablo de la Cruz 290 - Piso 3
+#EXTINF:    Iskhodnyy="✔️Антарес✅"                  tvg-logo="http://antarestvradio.com/images/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Antares (1280x720) Jr. San Pablo de la Cruz 290 - Piso 3
 https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:    Iskhodnyy="✔️Антарес✅"                  tvg-logo="http://antarestvradio.com/images/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Antares () Jr. San Pablo de la Cruz 290 - Piso 3
+#EXTINF:    Iskhodnyy="✔️Антарес✅"                  tvg-logo="http://antarestvradio.com/images/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Antares (1280x720) Jr. San Pablo de la Cruz 290 - Piso 3
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Амазоника✅"                  tvg-logo="https://www.amazonicatv.pe/wp-content/uploads/2024/09/415734570_122134414520082405_1537925820106461256_n-removebg-preview-e1725526219831.png" group-title="🌳 De la Selva su Encanto 🦜",Amazonica (854x480)  Av. Quiñones Km. 2.5 - San Juan Bautista
@@ -1367,7 +1365,7 @@ https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767646311629/6be6e817a0da_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Amazonica (854x48) Av. Quiñones Km. 2.5 - San Juan Bautista
 https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Амазониа✅"                  tvg-logo="https://www.amazoniatvr.com/players/videoplayer/assets/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Amazonia () Calle Echenique 1233 - Maynas
+#EXTINF:    Iskhodnyy="✔️Амазониа✅"                  tvg-logo="https://www.amazoniatvr.com/players/videoplayer/assets/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Amazonia (1280x720) Calle Echenique 1233 - Maynas
 https://servilive.com:3199/live/amazoniatvlive.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Альфа✅"                  tvg-logo="https://redalpha.pe/wp-content/uploads/2026/05/redalpha.png" group-title="🌳 De la Selva su Encanto 🦜",Alfa (1920x1080) Pucallpa
