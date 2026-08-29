@@ -852,6 +852,9 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOPLATINO/40-hls/live-media.m
 #EXTINF:    Iskhodnyy="✔️СвятойБорха✅"                  tvg-logo="https://radiosanborjatv.com/wp-content/uploads/2020/12/LOGO-RSB-TV.png" group-title="🎧 Melodiya 🇵🇪 🔊",Radio San Borja 🇵🇪 (1920x1080)
 https://stream.mediacorp.pe/srt/3/chunks.m3u8
 
+#EXTINF:    Iskhodnyy="✔️Чалака✅"                  tvg-logo="https://radiochalaca.pe/wp-content/uploads/2024/01/chalaca_2021-oK-03.png" group-title="🎧 Melodiya 🇵🇪 🔊",Radio Chalaca 🇵🇪 (1920x1080)
+https://servilive.com:3414/hybrid/play.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/176764285939/35bcacf9ad3b_480_270.jpg" group-title="🎧 Melodiya 🇵🇪 🔊",Tarpuy 🇵🇪 (1920x1080) Jr. Azangaro 630 - Cercado de Lima
 https://live-evg13.tv360.bitel.com.pe/bitel/tarpuy/playlist.m3u8
 
@@ -1083,6 +1086,9 @@ https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 #EXTINF:    Iskhodnyy="✔️Чинча✅"                  tvg-logo="https://yt3.googleusercontent.com/m5JRPpKnoMq2-LLaHf9Mu8AO6XvcrKh3m8KbPHervlcfzAPoNdGbOQKw9WtFL1G954GsOktXhBI=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Chincha (1280x720) Calle Grau 547 - Chincha Alta
 https://s3.tvdatta.com:3908/stream/play.m3u8
 
+#EXTINF:    Iskhodnyy="✔️Катакаос✅"                  tvg-logo="https://yt3.googleusercontent.com/ma7c133Hm-p11E-QBw8J-kts7SGHiOJGPUIvLgMa8k6R-HY2pyr1SBOBItfca1gZu_nyhJuN=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",CataCaos () Calle Mariano Diaz 906 - Cercado Catacaos
+https://live.obslivestream.com/canal8/index.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767649054853/2c1806974be8_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Casma (854x480) Luis Ormeño Mz. L Lte. 6 - 02661
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
 
@@ -1190,6 +1196,9 @@ https://chankillo.agenciastreaming.com/lidertv/index.m3u8
 https://customer-vav34v5eiudm59so.cloudflarestream.com/4d6711b67399d8aad5b61d0d679d7afc/manifest/stream_t4e515fc4d5f896dedd1c24de94497708_r1863207539.m3u8
 #EXTINF:    Iskhodnyy="✔️Лидер✅"                  tvg-logo="https://play-lh.googleusercontent.com/_xAAs9ls8pfsDPH9a9cm2YOamsXb1J3WmnXSg750y1fNV7qaMEGiXHmJdsSWlLmwj4xaOM9jESejZ7BB-hVPOg=w240-h480-rw" group-title="🏔️ Corazon de los Andes 🦙",Lider (1280x720)
 https://chankillo.agenciastreaming.com/lidertv/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Кальенте✅"                  tvg-logo="https://www.tvkaliente.com/logoKaliente.png" group-title="🏔️ Corazon de los Andes 🦙",Kaliente () Calle Jorge Chavez - Quiquijana - Quispicanchi
+https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/177508224841/d6e7baef3669_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Jeque (1280x720) Via Evitiamiento Sur 3635
 https://live-evg8.tv360.bitel.com.pe/bitel/jequetv/playlist.m3u8
@@ -1387,6 +1396,10 @@ https://cdnfox.hostlagarto.com/deltatv50/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:    Iskhodnyy="✔️Споры✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n57_uFx_RvpVMzo7bsFJN9Dee1txyUdUmkAkcZplZ3t9Uw=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🦜",Controversia (1280x720) Jr. Del Mayo 1100 - MoyoBamba
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:    Iskhodnyy="✔️КР✅"                  tvg-logo="https://crtv.pe/wp-content/uploads/2020/11/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Coky Ruiz () Jr. Iquitos 360 - Zaragoza
+https://live.obslivestream.com/crtvmux/index.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/12/03/1770842577740/0b3323f6ab86_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Charapa (1920x1080) Interseccion del Jr. Libertad y la Calle Prado - Campo Verde
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
