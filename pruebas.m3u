@@ -86,10 +86,10 @@ https://play.agenciastreaming.com:8081/nacionaltv/tracks-v1a1/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644527718/6d3118de737a_480_270.png" group-title="🇵🇪🗞️ Noticias 🚨",Nacional (1280x720) 
 https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Cable Peru Noticias ()
+#EXTINF:    Iskhodnyy="✔️КПН✅"                  tvg-logo="https://yt3.googleusercontent.com/wpdEF_fm_vg00xENNyx_qDm-jLHlCABMHxrV2DAPOBTra5aCdV64nSmqLaNG7I-4LMcRAL2qwA=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Cable Peru Noticias (1280x720)
 https://video2.lhdserver.es/cableperu/live.m3u8
 
-#EXTINF:    Iskhodnyy="✔️КЗ✅"                  tvg-logo="https://yt3.googleusercontent.com/wX5oMFUHITq1g8Z2sy5Clu4V2O56lnGN9qQbaLU8Gds1kbh7nbkZP4chysCKVT1vYeykthB4Iqo=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Cable Vision ()
+#EXTINF:    Iskhodnyy="✔️КЗ✅"                  tvg-logo="https://yt3.googleusercontent.com/wX5oMFUHITq1g8Z2sy5Clu4V2O56lnGN9qQbaLU8Gds1kbh7nbkZP4chysCKVT1vYeykthB4Iqo=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Cable Vision (1280x720)
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTV_Peru_Noticias_WIN.png" group-title="🇵🇪🗞️ Noticias 🚨",Tv Peru Noticias (720x576)
@@ -974,15 +974,15 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️Запад✅"                  tvg-logo="https://scontent.flim28-2.fna.fbcdn.net/v/t39.30808-6/500300862_122150164460476855_3979476701751268696_n.jpg?stp=dst-jpg_tt6&cstp=mx630x630&ctp=s630x630&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=UlkHU7p3mrUQ7kNvwFlb_qx&_nc_oc=Ado9peaNjLy5Y3VMC384mhCS34w20KTtOhgO6E7qM4yW52FeQRWfFrYuX7r7DPn2Lr0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&_nc_gid=UY8eUFF082JwnspaTiqKeg&_nc_ss=7b289&oh=00_AQIZdD2LZG2n4jsnV_hZLD_yuilc768xgkaENVCQs7PiWg&oe=6A9857B8" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Oeste () Maytacapac 113 - Independencia
+#EXTINF:    Iskhodnyy="✔️Запад✅"                  tvg-logo="https://scontent.flim28-2.fna.fbcdn.net/v/t39.30808-6/500300862_122150164460476855_3979476701751268696_n.jpg?stp=dst-jpg_tt6&cstp=mx630x630&ctp=s630x630&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=UlkHU7p3mrUQ7kNvwFlb_qx&_nc_oc=Ado9peaNjLy5Y3VMC384mhCS34w20KTtOhgO6E7qM4yW52FeQRWfFrYuX7r7DPn2Lr0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&_nc_gid=UY8eUFF082JwnspaTiqKeg&_nc_ss=7b289&oh=00_AQIZdD2LZG2n4jsnV_hZLD_yuilc768xgkaENVCQs7PiWg&oe=6A9857B8" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Oeste (1920x1080) Maytacapac 113 - Independencia
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/1775081979482/ddba258dd964_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Voz Digital (1920x1080) Jr. Tacna 525 - La Perla
 https://live-evg8.tv360.bitel.com.pe/bitel/vozdigitalperu/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Один✅"                  tvg-logo="https://tvone.pe/tvone.png" group-title="🌊 Para Variar... de la Costa 🏖️",Uno () Av. Reducto 1310 - Oficina 202 - Miraflores
+#EXTINF:    Iskhodnyy="✔️Один✅"                  tvg-logo="https://tvone.pe/tvone.png" group-title="🌊 Para Variar... de la Costa 🏖️",Uno (576x324) Av. Reducto 1310 - Oficina 202 - Miraflores
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:    Iskhodnyy="✔️Один✅"                  tvg-logo="https://tvone.pe/tvone.png" group-title="🌊 Para Variar... de la Costa 🏖️",Uno () Av. Reducto 1310 - Oficina 202 - Miraflores
+#EXTINF:    Iskhodnyy="✔️Один✅"                  tvg-logo="https://tvone.pe/tvone.png" group-title="🌊 Para Variar... de la Costa 🏖️",Uno (576x324) Av. Reducto 1310 - Oficina 202 - Miraflores
 https://streamtv.onliv3.online:1936/karibtv/karibtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/20/23/1776702032916/c89eca9916a5_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",UniLan (Lambayeque) 1920x1080
@@ -1003,10 +1003,10 @@ https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647241133/922bc3f51820_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Sol (720x576) Avenida Paseo de la Republica 5753 - Miraflores
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8 
 
-#EXTINF:    Iskhodnyy="✔️Сиском✅"                  tvg-logo="https://siscomtv.com/imagenes/logo.png" group-title="🌊 Para Variar... de la Costa 🏖️",Siscom () Av. Bernardo Balaguer Mz. B Lt. 10 - Urb. Alameda 1ra Etapa - Ñaña
+#EXTINF:    Iskhodnyy="✔️Сиском✅"                  tvg-logo="https://siscomtv.com/imagenes/logo.png" group-title="🌊 Para Variar... de la Costa 🏖️",Siscom () 
 https://video2.lhdserver.es/siscomtv/live.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ЗП✅"                  tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="🌊 Para Variar... de la Costa 🏖️",Señal Peru () Calle H 140 - Surquillo
+#EXTINF:    Iskhodnyy="✔️ЗП✅"                  tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="🌊 Para Variar... de la Costa 🏖️",Señal Peru (1280x720) Calle H 140 - Surquillo
 https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Рику✅"                  tvg-logo="https://dn721803.ca.archive.org/0/items/sin-titulo-1_202511/Sin%20t%C3%ADtulo-1.png" group-title="🌊 Para Variar... de la Costa 🏖️",Riku (Lambayeque) 1920x1080
@@ -1134,11 +1134,6 @@ https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644582599/d9b88e3083bf_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",UniTel (1920x1080) Jr. Libertad 1098 - 12003
 https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ТВЛ✅"                  tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2024/03/logo-tv-en-linea-cusco.jpg" group-title="🏔️ Corazon de los Andes 🦙",En Linea () Calle Venezuela P20 - Cusco 084000
-https://srt.tvdatta.com/tvenlinea/video1_stream.m3u8
-#EXTINF:    Iskhodnyy="✔️ТВЛ✅"                  tvg-logo="https://yt3.googleusercontent.com/Bes9x6yk-aHWRBSRQYnFoXYuLXa7uPisxFdb8Qhp3Xq2pnlBy8A9uk93js_dR3vURsvNcVE_=s160-c-k-c0x00ffffff-no-rj" group-title="🏔️ Corazon de los Andes 🦙",En Linea () Calle Venezuela P20 - Cusco 084000
-https://srt.tvdatta.com/tvenlinea/index.m3u8
-
 #EXTINF:    Iskhodnyy="✔️Солнечная✅"                  tvg-logo="https://corporacionsolar.com.pe/assets/img/solar-tv-logo.png" group-title="🏔️ Corazon de los Andes 🦙",Solar (640x360) Av. Seoane 377
 https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644709204/c6a30a3cbd07_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Solar (1920x1080) Av. Prado Alto 603
@@ -1165,7 +1160,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767641113345/62cb5cea28d9_480_270.jpg" group-title="🏔️ Corazon de los Andes 🦙",QollaSuyo (512x288) Jr. Salvador Allende N° 253 - La Rinconada
 https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Весна✅"                  tvg-logo="https://www.radioprimaveratv.com.pe/images/empresa/logo-header.png" group-title="🏔️ Corazon de los Andes 🦙",Primavera 15 () Calle Lima 381 - Moquegua
+#EXTINF:    Iskhodnyy="✔️Весна✅"                  tvg-logo="https://www.radioprimaveratv.com.pe/images/empresa/logo-header.png" group-title="🏔️ Corazon de los Andes 🦙",Primavera 15 (1280x720) Calle Lima 381 - Moquegua
 https://mc.servidor.stream:19360/8244/8244.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://planeatvjaen.com/wp-content/uploads/2025/05/00000001_r2_c2.png" group-title="🏔️ Corazon de los Andes 🦙",Planea (1280x720) Av Evitamiento 961 - La Molina - Montegrande
@@ -1189,11 +1184,11 @@ https://live-evg8.tv360.bitel.com.pe/bitel/maximatv/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648750885/42f22e0f704f_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",+ (1920x1080) Av. Daniel Alcides Carrion 304 - San Juan Yanacancha
 https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Лидер✅"                  tvg-logo="https://play-lh.googleusercontent.com/_xAAs9ls8pfsDPH9a9cm2YOamsXb1J3WmnXSg750y1fNV7qaMEGiXHmJdsSWlLmwj4xaOM9jESejZ7BB-hVPOg=w240-h480-rw" group-title="🏔️ Corazon de los Andes 🦙",Lider ()
+#EXTINF:    Iskhodnyy="✔️Лидер✅"                  tvg-logo="https://play-lh.googleusercontent.com/_xAAs9ls8pfsDPH9a9cm2YOamsXb1J3WmnXSg750y1fNV7qaMEGiXHmJdsSWlLmwj4xaOM9jESejZ7BB-hVPOg=w240-h480-rw" group-title="🏔️ Corazon de los Andes 🦙",Lider (1280x720)
 https://chankillo.agenciastreaming.com/lidertv/index.m3u8
-#EXTINF:    Iskhodnyy="✔️Лидер✅"                  tvg-logo="https://yt3.googleusercontent.com/2I4dc743hHn-GwLSEY8f1Ai8W_NwPDDiqK13C1YRdfAx07KrquWUssJrWkhVrailuX_PHoF_Cg=s160-c-k-c0x00ffffff-no-rj" group-title="🏔️ Corazon de los Andes 🦙",Lider ()
+#EXTINF:    Iskhodnyy="✔️Лидер✅"                  tvg-logo="https://yt3.googleusercontent.com/2I4dc743hHn-GwLSEY8f1Ai8W_NwPDDiqK13C1YRdfAx07KrquWUssJrWkhVrailuX_PHoF_Cg=s160-c-k-c0x00ffffff-no-rj" group-title="🏔️ Corazon de los Andes 🦙",Lider (1280x720)
 https://customer-vav34v5eiudm59so.cloudflarestream.com/4d6711b67399d8aad5b61d0d679d7afc/manifest/stream_t4e515fc4d5f896dedd1c24de94497708_r1863207539.m3u8
-#EXTINF:    Iskhodnyy="✔️Лидер✅"                  tvg-logo="https://play-lh.googleusercontent.com/_xAAs9ls8pfsDPH9a9cm2YOamsXb1J3WmnXSg750y1fNV7qaMEGiXHmJdsSWlLmwj4xaOM9jESejZ7BB-hVPOg=w240-h480-rw" group-title="🏔️ Corazon de los Andes 🦙",Lider ()
+#EXTINF:    Iskhodnyy="✔️Лидер✅"                  tvg-logo="https://play-lh.googleusercontent.com/_xAAs9ls8pfsDPH9a9cm2YOamsXb1J3WmnXSg750y1fNV7qaMEGiXHmJdsSWlLmwj4xaOM9jESejZ7BB-hVPOg=w240-h480-rw" group-title="🏔️ Corazon de los Andes 🦙",Lider (1280x720)
 https://chankillo.agenciastreaming.com/lidertv/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/177508224841/d6e7baef3669_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Jeque (1280x720) Via Evitiamiento Sur 3635
@@ -1209,10 +1204,10 @@ https://sc3.wasidata.com/Imperial14_2014/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/02/1767382481928/9660e3d9a2fd_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",Imperial (1920x1080) Huancavelica
 https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Форум✅"                  tvg-logo="https://www.forotv.pe/wp-content/uploads/2021/11/LOGO-OFICIAL-FORO-TV-1.png" group-title="🏔️ Corazon de los Andes 🦙",Foro () Jr. Vilcapaza 151 - Puno
-https://mc.servidor.stream:19360/8274/Source.m3u8
-#EXTINF:    Iskhodnyy="✔️Форум✅"                  tvg-logo="https://yt3.googleusercontent.com/RcK8C0r0fmnqJBAHL6VwghytpE4_3gCY70tKcNzkQ3L_RcKzlmbpk6UONpVMBxh-pxpAX-9c4A=s160-c-k-c0x00ffffff-no-rj" group-title="🏔️ Corazon de los Andes 🦙",Foro () Jr. Vilcapaza 151 - Puno
+#EXTINF:    Iskhodnyy="✔️Форум✅"                  tvg-logo="https://www.forotv.pe/wp-content/uploads/2021/11/LOGO-OFICIAL-FORO-TV-1.png" group-title="🏔️ Corazon de los Andes 🦙",Foro (1280x720) Jr. Vilcapaza 151 - Puno
 https://mc.servidor.stream:19360/8274/8274.m3u8
+#EXTINF:    Iskhodnyy="✔️Форум✅"                  tvg-logo="https://yt3.googleusercontent.com/RcK8C0r0fmnqJBAHL6VwghytpE4_3gCY70tKcNzkQ3L_RcKzlmbpk6UONpVMBxh-pxpAX-9c4A=s160-c-k-c0x00ffffff-no-rj" group-title="🏔️ Corazon de los Andes 🦙",Foro (1280x720) Jr. Vilcapaza 151 - Puno
+https://mc.servidor.stream:19360/8274/Source.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643581411/b7cffc7c14d4_480_270.jpg" group-title="🏔️ Corazon de los Andes 🦙",Folklore 🇵🇪 (1280x720)
 https://live-evg8.tv360.bitel.com.pe/bitel/folkloretv/playlist.m3u8
@@ -1355,7 +1350,7 @@ https://live-evg13.tv360.bitel.com.pe/bitel/pucallpatv/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Некс✅"                  tvg-logo="https://nexpcl.com/api/default.png" group-title="🌳 De la Selva su Encanto 🦜",Nex (1920x1080) Pucallpa
 https://play.agenciastreaming.com:8081/nextv/tracks-v1a1/mono.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/04/05/1772578731585/af488e42bb5e_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Nex 1920x1080() Pucallpa
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/04/05/1772578731585/af488e42bb5e_480_270.png" group-title="🌳 De la Selva su Encanto 🦜",Nex (1920x1080) Pucallpa
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Родной✅"                  tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2025/03/nativa-21-1.png" group-title="🌳 De la Selva su Encanto 🦜",Nativa (1280x720) Jr. Junin 162A 3er Piso - La Merced
@@ -1374,15 +1369,15 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️КХЗ✅"                  tvg-logo="https://yt3.ggpht.com/cdIZN_vB5voyFxd9ZC-haksGqxdrDszSfOcXTyKY2ymZU2FiL0-2kGZSrBZCsxIZyNKDx9ryow=s176-c-k-c0x00ffffff-no-rj-mo" group-title="🌳 De la Selva su Encanto 🦜",K Buena Onda (1280x720) Av. Bolognesi 128 - Quillabamba
 https://7.innovatestream.pe:19360/kbo/kbo.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Влияние✅"                  tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/475533813_593657186846202_8170307129878780990_n.jpg?stp=dst-jpg_tt6&cstp=mx1067x1067&ctp=s1067x1067&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=Q9ECaAqK9EIQ7kNvwF_1NRm&_nc_oc=AdoCbbvhVt1rg6ulKnbme6yETKXrJFWDeR8MYAzYGGDsAMdZPdib1ZTZp0fF3vTkP2k&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&_nc_gid=GwSC41rSccT5GELn7qIrHg&_nc_ss=7b289&oh=00_AQL-rKHE6dufSO2IRs3MTQgKxHNKIMz3aPbnIrjG2RzTfA&oe=6A984ED6" group-title="🌳 De la Selva su Encanto 🦜",Impacto () Jr. Libertad Nº 688 - Rioja
+#EXTINF:    Iskhodnyy="✔️Влияние✅"                  tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/475533813_593657186846202_8170307129878780990_n.jpg?stp=dst-jpg_tt6&cstp=mx1067x1067&ctp=s1067x1067&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=Q9ECaAqK9EIQ7kNvwF_1NRm&_nc_oc=AdoCbbvhVt1rg6ulKnbme6yETKXrJFWDeR8MYAzYGGDsAMdZPdib1ZTZp0fF3vTkP2k&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&_nc_gid=GwSC41rSccT5GELn7qIrHg&_nc_ss=7b289&oh=00_AQL-rKHE6dufSO2IRs3MTQgKxHNKIMz3aPbnIrjG2RzTfA&oe=6A984ED6" group-title="🌳 De la Selva su Encanto 🦜",Impacto (854x480) Jr. Libertad Nº 688 - Rioja
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Гении✅"                  tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="🌳 De la Selva su Encanto 🦜",Genios (1920x1080) Jr. Libertad 406 - Barrio de Huastilla
 https://sc3.wasidata.com/Genios2_1902/tracks-v1a1/mono.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Дельта✅"                  tvg-logo="https://www.deltatv50.com/wp-content/uploads/2022/11/cropped-DELTA-TV-2048x1916.png" group-title="🌳 De la Selva su Encanto 🦜",Delta () Jr. Iquitos 235 - Tabalosos - Lamas
+#EXTINF:    Iskhodnyy="✔️Дельта✅"                  tvg-logo="https://www.deltatv50.com/wp-content/uploads/2022/11/cropped-DELTA-TV-2048x1916.png" group-title="🌳 De la Selva su Encanto 🦜",Delta (1920x1080) Jr. Iquitos 235 - Tabalosos - Lamas
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
-#EXTINF:    Iskhodnyy="✔️Дельта✅"                  tvg-logo="https://www.deltatvperu.com/assets/redes.png" group-title="🌳 De la Selva su Encanto 🦜",Delta () Jr. Iquitos 235 - Tabalosos - Lamas
+#EXTINF:    Iskhodnyy="✔️Дельта✅"                  tvg-logo="https://www.deltatvperu.com/assets/redes.png" group-title="🌳 De la Selva su Encanto 🦜",Delta (1280x720) Jr. Iquitos 235 - Tabalosos - Lamas
 https://cdnfox.hostlagarto.com/deltatv50/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Споры✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n57_uFx_RvpVMzo7bsFJN9Dee1txyUdUmkAkcZplZ3t9Uw=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🦜",Controversia (1280x720) Jr. Del Mayo 1100 - MoyoBamba
