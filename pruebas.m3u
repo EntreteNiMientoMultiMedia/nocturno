@@ -974,16 +974,24 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTeleLima.png&width=100" group-title="🌄🇵🇪 Regional DesCentralizado 📡",TeleLima (1280x720) Maytacapac 113 - Independencia
-https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Telelima_nic/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dprueba_stream_e7&_cdn_session=6853353526&_cdn_token=25f585576e17e8b9b7931b1760df5ba3ee37bb4b
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648938669/e0a9868ad260_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",TeleLima (1920x1080) Maytacapac 113 - Independencia
-https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️Запад✅"                  tvg-logo="https://scontent.flim28-2.fna.fbcdn.net/v/t39.30808-6/500300862_122150164460476855_3979476701751268696_n.jpg?stp=dst-jpg_tt6&cstp=mx630x630&ctp=s630x630&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=UlkHU7p3mrUQ7kNvwFlb_qx&_nc_oc=Ado9peaNjLy5Y3VMC384mhCS34w20KTtOhgO6E7qM4yW52FeQRWfFrYuX7r7DPn2Lr0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&_nc_gid=UY8eUFF082JwnspaTiqKeg&_nc_ss=7b289&oh=00_AQIZdD2LZG2n4jsnV_hZLD_yuilc768xgkaENVCQs7PiWg&oe=6A9857B8" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Oeste () Maytacapac 113 - Independencia
+https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/1775081979482/ddba258dd964_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Voz Digital (1920x1080) Jr. Tacna 525 - La Perla
 https://live-evg8.tv360.bitel.com.pe/bitel/vozdigitalperu/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️Один✅"                  tvg-logo="https://tvone.pe/tvone.png" group-title="🌊 Para Variar... de la Costa 🏖️",Uno () Av. Reducto 1310 - Oficina 202 - Miraflores
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️Один✅"                  tvg-logo="https://tvone.pe/tvone.png" group-title="🌊 Para Variar... de la Costa 🏖️",Uno () Av. Reducto 1310 - Oficina 202 - Miraflores
+https://streamtv.onliv3.online:1936/karibtv/karibtv/tracks-v1a1/mono.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/20/23/1776702032916/c89eca9916a5_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",UniLan (Lambayeque) 1920x1080
 https://live-evg8.tv360.bitel.com.pe/bitel/unilantv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTeleLima.png&width=100" group-title="🌄🇵🇪 Regional DesCentralizado 📡",TeleLima (1280x720) Maytacapac 113 - Independencia
+https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Telelima_nic/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dprueba_stream_e7&_cdn_session=6853353526&_cdn_token=25f585576e17e8b9b7931b1760df5ba3ee37bb4b
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648938669/e0a9868ad260_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",TeleLima (1920x1080) Maytacapac 113 - Independencia
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FSUMACTV.png&width=100" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Sumac (1280x720) Av Paseo de la República 5614 - Lima
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/SUMACTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSUMACTV_stream_wa&_cdn_session=4157154555&_cdn_token=4d8cd0a59f4d9aca5103729e15242f59e6223d90
@@ -993,7 +1001,10 @@ https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/sol/20-hls/live-media.m3u8?
 #EXTINF:    Iskhodnyy="✔️Солнце✅"                  tvg-logo="https://soltvperu.com/wp-content/uploads/2026/06/htetjh-03.png" group-title="🌊 Para Variar... de la Costa 🏖️",Sol (720x576) Avenida España 345 - Trujillo
 https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647241133/922bc3f51820_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Sol (720x576) Avenida Paseo de la Republica 5753 - Miraflores
-https://live-evg7.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8 
+
+#EXTINF:    Iskhodnyy="✔️Сиском✅"                  tvg-logo="https://siscomtv.com/imagenes/logo.png" group-title="🌊 Para Variar... de la Costa 🏖️",Siscom () Av. Bernardo Balaguer Mz. B Lt. 10 - Urb. Alameda 1ra Etapa - Ñaña
+https://video2.lhdserver.es/siscomtv/live.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ЗП✅"                  tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="🌊 Para Variar... de la Costa 🏖️",Señal Peru () Calle H 140 - Surquillo
 https://livestream.perucast.com/hls/stream.m3u8
@@ -1122,6 +1133,11 @@ https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644582599/d9b88e3083bf_480_270.png" group-title="🏔️ Corazon de los Andes 🦙",UniTel (1920x1080) Jr. Libertad 1098 - 12003
 https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ТВЛ✅"                  tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2024/03/logo-tv-en-linea-cusco.jpg" group-title="🏔️ Corazon de los Andes 🦙",En Linea () Calle Venezuela P20 - Cusco 084000
+https://srt.tvdatta.com/tvenlinea/video1_stream.m3u8
+#EXTINF:    Iskhodnyy="✔️ТВЛ✅"                  tvg-logo="https://yt3.googleusercontent.com/Bes9x6yk-aHWRBSRQYnFoXYuLXa7uPisxFdb8Qhp3Xq2pnlBy8A9uk93js_dR3vURsvNcVE_=s160-c-k-c0x00ffffff-no-rj" group-title="🏔️ Corazon de los Andes 🦙",En Linea () Calle Venezuela P20 - Cusco 084000
+https://srt.tvdatta.com/tvenlinea/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Солнечная✅"                  tvg-logo="https://corporacionsolar.com.pe/assets/img/solar-tv-logo.png" group-title="🏔️ Corazon de los Andes 🦙",Solar (640x360) Av. Seoane 377
 https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
