@@ -1476,6 +1476,15 @@ http://190.61.101.11:7050/play/a04w/index.m3u8
 #EXTINF:    Iskhodnyy="✔️УХТЫ✅"                  tvg-logo="https://yt3.googleusercontent.com/UPj12VPlhl_2bWrRqFrb3Fr12jxPyLkfm-GZ8CmWBsPP27-ZrQF0T0ow2qNRHQK9s8XtMpDFNQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",WOW 🇸🇻 (1920x1080) WOW
 https://cdn1.cef-technology.com/wow/wow_tv/chunks.m3u8
 
+#EXTINF:    Iskhodnyy="✔️СД✅"                  tvg-logo="https://bhtv.pe/wp-content/uploads/2025/01/logo-2025web-300x205.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Casa Azul (1280x720) CableMas
+https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w712406729.m3u8
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767640937611/3e9e20e09e21_480_270.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Casa Azul (1280x720) CableMas
+https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/playlist.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBH_TV.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Casa Azul (1280x720) CableMas
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/BH_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DBH_TV_stream_i8&_cdn_session=6832197798&_cdn_token=0467c6e52d6b8bcb42b62c4fab3d47da03156565
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBHTV.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Casa Azul (1280x720) CableMas
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBHTV_stream_v0&_cdn_session=4155128603&_cdn_token=671863ae413bda36ce5fc0bc0da13c15e71ca5f7
+
 #EXTINF:    Iskhodnyy="✔️Спомощью✅"                  tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Via (1280x720) Jr. Elias Linares 357 - Partido Alto
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FVIATV.png&width=100" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Via (1280x720) Jr. Elias Linares 357 - Partido Alto
@@ -1489,15 +1498,6 @@ https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648031339/324534dee0ff_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Super Canal (1280x720) Jr. Julio C. Arana 423 - Yurimaguas
 https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
-
-#EXTINF:    Iskhodnyy="✔️СД✅"                  tvg-logo="https://bhtv.pe/wp-content/uploads/2025/01/logo-2025web-300x205.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Casa Azul (1280x720) CableMas
-https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w712406729.m3u8
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767640937611/3e9e20e09e21_480_270.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Casa Azul (1280x720) CableMas
-https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/playlist.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBH_TV.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Casa Azul (1280x720) CableMas
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/BH_TV/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DBH_TV_stream_i8&_cdn_session=6832197798&_cdn_token=0467c6e52d6b8bcb42b62c4fab3d47da03156565
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBHTV.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Casa Azul (1280x720) CableMas
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBHTV_stream_v0&_cdn_session=4155128603&_cdn_token=671863ae413bda36ce5fc0bc0da13c15e71ca5f7
 
 #EXTINF:    Iskhodnyy="✔️Запад✅"                  tvg-logo="https://scontent.flim28-2.fna.fbcdn.net/v/t39.30808-6/500300862_122150164460476855_3979476701751268696_n.jpg?stp=dst-jpg_tt6&cstp=mx630x630&ctp=s630x630&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=UlkHU7p3mrUQ7kNvwFlb_qx&_nc_oc=Ado9peaNjLy5Y3VMC384mhCS34w20KTtOhgO6E7qM4yW52FeQRWfFrYuX7r7DPn2Lr0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&_nc_gid=UY8eUFF082JwnspaTiqKeg&_nc_ss=7b289&oh=00_AQIZdD2LZG2n4jsnV_hZLD_yuilc768xgkaENVCQs7PiWg&oe=6A9857B8" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Oeste (1920x1080) Cable Red (Maytacapac 113 - Independencia)
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
@@ -1967,10 +1967,10 @@ https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/652814661_18517928260075811_2489226727056473866_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8A-7qW5BvgAQ7kNvwEKenL3&_nc_oc=AdoY5iy1MHjXE28gjjHtAfg8KUJ0dNvg7-hxuO76JgQrquuOJ6pTJaO_1EY470aMSbw&_nc_zt=24&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_gid=nmF4AZ7pOz65SNv6-7z2mQ&_nc_ss=7ba8c&oh=00_AQEN-a-qzHzibnnfopZFxmEQfZcNPb3uh6KULk5xK421Dw&oe=6A95B727" group-title="Sin Categoria",Rio S (1920x1080) Julio C. Tello Vargas Puerta 251 Piso 1 Interior 109 - San Francisco de Borja
 https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️VerTv✅"                  tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/488904410_667439932637144_9070355730544374980_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx614x976&ctp=s614x976&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=dLXUPblM0NIQ7kNvwFOePjE&_nc_oc=Ado31vegj-bm4cv45n1agzMphEroZyEseTpPWBzLqgs8RlLstX5PsE41YkD_5EZbigk&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&_nc_gid=7dKHMdzFQu2JQsQ6CfY7Jg&_nc_ss=7b2a8&oh=00_AQHVPc_KT-hFKGW7hY_z2LO6zkm728z8aDI_UzAxnNfHGg&oe=6A85B52D&auto=format&auto=compress&fit=max" group-title="Sin Categoria",VerTv 🇦🇷 (1920x1080)
+#EXTINF:    Iskhodnyy="✔️VerTv✅"                  tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/488904410_667439932637144_9070355730544374980_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx614x976&ctp=s614x976&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=dLXUPblM0NIQ7kNvwFOePjE&_nc_oc=Ado31vegj-bm4cv45n1agzMphEroZyEseTpPWBzLqgs8RlLstX5PsE41YkD_5EZbigk&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&_nc_gid=7dKHMdzFQu2JQsQ6CfY7Jg&_nc_ss=7b2a8&oh=00_AQHVPc_KT-hFKGW7hY_z2LO6zkm728z8aDI_UzAxnNfHGg&oe=6A85B52D" group-title="Sin Categoria",VerTv 🇦🇷 (1920x1080)
 https://media.cdnvid.com/public/uovlwqzikeyf.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Святые Телло Варгас✅"                  tvg-logo="https://scontent.cdninstagram.com/v/t51.82787-19/686484866_17961440604087192_1169570359836780255_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDEuQzMifQ%3D%3D&_nc_ohc=uQQCirn5_lwQ7kNvwG9UBP_&_nc_oc=AdpRTMlfg-CdE7FQO3ffjlWiW6eIt2jMfVFtUukKBPT3a8cYJGzLuyhGwvnQzvcEO0M&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Xw5DwhAoKWSfT0-sr1VfrQ&_nc_ss=7b689&oh=00_AQGEcPRGNew-Vvju3Xi4jt8_6Hftie_Qb7Uk9r892WCcXQ&oe=6A8F2E51&auto=format&auto=compress&fit=max" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Las Santos TV 🇨🇷 (1280x720) Tello Vargas
+#EXTINF:    Iskhodnyy="✔️Святые Телло Варгас✅"                  tvg-logo="https://scontent.cdninstagram.com/v/t51.82787-19/686484866_17961440604087192_1169570359836780255_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDEuQzMifQ%3D%3D&_nc_ohc=uQQCirn5_lwQ7kNvwG9UBP_&_nc_oc=AdpRTMlfg-CdE7FQO3ffjlWiW6eIt2jMfVFtUukKBPT3a8cYJGzLuyhGwvnQzvcEO0M&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Xw5DwhAoKWSfT0-sr1VfrQ&_nc_ss=7b689&oh=00_AQGEcPRGNew-Vvju3Xi4jt8_6Hftie_Qb7Uk9r892WCcXQ&oe=6A8F2E51" group-title="Sin Categoria",Las Santos TV 🇨🇷 (1280x720) Tello Vargas
 https://tiquiciatv.com/hls/lstv.m3u8
 
 #EXTINF=====================================================================================================================================================================================================
