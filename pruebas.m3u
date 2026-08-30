@@ -331,9 +331,10 @@ http://181.224.255.210:8001/play/a0m5/index.m3u8
 #EXTINF:    Iskhodnyy="❓РСПСП❔"                  tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/69d43e41647215b0a66f37c6_espnpremium.jpg" group-title="🌍 Futbol Mundial ⚽",ESPN Premium (1920x1080)
 http://181.224.255.210:8001/play/a0pt/index.m3u8
 
-#EXTINF:    Iskhodnyy="❓МС❔"                tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Movistar Deportes ()
-http://170.244.209.30:8000/play/a1i8/index.m3u8
+#EXTINF:    Iskhodnyy="❓МС❔"                tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Movistar Deportes (720x480)
 http://205.235.6.29:8000/play/a0zd/index.m3u8
+#EXTINF:    Iskhodnyy="❓МС❔"                tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Movistar Deportes (720x480)
+http://170.244.209.30:8000/play/a1i8/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="🌍 Futbol Mundial ⚽",Claro Deportes (1920x1080)
 http://190.61.101.11:7050/play/a04v/index.m3u8
