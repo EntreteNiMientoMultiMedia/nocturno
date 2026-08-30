@@ -1045,6 +1045,13 @@ https://eu1.servers10.com:8081/8258/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/1767386997814/c65f6ebc5be3_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",NaZKa (1280x720) Calle Bolognesi Nº 770 - Nasca
 https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLatele.png&width=100" group-title="🌊 Para Variar... de la Costa 🏖️",La Tele (1280x720)
+https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/LATELE_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLATELE_WIN_stream_0d&_cdn_session=6853730262&_cdn_token=cfd448304bdb54dc32500cf574c119b1b7086674
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLATELE.png&width=100" group-title="🌊 Para Variar... de la Costa 🏖️",La Tele (1280x720)
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATELE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATELE_stream_d6&_cdn_session=4157176243&_cdn_token=012da1bcda70cbfd7fb3ef7146f10d413373fcab
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645029340/3879825b6e20_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",La Tele (10240x576)
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://kliptv.pe/wp-content/uploads/2025/10/chrome_DjqSutKGsS.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Klip (Arequipa) 1280x720
 https://live-evg10.tv360.bitel.com.pe/bitel/kliptv/playlist.m3u8
 
@@ -1465,43 +1472,36 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8?
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="❓кП❔"                  tvg-logo="https://yt3.googleusercontent.com/CLwrr6AgezK18olQVA-g40gHG7fHV2APLmmnzNZ6Cu4ZHhJuM5GE5d5LKaJ8iVl4iB9XsdZWrQ=s160-c-k-c0x00ffffff-no-rj" group-title="✨🌈 Señal Prisma 💎💠 Exclusiva 🔐📺",Claro 🇲🇽 (1920x1080)
-http://190.61.101.11:7050/play/a04w/index.m3u8
-
 #EXTINF:    Iskhodnyy="✔️VerTv✅"                  tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/488904410_667439932637144_9070355730544374980_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx614x976&ctp=s614x976&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=dLXUPblM0NIQ7kNvwFOePjE&_nc_oc=Ado31vegj-bm4cv45n1agzMphEroZyEseTpPWBzLqgs8RlLstX5PsE41YkD_5EZbigk&_nc_zt=23&_nc_ht=scontent.flim38-1.fna&_nc_gid=7dKHMdzFQu2JQsQ6CfY7Jg&_nc_ss=7b2a8&oh=00_AQHVPc_KT-hFKGW7hY_z2LO6zkm728z8aDI_UzAxnNfHGg&oe=6A85B52D" group-title="🤖 Alternativos 📵",VerTv 🇦🇷 (1920x1080)
 https://media.cdnvid.com/public/uovlwqzikeyf.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Святые Телло Варгас✅"                  tvg-logo="https://scontent.cdninstagram.com/v/t51.82787-19/686484866_17961440604087192_1169570359836780255_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDEuQzMifQ%3D%3D&_nc_ohc=uQQCirn5_lwQ7kNvwG9UBP_&_nc_oc=AdpRTMlfg-CdE7FQO3ffjlWiW6eIt2jMfVFtUukKBPT3a8cYJGzLuyhGwvnQzvcEO0M&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Xw5DwhAoKWSfT0-sr1VfrQ&_nc_ss=7b689&oh=00_AQGEcPRGNew-Vvju3Xi4jt8_6Hftie_Qb7Uk9r892WCcXQ&oe=6A8F2E51" group-title="🤖 Alternativos 📵",Las Santos TV 🇨🇷 (1280x720) Tello Vargas
 https://tiquiciatv.com/hls/lstv.m3u8
 
-#EXTINF:    Iskhodnyy="✔️УХТЫ✅"                  tvg-logo="https://yt3.googleusercontent.com/UPj12VPlhl_2bWrRqFrb3Fr12jxPyLkfm-GZ8CmWBsPP27-ZrQF0T0ow2qNRHQK9s8XtMpDFNQ=s160-c-k-c0x00ffffff-no-rj" group-title="🤖 Alternativos 📵",WOW 🇸🇻 (1920x1080)
+#EXTINF:    Iskhodnyy="❓кП❔"                  tvg-logo="https://yt3.googleusercontent.com/CLwrr6AgezK18olQVA-g40gHG7fHV2APLmmnzNZ6Cu4ZHhJuM5GE5d5LKaJ8iVl4iB9XsdZWrQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Claro 🇲🇽 (1920x1080)
+http://190.61.101.11:7050/play/a04w/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️УХТЫ✅"                  tvg-logo="https://yt3.googleusercontent.com/UPj12VPlhl_2bWrRqFrb3Fr12jxPyLkfm-GZ8CmWBsPP27-ZrQF0T0ow2qNRHQK9s8XtMpDFNQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",WOW 🇸🇻 (1920x1080)
 https://cdn1.cef-technology.com/wow/wow_tv/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645515476/68d99d53548a_480_270.png" group-title="🤖 Alternativos 📵",Bitt (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645515476/68d99d53548a_480_270.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Bitt (1920x1080)
 https://live-evg10.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBITCHANNEL.png&width=100" group-title="🤖 Alternativos 📵",Bitt (1280x720)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FBITCHANNEL.png&width=100" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Bitt (1280x720)
 https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/BIT_CHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DBIT_CHANNEL_stream_pn&_cdn_session=6853398070&_cdn_token=6d02bd373e3a456643411e16db469d44740a8211
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBITTCHANNEL.png&width=100" group-title="🤖 Alternativos 📵",Bitt (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FBITTCHANNEL.png&width=100" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Bitt (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/BITTCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBITTCH_stream_u1&_cdn_session=4157155067&_cdn_token=50b3a7dc83027218ee65f7eca06928aade8bddea
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647948836/4b29ec1d4817_480_270.jpg" group-title="🤖 Alternativos 📵",X+ (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647948836/4b29ec1d4817_480_270.jpg" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",X+ (1920x1080)
 https://live-evg11.tv360.bitel.com.pe/bitel/xtvplusSRT/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/26/22/1772120012871/88aef8401501_480_270.png" group-title="🤖 Alternativos 📵",X (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/26/22/1772120012871/88aef8401501_480_270.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",X (1920x1080)
 https://live-evg11.tv360.bitel.com.pe/bitel/xtvSRT/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/27/03/1779825690602/35cfac0ed79a_480_270.png" group-title="🤖 Alternativos 📵",Max (1920x1080)
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/27/03/1779825690602/35cfac0ed79a_480_270.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Max (1920x1080)
 https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Метро✅"                  tvg-logo="https://yt3.googleusercontent.com/WLb6jGaP9US93BrR7Avg08tX11SWlBBgMba3457pD3ZD3My3FTLU71sryd8tWeqZ3JQ24DON=s160-c-k-c0x00ffffff-no-rj" group-title="🤖 Alternativos 📵",Metro (1280x720)
+#EXTINF:    Iskhodnyy="✔️Метро✅"                  tvg-logo="https://yt3.googleusercontent.com/WLb6jGaP9US93BrR7Avg08tX11SWlBBgMba3457pD3ZD3My3FTLU71sryd8tWeqZ3JQ24DON=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Metro (1280x720)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLatele.png&width=100" group-title="🤖 Alternativos 📵",La Tele (1280x720)
-https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/LATELE_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLATELE_WIN_stream_0d&_cdn_session=6853730262&_cdn_token=cfd448304bdb54dc32500cf574c119b1b7086674
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLATELE.png&width=100" group-title="🤖 Alternativos 📵",La Tele (1280x720)
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATELE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATELE_stream_d6&_cdn_session=4157176243&_cdn_token=012da1bcda70cbfd7fb3ef7146f10d413373fcab
-#EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645029340/3879825b6e20_480_270.png" group-title="🤖 Alternativos 📵",La Tele (10240x576)
-https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
