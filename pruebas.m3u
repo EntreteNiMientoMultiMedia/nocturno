@@ -852,13 +852,13 @@ https://live-evg5.tv360.bitel.com.pe/bitel/radioodtvSRT/playlist.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://tvomix.com/Logos/FlashBackMix.png" group-title="🎧 Melodiya 🌍🔊",Retrospectiva Mix 🇦🇷 (1280x720)
+#EXTINF:    Iskhodnyy="✔️Ретроспектива✅"                  tvg-logo="https://tvomix.com/Logos/FlashBackMix.png" group-title="🎧 Melodiya 🌍🔊",Retrospectiva Mix 🇦🇷 (1280x720)
 https://cloud.tvomix.com/FLASHBACKMIX/tracks-v1a1/mono.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="🎧 Melodiya 🌍🔊",K Pop Mix 🇦🇷 (1280x720)
+#EXTINF:    Iskhodnyy="✔️ЮжнаяКорея✅"                  tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="🎧 Melodiya 🌍🔊",K Pop Mix 🇦🇷 (1280x720)
 https://cloud.tvomix.com/KPOPMIX/tracks-v1a1/mono.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://tvomix.com/Logos/Cumbiamix.png" group-title="🎧 Melodiya 🌍🔊",Cumbia Mix 🇦🇷 (1280x720)
+#EXTINF:    Iskhodnyy="✔️Кумбия✅"                  tvg-logo="https://tvomix.com/Logos/Cumbiamix.png" group-title="🎧 Melodiya 🌍🔊",Cumbia Mix 🇦🇷 (1280x720)
 https://cloud.tvomix.com/CUMBIAMIX/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHTV.png&width=100" group-title="🎧 Melodiya 🌍🔊",Hispano 🇺🇸 (1280x720)
@@ -1499,10 +1499,10 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8?_
 #EXTINF:    Iskhodnyy="✔️Запад✅"                  tvg-logo="https://scontent.flim28-2.fna.fbcdn.net/v/t39.30808-6/500300862_122150164460476855_3979476701751268696_n.jpg?stp=dst-jpg_tt6&cstp=mx630x630&ctp=s630x630&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=UlkHU7p3mrUQ7kNvwFlb_qx&_nc_oc=Ado9peaNjLy5Y3VMC384mhCS34w20KTtOhgO6E7qM4yW52FeQRWfFrYuX7r7DPn2Lr0&_nc_zt=23&_nc_ht=scontent.flim28-2.fna&_nc_gid=UY8eUFF082JwnspaTiqKeg&_nc_ss=7b289&oh=00_AQIZdD2LZG2n4jsnV_hZLD_yuilc768xgkaENVCQs7PiWg&oe=6A9857B8" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Oeste (1920x1080) Cable Red (Maytacapac 113 - Independencia)
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canalprovincial.com.ar/wp-content/themes/canalprovincia/images/logo.jpg" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Provincial de TeleRed 🇦🇷 (720x480) Canal 11
+#EXTINF:    Iskhodnyy="✔️ТелеКрасный✅"                  tvg-logo="https://canalprovincial.com.ar/wp-content/themes/canalprovincia/images/logo.jpg" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Provincial de TeleRed 🇦🇷 (720x480) Canal 11
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Televisión Digital Codificada En Linea 🇦🇷 (1920x1080)
+#EXTINF:    Iskhodnyy="✔️ТЦЗО✅"                  tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Televisión Digital Codificada En Linea 🇦🇷 (1920x1080)
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
