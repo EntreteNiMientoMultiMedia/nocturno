@@ -1468,11 +1468,11 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:    Iskhodnyy="✔️Сиском✅"                  tvg-logo="https://siscomtv.com/imagenes/logo.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Siscom (1920x1080) Av. Bernardo Balaguer Mz. B Lt. 10 - Urb. Alameda 1ra Etapa - Ñaña
 https://video2.lhdserver.es/siscomtv/live.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Хатун✅"                  tvg-logo="https://yt3.googleusercontent.com/MlyLsY8exzz_iOovpBhXPmvt3QrXv0c59RwY-t64julqKXUgL2H0773zmaVNzh_cJsM3CByuPw=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Hatun (1920x1080) Bestia Cable
-https://live-evg13.tv360.bitel.com.pe/bitel/tarpuy/playlist.m3u8
-
 #EXTINF:    Iskhodnyy="❓кП❔"                  tvg-logo="https://yt3.googleusercontent.com/CLwrr6AgezK18olQVA-g40gHG7fHV2APLmmnzNZ6Cu4ZHhJuM5GE5d5LKaJ8iVl4iB9XsdZWrQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Canal Claro 🇲🇽 (1920x1080) Claro
 http://190.61.101.11:7050/play/a04w/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Хатун✅"                  tvg-logo="https://yt3.googleusercontent.com/MlyLsY8exzz_iOovpBhXPmvt3QrXv0c59RwY-t64julqKXUgL2H0773zmaVNzh_cJsM3CByuPw=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Hatun (1920x1080) Bestia Cable
+https://live-evg13.tv360.bitel.com.pe/bitel/tarpuy/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️УХТЫ✅"                  tvg-logo="https://yt3.googleusercontent.com/UPj12VPlhl_2bWrRqFrb3Fr12jxPyLkfm-GZ8CmWBsPP27-ZrQF0T0ow2qNRHQK9s8XtMpDFNQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",WOW 🇸🇻 (1920x1080) WOW
 https://cdn1.cef-technology.com/wow/wow_tv/chunks.m3u8
