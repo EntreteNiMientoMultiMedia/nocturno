@@ -790,7 +790,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FIERROAFONDO/40-hls/live-medi
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645593708/be4c102c0389_480_270.jpg" group-title="🏇 Fierros & Turf 🏎️",Fierro a Fondo (1920x1080)
 https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="❓МФ1❔"              tvg-logo="https://f1tv.formula1.com/static/5a5966a0dab4e4fa5d2130f2a81df6bd.png" group-title="🏇 Fierros & Turf 🏎️",Cielo Formula Uno ()
+#EXTINF:    Iskhodnyy="❓МФ1❔"              tvg-logo="https://f1tv.formula1.com/static/5a5966a0dab4e4fa5d2130f2a81df6bd.png" group-title="🏇 Fierros & Turf 🏎️",Cielo Formula Uno (1920x1080)
 http://157.100.9.51:8000/play/a25q
 
 #EXTINF:    Iskhodnyy="✔️Гараж✅"              tvg-logo="https://yt3.googleusercontent.com/_sq1q_dAmsW1nnnIbdVQM8_fqDOmkRl1JMyZxVq7sC5YlnFHuF-tFSH761XMn2cHtJTDezvc=s160-c-k-c0x00ffffff-no-rj" group-title="🏇 Fierros & Turf 🏎️",Garage (720x404)
@@ -1389,7 +1389,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FKaribena_WIN.png" group-title="🎧 Melodiya 🇵🇪 🔊",Karibeña 🇵🇪 (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=4153418859&_cdn_token=08d01a1708e3b286ac894397f0e6bed0e8d352b6
 
-#EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/PERUANISIMA-TV-02.png" group-title="🎧 Melodiya 🇵🇪 🔊",Peruanisima 🇵🇪 (1920X1080) HuancaYork
+#EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://radioimperialtv.com/wp-content/uploads/2026/05/PERUANISIMA-TV-02.png" group-title="🎧 Melodiya 🇵🇪 🔊",Peruanisima 🇵🇪 (1920x1080) HuancaYork
 https://sc3.wasidata.com/Peruanisima14_1614/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="✔️перуанский✅"                  tvg-logo="https://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="🎧 Melodiya 🇵🇪 🔊",Peruanisima 🇵🇪 (1280x720)
