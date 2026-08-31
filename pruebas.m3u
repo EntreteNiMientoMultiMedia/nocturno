@@ -53,6 +53,8 @@ https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/20-hls/live-medi
 https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=6997491619&_cdn_token=1d8f9bedcba34899cc2c54c67e74d9cb2714b3a6
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/176738742342/83d49ffca6d7_480_270.jpg" group-title="⚽ Futbol 🇵🇪",L1 Max (640x360)
 https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Liga_1_max/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLiga_1_max_stream_vh&_cdn_session=6997504691&_cdn_token=502033a0aa6c03550c4b3becffbcc2b770377004
+#EXTINF:    Iskhodnyy="❓Л1Макс❔"              tvg-logo="https://play-lh.googleusercontent.com/c1VBjhbbiVDH25FZqZA1OwPQCTB5C5L5H6oYVysZ_G1Iq_I4WyGsnQyhsKFpzX_0V9dEi9s9BKSNvYBgC6JOO7E=w240-h480-rw" group-title="⚽ Futbol 🇵🇪",L1 Max ()
+http://181.224.255.210:8001/play/a0sf/index.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/12/21/1778595077993/fab7d5b9650a_480_270.png" group-title="⚽ Futbol 🇵🇪",BiColor (1920x1080)
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorSRT/playlist.m3u8
@@ -72,10 +74,25 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/OVACION/40-hls/live-media.m3u
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FL1.png" group-title="⚽ Futbol 🇵🇪",L1 (1280x720)
 https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/liga_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dliga_1_stream_wv&_cdn_session=6213614214&_cdn_token=05e098253546477c4665ea2aa03540127263052d
 
-#EXTINF:    Iskhodnyy="❓МС❔"                tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol 🇵🇪",Movistar Deportes (720x480)
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="❓МС❔"                tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="💪🏼 DeportivaMente 🧠",Movistar Deportes (720x480)
 http://205.235.6.29:8000/play/a0zd/index.m3u8
-#EXTINF:    Iskhodnyy="❓МС❔"                tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol 🇵🇪",Movistar Deportes (720x480)
+#EXTINF:    Iskhodnyy="❓МС❔"                tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="💪🏼 DeportivaMente 🧠",Movistar Deportes (720x480)
 http://170.244.209.30:8000/play/a1i8/index.m3u8
+
+#EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="💪🏼 DeportivaMente 🧠",Claro Deportes (1920x1080)
+http://190.61.101.11:7050/play/a04v/index.m3u8
+
+#EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://play-lh.googleusercontent.com/zFPHigI8l5v42ToIW88GatyY49SC4ohu_8lJcIFIz2GGqevVeSsNS41K_EARp1oJcYOwrSgQmiFq0JrhbbmqFw=w240-h480-rw" group-title="💪🏼 DeportivaMente 🧠",EstarEn Deportes Español () beIN ñ
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/9416579a-7851-4e11-9930-3916076984c2/0.m3u8
+#EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://play-lh.googleusercontent.com/zFPHigI8l5v42ToIW88GatyY49SC4ohu_8lJcIFIz2GGqevVeSsNS41K_EARp1oJcYOwrSgQmiFq0JrhbbmqFw=w240-h480-rw" group-title="💪🏼 DeportivaMente 🧠",EstarEn Deportes Español () beIN ñ
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://play-lh.googleusercontent.com/zFPHigI8l5v42ToIW88GatyY49SC4ohu_8lJcIFIz2GGqevVeSsNS41K_EARp1oJcYOwrSgQmiFq0JrhbbmqFw=w240-h480-rw" group-title="💪🏼 DeportivaMente 🧠",EstarEn Deportes Español () beIN ñ
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:    Iskhodnyy="❓МС❔"              tvg-logo="https://yt3.googleusercontent.com/LLLdAOYhILHyChC4MQcN7S86uQadG1EklyjZFFfbhaYL5dxphHzxNxqHwQV7zn4-7JyYcyyj69E=s160-c-k-c0x00ffffff-no-rj" group-title="💪🏼 DeportivaMente 🧠",Maximo Deportes ()
+https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
@@ -234,9 +251,6 @@ http://181.224.255.210:8001/play/a0m5/index.m3u8
 #EXTINF:    Iskhodnyy="❓РСПС7❔"                  tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/espn-71.jpg" group-title="🌍 Futbol Mundial ⚽",ESPN 7 (720x480)
 http://190.217.66.92:8000/play/a0e1/index.m3u8
 
-#EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="🌍 Futbol Mundial ⚽",Claro Deportes (1920x1080)
-http://190.61.101.11:7050/play/a04v/index.m3u8
-
 #EXTINF:    Iskhodnyy="❓ПС+❔"                tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="🌍 Futbol Mundial ⚽",Win Deportes+ (1280x960)
 http://190.217.66.92:8000/play/a0qs/index.m3u8
 
@@ -245,6 +259,10 @@ http://190.61.101.11:7050/play/a04m/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓ТМСС❔"              tvg-logo="https://yt3.googleusercontent.com/-gn5ix3UvKEfHdnYJbH0a6KGsQGexUrOyNAZmsVS2etGzTKwozx2ljyMkU2jXzusZ2mLa8qHUA=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
+#EXTINF:    Iskhodnyy="❓ТМСС❔"              tvg-logo="https://yt3.googleusercontent.com/-gn5ix3UvKEfHdnYJbH0a6KGsQGexUrOyNAZmsVS2etGzTKwozx2ljyMkU2jXzusZ2mLa8qHUA=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora ()
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/3.m3u8
+#EXTINF:    Iskhodnyy="❓ТМСС❔"              tvg-logo="https://yt3.googleusercontent.com/-gn5ix3UvKEfHdnYJbH0a6KGsQGexUrOyNAZmsVS2etGzTKwozx2ljyMkU2jXzusZ2mLa8qHUA=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora ()
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
 
 #EXTINF:    Iskhodnyy="❓КСП❔"              tvg-logo="https://www.foxsports.com.mx/resizer/v2/C4CAHXMBVFEDHEQ6X2CGW6OCOM.jpg?smart=true&auth=900d286d50bae286c42ddfa4945cf8aa3275e7a5194b0278686ecf0adea8267d&width=1200&height=675&quality=85" group-title="🌍 Futbol Mundial ⚽",Zorro Deportes (1920x1080)
 http://190.61.101.11:7050/play/a08t/index.m3u8
@@ -497,6 +515,8 @@ https://hrm-sftc.otteravision.com/hrm/sftc/sftc.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ОбЧ✅"                tvg-logo="https://yt3.googleusercontent.com/qxsTGNMcFPwqYRykApeJyLbdQCBZRPr_gCXuxwDbYuYZah5ZYmKs4bq0rtkCLLC011A0MgsGs10=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",Campeonato de Lucha Definitivo (1920x1080) UFC
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️ОбЧ✅"                tvg-logo="https://yt3.googleusercontent.com/qxsTGNMcFPwqYRykApeJyLbdQCBZRPr_gCXuxwDbYuYZah5ZYmKs4bq0rtkCLLC011A0MgsGs10=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",Campeonato de Lucha Definitivo () UFC
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️СП✅"                tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDm0LgmuZ6YBLmfnip23dHSVP_cyqFB0kZc5BCrys7YAk=s160-c-k-c0x00ffffff-no-rj" group-title="🥊 Combate & Accion 🥋",KickBoxing de la Gloria (1280x720) Glory KickBoxing
 https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
@@ -1521,6 +1541,9 @@ https://cdnback6.win.cdn.moderntv.eu:7909/win/stream/E_Sport_Go/40-hls/live-medi
 
 #EXTINF:    Iskhodnyy="✔️КГ✅"              tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mDjjsSaCKGC2vCcHqu3av4jrZs9D1HRhfjuIV49pPNdg=s160-c-k-c0x00ffffff-no-rj" group-title="🕹️ Apuestas & eSports 🃏",Jugadores de Cajas (1920x1080) Box Gamers
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️КГ✅"              tvg-logo="https://yt3.googleusercontent.com/yylfJN-orsTaMVecbMi1Cp5G0aLXJjfMdMWCWLw8UY425nPnRXW1_SXjJ_sRxQ04seZprodDkA=s160-c-k-c0x00ffffff-no-rj" group-title="🕹️ Apuestas & eSports 🃏",Via X ()
+http://181.224.255.210:8001/play/a0qs/index.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
