@@ -94,6 +94,8 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:    Iskhodnyy="❓МС❔"              tvg-logo="https://yt3.googleusercontent.com/LLLdAOYhILHyChC4MQcN7S86uQadG1EklyjZFFfbhaYL5dxphHzxNxqHwQV7zn4-7JyYcyyj69E=s160-c-k-c0x00ffffff-no-rj" group-title="💪🏼 DeportivaMente 🧠",Maximo Deportes ()
 https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
 
+
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️Успешный✅"                  tvg-logo="https://yt3.googleusercontent.com/WS_VtveabSs00D1LpuT7xdG8fdXLgs5MaIg_r6gL2Zal3YF4JSr3YsbHeH1Eswd-JD8MSkYNKpI=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Exitosa (1280x720)
@@ -256,6 +258,10 @@ http://190.217.66.92:8000/play/a0qs/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓ТУСС❔"                  tvg-logo="https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw=w240-h480-rw" group-title="🌍 Futbol Mundial ⚽",Televisa Univision Deportes Network (1920x1080) TUDN
 http://190.61.101.11:7050/play/a04m/index.m3u8
+#EXTINF:    Iskhodnyy="❓ТУСС❔"                  tvg-logo="https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw=w240-h480-rw" group-title="🌍 Futbol Mundial ⚽",Televisa Univision Deportes Network () TUDN
+http://45.167.2.138:8000/play/a0r4/index.m3u8
+#EXTINF:    Iskhodnyy="❓ТУСС❔"                  tvg-logo="https://play-lh.googleusercontent.com/_9Iz8w2Ke_iHRjlgyUCz2HDSlujDqu-L-eOjsRUnUCKDRhZ97SIQCI2R4A4nwJ-Cz_qde3-t004NG3aBRbQRAiw=w240-h480-rw" group-title="🌍 Futbol Mundial ⚽",Televisa Univision Deportes Network () TUDN
+http://179.60.224.196:8000/play/a0f4/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓ТМСС❔"              tvg-logo="https://yt3.googleusercontent.com/-gn5ix3UvKEfHdnYJbH0a6KGsQGexUrOyNAZmsVS2etGzTKwozx2ljyMkU2jXzusZ2mLa8qHUA=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",TeleMundo Deportes Ahora (1920x1080)
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
@@ -269,12 +275,19 @@ http://190.61.101.11:7050/play/a08t/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓ТСТ❔"              tvg-logo="https://yt3.googleusercontent.com/aeyLuevStCjBPQOlnymEaOvzZdywR353xR22S88bG2pWs4sEHctqeLTA6rb4rY8qS05-Itlhfg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Turner Deportes (1920x1080)
 http://205.235.6.29:8000/play/a104/index.m3u8
+#EXTINF:    Iskhodnyy="❓ТСТ❔"              tvg-logo="https://yt3.googleusercontent.com/aeyLuevStCjBPQOlnymEaOvzZdywR353xR22S88bG2pWs4sEHctqeLTA6rb4rY8qS05-Itlhfg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Turner Deportes ()
+http://186.148.163.17:8000/play/a0az/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓аССТ❔"                  tvg-logo="https://yt3.googleusercontent.com/98t5HuaGolJi9epHyl23oge7PoSRvDnWbAhNSV8BOmpX50X2EFjXXlM3ySa8hchBDmP5tpf4HUQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Azteca Deportes Network (720x480)
 http://190.61.101.11:7050/play/a08l/index.m3u8
 
-#EXTINF:    Iskhodnyy="❓Т&НСФ❔"                  tvg-logo="https://yt3.googleusercontent.com/VkAgCIDmeBeTHRQhvzF4Pfqu-JbLy2WWvcwBB_qVwhKp-I30toccvyxlGJlbFpcJscwCQ1HwAg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Torneos y Competencias Deportes (1920x1080) Fanaticos
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:    Iskhodnyy="❓Т&НС❔"                  tvg-logo="https://yt3.googleusercontent.com/VkAgCIDmeBeTHRQhvzF4Pfqu-JbLy2WWvcwBB_qVwhKp-I30toccvyxlGJlbFpcJscwCQ1HwAg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Torneos y Competencias Deportes ()
+http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:    Iskhodnyy="❓Т&НС❔"                  tvg-logo="https://yt3.googleusercontent.com/VkAgCIDmeBeTHRQhvzF4Pfqu-JbLy2WWvcwBB_qVwhKp-I30toccvyxlGJlbFpcJscwCQ1HwAg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Torneos y Competencias Deportes ()
+http://181.79.87.130:8000/play/a0ck/index.m3u8
+
+#EXTINF:    Iskhodnyy="❓ОКПФ❔"                  tvg-logo="https://play-lh.googleusercontent.com/u7zkNdjdjnH8EMzD1ajGuzFsEljE80C_jcwZFJ7Dv1-nsf9YttLdaQO7_VK4ns76mQp4KTXHqwL2mq5SSgeIaw=w240-h480-rw" group-title="🌍 Futbol Mundial ⚽",El canal del FutBol ()
+http://181.119.185.32:8000/play/a002/index.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
