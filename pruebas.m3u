@@ -84,6 +84,12 @@ http://205.235.6.29:8000/play/a104/index.m3u8
 #EXTINF:    Iskhodnyy="❓ТСТ❔"              tvg-logo="https://yt3.googleusercontent.com/aeyLuevStCjBPQOlnymEaOvzZdywR353xR22S88bG2pWs4sEHctqeLTA6rb4rY8qS05-Itlhfg=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol",Turner Deportes ()
 http://186.148.163.17:8000/play/a0az/index.m3u8
 
+#EXTINF:    Iskhodnyy="❓Барселона❔"                tvg-logo="https://yt3.googleusercontent.com/Ia0SxyBlKMsA1Ly3YIhkxFJDgmV1H8OagZN99pXplP_srx3Fw-ykVO-WyUp_xGlcSw2ilc0_=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol",Barcelona ()
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="❓НМ❔"                tvg-logo="https://play-lh.googleusercontent.com/YHmx_8EDKN2cTA1RHnYCoY5pirfxZ3x8gErczCEuBXqnbYDn9TB0z8wbpXNJrSLhl048yUom5xOHBoSQOhLm=w240-h480-rw" group-title="⚽ Futbol",Real Madrid ()
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
 #EXTINF:    Iskhodnyy="❓ОКПФ❔"                  tvg-logo="https://play-lh.googleusercontent.com/u7zkNdjdjnH8EMzD1ajGuzFsEljE80C_jcwZFJ7Dv1-nsf9YttLdaQO7_VK4ns76mQp4KTXHqwL2mq5SSgeIaw=w240-h480-rw" group-title="⚽ Futbol",El canal del FutBol ()
 http://181.119.185.32:8000/play/a002/index.m3u8
 
