@@ -59,10 +59,8 @@ http://181.224.255.210:8001/play/a0sf/index.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/12/21/1778595077993/fab7d5b9650a_480_270.png" group-title="⚽ Futbol",BiColor (1920x1080)
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorSRT/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="❓РСПСП❔"                  tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/69d43e41647215b0a66f37c6_espnpremium.jpg" group-title="⚽ Futbol",ESPN Premium (1920x1080)
-http://181.224.255.210:8001/play/a0pt/index.m3u8
-#EXTINF:    Iskhodnyy="❓РСПСП❔"                  tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/69d43e41647215b0a66f37c6_espnpremium.jpg" group-title="⚽ Futbol",ESPN Premium (1280x720)
-http://190.217.66.92:8000/play/a0pj/index.m3u8
+#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FL1.png" group-title="⚽ Futbol",L1 (1280x720)
+https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/liga_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dliga_1_stream_wv&_cdn_session=6213614214&_cdn_token=05e098253546477c4665ea2aa03540127263052d
 
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FSUPERTV.png" group-title="⚽ Futbol",Super (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/SUPERTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSUPERTV_stream_04&_cdn_session=4065337915&_cdn_token=8d5d0df84d06e57c2436fed33b8692a5d4857438
@@ -76,19 +74,21 @@ https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/OVACION/40-hls/live-media.m
 #EXTINF:    Iskhodnyy="💵EC💸"                tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FOVACION.png" group-title="⚽ Futbol",Ovacion (1280x720)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/OVACION/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DOVACION_stream_zr&_cdn_session=4065377827&_cdn_token=3adc4a03c4c8aa633e8e0f99a97eeae2ff02615c
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FL1.png" group-title="⚽ Futbol",L1 (1280x720)
-https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/liga_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dliga_1_stream_wv&_cdn_session=6213614214&_cdn_token=05e098253546477c4665ea2aa03540127263052d
+#EXTINF:    Iskhodnyy="❓РСПСП❔"                  tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/69d43e41647215b0a66f37c6_espnpremium.jpg" group-title="⚽ Futbol",ESPN Premium (1920x1080)
+http://181.224.255.210:8001/play/a0pt/index.m3u8
+#EXTINF:    Iskhodnyy="❓РСПСП❔"                  tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/69d43e41647215b0a66f37c6_espnpremium.jpg" group-title="⚽ Futbol",ESPN Premium (1280x720)
+http://190.217.66.92:8000/play/a0pj/index.m3u8
+
+#EXTINF:    Iskhodnyy="❓ТСТ❔"              tvg-logo="https://yt3.googleusercontent.com/aeyLuevStCjBPQOlnymEaOvzZdywR353xR22S88bG2pWs4sEHctqeLTA6rb4rY8qS05-Itlhfg=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol",Turner Deportes (1920x1080)
+http://205.235.6.29:8000/play/a104/index.m3u8
+#EXTINF:    Iskhodnyy="❓ТСТ❔"              tvg-logo="https://yt3.googleusercontent.com/aeyLuevStCjBPQOlnymEaOvzZdywR353xR22S88bG2pWs4sEHctqeLTA6rb4rY8qS05-Itlhfg=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol",Turner Deportes ()
+http://186.148.163.17:8000/play/a0az/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓ОКПФ❔"                  tvg-logo="https://play-lh.googleusercontent.com/u7zkNdjdjnH8EMzD1ajGuzFsEljE80C_jcwZFJ7Dv1-nsf9YttLdaQO7_VK4ns76mQp4KTXHqwL2mq5SSgeIaw=w240-h480-rw" group-title="⚽ Futbol",El canal del FutBol ()
 http://181.119.185.32:8000/play/a002/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓ПС+❔"                tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽ Futbol",Win Deportes+ (1280x960)
 http://190.217.66.92:8000/play/a0qs/index.m3u8
-
-#EXTINF:    Iskhodnyy="❓ТСТ❔"              tvg-logo="https://yt3.googleusercontent.com/aeyLuevStCjBPQOlnymEaOvzZdywR353xR22S88bG2pWs4sEHctqeLTA6rb4rY8qS05-Itlhfg=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol",Turner Deportes (1920x1080)
-http://205.235.6.29:8000/play/a104/index.m3u8
-#EXTINF:    Iskhodnyy="❓ТСТ❔"              tvg-logo="https://yt3.googleusercontent.com/aeyLuevStCjBPQOlnymEaOvzZdywR353xR22S88bG2pWs4sEHctqeLTA6rb4rY8qS05-Itlhfg=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol",Turner Deportes ()
-http://186.148.163.17:8000/play/a0az/index.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
