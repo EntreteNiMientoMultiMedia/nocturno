@@ -72,6 +72,11 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/OVACION/40-hls/live-media.m3u
 #EXTINF:    Iskhodnyy="🔱WT📺"                tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FL1.png" group-title="⚽ Futbol 🇵🇪",L1 (1280x720)
 https://cdnback5.win.cdn.moderntv.eu:7909/win/stream/liga_1/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dliga_1_stream_wv&_cdn_session=6213614214&_cdn_token=05e098253546477c4665ea2aa03540127263052d
 
+#EXTINF:    Iskhodnyy="❓МС❔"                tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol 🇵🇪",Movistar Deportes (720x480)
+http://205.235.6.29:8000/play/a0zd/index.m3u8
+#EXTINF:    Iskhodnyy="❓МС❔"                tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="⚽ Futbol 🇵🇪",Movistar Deportes (720x480)
+http://170.244.209.30:8000/play/a1i8/index.m3u8
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️Успешный✅"                  tvg-logo="https://yt3.googleusercontent.com/WS_VtveabSs00D1LpuT7xdG8fdXLgs5MaIg_r6gL2Zal3YF4JSr3YsbHeH1Eswd-JD8MSkYNKpI=s160-c-k-c0x00ffffff-no-rj" group-title="🇵🇪🗞️ Noticias 🚨",Exitosa (1280x720)
@@ -178,11 +183,10 @@ http://181.224.255.210:8001/play/a0lv/index.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="❓МС❔"                tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Movistar Deportes (720x480)
-http://205.235.6.29:8000/play/a0zd/index.m3u8
-#EXTINF:    Iskhodnyy="❓МС❔"                tvg-logo="https://yt3.googleusercontent.com/Iwx98fK6iFyC0ChifrmKKB4RuTIxnUNZlPZQGiwMmaP8SJO_M2MgmVatJDwFgTBH1IntVK8rGw=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",Movistar Deportes (720x480)
-http://170.244.209.30:8000/play/a1i8/index.m3u8
-
+#EXTINF:    Iskhodnyy="❓ПТС❔"                  tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",DSports ()
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:    Iskhodnyy="❓ПТС❔"                  tvg-logo="https://pbs.twimg.com/profile_images/1675889684436623360/9flBsPxk.jpg" group-title="🌍 Futbol Mundial ⚽",DSports ()
+http://38.187.7.252:8000/play/a03d/index.m3u8
 #EXTINF:    Iskhodnyy="❓ПТС❔"                  tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s160-c-k-c0x00ffffff-no-rj" group-title="🌍 Futbol Mundial ⚽",DSports (1280x720)
 http://190.117.20.37:8000/play/a08d/index.m3u
 
