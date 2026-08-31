@@ -149,6 +149,15 @@ http://191.97.59.33:8000/play/a09t/index.m3u8
 #EXTINF:    Iskhodnyy="❓ПТС❔"                  tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s160-c-k-c0x00ffffff-no-rj" group-title="🏆💪🏼 DeportivaMente 🧠🥇",DSports (1280x720)
 http://190.117.20.37:8000/play/a08d/index.m3u
 
+#EXTINF:    Iskhodnyy="❓Милый❔"                  tvg-logo="https://yt3.googleusercontent.com/pNdTb249ls8s1f41xPqWZ-m0d85mmasR3JypJ_vVDBiwjjZOzebP7jECCuwi11bb5zbVjodK4w=s160-c-k-c0x00ffffff-no-rj" group-title="🏆💪🏼 DeportivaMente 🧠🥇",Cielo Deportes (1280x720)
+http://190.61.101.11:7050/play/a04g/index.m3u8
+http://45.5.118.152:8000/play/a08f/index.m3u8
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+http://186.33.61.182:8000/play/a05q/index.m3u8
+http://45.5.118.188:8000/play/a06p/index.m3u8
+http://186.33.1.71:8000/play/a03u/index.m3u8
+http://186.148.184.22:8000/play/a0i6/index.m3u8
+
 #EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="🏆💪🏼 DeportivaMente 🧠🥇",Claro Deportes (1920x1080)
 http://190.61.101.11:7050/play/a04v/index.m3u8
 
@@ -778,6 +787,9 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/40-hls/live-me
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FIERROAFONDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFIERROAFONDO_stream_c6&_cdn_session=4132740547&_cdn_token=d440c49263fcb59d4543d459f0978b09ce7b3106
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645593708/be4c102c0389_480_270.jpg" group-title="🏇 Fierros & Turf 🏎️",Fierro a Fondo (1920x1080)
 https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="❓МФ1❔"              tvg-logo="https://f1tv.formula1.com/static/5a5966a0dab4e4fa5d2130f2a81df6bd.png" group-title="🏇 Fierros & Turf 🏎️",Cielo Formula Uno ()
+http://157.100.9.51:8000/play/a25q/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Гараж✅"              tvg-logo="https://yt3.googleusercontent.com/_sq1q_dAmsW1nnnIbdVQM8_fqDOmkRl1JMyZxVq7sC5YlnFHuF-tFSH761XMn2cHtJTDezvc=s160-c-k-c0x00ffffff-no-rj" group-title="🏇 Fierros & Turf 🏎️",Garage (720x404)
 https://stream1.sersat.com/hls/garagetv.m3u8
