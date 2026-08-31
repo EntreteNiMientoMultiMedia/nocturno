@@ -95,7 +95,7 @@ http://181.119.185.32:8000/play/a002/index.m3u8
 
 #EXTINF:    Iskhodnyy="❓П+Ф❔"                tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽ Futbol",Win+ Futbol (1280x960)
 http://190.217.66.92:8000/play/a0qs/index.m3u8
-#EXTINF:    Iskhodnyy="❓П+Ф❔"                tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽ Futbol",Win+ Futbol ()
+#EXTINF:    Iskhodnyy="❓П+Ф❔"                tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="⚽ Futbol",Win+ Futbol (720x576)
 http://186.148.184.22:8000/play/a0ih/index.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
@@ -165,11 +165,9 @@ http://186.148.184.22:8000/play/a0i6/index.m3u8
 #EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="🏆💪🏼 DeportivaMente 🧠🥇",Claro Deportes (1920x1080)
 http://190.61.101.11:7050/play/a04v/index.m3u8
 
-#EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s160-c-k-c0x00ffffff-no-rj" group-title="🏆💪🏼 DeportivaMente 🧠🥇",Win Deportes ()
+#EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s160-c-k-c0x00ffffff-no-rj" group-title="🏆💪🏼 DeportivaMente 🧠🥇",Win Deportes (1920x1080)
 http://181.79.87.130:8000/play/a0ez/index.m3u8
-#EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s160-c-k-c0x00ffffff-no-rj" group-title="🏆💪🏼 DeportivaMente 🧠🥇",Win Deportes ()
-http://181.225.190.242:8000/play/a03r
-#EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s160-c-k-c0x00ffffff-no-rj" group-title="🏆💪🏼 DeportivaMente 🧠🥇",Win Deportes ()
+#EXTINF:    Iskhodnyy="❓ПС❔"              tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s160-c-k-c0x00ffffff-no-rj" group-title="🏆💪🏼 DeportivaMente 🧠🥇",Win Deportes (720x480)
 http://190.217.66.92:8000/play/a0fh/index.m3u8u
 
 #EXTINF:    Iskhodnyy="❓Т&НС❔"                  tvg-logo="https://yt3.googleusercontent.com/VkAgCIDmeBeTHRQhvzF4Pfqu-JbLy2WWvcwBB_qVwhKp-I30toccvyxlGJlbFpcJscwCQ1HwAg=s160-c-k-c0x00ffffff-no-rj" group-title="🏆💪🏼 DeportivaMente 🧠🥇",Torneos y Competencias Deportes (1920x1080)
