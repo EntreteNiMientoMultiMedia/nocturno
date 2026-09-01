@@ -597,7 +597,7 @@ http://181.224.255.210:8001/play/a0pz/index.m3u8
 #EXTINF:    Iskhodnyy="🌕ОКД🐶"                  tvg-logo="https://yt3.googleusercontent.com/Hba48Ru37OIS1OFpFqIQ512bR3_3TvSzky0T8fDNd9R0rsZR3Yhq-sH8UQMXyXWa-1bVrEMkXHI=s160-c-k-c0x00ffffff-no-rj" group-title="🍼 Infantil 🌈 0 a 6 años",El Reino Infantil
 https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/01/07/178554270913/0fc5035ad5eb_480_270.png&auto=format&auto=compress&fit=max" group-title="🍼 Infantil 🌈 0 a 6 años",Familia y Películas Hogar - Niños (1280x720) FMH Niños
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/01/07/178554270913/0fc5035ad5eb_480_270.png" group-title="🍼 Infantil 🌈 0 a 6 años",Familia y Películas Hogar - Niños (1280x720) FMH Niños
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/FMHKids_MIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dkids_stream_82&_cdn_session=7210018083&_cdn_token=b8264c3b446e9ad3e2809106e6e746ac7cddb473
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
@@ -920,7 +920,7 @@ https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647241133/922bc3f51820_480_270.png" group-title="🌊 Para Variar... de la Costa 🏖️",Sol (720x576) Avenida Paseo de la Republica 5753 - Miraflores
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8 
 
-#EXTINF:    Iskhodnyy="✔️ЗП✅"                  tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="🌊 Para Variar... de la Costa 🏖️",Señal Peru (1280x720) Calle H 140 - Surquillo
+#EXTINF:    Iskhodnyy="✔️ЗП✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpPJ1K-TIeI4ZVhofpjMU5eo7V_1okyVvF7zOLhndiBQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌊 Para Variar... de la Costa 🏖️",Señal Peru (1280x720) Calle H 140 - Surquillo
 https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Рику✅"                  tvg-logo="https://dn721803.ca.archive.org/0/items/sin-titulo-1_202511/Sin%20t%C3%ADtulo-1.png" group-title="🌊 Para Variar... de la Costa 🏖️",Riku (Lambayeque) 1920x1080
@@ -1177,7 +1177,7 @@ https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/04/176738778077/ecd112237e84_480_270.jpg" group-title="🏔️ Corazon de los Andes 🦙",Canal 25 Ayacucho (1920x1080) Jr. Jose Carlos Mariategui N° 429
 https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️Цепь✅"                  tvg-logo="https://scontent.flim29-1.fna.fbcdn.net/v/t39.30808-6/503598837_3117474911748641_7264071598664711388_n.jpg?stp=dst-jpg_tt6&cstp=mx572x572&ctp=s572x572&_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=A1T0oRpTD2YQ7kNvwGHPQLg&_nc_oc=AdrvqgV-yahgg-CVq6UAI4_WIX2yLbeSoD44EgZGQ5XldH45NeQF2020iP1hFAH-TtU&_nc_zt=23&_nc_ht=scontent.flim29-1.fna&_nc_gid=fKaRayNwP1fty8a6C8G84A&_nc_ss=7b289&oh=00_AQHnw01GG7WhDTivqbDrhxaEG2x3haEUwO-_xirjRvZ9Xw&oe=6A90388A" group-title="🏔️ Corazon de los Andes 🦙",Cadena (1280x720) Jr. Ayacucho 716 - Huancayo
+#EXTINF:    Iskhodnyy="✔️Цепь✅"                  tvg-logo="https://yt3.googleusercontent.com/9sp3B6QDknDrhFxROjHN8r1BTlCW3TmbteWrMlICCqiZ8yWFi8OuqwEMiBn3vfJnkLHfGQ7ZAXw=s160-c-k-c0x00ffffff-no-rj" group-title="🏔️ Corazon de los Andes 🦙",Cadena (1280x720) Jr. Ayacucho 716 - Huancayo
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767646354762/7dd99c16eb45_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Cadena (1280x720) Jr. Ayacucho 716 - Huancayo
 https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
@@ -1302,7 +1302,7 @@ https://sc3.wasidata.com/Genios2_1902/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Дельта✅"                  tvg-logo="https://www.deltatv50.com/wp-content/uploads/2022/11/cropped-DELTA-TV-2048x1916.png" group-title="🌳 De la Selva su Encanto 🦜",Delta (1920x1080) Jr. Iquitos 235 - Tabalosos - Lamas
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
-#EXTINF:    Iskhodnyy="✔️Дельта✅"                  tvg-logo="https://www.deltatvperu.com/assets/redes.png" group-title="🌳 De la Selva su Encanto 🦜",Delta (1280x720) Jr. Iquitos 235 - Tabalosos - Lamas
+#EXTINF:    Iskhodnyy="✔️Дельта✅"                  tvg-logo="https://www.deltatv50.com/wp-content/uploads/2022/11/cropped-DELTA-TV-2048x1916.png" group-title="🌳 De la Selva su Encanto 🦜",Delta (1280x720) Jr. Iquitos 235 - Tabalosos - Lamas
 https://cdnfox.hostlagarto.com/deltatv50/tracks-v1a1/mono.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Споры✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n57_uFx_RvpVMzo7bsFJN9Dee1txyUdUmkAkcZplZ3t9Uw=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🦜",Controversia (1280x720) Jr. Del Mayo 1100 - MoyoBamba
@@ -1464,7 +1464,7 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:    Iskhodnyy="✔️К&П95.9ЧМ✅"                  tvg-logo="https://play-lh.googleusercontent.com/mXdm3GYQUIXvfeX_FXGChH1AJiboPCmgqAiAv2vg_5AyqpXBf4PTksZsHKYABUSIhZ1H4wHC0zR3aDwwDtjnXNk=w240-h480-rw" group-title="🎧 Melodiya 🌍🔊",Rock & Pop 95.9 FM 🇦🇷 (1920x1080)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️КР✅"                  tvg-logo="https://i.ibb.co/5ZpmjN4/retroclub.png" group-title="🎧 Melodiya 🌍🔊",Club Retro 🇦🇷 (1280x720) XYZ
+#EXTINF:    Iskhodnyy="✔️КР✅"                  tvg-logo="https://yt3.googleusercontent.com/Muwe-3ZZkgU-3gkQ01ExuTMczb48aBG4MEqGDWhEVtcDqtQky2qD8czQYf3f00qshpUFGCaUvjI=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Club Retro 🇦🇷 (1280x720) XYZ
 https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ДЧМ95.9✅"                  tvg-logo="https://yt3.googleusercontent.com/_HVpT8u6iWhd4M4ZoEr2DpgRnzLw5dFhPSOWUxotz3UY59fcvlufbIajvVzIMbrwPF-npWmP=s160-c-k-c0x00ffffff-no-rj" group-title="🎧 Melodiya 🌍🔊",Mas FM 95.9 🇦🇷 (1920x1080)
