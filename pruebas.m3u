@@ -1633,6 +1633,9 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:    Iskhodnyy="❓КГ❔"              tvg-logo="https://yt3.googleusercontent.com/yylfJN-orsTaMVecbMi1Cp5G0aLXJjfMdMWCWLw8UY425nPnRXW1_SXjJ_sRxQ04seZprodDkA=s160-c-k-c0x00ffffff-no-rj" group-title="🕹️ Apuestas & eSports 🃏",Via X (720x480)
 http://181.224.255.210:8001/play/a0qs/index.m3u8
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/08/06/1775604491627/09bd9dd66d17_480_270.png" group-title="🕹️ Apuestas & eSports 🃏",Tusami ()
+https://live-evg8.tv360.bitel.com.pe/bitel/tusamimillonario/playlist.m3u8
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPLAYBOY.png&auto=format&auto=compress&fit=max" group-title="😈 +18 🔒 Solo Adultos 🔞",🐰 Jugar con el Chiquito 🥂 (1280x720) PlayBoy
@@ -1763,7 +1766,7 @@ https://copaco.desdeparaguay.net/venusmedia/venusmedia_alt/playlist.m3u8
 http://190.108.83.69:8000/play/a08l/index.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/02/21/1772460951208/d8a93cf1c8d3_480_270.png" group-title="🇦🇷 Argentina 🇦🇷",La Pampita Argentina 🇦🇷 (1280x720)
-https://live-evg10.tv360.bitel.com.pe/bitel/pampaargentina/chunks.m3u8
+https://live-evg10.tv360.bitel.com.pe/bitel/pampaargentina/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ММ✅"                  tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="🇦🇷 Argentina 🇦🇷",TeleMax (1920x1080)
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
