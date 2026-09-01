@@ -45,6 +45,9 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8
 #EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FViva_WIN.png&auto=format&auto=compress&fit=max" group-title="📡🇵🇪 Primørdial 📺",Viva (1280x720)
 https://cdnback7.win.cdn.moderntv.eu:7909/win/stream/VIVA_WIN/40-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVIVA_WIN_stream_wp&_cdn_session=6830437542&_cdn_token=4fbb5657da0d620c01b888ca08bf86cd8e223d47
 
+#EXTINF:    Iskhodnyy="🎯T3B2⏲️"              tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/08/05/22/1785945473708/d82fcd114eb0_480_270.png" group-title="📡🇵🇪 Primørdial 📺",Satelite (1920x1080)
+https://live-evg5.tv360.bitel.com.pe/bitel/satelitemasHLS/playlist.m3u8
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️Л1Макс✅"              tvg-logo="https://play-lh.googleusercontent.com/c1VBjhbbiVDH25FZqZA1OwPQCTB5C5L5H6oYVysZ_G1Iq_I4WyGsnQyhsKFpzX_0V9dEi9s9BKSNvYBgC6JOO7E=w240-h480-rw" group-title="⚽ Futbol 🥚",L1 Max (720x576)
