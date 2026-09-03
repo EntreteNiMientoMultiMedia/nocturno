@@ -386,22 +386,22 @@ https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/2a647c6
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FHOGAR_TV.png&auto=format&auto=compress&fit=max" group-title="🛋️ Estilo de Vida & Hogar 🏕️🏡",Hogar 🇨🇴 (720x576)
+#EXTINF:    Iskhodnyy="🔱WT📺"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FHOGAR_TV.png&auto=format&auto=compress&fit=max" group-title="🏕️ Estilo de Vida & Hogar 🛋️",Hogar 🇨🇴 (720x576)
 https://cdnmain6.win.cdn.moderntv.eu:7909/win/stream/Hogar_TV_SIGNAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Dhogar_tv_stream_vo&_cdn_session=6806609030&_cdn_token=28f35def94720cc0d5abdfd6d7e908a90c57c530
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FGOURMET.png&auto=format&auto=compress&fit=max" group-title="🛋️ Estilo de Vida & Hogar 🏕️🏡",El Gastronomo 🇦🇷 (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FGOURMET.png&auto=format&auto=compress&fit=max" group-title="🏕️ Estilo de Vida & Hogar 🛋️",El Gastronomo 🇦🇷 (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_sj&_cdn_session=4152384043&_cdn_token=e9c23bc577114ce28452a7e2b406edb109185555
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHOMEANDHEALTH.png&auto=format&auto=compress&fit=max" group-title="🛋️ Estilo de Vida & Hogar 🏕️🏡",Discovery Hogar & Salud 🇺🇸 (1280x720) Home & Health
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHOMEANDHEALTH.png&auto=format&auto=compress&fit=max" group-title="🏕️ Estilo de Vida & Hogar 🛋️",Discovery Hogar & Salud 🇺🇸 (1280x720) Home & Health
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=4152381635&_cdn_token=fff59032f63f78e276e972f29eec719f9063d67b
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FFOODNETWORK.png&auto=format&auto=compress&fit=max" group-title="🛋️ Estilo de Vida & Hogar 🏕️🏡",Red de Alimentos 🇺🇸 (1280x720)
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FFOODNETWORK.png&auto=format&auto=compress&fit=max" group-title="🏕️ Estilo de Vida & Hogar 🛋️",Red de Alimentos 🇺🇸 (1280x720)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=4152385259&_cdn_token=d6d7f619957d3f6f42374d26e81f54836f030c0a
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTRAVELANDLIVING.png&auto=format&auto=compress&fit=max" group-title="🛋️ Estilo de Vida & Hogar 🏕️🏡",Viajes y estilo de vida 🇺🇸 (1280x720) TLC
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTRAVELANDLIVING.png&auto=format&auto=compress&fit=max" group-title="🏕️ Estilo de Vida & Hogar 🛋️",Viajes y estilo de vida 🇺🇸 (1280x720) TLC
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=4152382811&_cdn_token=41ebc635991fb77eb852466a706cd1e3169b45d4
 
-#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHGTV.png&auto=format&auto=compress&fit=max" group-title="🛋️ Estilo de Vida & Hogar 🏕️🏡",Hogar y Jardin 🇺🇸 (1280x720) HGTV
+#EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FHGTV.png&auto=format&auto=compress&fit=max" group-title="🏕️ Estilo de Vida & Hogar 🛋️",Hogar y Jardin 🇺🇸 (1280x720) HGTV
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=4152393739&_cdn_token=ee5cbe55b894327c87cb281a2a79cf7c15c1e351
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
