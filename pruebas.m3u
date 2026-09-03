@@ -1391,6 +1391,9 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764340947/30593eac8bd8_480_270.jpg" group-title="🌄🇵🇪 Regional DesCentralizado 📡",TeleSelva (1280x720) Satipo
 https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️МЦ✅"                  tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/tlc-2024-web-2.png" group-title="🌳 De la Selva su Encanto 🐒",TeleColor () Las Américas 503 - Yurimaguas - Alto Amazonas
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+
 #EXTINF:    Iskhodnyy="✔️Тарапото✅"                  tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="🌳 De la Selva su Encanto 🐒",TaraPoto (1920x1080) Prol. Mandarinas Cdra. 4 - Sec. CoperHolta
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:    Iskhodnyy="💵EC💸"                  tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTARAPOTOTV.png&auto=format&auto=compress&fit=max" group-title="🌳 De la Selva su Encanto 🐒",TaraPoto (1280x720) Prol. Mandarinas Cdra. 4 - Sec. CoperHolta
@@ -1398,8 +1401,17 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TARAPOTOTV/40-hls/live-media.
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/02/1767642063628/22b9d798f738_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",TaraPoto (1920x1080) Prol. Mandarinas Cdra. 4 - Sec. CoperHolta
 https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️СанХуанера✅"                  tvg-logo="https://www.sanjuaneratv.com/Recursos/img/banner.png" group-title="🌳 De la Selva su Encanto 🐒",SanJuanera () Jiron 25 De Mayo - Moyobamba 22001
+https://live.obslivestream.com/sanjuanera/tracks-v1a1/mono.m3u8
+
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767646050913/6a2a4615d884_480_270.jpg" group-title="🌳 De la Selva su Encanto 🐒",RioS (1920x1080) Julio C. Tello Vargas Puerta 251 Piso 1 Interior 109 - San Francisco de Borja
 https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️РДТ✅"                  tvg-logo="https://app.terabitdata.com/nexopro/nexo/public/images/1777931796fondo.png" group-title="🌳 De la Selva su Encanto 🐒",Radio Selva Television () Av. Ignacia Velazques 161 - Moyobamba
+https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="✔️РНЮ✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k62-BiAoH9dk__ChE3nzE7jfob3X96IDV-0_YkSW-sxg=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🐒",Radio Noticias Yurimaguas () Jr. Francisco Bardales 624 - Yurimaguas - Alto Amazonas
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/31/06/1774913679720/79cf9e0d972a_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Pucallpa (1920x1080) Prolongación Ucayali 345 - 061 
 https://live-evg13.tv360.bitel.com.pe/bitel/pucallpatv/playlist.m3u8
@@ -1452,7 +1464,6 @@ https://cdnfox.hostlagarto.com/deltatv50/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:    Iskhodnyy="✔️Споры✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n57_uFx_RvpVMzo7bsFJN9Dee1txyUdUmkAkcZplZ3t9Uw=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🐒",Controversia (1280x720) Jr. Del Mayo 1100 - MoyoBamba
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:    Iskhodnyy="✔️КР✅"                  tvg-logo="https://crtv.pe/wp-content/uploads/2020/11/logo.png" group-title="🌳 De la Selva su Encanto 🐒",Coky Ruiz (512x288) Jr. Iquitos 360 - Zaragoza
 https://live.obslivestream.com/crtvmux/index.m3u8
