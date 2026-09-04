@@ -1365,6 +1365,12 @@ https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/03/1767386961428/4fb566803f19_480_270.jpg" group-title="🌄🇵🇪 Regional DesCentralizado 📡",YuriMaguas (1280x720) YuriMaguas
 https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️Вива✅"                  tvg-logo="https://yt3.googleusercontent.com/w4vd2ACfrYABzhr4TSUt3UYv9DzI5i4GQg_L1Ki3qy-v7Lg_wpRypQoDSyK0hexhvUFHW6HV6w=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🐒",Viva () Calle los Nogales 120 - Villa Universitaria
+https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:    Iskhodnyy="✔️САМ✅"                  tvg-logo="https://www.viaaltomayotv.com/imagenes/logodefault.png" group-title="🌳 De la Selva su Encanto 🐒",Via AltoMayo () Jiron Bolívar 487 - Quinapata - Rioja
+https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
+
 #EXTINF:    Iskhodnyy="✔️Уран✅"                  tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="🌳 De la Selva su Encanto 🐒",Uranio (1280x720) Los Nogales 211 - Yurimaguas
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:    Iskhodnyy="✔️Уран✅"                  tvg-logo="https://yt3.googleusercontent.com/IFCQtRCCf-bzJYTlRbZ-LqtnYhUGWD1nj01Yqh5blbgxTpQYHi3MHDJtyMTz5gn8QRdyH_OkBLM=s160-c-k-c0x00ffffff-no-rj" group-title="🌳 De la Selva su Encanto 🐒",Uranio (1280x720) Los Nogales 211 - Yurimaguas
@@ -1380,6 +1386,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767643662584/0fd8255b8863_480_270.jpg" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Ucayali (1920x1080) Calleria
 https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Тропический✅"                  tvg-logo="https://radiotropical.pe/wp-content/uploads/2020/08/logo-png-fondo-blanco.jpg" group-title="🌳 De la Selva su Encanto 🐒",Tropical () Jr. Bolognesi Cdra 157 - Tarapoto
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Общий✅"                  tvg-logo="https://rtvtotal.com.pe/wp-content/uploads/2024/11/logo2-1.png" group-title="🌳 De la Selva su Encanto 🐒",Total (1280x720) Calle Ucayali 630
 https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8
