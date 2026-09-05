@@ -2092,6 +2092,14 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://pbs.twimg.com/profile_images/1912286446334935041/m37PJFCp.jpg" group-title="🇨🇱 Chile 🇨🇱",13 Realities ()
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/d1lMOILbNU6iqX_NNkLhR2ih_kXjXtAH-8JD7N1PWDLXCBJRHiu-H4ndswgew12T0SHFexWMaeE=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",13 Teleseries ()
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/06/1771283483327/a3009cb8745d_480_270.png" group-title="🇨🇱 Chile 🇨🇱",Alas de Aguila ()
+https://v4.tustreaming.cl/adatvchile/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/06/1771283483327/a3009cb8745d_480_270.png" group-title="🇨🇱 Chile 🇨🇱",Alas de Aguila ()
+https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇨🇱 Chile 🇨🇱", ()
