@@ -2057,14 +2057,26 @@ https://www.streaming507.net:19360/videofabulosa/Source.m3u8
 #EXTINF:    Iskhodnyy="✔️ПС✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/252023/logo-horizontal/eb50c137398563b8ba50e40cd5c72ddf.png" group-title="🇵🇦 Panama 🇵🇦",Fabulosa Estereo 100.5 FM ()
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://mas23tv.com/wp-content/uploads/2020/02/logomas23.png" group-title="🇵🇦 Panama 🇵🇦",+23 ()
+#EXTINF:    Iskhodnyy="✔️ДД✅"                  tvg-logo="https://mas23tv.com/wp-content/uploads/2020/02/logomas23.png" group-title="🇵🇦 Panama 🇵🇦",+23 ()
 https://movil.ejeserver.com/live/mas23tv.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://nexpanama.com/wp-content/uploads/2019/08/logo-nex-web3.png" group-title="🇵🇦 Panama 🇵🇦",Next ()
+#EXTINF:    Iskhodnyy="✔️Следующий✅"                  tvg-logo="https://nexpanama.com/wp-content/uploads/2019/08/logo-nex-web3.png" group-title="🇵🇦 Panama 🇵🇦",Next ()
 https://movil.ejeserver.com/live/nextv.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://pindintv.com/wp-content/uploads/2025/10/cropped-cropped-cropped-pindin-tv-full-color_Mesa-de-trabajo-1-e1761833496254-1.png" group-title="🇵🇦 Panama 🇵🇦",PinDin ()
+#EXTINF:    Iskhodnyy="✔️поправки✅"                  tvg-logo="https://pindintv.com/wp-content/uploads/2025/10/cropped-cropped-cropped-pindin-tv-full-color_Mesa-de-trabajo-1-e1761833496254-1.png" group-title="🇵🇦 Panama 🇵🇦",PinDin ()
 https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Планета✅"                  tvg-logo="https://planet1009.net/wp-content/uploads/2025/09/cropped-planet_logo_400-e1757994553399.png" group-title="🇵🇦 Panama 🇵🇦",Planet 100.9 FM ()
+https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️РА✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/253166/logo-horizontal/c58e9bf5473040817b5c350cd0f8561d.png" group-title="🇵🇦 Panama 🇵🇦",Radio Ancon ()
+https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
+
+#EXTINF:    Iskhodnyy="✔️СВ✅"                  tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-SQLOGOBLAN.png" group-title="🇵🇦 Panama 🇵🇦",Super Q ()
+https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ТВ✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/252300/logo/bc22abcb74f7a4ba83cafa057562125c.png" group-title="🇵🇦 Panama 🇵🇦",Tropi Q 99.7 FM ()
+https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
