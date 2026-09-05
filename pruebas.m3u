@@ -2049,6 +2049,29 @@ https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="✔️Сердце✅"                  tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3767-294x165-FFFFFF.jpg" group-title="🇵🇦 Panama 🇵🇦",Corazon ()
+https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ПС✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/252023/logo-horizontal/eb50c137398563b8ba50e40cd5c72ddf.png" group-title="🇵🇦 Panama 🇵🇦",Fabulosa Estereo 100.5 FM ()
+https://www.streaming507.net:19360/videofabulosa/Source.m3u8
+#EXTINF:    Iskhodnyy="✔️ПС✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/252023/logo-horizontal/eb50c137398563b8ba50e40cd5c72ddf.png" group-title="🇵🇦 Panama 🇵🇦",Fabulosa Estereo 100.5 FM ()
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://mas23tv.com/wp-content/uploads/2020/02/logomas23.png" group-title="🇵🇦 Panama 🇵🇦",+23 ()
+https://movil.ejeserver.com/live/mas23tv.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://nexpanama.com/wp-content/uploads/2019/08/logo-nex-web3.png" group-title="🇵🇦 Panama 🇵🇦",Next ()
+https://movil.ejeserver.com/live/nextv.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://pindintv.com/wp-content/uploads/2025/10/cropped-cropped-cropped-pindin-tv-full-color_Mesa-de-trabajo-1-e1761833496254-1.png" group-title="🇵🇦 Panama 🇵🇦",PinDin ()
+https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
+
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇵🇦 Panama 🇵🇦", ()
+
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
 #EXTINF:    Iskhodnyy="✔️АКЛа✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_laJCuu-ddlkPSlSO5fztuB5gnbea_b7-K4gS_bHjpWXLs=s160-c-k-c0x00ffffff-no-rj" group-title="🇺🇾 Uruguay 🇺🇾",Un Canal Latinoamericano 🇺🇾 (1280x720) Union Continental LatinoAmerica
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
