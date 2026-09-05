@@ -997,6 +997,8 @@ https://video2.lhdserver.es/siscomtv/live.m3u8
 
 #EXTINF:    Iskhodnyy="❓кП❔"                  tvg-logo="https://yt3.googleusercontent.com/CLwrr6AgezK18olQVA-g40gHG7fHV2APLmmnzNZ6Cu4ZHhJuM5GE5d5LKaJ8iVl4iB9XsdZWrQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Canal Claro 🇲🇽 (1920x1080) Claro
 http://190.61.101.11:7050/play/a04w/index.m3u8
+#EXTINF:    Iskhodnyy="❓кП❔"                  tvg-logo="https://yt3.googleusercontent.com/CLwrr6AgezK18olQVA-g40gHG7fHV2APLmmnzNZ6Cu4ZHhJuM5GE5d5LKaJ8iVl4iB9XsdZWrQ=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Canal Claro 🇲🇽 () Claro
+http://190.61.90.17:40000/play/a0fv/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️Хатун✅"                  tvg-logo="https://yt3.googleusercontent.com/MlyLsY8exzz_iOovpBhXPmvt3QrXv0c59RwY-t64julqKXUgL2H0773zmaVNzh_cJsM3CByuPw=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Hatun 🇵🇪 (1920x1080) Bestia Cable
 https://live-evg13.tv360.bitel.com.pe/bitel/tarpuy/playlist.m3u8
@@ -2135,6 +2137,43 @@ https://v1.tustreaming.cl/aysentv/index.m3u8
 https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/-FPJqDFkSFw9a8eUUli1BQ51qtGOBQb9lzdP6fBvoUs5Mr68EhsCBj2yUpaPRxKdO7YhO6R9Vxs=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Bio Bio (1920x1080)
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream3/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/eFt_0b-gMU17mU2saLu2-_TwwyEzB1gVgYVDYWJZEBNnNtT7i6ozz9TpNeBxLOPzgXOCY78DIg=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Caldera Vision ()
+https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://campoabierto.cl/home/wp-content/uploads/2018/01/logo-campo-abierto.png" group-title="🇨🇱 Chile 🇨🇱",Campo Abierto ()
+https://v2.tustreaming.cl/catvlive/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/oEvEdpjQf5WAXSQ80V91Ke5lxvTqUp5CBEVFq1vF7ycIEhTjm8887rcPaUKl3tOR_LLS1dY0KPs=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Campus Universitario Talca ()
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/oEvEdpjQf5WAXSQ80V91Ke5lxvTqUp5CBEVFq1vF7ycIEhTjm8887rcPaUKl3tOR_LLS1dY0KPs=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Campus Universitario Talca ()
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream0/chunks.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.canal1.cl/assets/canal1-icon-sm.png" group-title="🇨🇱 Chile 🇨🇱",Nuble ()
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal5.cl/wp/wp-content/uploads/2025/06/canal5.png" group-title="🇨🇱 Chile 🇨🇱",Puerto Montt ()
+https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal30.cl/images/IMG/logo_canal301-1.png" group-title="🇨🇱 Chile 🇨🇱",Loncomilla ()
+https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ubW1KSgTh1PsR2VzBn_bufGwRSrXa7UEQ-1KtHHU0_TJya8UyT3BOfRGr2DwSmvZEsVa3IzMuQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Chilote ()
+https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ubW1KSgTh1PsR2VzBn_bufGwRSrXa7UEQ-1KtHHU0_TJya8UyT3BOfRGr2DwSmvZEsVa3IzMuQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Chilote ()
+https://v2.tustreaming.cl/chiloered/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canaldelsur.cl/wp-content/uploads/2016/07/logo-cds-2.png" group-title="🇨🇱 Chile 🇨🇱",Canal del Sur ()
+https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canallocal.cl/wp-content/uploads/2020/04/cropped-CANALLOCAL-2.png" group-title="🇨🇱 Chile 🇨🇱",Local ()
+https://v2.tustreaming.cl/canallocalcl/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAEb0_L6yA8uum7mlmCQ7kPG50Bq1dfOg_M25QCW4Rz6xH=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Survision Alerce ()
+https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/cropped-LOGO-CARACOLA-05-1-300x169.png" group-title="🇨🇱 Chile 🇨🇱",Caracola ()
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
