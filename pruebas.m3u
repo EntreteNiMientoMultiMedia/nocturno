@@ -2049,56 +2049,54 @@ https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️Сердце✅"                  tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3767-294x165-FFFFFF.jpg" group-title="🇵🇦 Panama 🇵🇦",Corazon ()
+#EXTINF:    Iskhodnyy="✔️Сердце✅"                  tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3767-294x165-FFFFFF.jpg" group-title="🇵🇦 Panama 🇵🇦",Corazon (1920x1080)
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ПС✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/252023/logo-horizontal/eb50c137398563b8ba50e40cd5c72ddf.png" group-title="🇵🇦 Panama 🇵🇦",Fabulosa Estereo 100.5 FM ()
-https://www.streaming507.net:19360/videofabulosa/Source.m3u8
-#EXTINF:    Iskhodnyy="✔️ПС✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/252023/logo-horizontal/eb50c137398563b8ba50e40cd5c72ddf.png" group-title="🇵🇦 Panama 🇵🇦",Fabulosa Estereo 100.5 FM ()
+#EXTINF:    Iskhodnyy="✔️ПС✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/252023/logo-horizontal/eb50c137398563b8ba50e40cd5c72ddf.png" group-title="🇵🇦 Panama 🇵🇦",Fabulosa Estereo 100.5 FM (1920x1080)
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+#EXTINF:    Iskhodnyy="✔️ПС✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/252023/logo-horizontal/eb50c137398563b8ba50e40cd5c72ddf.png" group-title="🇵🇦 Panama 🇵🇦",Fabulosa Estereo 100.5 FM (1920x1080)
+https://www.streaming507.net:19360/videofabulosa/Source.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ДД✅"                  tvg-logo="https://mas23tv.com/wp-content/uploads/2020/02/logomas23.png" group-title="🇵🇦 Panama 🇵🇦",+23 ()
-https://movil.ejeserver.com/live/mas23tv.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Следующий✅"                  tvg-logo="https://nexpanama.com/wp-content/uploads/2019/08/logo-nex-web3.png" group-title="🇵🇦 Panama 🇵🇦",Next ()
-https://movil.ejeserver.com/live/nextv.m3u8
-
-#EXTINF:    Iskhodnyy="✔️поправки✅"                  tvg-logo="https://pindintv.com/wp-content/uploads/2025/10/cropped-cropped-cropped-pindin-tv-full-color_Mesa-de-trabajo-1-e1761833496254-1.png" group-title="🇵🇦 Panama 🇵🇦",PinDin ()
-https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
-
-#EXTINF:    Iskhodnyy="✔️Планета✅"                  tvg-logo="https://planet1009.net/wp-content/uploads/2025/09/cropped-planet_logo_400-e1757994553399.png" group-title="🇵🇦 Panama 🇵🇦",Planet 100.9 FM ()
+#EXTINF:    Iskhodnyy="✔️Планета✅"                  tvg-logo="https://planet1009.net/wp-content/uploads/2025/09/cropped-planet_logo_400-e1757994553399.png" group-title="🇵🇦 Panama 🇵🇦",Planet 100.9 FM (1920x1080)
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️РА✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/253166/logo-horizontal/c58e9bf5473040817b5c350cd0f8561d.png" group-title="🇵🇦 Panama 🇵🇦",Radio Ancon ()
+#EXTINF:    Iskhodnyy="✔️РА✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/253166/logo-horizontal/c58e9bf5473040817b5c350cd0f8561d.png" group-title="🇵🇦 Panama 🇵🇦",Radio Ancon (1920x1080)
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 
-#EXTINF:    Iskhodnyy="✔️СВ✅"                  tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-SQLOGOBLAN.png" group-title="🇵🇦 Panama 🇵🇦",Super Q ()
+#EXTINF:    Iskhodnyy="✔️СВ✅"                  tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-SQLOGOBLAN.png" group-title="🇵🇦 Panama 🇵🇦",Super Q (1920x1080)
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️ТВ✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/252300/logo/bc22abcb74f7a4ba83cafa057562125c.png" group-title="🇵🇦 Panama 🇵🇦",Tropi Q 99.7 FM ()
+#EXTINF:    Iskhodnyy="✔️ТВ✅"                  tvg-logo="https://platform-upload.cdn-brlogic.com/252300/logo/bc22abcb74f7a4ba83cafa057562125c.png" group-title="🇵🇦 Panama 🇵🇦",Tropi Q 99.7 FM (1920x1080)
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
+
+#EXTINF:    Iskhodnyy="✔️поправки✅"                  tvg-logo="https://pindintv.com/wp-content/uploads/2025/10/cropped-cropped-cropped-pindin-tv-full-color_Mesa-de-trabajo-1-e1761833496254-1.png" group-title="🇵🇦 Panama 🇵🇦",PinDin (1280x720)
+https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
+
+#EXTINF:    Iskhodnyy="✔️ДД✅"                  tvg-logo="https://mas23tv.com/wp-content/uploads/2020/02/logomas23.png" group-title="🇵🇦 Panama 🇵🇦",+23 (720x480)
+https://movil.ejeserver.com/live/mas23tv.m3u8
+
+#EXTINF:    Iskhodnyy="✔️Следующий✅"                  tvg-logo="https://nexpanama.com/wp-content/uploads/2019/08/logo-nex-web3.png" group-title="🇵🇦 Panama 🇵🇦",Next (480x320)
+https://movil.ejeserver.com/live/nextv.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/d1lMOILbNU6iqX_NNkLhR2ih_kXjXtAH-8JD7N1PWDLXCBJRHiu-H4ndswgew12T0SHFexWMaeE=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",13C ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/d1lMOILbNU6iqX_NNkLhR2ih_kXjXtAH-8JD7N1PWDLXCBJRHiu-H4ndswgew12T0SHFexWMaeE=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",13 Cultura (1920x1080)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://pbs.twimg.com/profile_images/1912286446334935041/m37PJFCp.jpg" group-title="🇨🇱 Chile 🇨🇱",13 Festival ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://pbs.twimg.com/profile_images/1912286446334935041/m37PJFCp.jpg" group-title="🇨🇱 Chile 🇨🇱",13 Festival (1920x1080)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/UEZG9H1g6UD4sL-Ghz-xlmNS2T1chEQPm2qdb0FE5IU5x2k4lY-7iza38RsJkLCcHd4XKje7cvxdJVxXvwXxEw=w240-h480-rw" group-title="🇨🇱 Chile 🇨🇱",13 Niños ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/UEZG9H1g6UD4sL-Ghz-xlmNS2T1chEQPm2qdb0FE5IU5x2k4lY-7iza38RsJkLCcHd4XKje7cvxdJVxXvwXxEw=w240-h480-rw" group-title="🇨🇱 Chile 🇨🇱",13 Niños (1920x1080)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://pbs.twimg.com/profile_images/1912286446334935041/m37PJFCp.jpg" group-title="🇨🇱 Chile 🇨🇱",13 Realities ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://pbs.twimg.com/profile_images/1912286446334935041/m37PJFCp.jpg" group-title="🇨🇱 Chile 🇨🇱",13 Realities (1920x1080)
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/d1lMOILbNU6iqX_NNkLhR2ih_kXjXtAH-8JD7N1PWDLXCBJRHiu-H4ndswgew12T0SHFexWMaeE=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",13 Teleseries ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/d1lMOILbNU6iqX_NNkLhR2ih_kXjXtAH-8JD7N1PWDLXCBJRHiu-H4ndswgew12T0SHFexWMaeE=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",13 Teleseries (1920x1080)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/06/1771283483327/a3009cb8745d_480_270.png" group-title="🇨🇱 Chile 🇨🇱",Alas de Aguila ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/06/1771283483327/a3009cb8745d_480_270.png" group-title="🇨🇱 Chile 🇨🇱",Alas de Aguila (1280x720)
 https://v4.tustreaming.cl/adatvchile/index.m3u8
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/06/1771283483327/a3009cb8745d_480_270.png" group-title="🇨🇱 Chile 🇨🇱",Alas de Aguila ()
-https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
