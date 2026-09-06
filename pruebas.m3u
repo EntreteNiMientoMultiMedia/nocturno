@@ -2157,9 +2157,6 @@ https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/UEZG9H1g6UD4sL-Ghz-xlmNS2T1chEQPm2qdb0FE5IU5x2k4lY-7iza38RsJkLCcHd4XKje7cvxdJVxXvwXxEw=w240-h480-rw" group-title="🇨🇱 Chile 🇨🇱",Canal 13 (1920x1080)
 http://45.162.193.35/CANAL13_HD/index.m3u8
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/UEZG9H1g6UD4sL-Ghz-xlmNS2T1chEQPm2qdb0FE5IU5x2k4lY-7iza38RsJkLCcHd4XKje7cvxdJVxXvwXxEw=w240-h480-rw" group-title="🇨🇱 Chile 🇨🇱",Canal 13 ()
-http://15.204.246.24:8080/Canal13HD/index.m3u8
-http://38.250.127.17:9800/play/a067/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal30.cl/images/IMG/logo_canal301-1.png" group-title="🇨🇱 Chile 🇨🇱",Loncomilla (1280x720)
 https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
@@ -2181,51 +2178,48 @@ https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/cropped-LOGO-CARACOLA-05-1-300x169.png" group-title="🇨🇱 Chile 🇨🇱",Caracola (1280x720)
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/rp-YfvDbT1FigMoeWZRmm5eIFEiA8RZOavAhilM8ILgP_0s7mJ3kcu7MMC3mh9Gs4wC8SN3WXWYpqg2zR8YUfFw=w240-h480-rw" group-title="🇨🇱 Chile 🇨🇱",Chile ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/rp-YfvDbT1FigMoeWZRmm5eIFEiA8RZOavAhilM8ILgP_0s7mJ3kcu7MMC3mh9Gs4wC8SN3WXWYpqg2zR8YUfFw=w240-h480-rw" group-title="🇨🇱 Chile 🇨🇱",Chile (1280x720)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kEpXGzt3yiLRabrjqkppFTbdHiBGQo_3ljlB4HzNoaoRM=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",ChileVision ()
-http://15.204.246.24:8080/CHVHD/index.m3u8
-
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/fE-jpreeOzjyczjAgf247EjTUZ-oHL0ZP1cRiUqw7pQITpKRcqvTF8EO-UrGXmDK6vTTgN_PZQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Chiloe Red 25 ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/fE-jpreeOzjyczjAgf247EjTUZ-oHL0ZP1cRiUqw7pQITpKRcqvTF8EO-UrGXmDK6vTTgN_PZQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Chiloe Red 25 (1280x720)
 https://v2.tustreaming.cl/chiloered/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/o8GIGyYNoCdfZ-uoN4K3eYMnLDHGSOMFvw9JbYlmpac007lYeLvFJSA_KxskISWzom6j6JGwTWDqCDCDwfBV=w240-h480-rw" group-title="🇨🇱 Chile 🇨🇱",Canal China ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/o8GIGyYNoCdfZ-uoN4K3eYMnLDHGSOMFvw9JbYlmpac007lYeLvFJSA_KxskISWzom6j6JGwTWDqCDCDwfBV=w240-h480-rw" group-title="🇨🇱 Chile 🇨🇱",Canal China (960x540)
 https://v2.tustreaming.cl/chinachannel/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://ciudadanoradio.cl/wp-content/themes/ciudadano-radio-newsroom-v6/assets/images/logo.png" group-title="🇨🇱 Chile 🇨🇱",Ciudadano Radio ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://ciudadanoradio.cl/wp-content/themes/ciudadano-radio-newsroom-v6/assets/images/logo.png" group-title="🇨🇱 Chile 🇨🇱",Ciudadano Radio (1920x1080)
 https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://clicktvchile.cl/images/196/21542558/LogoClickTvChile-BASo-W0QejeD2lavT6Hs9g-3tnwmQZFHdC8CL2AKtbBrw.png" group-title="🇨🇱 Chile 🇨🇱",Click Coronel ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://clicktvchile.cl/images/196/21542558/LogoClickTvChile-BASo-W0QejeD2lavT6Hs9g-3tnwmQZFHdC8CL2AKtbBrw.png" group-title="🇨🇱 Chile 🇨🇱",Click Coronel (1280x720)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://pbs.twimg.com/profile_images/1309248823185858561/QgTVUb_w.jpg" group-title="🇨🇱 Chile 🇨🇱",Club ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://pbs.twimg.com/profile_images/1309248823185858561/QgTVUb_w.jpg" group-title="🇨🇱 Chile 🇨🇱",Club (1280x720)
 https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/f0XZel2qdko8YuRHCUTR-_NzDyOti-0rOI4DYsKMa6k_mGa0PRHsx58A6psfZeDaAleDGElToyg=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Concepcion ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/f0XZel2qdko8YuRHCUTR-_NzDyOti-0rOI4DYsKMa6k_mGa0PRHsx58A6psfZeDaAleDGElToyg=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Concepcion (1920x1080)
 https://stream.blserver.cl/hls/ctv/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.cooperativa.cl/noticias/site/artic/20251216/asocfile/20251216151639/circulo.png" group-title="🇨🇱 Chile 🇨🇱",Cooperativa ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.cooperativa.cl/noticias/site/artic/20251216/asocfile/20251216151639/circulo.png" group-title="🇨🇱 Chile 🇨🇱",Cooperativa (1920x1080)
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.coyhaique-tv.cl/Recursos/Img/Logo%20GPT_4.png" group-title="🇨🇱 Chile 🇨🇱",Coyhaique ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.coyhaique-tv.cl/Recursos/Img/Logo%20GPT_4.png" group-title="🇨🇱 Chile 🇨🇱",Coyhaique (1280x720)
 https://v2.tustreaming.cl/coyhaiquetv/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://crtvchile.cl/wp-content/uploads/2026/06/cropped-WhatsApp-Image-2026-06-06-at-13.49.04-1.jpeg" group-title="🇨🇱 Chile 🇨🇱",Canal de Radio y Television de Deportes y Mas ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://crtvchile.cl/wp-content/uploads/2026/06/cropped-WhatsApp-Image-2026-06-06-at-13.49.04-1.jpeg" group-title="🇨🇱 Chile 🇨🇱",Canal de Radio y Television de Deportes y Mas (1280x720)
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/wJO29Abh-Qa99bhIN2BIh-aJ85zO2BZFBUOTxAJ7K5VdaJd1rEHVm2naQPKeoZkspRkMfyIeCT8=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Cultura en Linea ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/wJO29Abh-Qa99bhIN2BIh-aJ85zO2BZFBUOTxAJ7K5VdaJd1rEHVm2naQPKeoZkspRkMfyIeCT8=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Cultura en Linea (1280x720)
 https://streaming.bitsur.cl:3399/live/vdo532live.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.dancefm.cl/wp-content/uploads/2022/10/Recurso-3@300x-2048x695.png" group-title="🇨🇱 Chile 🇨🇱",Bailar Frecuencia Modulada ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.dancefm.cl/wp-content/uploads/2022/10/Recurso-3@300x-2048x695.png" group-title="🇨🇱 Chile 🇨🇱",Bailar Frecuencia Modulada (1280x720)
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUy3SUjmvRSjzxgMYiYYP9Iddx_qst30D2RDOPYVUgWg=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Canal Digital ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUy3SUjmvRSjzxgMYiYYP9Iddx_qst30D2RDOPYVUgWg=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Canal Digital (1280x720)
 https://v2.tustreaming.cl/dchtv/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kvskm7997oAdDC_dOOSR3sH2P1X82LLjDaMRI3qjVudg=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Decima Ancud ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kvskm7997oAdDC_dOOSR3sH2P1X82LLjDaMRI3qjVudg=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Decima Ancud (1280x720)
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kvskm7997oAdDC_dOOSR3sH2P1X82LLjDaMRI3qjVudg=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Decima Ancud ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kvskm7997oAdDC_dOOSR3sH2P1X82LLjDaMRI3qjVudg=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Decima Ancud (1280x720)
 https://unlimited1-cl-isp.dps.live/decimatv/decimatv.smil/decimatv/livestream1/chunks.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
