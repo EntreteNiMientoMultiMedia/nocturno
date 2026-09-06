@@ -2155,10 +2155,11 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal5.cl/wp/wp-content/uploads/2025/06/canal5.png" group-title="🇨🇱 Chile 🇨🇱",Puerto Montt (1280x720)
 https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/UEZG9H1g6UD4sL-Ghz-xlmNS2T1chEQPm2qdb0FE5IU5x2k4lY-7iza38RsJkLCcHd4XKje7cvxdJVxXvwXxEw=w240-h480-rw" group-title="🇨🇱 Chile 🇨🇱",Canal 13 ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/UEZG9H1g6UD4sL-Ghz-xlmNS2T1chEQPm2qdb0FE5IU5x2k4lY-7iza38RsJkLCcHd4XKje7cvxdJVxXvwXxEw=w240-h480-rw" group-title="🇨🇱 Chile 🇨🇱",Canal 13 (1920x1080)
 http://45.162.193.35/CANAL13_HD/index.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/UEZG9H1g6UD4sL-Ghz-xlmNS2T1chEQPm2qdb0FE5IU5x2k4lY-7iza38RsJkLCcHd4XKje7cvxdJVxXvwXxEw=w240-h480-rw" group-title="🇨🇱 Chile 🇨🇱",Canal 13 ()
 http://15.204.246.24:8080/Canal13HD/index.m3u8
+http://38.250.127.17:9800/play/a067/index.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canal30.cl/images/IMG/logo_canal301-1.png" group-title="🇨🇱 Chile 🇨🇱",Loncomilla (1280x720)
 https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
