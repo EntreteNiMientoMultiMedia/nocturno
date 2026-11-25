@@ -2222,6 +2222,32 @@ https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kvskm7997oAdDC_dOOSR3sH2P1X82LLjDaMRI3qjVudg=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Decima Ancud (1280x720)
 https://unlimited1-cl-isp.dps.live/decimatv/decimatv.smil/decimatv/livestream1/chunks.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://el3deconce.cl/assets/logo-blanco.png" group-title="🇨🇱 Chile 🇨🇱",El 3 de Conce ()
+https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="http://elcanalfeliz.cl/El%20Canal%20Feliz%20%E2%80%93%20Televisi%C3%B3n_files/canalfeliz2-e1743232432765(1).png" group-title="🇨🇱 Chile 🇨🇱",El Canal Feliz ()
+http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.diarioelcentro.cl/wp-content/uploads/2023/05/EC-logo-retina.png" group-title="🇨🇱 Chile 🇨🇱",El Centro ()
+https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lz-1lcWsE3pioDRfhqO4bDrdf7bzSt7EUQXpA9o9qoUxw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",El Pinguino ()
+https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k1jvTYHdSST7yhHPXlonPkKfwBTF3Qxap7ZYZN6LSJKNY=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",El Radar ()
+https://video.ipstream.cl:3459/hybrid/play.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://enlineamaule.cl/wp-content/uploads/2025/08/logo_sin_fondo_elm-1024x1024.png" group-title="🇨🇱 Chile 🇨🇱",En Linea Maule ()
+https://v2.tustreaming.cl/enlineamauletv/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_km5Is4VlIKIHrGLXHaYbvsziA3zWJc-TMVvIzud29q00A=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",En Linea Maule ()
+https://v1.tustreaming.cl/enlineamauletv/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://enfoquedigital.cl/wp-content/uploads/2026/09/LOGO-3D.png" group-title="🇨🇱 Chile 🇨🇱",Enfoque Digital ()
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/d2sQ5l4UQnQKXTY3kG-Nyl7O6lthHykkcqTf9QQlw3VUgH3eo-gZGz9BAZfGw9oRXFTzUAhJ5A=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",SuPer SóNiKa ()
+https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇨🇱 Chile 🇨🇱", ()
