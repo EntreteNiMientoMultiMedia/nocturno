@@ -2248,6 +2248,22 @@ https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/d2sQ5l4UQnQKXTY3kG-Nyl7O6lthHykkcqTf9QQlw3VUgH3eo-gZGz9BAZfGw9oRXFTzUAhJ5A=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",SuPer SóNiKa ()
 https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://player-conecta.s3.us-east-1.amazonaws.com/production/logos/694aeda2c541c7703780a9b0/1766520465068-h4blxsypuc.png" group-title="🇨🇱 Chile 🇨🇱",Frecuencia Modulada Plus ()
+https://v2.tustreaming.cl/fmplus/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://radiogenial.cl/wp-content/uploads/2019/08/log_acces_genial.png" group-title="🇨🇱 Chile 🇨🇱",Genial ()
+https://v1.tustreaming.cl/genialtv/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://radiogenial.cl/wp-content/uploads/2019/08/footer_genial.png" group-title="🇨🇱 Chile 🇨🇱",Genial ()
+https://v2.tustreaming.cl/genialtv/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://iquiquetv.cl/wp-content/uploads/2020/05/iquiqueTV_logo_202005_544x180.png" group-title="🇨🇱 Chile 🇨🇱",Iquique ()
+https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_maiHBhToIr4PgAUGJSdmu0EuaEG7W0cVEEeOF8adPZApg=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",UneTev ()
+https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
+
+
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇨🇱 Chile 🇨🇱", ()
