@@ -2082,10 +2082,15 @@ https://movil.ejeserver.com/live/nextv.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/KlsPm4FUyhwrIYGMlPRlTJ_8tKKwNoHevv-JNSZym9fEog5j-lxXZOWt8L7C-r4IXNFod8M3=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Mega ()
+http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/KlsPm4FUyhwrIYGMlPRlTJ_8tKKwNoHevv-JNSZym9fEog5j-lxXZOWt8L7C-r4IXNFod8M3=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Mega ()
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static-mega.cdn.mdstrm.com/menu/151/151_138_logo-mega_.png" group-title="🇨🇱 Chile 🇨🇱",Mega Ficción()
 http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/htkscWIOrPdUqfKOaPPjB4keqvFXhpF9-ETdbfGGdkEiQJZV_QGyVPQM9sLjMC8XW8dlNsoTPs0=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Mega ()
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/htkscWIOrPdUqfKOaPPjB4keqvFXhpF9-ETdbfGGdkEiQJZV_QGyVPQM9sLjMC8XW8dlNsoTPs0=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Mega Noticias Ahora ()
 http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/htkscWIOrPdUqfKOaPPjB4keqvFXhpF9-ETdbfGGdkEiQJZV_QGyVPQM9sLjMC8XW8dlNsoTPs0=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Mega Noticias Ahora ()
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
@@ -2104,6 +2109,20 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/d1lMOILbNU6iqX_NNkLhR2ih_kXjXtAH-8JD7N1PWDLXCBJRHiu-H4ndswgew12T0SHFexWMaeE=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",13 Teleseries (1920x1080)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/hnd-gtsxfKYHLLivjZYNOASQTjvgZNyGPXxTAZPA_nMqw9cBjHZwYQKD4wxSfpCoGH316RhdlA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Televisión Nacional de Chile ()
+https://iptv.bitred.cl/tvn/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/hnd-gtsxfKYHLLivjZYNOASQTjvgZNyGPXxTAZPA_nMqw9cBjHZwYQKD4wxSfpCoGH316RhdlA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Televisión Nacional de Chile ()
+http://138.121.15.230:9002/TVN/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/hnd-gtsxfKYHLLivjZYNOASQTjvgZNyGPXxTAZPA_nMqw9cBjHZwYQKD4wxSfpCoGH316RhdlA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Televisión Nacional de Chile ()
+http://15.204.246.24:8080/TVNHD/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/hnd-gtsxfKYHLLivjZYNOASQTjvgZNyGPXxTAZPA_nMqw9cBjHZwYQKD4wxSfpCoGH316RhdlA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Televisión Nacional de Chile ()
+http://45.173.231.22:8000/play/a06l/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/hnd-gtsxfKYHLLivjZYNOASQTjvgZNyGPXxTAZPA_nMqw9cBjHZwYQKD4wxSfpCoGH316RhdlA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Televisión Nacional de Chile ()
+http://181.78.88.113:9800/play/a09f/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://images.produ.com/noticias/0723/big-LogoTVN3.jpg" group-title="🇨🇱 Chile 🇨🇱",Televisión Nacional de Chile 3 ()
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/06/1771283483327/a3009cb8745d_480_270.png" group-title="🇨🇱 Chile 🇨🇱",Alas de Aguila (1280x720)
 https://v4.tustreaming.cl/adatvchile/index.m3u8
@@ -2322,11 +2341,6 @@ https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/P1RJQJ3eERGLnUZE3pMxKgkdS-lBfw00gaTedlEcwvriM4ULzx09P7RGWwln3F_AkM1H1OYeEdLcj2wJaUiaOHs=w480-h960-rw" group-title="🇨🇱 Chile 🇨🇱",+ Radio TeleVision ()
 https://iptv.intersurtv.cl/intersur_mauletv/index.m3u8
 
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/KlsPm4FUyhwrIYGMlPRlTJ_8tKKwNoHevv-JNSZym9fEog5j-lxXZOWt8L7C-r4IXNFod8M3=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Mega ()
-http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/KlsPm4FUyhwrIYGMlPRlTJ_8tKKwNoHevv-JNSZym9fEog5j-lxXZOWt8L7C-r4IXNFod8M3=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Mega ()
-https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
-
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.miradiotv.cl/wp-content/uploads/2026/06/Asset-13.png" group-title="🇨🇱 Chile 🇨🇱",Mi Radio TeleVision ()
 https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
 
@@ -2409,6 +2423,70 @@ https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/QlXT9eo7ws4PZlMGvCRf1h3wU7-lPw1nIgJ3IFDpsdR_IDM3F9mYuzusaalNVDdylnVZzMhAUnk=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Tele 13 ()
 https://redirector.dps.live/hls/t13/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/0I36i4hbHvP78K5h8x5SCT0_KqmTY6npCRgO9CrHnj5oe_KBKEeKcqUSqM73jnkbQ6-jnegMDQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",I-Net TeleVision Digital ()
+https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/tXJcSy2I0Z9Bfcaj2CYXw_9NwT4o_u3j-L4EqtOLefSExMi8TzaaMBX614cmh6hJx8w-Y8Y5OA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",TeleAngol ()
+https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/tXJcSy2I0Z9Bfcaj2CYXw_9NwT4o_u3j-L4EqtOLefSExMi8TzaaMBX614cmh6hJx8w-Y8Y5OA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",TeleAngol ()
+https://unlimited1-cl-isp.dps.live/teleangolradio/teleangolradio.smil/teleangolradio/livestream1/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://static.wixstatic.com/media/dc92ad_487b89e0ec7c469a96569c1fb2dd8f05~mv2.png/v1/fill/w_494,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/tendencias-03.png" group-title="🇨🇱 Chile 🇨🇱",Tendencias Prime ()
+https://v4.tustreaming.cl/tendenciastv/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://turismotraveltv.cl/wp-content/uploads/2026/04/cropped-WhatsApp-Image-2026-04-08-at-22.56.50.jpeg" group-title="🇨🇱 Chile 🇨🇱",Turismo y viajes ()
+https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.turno.live/assets/logo.png" group-title="🇨🇱 Chile 🇨🇱",Turno ()
+https://redirector.dps.live/hls/turno/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/gsGjYtKfEdfQlqxfBsmKO6oOwq8tVWzZrNiUTOpdmXndg3dUIji9VsYzTvBPWe-STVC6dw78kQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",TV5 Linares ()
+https://v1.tustreaming.cl/tv5linares/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lLOMcuTvL3BWlvKFt6hs_73ZLRv6S7jiyvFVlGy8XE6bU=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Canal dos Quellon ()
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lLOMcuTvL3BWlvKFt6hs_73ZLRv6S7jiyvFVlGy8XE6bU=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Canal dos Quellon ()
+https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png" group-title="🇨🇱 Chile 🇨🇱",Senado ()
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/vSSj6P1QOUbftuH1_pVcpWJ3ijWCKUbkKzpRANeeAAtiF5JvEb2jN2B1A9_IEml7BqOCNHtb=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Senado ()
+https://janux-tv.senado.cl/playlist/stream.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/xzo5v2rd7lOoIJMARHg7fffnPZcoj9P8PHO28NHIQr9BicLheptiV9LJJ7fwSrZ_t0ofyfpx=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",SanTiaGO ()
+https://stv4.janus.cl/playlist/stream.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lSFOkTnyRQb7dEVNQOHCyJxsSzIIZl-NRrJ1gcOah83xY=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",TV+ ()
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lSFOkTnyRQb7dEVNQOHCyJxsSzIIZl-NRrJ1gcOah83xY=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",TV+ ()
+https://jireh-9-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream0/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/bhYt6T1XQX3HMqpjG3l3Ca0sQmHNYwNqaz8vhkZwulgQiyhAxWiYLX1jL4CrQwHarnnlisDrXA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",O'Higgins ()
+https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.tvu.cl/_templates/desktop/includes/img/LOGO-TVU-AZUL.png" group-title="🇨🇱 Chile 🇨🇱",Televisión de la Universidad de Concepción ()
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k3dmovllmj7WbQ7ypb1X3AyI_LHnd2PD7pu7L-Dt3K5cI=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Televisión de la Universidad de Concepción ()
+https://unlimited1-us.dps.live/tvu/tvu.smil/tvu/livestream2/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/x0kxbeiKz8-z8Nseh6Mv9ZU_Ix8lF67Gv6_Im7bQ8lI00PJjpZAE8UD_BtfhTLYzQJFdO5-Qb3U=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Universidad de Los Lagos ()
+http://tv.ulagos.cl/web/live.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_myRAs_FhQqojNDXNkYstoEv9SdGkaT0DJUgoOPHSCf=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Pontificia Universidad Católica de Valparaíso ()
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/DRCN7BKyVbQs6tjROCPbr8VJgkr3f6VVRgE-eBfpU0MWPTAcxpfVLqbL1KWbV-C45IQH9aPGgQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Universidad de Magallanes ()
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://uniregion.cl/wp-content/uploads/2025/09/cropped-2-scaled-1-768x198.png" group-title="🇨🇱 Chile 🇨🇱",UniRegión ()
+https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/oEvEdpjQf5WAXSQ80V91Ke5lxvTqUp5CBEVFq1vF7ycIEhTjm8887rcPaUKl3tOR_LLS1dY0KPs=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Universidad de Talca ()
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.utv.cl/icon.png" group-title="🇨🇱 Chile 🇨🇱",Universidad de San Clemente ()
+https://v2.tustreaming.cl/utv/index.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
