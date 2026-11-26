@@ -2507,6 +2507,90 @@ https://stream.wapptv.cl/video/index.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/p-MUPYbWORzkIwEb-guXSedl6MphdLgAo2AKfwDXumP7UNz-cIoP5k1BmhJhswVV_zUdWpYWrQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",123 ()
 http://200.59.191.177:8000/play/a0lb/index.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/Aq9RoszCdsq3ZBinngRygif8yFW0hBCuB3AEtsWvo7PfKKxEXQn65yAUUoMjebR-06XLx2OU=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Abejales ()
+https://183.giatvcdn.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/pPjZ3DNB4VHOWrB8gTqFKLEJFF16_oAhfZencAM2Zrmg8D6x-w1jUophDbLzjnzibv-qzXTrayWSiM3FSgDSrw=s48-rw" group-title="🇻🇪 Venezuela 🇻🇪",Abejales ()
+https://streamtv.intervenhosting.net:3228/live/abejalestvlive.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://aguacatetv.com/wp-content/uploads/2025/03/LOGO-UNIFORME-DEFINITIVO-300x200-1.png" group-title="🇻🇪 Venezuela 🇻🇪",AguaCate ()
+https://stream.aguacatetv.com:3949/hybrid/play.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/lFuSQSHFM0ZGO9KXiBp15cvR8s8uRVBRNhMvR9qaLqHmz0cThZSFKxXQ1vyKj7N24MuIaIRf=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",AguaCate ()
+https://stream.aguacatetv.com:3949/live/aguacatetvlive.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lm5cky4_rfD3vZSgDUkrjNN8vVMrUSDoWfd_V0_MaETGw=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Anzoátegui ()
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://as3sport.online/wp-content/uploads/2025/12/logo1000.png" group-title="🇻🇪 Venezuela 🇻🇪",AS3 Deportes ()
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png" group-title="🇻🇪 Venezuela 🇻🇪",BTA ()
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://i.postimg.cc/mrp5CGmj/Canal-C-del-Zulia-online.png" group-title="🇻🇪 Venezuela 🇻🇪",C del Zulia ()
+https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canaldiplomatico.com/logo-w.png" group-title="🇻🇪 Venezuela 🇻🇪",Diplomatico ()
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/6opzDjW1uaNZ-WLZRo9W6WxfPWzFz43HiAJpt-fJqkhmzolV1zxOCIxgf_-65yPpMIZ092PJVg=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Informativo ()
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/fJdIRgFD7unsREOeTHG7l7inwxPUVqqGEecJiIjPx4U4HFcb5lZtQ3NRJ9UXdhpOsN91zVlXAw=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Informativo ()
+https://streaming.canal-i.com/canal-i/live/primary/1080.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png" group-title="🇻🇪 Venezuela 🇻🇪",Catatumbo ()
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/9QPma8KxKUr0L6JcfMkcbqVlycZ7dKD4gw2X3XqK6fXGd5-Z2oVZOlImzBSQMkdw3A2NHxa_dhI=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Colombeia ()
+http://200.59.191.177:8000/play/a0la/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.globovision.com/img/globovision-logo-new-b.png" group-title="🇻🇪 Venezuela 🇻🇪",GloboVision ()
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://guarotv.net/wp-content/uploads/2024/08/LOGO-NUEVO-800x300-1.png" group-title="🇻🇪 Venezuela 🇻🇪",Guaro ()
+https://stream.guarotv.net:3592/hybrid/play.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/lf8jHgmeDPvskdFB2EfjWB8jFMefTCZJUwTWEE0mo7pT-q7tDZ5jgAErET8Y6cxGLnefMMdpZCM=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Isla ()
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/DjjxvA02GWDZO5FCf5GfBTQGms8tBk392ozbjBEypRsL6UK64Iwx67DFJXz-B7Loja7XtNF_vX8=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Inversiones VC Medios Comunicaciones ()
+http://200.59.191.177:8000/play/a00j/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://laraenredes.com/wp-content/uploads/2024/10/logoh.png" group-title="🇻🇪 Venezuela 🇻🇪",Lara En Redes ()
+https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://latinamedios.com/wp-content/uploads/2023/04/logo.png" group-title="🇻🇪 Venezuela 🇻🇪",Latina ()
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/26R34coKA9dAZMvvPaOjBJdq8G9OgXkIoViAXActxX8zBg6bgR8Pjvz4tYuHVytKB2-4qDT0Fg=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Latina ()
+https://streamtv.laraenredes.com:3020/stream/play.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/X0u1xzEaM0-bBDNItW0NKjUGew-_QjTtAuj-hMYsqhsWtaFB8qyM4cVXgfbJQwNMN4RQwZa6Dg=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Más conversación ()
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/v_Oq5vm62F_kP6MjrfeKIspRoKyk08YqxTv1WcE5h-RPfjblk4WB0CerJwbJrxMmFKI0UttycEc=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Máxima ()
+https://maximatv.net/hls/stream.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.ploustv.com/logo-ploustv.png" group-title="🇻🇪 Venezuela 🇻🇪",Plous ()
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://portutv.com/wp-content/uploads/elementor/thumbs/portutvlogo500-qsjxnuzab158hi4s61a26g5ilxxrb4zmm2hjnxz2la.png" group-title="🇻🇪 Venezuela 🇻🇪",Portuguesa ()
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/cRpLhulZ3Jw2irS65-Ol2S7Yx1kYNTZ0nIOlHNxJe91iMzLyhlKmuNCbTCYPGXdT-Xk3A580Sz-XzjQSNFgQsQ=w240-h480-rw" group-title="🇻🇪 Venezuela 🇻🇪",Mostrar Venezuela ()
+https://cdnbarinas.tvzamora.com/showven/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://siembratv.com/img/LOGO-NEW-3D.png" group-title="🇻🇪 Venezuela 🇻🇪",Siembra ()
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lpPGiAbnnJmxJtY3xB-Z5zCN9ZJSc8tVUSuCAKuZS9iyk=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Somos Barquisimeto ()
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://sunchanneltv.com/wp-content/uploads/2025/05/20-anos-sun-1000.png" group-title="🇻🇪 Venezuela 🇻🇪",Sol ()
+http://168.196.127.137:6001/play/a06p/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_njwRd54mIdWaCZxtO7J_S7TAAA05lcAFegsgW1cxLbUdM=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",TeleCentro ()
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
+
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇻🇪 Venezuela 🇻🇪", ()
