@@ -2488,6 +2488,20 @@ https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/playl
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.utv.cl/icon.png" group-title="🇨🇱 Chile 🇨🇱",Universidad de San Clemente ()
 https://v2.tustreaming.cl/utv/index.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.verso.cl/images/Logos/verso%20blanco%20transparente.png#joomlaImage://local-images/Logos/verso%20blanco%20transparente.png" group-title="🇨🇱 Chile 🇨🇱", ()
+https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://visionplustv.cl/wp-content/uploads/2024/06/VP017.png" group-title="🇨🇱 Chile 🇨🇱",Visión Plus ()
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/eeXTCOTaYjp5fplICsp8mZyfAfCKJiZrMrRVNhAOO3BjpNc8RUXGG_5AAM4FqlO2MWwSAkTbn1s=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Valle de Aconcagua ()
+https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/eeXTCOTaYjp5fplICsp8mZyfAfCKJiZrMrRVNhAOO3BjpNc8RUXGG_5AAM4FqlO2MWwSAkTbn1s=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Valle de Aconcagua ()
+https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/QqgsKNZ0WHyP7ztxjTpyyml0OyBt_DXdEnFiKB8eusTth56bo6qUmQy4o4_9Qf4_xktDdFEL=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Somos personas, personas ()
+https://stream.wapptv.cl/video/index.m3u8
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇨🇱 Chile 🇨🇱", ()
