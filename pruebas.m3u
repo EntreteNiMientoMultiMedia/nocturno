@@ -2365,6 +2365,51 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/R7otRqpMBgpeTbC0xz-m-U2JXLCYSGiBAtBhLBWEmDwmL-WrIurWQ8WewXu-sS4jGZwsWdza2w=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Pura Noticia ()
 https://pnt.janus.cl/playlist/stream.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://retromusica.cl/rm.png" group-title="🇨🇱 Chile 🇨🇱",Retro Musica ()
+https://vdochile.com:3864/stream/play.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://ritoquefm.cl/wp-content/uploads/2024/10/logo-rfm-color.png" group-title="🇨🇱 Chile 🇨🇱",Ritoque ()
+https://streaming.purum.cl/ritoquetv/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n6cQHK6t_5H5y5fcqytkeq45DsgMpnNUm9Au9oTFch7A=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Ritoque ()
+https://v2.tustreaming.cl/unetev/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/jfKYvzRYxJlyghcTmy7FpmCjQ-h0-e6iCV1xaLdKbFjAhZO2xp7aPQ5RZ53h6TcD-3UIcHmwcW0=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Rocco ()
+https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://cormudesi.cl/wp-content/uploads/2026/05/logortc.png" group-title="🇨🇱 Chile 🇨🇱",Radio y Televisión Comunal de Iquique ()
+https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lJVhF7SZ0T5IcYNIuTS5f6-9TAr2TOvHNEgmfSSfdPgw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Región Ñuble Chillán ()
+https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.radiosabor.cl/icon.png" group-title="🇨🇱 Chile 🇨🇱",Sabor ()
+https://v1.tustreaming.cl/sabortv/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/0byGB2uxjBYriAopRoeiCMpcMFsxppDEbwpGggx2v-zY4cQ3zb2hnQ85kmOh3uPpQvGubSQB=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Sabor ()
+https://v2.tustreaming.cl/sabortv/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://sensacioncosta.cl/wp-content/uploads/2024/02/cropped-Sensacion-Costa-Logo-2024.png" group-title="🇨🇱 Chile 🇨🇱",Sensacion Costa ()
+https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://sextavision.cl/wp-content/uploads/2025/01/LOGO-SEXTAVISION-CANAL-7.png" group-title="🇨🇱 Chile 🇨🇱",Sexta Vision  ()
+https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.solotv.cl/wp-content/uploads/2026/04/cropped-Logo-SoloTV.png" group-title="🇨🇱 Chile 🇨🇱",Solo ()
+https://sproxy.solotv.cl/hls/live/fhd.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.solotv.cl/wp-content/uploads/2026/04/cropped-Logo-SoloTV-1.png" group-title="🇨🇱 Chile 🇨🇱",Solo ()
+https://lb2.solotv.cl:8443/hls/1/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.surtv.cl/imagenes/logo.png" group-title="🇨🇱 Chile 🇨🇱",Sur ()
+https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/MjWTplEbXwihuVorElj6k4UA7F4NTx1ItNSbl8muMIoNntNoCwl3mxjHLoktSsEQxg0SZMzvzg=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Sureña ()
+https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://suyaitv.cl/wp-content/uploads/2025/03/LOGOSUYAITVWEB.png" group-title="🇨🇱 Chile 🇨🇱",Suyai ()
+https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/QlXT9eo7ws4PZlMGvCRf1h3wU7-lPw1nIgJ3IFDpsdR_IDM3F9mYuzusaalNVDdylnVZzMhAUnk=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 Chile 🇨🇱",Tele 13 ()
+https://redirector.dps.live/hls/t13/playlist.m3u8
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇨🇱 Chile 🇨🇱", ()
