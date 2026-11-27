@@ -2634,6 +2634,49 @@ http://200.59.191.177:8000/play/a0l6/index.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/america-guayaquil.png" group-title="🇪🇨 Ecuador 🇪🇨",América Estéreo Guayaquil ()
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/america-ibarra.png" group-title="🇪🇨 Ecuador 🇪🇨",América Estéreo Ibarra ()
+https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/NuevoLogo2024.png" group-title="🇪🇨 Ecuador 🇪🇨",América Estéreo Quito ()
+https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/america-tulcan.png" group-title="🇪🇨 Ecuador 🇪🇨",América Estéreo Tulcán ()
+https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l5aHH8D34DD838yqXRx3b9CNcnU7UfViZKuX7GQRzzqw=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Antena Uno RadioVideo ()
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.asomavision.com/wp-content/uploads/2020/03/LOGO.png" group-title="🇪🇨 Ecuador 🇪🇨",AsomaVisión ()
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://australtv.com/wp-content/uploads/2025/07/cropped-logo.png" group-title="🇪🇨 Ecuador 🇪🇨",Austral ()
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/k9YGyhjsJvg8nf2xtzgO2NfGdnqjc0oUrQliop3cUnLOYulQADO7ztBz4huALzbsPbOPQJLrdQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Bacán Te Veo ()
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://ciracu.org/wp-content/uploads/2021/12/solo-circulo-150x150.png" group-title="🇪🇨 Ecuador 🇪🇨",Ciracu ()
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/rGlUQ-Kly5MOkqHyK4udBERNaPTsHECHqsZEfduQ5MTgF5DUzT7BAXwiuh7T7nCuIx8B-vxdRmmC5rJL2MYxiA=w240-h480-rw" group-title="🇪🇨 Ecuador 🇪🇨",EcoTel ()
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/1ZNEMrEg6YjeiNBS9lp8fLywH02gts-3dj7V1ZFUO_M1ytWluc07OtZowQ-FERqPHLkkmH8g=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Ecuador ()
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/pxBeLtaGpOncNQNj4QnpBckzXAZt16gv_kwBRDrNnnuJWXMitUMzWfnRFYK8oa0E0qpPBB6w9JI=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Ecuavisa Guayaquil ()
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/pxBeLtaGpOncNQNj4QnpBckzXAZt16gv_kwBRDrNnnuJWXMitUMzWfnRFYK8oa0E0qpPBB6w9JI=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Ecuavisa Quito ()
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/siLZ-ITva5WtwNtC39gjjuhXMqGrQztKlfx7EPiUz2LF728pGZ-rF2_9u68MjlH71vX7CWoTPw=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Educa ()
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ztwQXWqqd1Zz_JbJyowNlkMNx0aYBaz-hq1YQtWUOeXWh8vOOOe3CRcb1-7CUaSrfKCx7Hv4CA=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Frecuencia Modulada Mundo ()
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇪🇨 Ecuador 🇪🇨", ()
