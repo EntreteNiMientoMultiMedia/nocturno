@@ -2590,6 +2590,34 @@ http://168.196.127.137:6001/play/a06p/index.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_njwRd54mIdWaCZxtO7J_S7TAAA05lcAFegsgW1cxLbUdM=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",TeleCentro ()
 https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://tvotv.tv/wp-content/uploads/2022/09/logotvo.png" group-title="🇻🇪 Venezuela 🇻🇪",Televisora de Oriente ()
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.televisoradeltachira.com/trt.png" group-title="🇻🇪 Venezuela 🇻🇪",Televisora Regional del Táchira ()
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://tutv.com.ve/logo.png" group-title="🇻🇪 Venezuela 🇻🇪",Tu ()
+https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/qfiFSAvIDrAiFl9lQxshGGoJsNOoUzGwEAqy5Fm1djvXvI3PIz1fzqgtq1FYPCKB711IRRszqg=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Oasis ()
+https://live.teve.pro/live/tvoasis/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.tves.gob.ve/wp-content/uploads/2026/11/cropped-logo-new-1.png" group-title="🇻🇪 Venezuela 🇻🇪",Televisora Venezolana Social ()
+http://45.226.205.96:48000/play/a0dn/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/VKfgCBRvbh4XRiIi5XVZaQN8RpDFLREoMEbOOgotKgxCjEV6MZeIa2aBjFK23vc-3wjkNXFe=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Televisión de Mellado ()
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.lorini.net/tvs/logo-tvs-maracay.png" group-title="🇻🇪 Venezuela 🇻🇪",Televisora del Sur ()
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://un24.tv/wp-content/uploads/2024/05/UN24.png" group-title="🇻🇪 Venezuela 🇻🇪",Últimas Noticias 24 ()
+https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ZOEcjI_zSZdOCNHjkB296TtDMCNn4bUl9vDaWHNir493O0W1ND4d9pU-ZL4RzU2_1HhSWFAC=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",UniCable Televisión ()
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+
+
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
