@@ -2617,7 +2617,17 @@ https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ZOEcjI_zSZdOCNHjkB296TtDMCNn4bUl9vDaWHNir493O0W1ND4d9pU-ZL4RzU2_1HhSWFAC=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",UniCable Televisión ()
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.veplusgo.com/wp-content/uploads/2019/05/Ve_Plus_white.png" group-title="🇻🇪 Venezuela 🇻🇪",VeneVisión Plus ()
+http://186.148.196.100:8000/play/a01d
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/images/logo-venevision-bk-light_326x50.png" group-title="🇻🇪 Venezuela 🇻🇪",VeneVisión InterNacional ()
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://vepaco.tv/wp-content/uploads/2022/09/logovepacotv_mediano.png" group-title="🇻🇪 Venezuela 🇻🇪",Venezolana de Publicidad y Asesoría Comercial ()
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/a_io0ojd2Y8R0r1IpJpSB68ugLyOswqfU-A-Z1_oSRkxA1gPoPOLMe6qktgiQ0BuXy-x9_QISQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇻🇪 Venezuela 🇻🇪",Visión Venezuela ()
+http://200.59.191.177:8000/play/a0l6/index.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
