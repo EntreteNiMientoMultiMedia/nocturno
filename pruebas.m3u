@@ -2723,6 +2723,52 @@ https://cloudvideo.servers10.com:8081/8154/index.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/o6gohzGAuwe6hPfctRQ9ajFwU8-Uvj7RNtjLShTylV72UUDgCVOWc03OxLLusYaO2tOueDoA4ODkqN-2qGk0suo=w240-h480-rw" group-title="🇪🇨 Ecuador 🇪🇨",Radio Bonita 106.7 ()
 https://cloudpro.servidoresdestream.com:8081/8024/index.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://radiomonumental1510.com/assets/logo.png" group-title="🇪🇨 Ecuador 🇪🇨",Radio Monumental ()
+https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://rtrtv.ec/logo.png" group-title="🇪🇨 Ecuador 🇪🇨",Red Troncal Regional ()
+https://tv3ecuador.site/hls/stream/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/X968mXpedYLn0iwwgvDvu8DszPhtA3Si20WduOLruhSkLssdT6l3bo4SLZqQXaBiDhGbMAgrCeY=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Red TeleSistema ()
+http://157.100.248.242:8080/RTSHD/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lThkwPMSYo2STH2NRvkwvAUECqjYDucIPjK3XHo-9ZUc8=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",RioBamba ()
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://sonoonda.com/wp-content/uploads/2022/01/cropped-cropped-cropped-cropped-215853981_1495774530757901_6841612693650402946_n.png" group-title="🇪🇨 Ecuador 🇪🇨",Sono Onda ()
+https://live.obslivestream.com/sonoondatv/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://tctelevision.com/wp-content/themes/davenport/img/vivetc.png" group-title="🇪🇨 Ecuador 🇪🇨",TeleCentro 10 ()
+http://45.224.97.181:9999/TC/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/Xj8vCkYRtoY0T__Yddj9HkrsHKpmMY6XMqopfropMa2Dns5vlmrK_FaZztg-hpfjV5-oM2wM9Q=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",TeleCentro 10 ()
+http://177.234.218.66:8084/play/a089/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/k36tmau5ICdDZ_pKcvCXWYUDBYhFMAMn_8lsDJJv5nXIBTprwcQ3gOz5Aop6D-xi7U4Te2vPCQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",TeleAmazonas ()
+http://45.224.97.181:9999/Teleamazonas/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/k36tmau5ICdDZ_pKcvCXWYUDBYhFMAMn_8lsDJJv5nXIBTprwcQ3gOz5Aop6D-xi7U4Te2vPCQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",TeleAmazonas ()
+http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/tVK36etSZKj6-ALirrDMkUAPARxU0NzlpgcbznafpRCXC1WAUhObKmtzCF1kYKffjexrDNsCLD_PVfDyCYGzZA=w240-h480-rw" group-title="🇪🇨 Ecuador 🇪🇨",TeleMar ()
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/RbA7v7rh0GQTKUSdn-VK_aznuPutwIr3Mso2QqXXAiPRlgJgHQxORbayM1p2U_zPDZYwkO7XRg=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",TeleRama ()
+https://play.once.net.ec/telerama/live.tv/538.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/ZVFdyEWOvdTb8O2G-UQxmzfq-C_RS9LsseiU579GV1Y84CULTvn2OWlEgTMmJd_MrAXVHtcKODjVXoitDfNDDw=w240-h480-rw" group-title="🇪🇨 Ecuador 🇪🇨",Color Canal 36 ()
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://alba-ec-tvc.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-150x150.png" group-title="🇪🇨 Ecuador 🇪🇨",TeleViCentro ()
+http://157.100.248.242:8080/TVCHD/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="http://www.orobla.net/media/mainpage/2024/01/04/Captura_de_pantalla_2024-01-04_152910_TTdsfUz.png" group-title="🇪🇨 Ecuador 🇪🇨",Oro ()
+http://45.187.0.19:9090/tvusa/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/bHpJunSlD7l3nTtOzhryfU4TOORf6rDh275ngj3yb5tYPye3nJAE_hkTF0xHKoZi7-Rhz5E2=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Universidad Regional Autónoma de Los Andes ()
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/KBHrRl73ZsDsPbIOm6nye_nr6PD5Adj8vI3CwpibrP9i8ehKNBuI0scUh5KS_CrHDi3dtFfFcbU=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Wuan+ ()
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇪🇨 Ecuador 🇪🇨", ()
