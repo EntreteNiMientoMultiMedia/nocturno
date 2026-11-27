@@ -2676,6 +2676,52 @@ https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ztwQXWqqd1Zz_JbJyowNlkMNx0aYBaz-hq1YQtWUOeXWh8vOOOe3CRcb1-7CUaSrfKCx7Hv4CA=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Frecuencia Modulada Mundo ()
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/0VsOe4QbBPSsItv98mn6oH6FcJjVc6twUyenKzCiDZYDaIi_O35zcdQQGC3Z6VMwnxLwFADMA2o=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Gamavisión ()
+https://stream.esradioecuador.com/hls-abr/stream_720p.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/0VsOe4QbBPSsItv98mn6oH6FcJjVc6twUyenKzCiDZYDaIi_O35zcdQQGC3Z6VMwnxLwFADMA2o=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Gamavisión ()
+http://181.78.211.244:8000/play/a0a2/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://gaviotatv.com/_astro/logogaviota.DvlTez5R.png" group-title="🇪🇨 Ecuador 🇪🇨",Gaviota ()
+https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://hechosecuador.com/logo20232.png" group-title="🇪🇨 Ecuador 🇪🇨",Hechos Ecuador ()
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3235-294x165-FFFFFF.jpg" group-title="🇪🇨 Ecuador 🇪🇨", ()
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://latacungatv.com/wp-content/uploads/2026/08/logoisotipolataungatvHD-300x169.png" group-title="🇪🇨 Ecuador 🇪🇨",Latacunga ()
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/aFZWsVWa7N9zsHYc0_sekj6I7cEHiTogliYhAKScaaN4W3H-ibHle9fHeqTyIhkLjQBN61B94kTrT5auW2bRaw=w240-h480-rw" group-title="🇪🇨 Ecuador 🇪🇨",MakroDigital ()
+http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/kckA7KSdppypa0RFNA1xPV4-6W3LRepzFFYOf2uAWni3BMuKVmuC9fw1l5PpxVUV_2t3ItJWZA=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",MakroDigital ()
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://makrodigitaltelevision.com/wp-content/uploads/2026/08/makrodigitaltelevision_logo_blanco_454x120.png" group-title="🇪🇨 Ecuador 🇪🇨",MakroDigital ()
+http://205.235.6.29:8000/play/a0wp/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/lSL-9B3913RFy50VIWMzKSyUXQy6qEYPzHIeBiMvxbXyR7TxKh0xFJRAbDJFdNuRoCLsMHiGhM6scqq6xZvJvQ=w240-h480-rw" group-title="🇪🇨 Ecuador 🇪🇨",Marca ()
+http://200.7.219.221:8088/live/livetv/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/IGv0OBoIPd9VbS3nWMqW9ReTSjsmHm8t0E5tmrv2XJ_a2DXLvPIdBP1ODRLsUe7XfdJ7vdMQyPy_Kc2ysVnOzQI=w240-h480-rw" group-title="🇪🇨 Ecuador 🇪🇨",Metropoli Medios ()
+https://eu1.servers10.com:8081/8214/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://oromartv.com/_next/image?url=%2Fimages%2FOTV400.png" group-title="🇪🇨 Ecuador 🇪🇨",OroMar ()
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/DtJLmPZtXzI6y_YyWek7x5-YOCrPempWwzKeS3xHCbmwOjJ5flOIycX1mql41GCWv0Iimg-pLLg=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",OroMar+ ()
+https://stream.oromar.tv/hls/camriva/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/44CD-WrdfbrLSTC2cz6G8cA29moLP88c3yMvS-i92aa-xqcn7GtmOwycYSf4Fa7J-U_1LNYL=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Planeta ()
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://puruwatv.com/wp-content/uploads/2025/06/cropped-logo_header.png" group-title="🇪🇨 Ecuador 🇪🇨",Puruwa ()
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.bonitalamana.com/wp-content/uploads/2022/07/Diseno-sin-titulo-41.png" group-title="🇪🇨 Ecuador 🇪🇨",Radio Bonita 106.7 ()
+https://cloudvideo.servers10.com:8081/8154/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/o6gohzGAuwe6hPfctRQ9ajFwU8-Uvj7RNtjLShTylV72UUDgCVOWc03OxLLusYaO2tOueDoA4ODkqN-2qGk0suo=w240-h480-rw" group-title="🇪🇨 Ecuador 🇪🇨",Radio Bonita 106.7 ()
+https://cloudpro.servidoresdestream.com:8081/8024/index.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
