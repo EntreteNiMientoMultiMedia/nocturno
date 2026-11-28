@@ -1052,6 +1052,9 @@ https://video2.lhdserver.es/canal9cosespu/live.m3u8
 #EXTINF:    Iskhodnyy="✔️Вечеринка✅"                  tvg-logo="https://www.fiestafm.com.co/images/fiesta_tv.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Fiesta 🇨🇴 () InterFlash
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 
+#EXTINF:    Iskhodnyy="✔️Калу✅"                  tvg-logo="https://yt3.googleusercontent.com/sHYROmiBmtWU_uvRBpCw56ogLI8pMFIVLiLmV5uoFJEvwJBHKJXzdDwbMPPXn0Oq3wZNmI9n=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Kalu 🇨🇴 ()
+https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="🎯T3B2⏲️"                  tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/02/05/1775081979482/ddba258dd964_480_270.png" group-title="🌄🇵🇪 Regional DesCentralizado 📡",Voz Digital (1920x1080) Jr. Tacna 525 - La Perla
@@ -2917,6 +2920,50 @@ https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mWLsllzA61pju1PBQxrdxcoCRymD4_N-n7YuYDU8-q5w=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Hogar ()
 http://181.78.211.244:8005/play/a06w/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://huilatv.com/wp-content/uploads/2025/03/LOGO-HUILA-TV-EDITABLE-OCLORES-768x429.png" group-title="🇨🇴 Colombia 🇨🇴",Huila ()
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/8EsgZDSfAHcBcqmrlhvMIWJYFMrLz0mbWphpOUH0CDffdcMvTIrCwm3oe6DApgwAcieCbdoLe8-3c1jlsk9i5OI=w240-h480-rw" group-title="🇨🇴 Colombia 🇨🇴",La Kalle ()
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://masmusica.fm/wp-content/uploads/2021/06/logommusica.png" group-title="🇨🇴 Colombia 🇨🇴",+ Música Frecuencia Modulada ()
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/gW3R4Yz02yenpjxwvH2Lll11hLlOVoMsKrhiYvZreG2G9R-9t3U5dHpILVMil_3ZGC-UHW_x7Y1Op2SpqvxOSMc=w240-h480-rw" group-title="🇨🇴 Colombia 🇨🇴",+ Música Frecuencia Modulada ()
+https://video.ejeserver.com/live/masmusica.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canalmci.com.co/wp-content/uploads/2026/11/MMMM1.png" group-title="🇨🇴 Colombia 🇨🇴",MCI ()
+https://video.ejeserver.com/live/mcitelevision.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/AtEHThvo3pDwM5lm8dSkFpQybLt9VKn2CpHS8wQQiWd4gdS6LxhciFjunPv2aruCerlUOD5mK2s=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Momento 24 ()
+https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://90minutos.co/wp-content/themes/90min-theme/img/logo-90minutos.png" group-title="🇨🇴 Colombia 🇨🇴",Noticiero 90 Minutos ()
+https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/7rNWCdgymGkXX6K6D7UIotKOV2hQqQDh9-bP4W3SXL5TxchoAACL9WlMxoN3K6th1RhcURDihA4=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Noticiero 90 Minutos ()
+https://live-edge-par-1.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/live-5000/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://nstvcolombia.com/wp-content/uploads/2026/10/cropped-cropped-LOGO-HORIZONTAL.png" group-title="🇨🇴 Colombia 🇨🇴",Nuestra Señal ()
+https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/_y0EzI9AjR_uBF3BHwF7U5clS4sxz_BiZDcZSN228ywmRQmHZ9JWpUPVs-nmvzjftSyxMEYFUw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Nuestra Señal ()
+http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/_y0EzI9AjR_uBF3BHwF7U5clS4sxz_BiZDcZSN228ywmRQmHZ9JWpUPVs-nmvzjftSyxMEYFUw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Nuestra Señal ()
+https://vcp3.myplaytv.com/nstv/nstv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="🇨🇴 Colombia 🇨🇴",Nuestra Tele Noticias 24 Horas ()
+https://stream1.bitred.cl/ntn24/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/gL9W31c7XyR520N88pnXfQxk94Ug4RLuPrR2n9lqvEbAIm9edvJ7OflcvwXchUry7ocnG6KO=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Nuestra Tele Noticias 24 Horas ()
+http://181.78.12.119:16123/play/ch80/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/gL9W31c7XyR520N88pnXfQxk94Ug4RLuPrR2n9lqvEbAIm9edvJ7OflcvwXchUry7ocnG6KO=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Nuestra Tele Noticias 24 Horas ()
+http://181.224.200.5:2277/play/a026/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/koHSzbXtkyksiIS5DJKqTXZZFLNUppVO019MzecizdEWZXhigM7rAVWQnAjsQCkXTa-Fn1VrtA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Nuestra Tele Internacional ()
+https://stream1.bitred.cl/nuestra-tele/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/koHSzbXtkyksiIS5DJKqTXZZFLNUppVO019MzecizdEWZXhigM7rAVWQnAjsQCkXTa-Fn1VrtA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Nuestra Tele Internacional ()
+http://170.238.200.199/nuestra-tele/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/koHSzbXtkyksiIS5DJKqTXZZFLNUppVO019MzecizdEWZXhigM7rAVWQnAjsQCkXTa-Fn1VrtA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Nuestra Tele Internacional ()
+http://181.78.8.199:8000/play/a0a8/index.m3u8
+
 
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
