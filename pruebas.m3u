@@ -2973,6 +2973,33 @@ https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/7PyAg-CIJTjs29VYj7FXIabBnO8k3mups32PZhCS8D4h1jprrvl79AmxBIwDhUicRWwoyR77=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Radiola ()
 http://158.172.217.18:8000/play/a01k/index.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Radio Cadena Nacional hd2 ()
+http://181.78.14.26:4000/play/a07m/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/XYHQ_UbaNkjSbi-v9spMGhJu4FotnjZOUWkriSrUD-_VMpnTiE26BpX-uGAhX8zEsoNqtDxElQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Radio Cadena Nacional + ()
+http://45.224.96.220:18000/play/a098/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/XYHQ_UbaNkjSbi-v9spMGhJu4FotnjZOUWkriSrUD-_VMpnTiE26BpX-uGAhX8zEsoNqtDxElQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Radio Cadena Nacional + ()
+http://45.226.205.96:48000/play/a0af/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/XYHQ_UbaNkjSbi-v9spMGhJu4FotnjZOUWkriSrUD-_VMpnTiE26BpX-uGAhX8zEsoNqtDxElQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Radio Cadena Nacional + ()
+https://rcntv-rcnmas-1-us.roku.wurl.tv/3000.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNOVELAS.png&auto=format&auto=compress&fit=max" group-title="🇨🇴 Colombia 🇨🇴",Radio Cadena Nacional Novelas ()
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNOVELAS.png&auto=format&auto=compress&fit=max" group-title="🇨🇴 Colombia 🇨🇴",Radio Cadena Nacional Novelas ()
+https://stream1.bitred.cl/rcn-novelas/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNOVELAS.png&auto=format&auto=compress&fit=max" group-title="🇨🇴 Colombia 🇨🇴",Radio Cadena Nacional Novelas ()
+https://streaming.onnethn.com/RCN_NOVELAS/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/LeXtT44vir5RWlg8od4Vo4Shw4U8Jx4RK2SLoyPrVVLyfv7MjGKBd3es8-m-NKsKXQIakT4niA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Red+ ()
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/LeXtT44vir5RWlg8od4Vo4Shw4U8Jx4RK2SLoyPrVVLyfv7MjGKBd3es8-m-NKsKXQIakT4niA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Red+ ()
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.santel.info/wp-content/uploads/2023/05/cropped-santel-logo-radio-y-tv-2019-100x58.png" group-title="🇨🇴 Colombia 🇨🇴",SanTel ()
+https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kvyM87muj0HzlIif8xdBKNK4Z2Q4TNSSAw3kkdad96I0o=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",SanTel ()
+https://tv3.bitstreaming.net:3540/santeltvlive/santeltvlive.m3u8
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇨🇴 Colombia 🇨🇴", ()
