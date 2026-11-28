@@ -2964,7 +2964,14 @@ http://170.238.200.199/nuestra-tele/index.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/koHSzbXtkyksiIS5DJKqTXZZFLNUppVO019MzecizdEWZXhigM7rAVWQnAjsQCkXTa-Fn1VrtA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Nuestra Tele Internacional ()
 http://181.78.8.199:8000/play/a0a8/index.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://telepacifico.com/images/telepacifico/LOGOS/Mesa_de_trabajo_1LOGO_ORIGEN_BLANCO.png" group-title="🇨🇴 Colombia 🇨🇴",Origen ()
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/022/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/AE072Rb0M7SPvkWr/logo-AGBzMwVW8xFxW3Lm.png" group-title="🇨🇴 Colombia 🇨🇴",Panche ()
+https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/7PyAg-CIJTjs29VYj7FXIabBnO8k3mups32PZhCS8D4h1jprrvl79AmxBIwDhUicRWwoyR77=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Radiola ()
+http://158.172.217.18:8000/play/a01k/index.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
