@@ -975,6 +975,11 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️Ранчо✅"                  tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="📈 Negocios y Emprendimiento 🚀",Chacra 🇦🇷 (854x480)
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/zE6L_1d6kAEkK7Opu33PxAaxBs1kfcelgElL5HPWo7PRjkVL2fdqtGcvlmrvA4BhBiv_2unp=s72-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Agenda Minera 5.2 🇧🇴 ()
+https://stv2.boliviaplay.com.bo/hls/stream.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/d6Y5Mar32Y-w3H-lEgxaMmn6OjyZOe_REMf0UgO0W7P0FejpBwvNqPVkTJb2Ky_K0Wts4pDz94RXPmmArHZUMA=s48-rw" group-title="📈 Negocios y Emprendimiento 🚀",Agenda Minera 5.2 🇧🇴 ()
+https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8
+
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://telecafe.gov.co/wp-content/uploads/2022/12/logo-telecafe.png" group-title="📈 Negocios y Emprendimiento 🚀",Café 🇨🇴 ()
 https://liveingesta118.cdnmedia.tv/telecafelive/rtmp01-1500/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/wfaA50fbYpqFTmI_BjNLFmpbXKP_vZp4QP9g1C21-k-wALOLIq1SCzz6Dts9sWYZDu2t_sGT-w=s160-c-k-c0x00ffffff-no-rj" group-title="📈 Negocios y Emprendimiento 🚀",Café 🇨🇴 ()
@@ -3103,6 +3108,35 @@ http://190.61.42.218:9000/play/a01s/index.m3u8
 http://138.121.15.230:9002/ZOOM/index.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/4M3DWBlAqiBfNaW_sB2VDacmK6Qhm4nS0b63Y2_Yjg6cWySJNv9hb415trH3r5EywB-DbKZFsg=s72-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Zoom ()
 http://181.78.79.131:8000/play/a0sg
+
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/gY6YMpOCw4315QVBjizgt-PJBOJACNFvOm4Yw4L0k_X_Y7j_D0WE5U2KsL4KPpXNUgdNHxgv=s72-c-k-c0x00ffffff-no-rj" group-title="🇧🇴 Bolivia 🇧🇴",Abya Yala ()
+https://seo.tv.bo/hls/AbyaYala.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/gY6YMpOCw4315QVBjizgt-PJBOJACNFvOm4Yw4L0k_X_Y7j_D0WE5U2KsL4KPpXNUgdNHxgv=s72-c-k-c0x00ffffff-no-rj" group-title="🇧🇴 Bolivia 🇧🇴",Abya Yala ()
+http://190.181.61.93:8000/play/a00m/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://ascontenidos.com.bo/wp-content/uploads/2026/07/LOGO-BLANCO-WEB.png" group-title="🇧🇴 Bolivia 🇧🇴",As Contenidos ()
+https://master.tucableip.com/ascontenido/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lV7cZs_7d0YB1ndqTYw9i8E0hA4-5UGJBUGH8CwpoMRw=s72-c-k-c0x00ffffff-no-rj" group-title="🇧🇴 Bolivia 🇧🇴",Así es mi pueblo ()
+http://190.181.61.93:8000/play/a00g/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lV7cZs_7d0YB1ndqTYw9i8E0hA4-5UGJBUGH8CwpoMRw=s72-c-k-c0x00ffffff-no-rj" group-title="🇧🇴 Bolivia 🇧🇴",Así es mi pueblo ()
+https://edge.enhdtv.com/asiestv/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/IMQ3FedXzp7QA6jErniMvEX84gqFhVSabfKRrA-GdP48d4_E1XXo-Kl-xxD4ktSJek19tQilQA=s72-c-k-c0x00ffffff-no-rj" group-title="🇧🇴 Bolivia 🇧🇴",Asociación TeleDifusoras Bolivianas ()
+https://stream.atb.com.bo/live/daniel/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/audio_kiss_logo.png" group-title="🇧🇴 Bolivia 🇧🇴",Audio Beso ()
+https://master.tucableip.com/audiokisstv/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://aynitvbolivia.com/wp-content/uploads/2026/09/cropped-Logo-1-AYNI-TV-scaled-1-2048x780.png" group-title="🇧🇴 Bolivia 🇧🇴",AYNI ()
+https://edge.enhdtv.com/aynitv/index.m3u8
+
+
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇧🇴 Bolivia 🇧🇴", ()
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
