@@ -1032,11 +1032,17 @@ https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
 #EXTINF:    Iskhodnyy="✔️Запад✅"                  tvg-logo="https://yt3.googleusercontent.com/oVqyBldW5ySoFbq_iplMjRKG_iVPiwiN_bhTn6HbfsK1LCH-jhre_7a5yi9_b3hXeKJ4CmmHnA=s160-c-k-c0x00ffffff-no-rj" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Oeste 🇵🇪 (1920x1080) Cable Red (Maytacapac 113 - Independencia)
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://alpavision.com.co/wp-content/uploads/2022/07/logo-alpa_Mesa-de-trabajo-1.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Alpa Visión Sur Neiva 🇨🇴 () Canal 2
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+
 #EXTINF:    Iskhodnyy="✔️ТелеКрасный✅"                  tvg-logo="https://canalprovincial.com.ar/wp-content/themes/canalprovincia/images/logo.jpg" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Provincial de TeleRed 🇦🇷 (720x480) Canal 11
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 
 #EXTINF:    Iskhodnyy="✔️ТЦЗО✅"                  tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Televisión Digital Codificada En Linea 🇦🇷 (1920x1080)
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://cosespu.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-06-at-15.21.21-1-4.jpeg" group-title="🌈 Señal Prisma 💎 Exclusiva ✨🔐",Cosespu 🇨🇴 () Canal 9
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
@@ -2768,6 +2774,76 @@ https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/KBHrRl73ZsDsPbIOm6nye_nr6PD5Adj8vI3CwpibrP9i8ehKNBuI0scUh5KS_CrHDi3dtFfFcbU=s160-c-k-c0x00ffffff-no-rj" group-title="🇪🇨 Ecuador 🇪🇨",Wuan+ ()
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
+
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/jDekj8t7y-OsSsHjOJElLWQFk71Iqna-Ac1Tg3TTpQG_KNkoFbr5vR7kMfCM0Fku0q1aCpL3hI4=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",ANC ()
+https://live.amelbatv.co:81/anctvlive/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://aupurtv.co/assets/aupur-BRVNU_Xs.png" group-title="🇨🇴 Colombia 🇨🇴",Aupur ()
+https://canal.aupurtv.co/live/stream/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/Z72i4gv9aWFiCAE1w6v8ND_oKplJPURNxcdoM2K8dTe0ezSqwx8YHHY2DU0Xur6Ke6ym-0viVQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Radio Blu ()
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/UGRXoNwtYYWUHvRjU7LoITCQ-Ass3RbOfI2lD6lPQyDtGI568arc4TKTWGio0ndy_gM2hH9NWw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Buenisima Radio ()
+https://canal.mediaserver.com.co/live/buenisimatv.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.bumtelevision.com.co/wp-content/uploads/2024/05/cropped-Logo-BUM_TV-Alta-institucional-scaled-1-164x64.png" group-title="🇨🇴 Colombia 🇨🇴",BUM Televisión ()
+https://video.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/PlfbdktqV639rSRKXaAA6UHKrte8JnRn1plNniS4tJbVKOc6fbDsUq6E4qQ-NJQq8VhVQlqw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",BUM Televisión ()
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/loVGJnaqYvNUqWS8kMZZGXabRHHuZi8lKB_rrjmVbEDvJI1hda7kTZAHi2C_SjRF4m0Jpq-daPY=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",CableNoticias ()
+http://181.78.211.244:8005/play/a09u/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/loVGJnaqYvNUqWS8kMZZGXabRHHuZi8lKB_rrjmVbEDvJI1hda7kTZAHi2C_SjRF4m0Jpq-daPY=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",CableNoticias ()
+https://app-videoplayer-proxy-prod-eu-001.azurewebsites.net/proxy/live/ngrp:cable09061970_all/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpEoYlpoKuqbNBH-dAVrDKwrl7ENbBBW120uwj8kMxtA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Sincelejo () Canal 8
+http://181.78.21.38:8000/play/a0df/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.canal12valledupar.com/assets/logoc.png" group-title="🇨🇴 Colombia 🇨🇴",Valledupar () Canal 12
+http://181.78.8.199:8000/play/a0e4/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://fileswp.canalcapital.gov.co/wp-content/uploads/2025/11/14095544/capital_logo_menu.png" group-title="🇨🇴 Colombia 🇨🇴",Capital ()
+http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://new.opencaster.com/uploads/logos/logo_142_1754063328.png" group-title="🇨🇴 Colombia 🇨🇴",CableTelco Córdoba ()
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/j5c-biD-Oj1DkH79NEPRUD_ByQTCPk2-eQuNLNd4ALgLWCYY8JjG0Izn8xmctxpMc8nUVzRl6qA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Congreso ()
+http://181.78.82.130:8000/play/a0s1/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/j5c-biD-Oj1DkH79NEPRUD_ByQTCPk2-eQuNLNd4ALgLWCYY8JjG0Izn8xmctxpMc8nUVzRl6qA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Congreso ()
+http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.micanal2.tv/wp-content/uploads/2020/06/Logos.jpg" group-title="🇨🇴 Colombia 🇨🇴",Canal 2 ()
+https://stream2.micanal2.tv/hls/canal2.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m0YT8fOe6wDIYFbBjJ2ybnTOe5xQBdrUDxYuTSH4vE1UY=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Yopal () Canal Dos
+http://131.221.41.94/hls/canal2.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.canalinstitucional.tv/themes/custom/ci_redesign/images/logo-ci.png" group-title="🇨🇴 Colombia 🇨🇴",Institucional ()
+http://190.109.2.92:8000/play/a00z/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/KPWZpJUCiqo28r44en69wZ9D0dH8MHpB84k2HiqIXCY983phmV0myaQlz3zswSHRRAmWHe9N=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Institucional ()
+http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.canalinstitucional.tv/themes/custom/ci_redesign/images/logo-ci.png" group-title="🇨🇴 Colombia 🇨🇴",Institucional ()
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png" group-title="🇨🇴 Colombia 🇨🇴",Redes ()
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/9Y4M1CRevnnlCOo-mBq7fXcNx2G6x5F7VTXgA8o6TwN1SlNSTgPLbMkbU-QEISo0Lo2XD8AQJbFMCac_8dN-9Q=w240-h480-rw" group-title="🇨🇴 Colombia 🇨🇴",Redes ()
+https://video.ejeserver.com/live/nets.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://play-lh.googleusercontent.com/iok1u_sMLVh1vKOTp3uvqYTJEytl7qxBn2mWvg50ktioJnSyouM9dUM43cxMI_6YEm63LFEx-W_iCim1rtvKWw=s48-rw" group-title="🇨🇴 Colombia 🇨🇴",Radio Cadena Nacional ()
+http://181.205.130.194:4000/play/a0dl
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Radio Cadena Nacional ()
+http://38.134.250.110:8000/play/a00i/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Radio Cadena Nacional ()
+http://200.59.191.177:8000/play/a004/index.m3u8
+
+#EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇨🇴 Colombia 🇨🇴", ()
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
