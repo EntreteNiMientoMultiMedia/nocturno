@@ -2841,9 +2841,51 @@ http://38.134.250.110:8000/play/a00i/index.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/T8ZARdsnMhuH8TIljdOXbE17hxA1N1Hb2c5fWQSX7h8cfOpIdvBJgvrdkU4VZJNC5lBWqkD12I0=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Radio Cadena Nacional ()
 http://200.59.191.177:8000/play/a004/index.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://canaltro.com/wp-content/uploads/2024/06/logo-TRO.png" group-title="🇨🇴 Colombia 🇨🇴",Regional del Oriente ()
+http://181.78.82.130:8000/play/a0o1/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kmRujFR3yk0tpTnvbX6ozKfEvyOWxcuRhsRyLsnpVq7Ps=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Regional del Oriente ()
+http://181.78.211.244:8005/play/a08c/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.canaltv3.com/wp-content/uploads/2025/03/cropped-logo1.jpeg" group-title="🇨🇴 Colombia 🇨🇴",Canal 3 ()
+https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/5S-lZxuY8jTqzLXHKAzzVvVDpqRdMxMng7Zwqk5Mz4mEZjnM45F6jivNR8XVemQy25G3LvK0fQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Canica ()
+https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/nN1qZ5K9W6rr-Oz3JDC-zscRUfR3w4EmbgiPa6f10CJW493aO5FfVYqa-HQrMXlMNHKMZHFzvw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Caracol HD2 ()
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/nN1qZ5K9W6rr-Oz3JDC-zscRUfR3w4EmbgiPa6f10CJW493aO5FfVYqa-HQrMXlMNHKMZHFzvw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Caracol HD2 ()
+http://181.78.79.131:8000/play/a0uo
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/nN1qZ5K9W6rr-Oz3JDC-zscRUfR3w4EmbgiPa6f10CJW493aO5FfVYqa-HQrMXlMNHKMZHFzvw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Caracol HD2 ()
+http://190.109.2.92:8000/play/a05u/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/LsSWGuj-sxW8ungK3NS_2pUnrx2xclr_fQxEwY-zPdQbBNKH8HBDikmz6vjnT41zr4UF1EG3=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Caracol InterNacional ()
+http://201.216.147.90:8729/play/a01v
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/LsSWGuj-sxW8ungK3NS_2pUnrx2xclr_fQxEwY-zPdQbBNKH8HBDikmz6vjnT41zr4UF1EG3=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Caracol InterNacional ()
+http://45.5.117.57:8200/play/a0e9/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/LsSWGuj-sxW8ungK3NS_2pUnrx2xclr_fQxEwY-zPdQbBNKH8HBDikmz6vjnT41zr4UF1EG3=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Caracol InterNacional ()
+http://45.238.141.222:8000/play/a0oo/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/LsSWGuj-sxW8ungK3NS_2pUnrx2xclr_fQxEwY-zPdQbBNKH8HBDikmz6vjnT41zr4UF1EG3=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Caracol InterNacional ()
+http://168.196.127.137:6001/play/a09m/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/LsSWGuj-sxW8ungK3NS_2pUnrx2xclr_fQxEwY-zPdQbBNKH8HBDikmz6vjnT41zr4UF1EG3=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Caracol InterNacional ()
+https://streaming.onnethn.com/CARACOL_INTERNACIONAL/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/nN1qZ5K9W6rr-Oz3JDC-zscRUfR3w4EmbgiPa6f10CJW493aO5FfVYqa-HQrMXlMNHKMZHFzvw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",CaraCol ()
+http://181.205.130.194:4000/play/a0ck
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/nN1qZ5K9W6rr-Oz3JDC-zscRUfR3w4EmbgiPa6f10CJW493aO5FfVYqa-HQrMXlMNHKMZHFzvw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",CaraCol ()
+http://181.205.130.194:4000/play/a0dz
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/nN1qZ5K9W6rr-Oz3JDC-zscRUfR3w4EmbgiPa6f10CJW493aO5FfVYqa-HQrMXlMNHKMZHFzvw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",CaraCol ()
+http://181.225.190.242:8000/play/a00q
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/nN1qZ5K9W6rr-Oz3JDC-zscRUfR3w4EmbgiPa6f10CJW493aO5FfVYqa-HQrMXlMNHKMZHFzvw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",CaraCol ()
+http://200.59.191.177:8000/play/a001/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/nN1qZ5K9W6rr-Oz3JDC-zscRUfR3w4EmbgiPa6f10CJW493aO5FfVYqa-HQrMXlMNHKMZHFzvw=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",CaraCol ()
+http://200.122.232.149:8000/play/a020/index.m3u8
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇨🇴 Colombia 🇨🇴", ()
+
+http://190.121.140.222:8081/CARACOL/index.m3u8
 
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
