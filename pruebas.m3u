@@ -3000,6 +3000,41 @@ https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kvyM87muj0HzlIif8xdBKNK4Z2Q4TNSSAw3kkdad96I0o=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",SanTel ()
 https://tv3.bitstreaming.net:3540/santeltvlive/santeltvlive.m3u8
 
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/y0AY4F7obOt3mjYeAQbgYNVVQ1bsKPFQaa3TY255hsgwDIFJQL_HDr6KDyBQQ_waHAobS4qrm38=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Señal Colombia ()
+http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/y0AY4F7obOt3mjYeAQbgYNVVQ1bsKPFQaa3TY255hsgwDIFJQL_HDr6KDyBQQ_waHAobS4qrm38=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Señal Colombia ()
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/N5Ph_brjFJgtZdsN9KVcNrMqsZSmFLH7mfUOL4hUPTjbYtbwppxVF2sfOlJrZ0BJTUMgioim=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Soona ()
+https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://streamforce360.com/wp-content/uploads/2026/11/streamforce360.png" group-title="🇨🇴 Colombia 🇨🇴",StreamForce 360 ()
+https://sistemastr.tropicalmoonmedia.com/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/uz8I3zQhOALYccNrIoqD6sskvVOv7EEs6prmtT8UTgE7Nn7-mjFZXkXwRrQ8gyrJkrXC0DA43w=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",StreamForce 360 ()
+https://stmv3.tropicalmoonmedia.com/dreamediatv/dreamediatv/playlist.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://www.suram.com.co/assets/logo-suram.png" group-title="🇨🇴 Colombia 🇨🇴",Suram ()
+https://us.streaminghd.cl/suramtv/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://telemocoa10.com/wp-content/uploads/2026/06/cropped-Logo_Canal_10-removebg-preview.png" group-title="🇨🇴 Colombia 🇨🇴",Tele Mocoa () Canal 10
+https://live.amelbatv.co:81/telemocoalive/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/s3FzywQaj-cMrh4ZKx5WYveoVZ11WUL0rUSUucKaLhUoGaX4m1Q75YBP8VczHAmH67yybLUxXA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Antioquia ()
+https://liveingesta118.cdnmedia.tv/teleantioquialive/dvrlive-1500/playlist.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/s3FzywQaj-cMrh4ZKx5WYveoVZ11WUL0rUSUucKaLhUoGaX4m1Q75YBP8VczHAmH67yybLUxXA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Antioquia ()
+http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://yt3.googleusercontent.com/s3FzywQaj-cMrh4ZKx5WYveoVZ11WUL0rUSUucKaLhUoGaX4m1Q75YBP8VczHAmH67yybLUxXA=s160-c-k-c0x00ffffff-no-rj" group-title="🇨🇴 Colombia 🇨🇴",Antioquia ()
+http://38.134.250.110:8000/play/a012/index.m3u8
+
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="https://telecafe.gov.co/wp-content/uploads/2022/12/logo-telecafe.png" group-title="🇨🇴 Colombia 🇨🇴",Café ()
+http://138.121.15.230:9002/TELECAFE/index.m3u8
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇨🇴 Colombia 🇨🇴",Café ()
+http://181.78.16.156:18000/play/a0dt
+#EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇨🇴 Colombia 🇨🇴",Café ()
+http://181.78.82.130:8000/play/a0rv/index.m3u8
+
+
+
 #EXTINF=======================================================================================================================================================================================================================================================================================================================================================================================================
 
 #EXTINF:    Iskhodnyy="✔️✅"                  tvg-logo="" group-title="🇨🇴 Colombia 🇨🇴", ()
